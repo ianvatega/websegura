@@ -67,6 +67,8 @@
 <li><a href="#que-es-una-conexion-segura-(https)">¿Qué es una conexión segura (HTTPS)?</a></li>
 <li><a href="#que-nos-asegura-el-cifrado">¿Qué nos asegura el cifrado?</a></li>
 <li><a href="#que-significan-las-notas-por-que-son-importantes">¿Qué significan las notas, por qué son importantes?</a></li>
+<li><a href="#que-significa-que-los-emails-son-vulnerables-a-suplantacion-de-identidad">¿Qué significa que los emails son vulnerables a suplantación de identidad?</a></li>
+<li><a href="#que-significa-que-el-dominio-es-vulnerable-a-suplantacion">¿Qué significa que el dominio es vulnerable a suplantación?</a></li>
 <li><a href="#que-tipo-de-problemas-podria-haber-en-webs-que-no-tienen-esa-nota">¿Qué tipo de problemas podría haber en webs que no tienen esa nota?</a></li>
 <li><a href="#debemos-exigir-webs-seguras">¿Debemos exigir webs seguras?</a></li>
 <li><a href="#como-puedo-participar-en-websegura">¿Cómo puedo participar en #websegura?</a></li>
@@ -74,7 +76,7 @@
 </ul>
 <p><a id="que-es-esta-web"></a></p>
 <h2>¿Qué es esta web?</h2>
-<p>Websegura usa el servicio <a href="https://observatory.mozilla.org/">Mozilla Observatory</a> para mostrar los análisis y la nota que les da esta herramienta externa a las webs de diferentes entidades públicas de España.</p>
+<p>Websegura usa el servicio <a href="https://observatory.mozilla.org/">Mozilla Observatory</a> para mostrar los análisis y la nota que les da esta herramienta externa a las webs de diferentes entidades públicas de España. También usamos la herramienta libre <a href="https://github.com/domainaware/checkdmarc">checkdmarc</a> para comprobar si los emails de estos dominios están protegidos frente a suplantación de identidad.</p>
 <p><a id="que-es-una-conexion-segura-(https)"></a></p>
 <h2>¿Qué es una conexión segura (HTTPS)?</h2>
 <p>Cuando nos conectamos a una página web, nuestros datos viajan ida y vuelta desde nuestro dispositivo hasta el servidor de la página web por medio de cables y servidores intermedios.</p>
@@ -91,6 +93,15 @@
 <h2>¿Qué significan las notas, por qué son importantes?</h2>
 <p>Sin embargo, usar HTTPS, no es suficiente para garantizar la total seguridad de nuestras conexiones, la página debe también implementar ciertas medidas para asegurarse que las conexiones a su web siempre se realizan mediante este protocolo. Las notas que puede obtener una página web son A, B, C, D, E y F. <a href="https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/scoring.md">Información técnica sobre la metodología de las notas</a>.</p>
 <p>⚠<strong>Si la web no tienen una nota A o B</strong>, usan una implementación deficiente, ¡tu privacidad está en riesgo!</p>
+<p><a id="que-significa-que-los-emails-son-vulnerables-a-suplantacion-de-identidad"></a></p>
+<h2>¿Qué significa que los emails son vulnerables a suplantación de identidad?</h2>
+<p>Recientemente hemos empezado también a analizar la seguridad de los emails de estos dominios de instituciones públicas, verificando si por una mala configuración son vulnerables a suplantación de identidad (si no implementan <a href="https://es.wikipedia.org/wiki/Sender_Policy_Framework">SPF</a> y <a href="https://es.wikipedia.org/wiki/DMARC">DMARC</a> rechazando todos los correos suplantados)</p>
+<p>Esto es, que cualquiera pueda enviarnos un email haciéndose pasar por nombre@lawebinstitucional.com sin que podamos detectarlo.</p>
+<p>De esta forma los ciudadanos y los trabajadores públicos pueden ser objeto muy fácil de engaños (phishing) para realizar acciones que les perjudiquen, incluido robo de datos o instalación de software malicioso para secuestrar sus datos.</p>
+<p><a id="que-significa-que-el-dominio-es-vulnerable-a-suplantacion"></a></p>
+<h2>¿Qué significa que el dominio es vulnerable a suplantación?</h2>
+<p>Si un dominio no está protegido por <a href="https://www.incibe.es/protege-tu-empresa/blog/dnssec-asegurando-integridad-y-autenticidad-tu-dominio-web">DNSSEC</a> para proteger su integridad y autenticidad, podría ser víctima de redirección o suplantación por otro. Esta protección asegura que sólo el dueño del dominio puede definir dónde están ubicados los servidores de la web y el correo.</p>
+<p>Un ciudadano podría ser redirigido a una página que parece ser la misma que la que intenta visitar pero ser una versión &quot;clonada&quot; por un actor malicioso para robar sus datos u ofrecerle información falsa.</p>
 <p><a id="que-tipo-de-problemas-podria-haber-en-webs-que-no-tienen-esa-nota"></a></p>
 <h2>¿Qué tipo de problemas podría haber en webs que no tienen esa nota?</h2>
 <p>Si una web no tiene al menos una A o B, un actor malicioso podría aplicar algunos de los siguientes ataques:</p>
@@ -120,6 +131,7 @@
         <p>
           <a href="/faq/">📌 Detalles sobre los riesgos de no tener una buena nota.</a><br />
           <a href="/ranking/">🏆 Ranking: Las mejores y las peores webs.</a><br />
+          <a href="/analisis-email/">✉️ #emailseguro: Análisis sobre suplantación de identidad.</a><br />
           <a href="/medios/">📰 Menciones en los medios.</a>
         </p>
         </div>
@@ -150,6 +162,7 @@
           </section>
           <ul class="copyright">
             <li>Una iniciativa de <a href="https://pucelabits.org/">PucelaBits</a>. Cultura libre, ágora hacker.</li>
+            <li><a href="https://pucelabits.org/pautas-participacion/">Pautas de participación</a></li>
             <li><a href="https://github.com/PucelaBits/websegura/blob/main/LICENSE">Licencia AGPL v3</a></li>
             <li>Diseño <a href="http://html5up.net">HTML5 UP</a>
             </li>

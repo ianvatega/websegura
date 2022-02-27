@@ -68,68 +68,12 @@
 
 
 
+<!--
+TODO iterate over all.json instead of using provincias/comunidades/global
+     that only contain a reduced set of fields (e.g. twitter_mentions is not included),
+     limiting the info that can be shown in the details page.
+-->
 
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
 
   
     
@@ -139,228 +83,6 @@
     
   
 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -388,69 +110,7 @@
   
     
   
-    
-  
-    
-  
-    
-  
 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-
-  
-    
-  
-
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -678,6 +338,834 @@
   
     
   
+
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
     
   
     
@@ -776,7 +1264,35 @@
   
     
   
+    
+  
+    
+  
+    
+  
+    
+  
 
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
   
     
   
@@ -812,31 +1328,62 @@
 
 <h1>Junta de Andalucía</h1>
 
-<div id="score" class="severe">F</div>
+<div id="score" class="safe">B</div>
+
+
+  <div class="phishing-box" title="Vulnerable a suplantación de identidad de emails">
+    <a href="/faq/#que-significa-que-los-emails-son-vulnerables-a-suplantacion-de-identidad"><img src="/images/phishing.png"></a>
+    <p>Emails vulnerables</p>
+  </div>
+
+
+
+  <div class="dnssec-box" title="Vulnerable a suplantación de identidad de dominio">
+    <a href="/faq/#que-significa-que-el-dominio-es-vulnerable-a-suplantacion">🌐</a>
+    <p>Dominio vulnerable</p>
+    </div>
+
 
 <h2>🔎 Resultado del análisis</h2>
 
 <ul>
   <li><strong>Nombre:</strong> Junta de Andalucía</li>
   <li><strong>Dirección:</strong> <a href="https://www.juntadeandalucia.es">www.juntadeandalucia.es</a></li>
-  <li><strong>Twitter:</strong> <a href="https://twitter.com/andaluciajunta">@andaluciajunta</a></li>
+  
+  <li>
+    <strong>Twitter:</strong> <a href="https://twitter.com/andaluciajunta">@andaluciajunta</a>
+    
+  </li>
+  
   
   <li><strong>Ubicación:</strong> <a href="/c/andalucia">Andalucía</a></li>
   
-  <li><strong>Puntuación:</strong> 15/100</li>
+  <li><strong>Puntuación:</strong> 70/100</li>
+
   
 </ul>
 
-<p>
-El sitio es muy inseguro. Pasó 8 de las 12 comprobaciones realizadas.<br >
-<a href="https://observatory.mozilla.org/analyze/www.juntadeandalucia.es">🖥 Leer el informe técnico completo.</a>
-</p>
+<ul>
+<li> La web es segura. Pasó 10 de las 12 comprobaciones realizadas.</li>
+<li> Los emails de este sitio son <strong>vulnerables</strong> frente a <a href="/faq/#que-significa-que-los-emails-son-vulnerables-a-suplantacion-de-identidad">suplantación de identidad</a>.</li>
+<li> <a href="/faq/#que-significa-que-el-dominio-es-vulnerable-a-suplantacion">Suplantación de dominio</a>: <strong>Vulnerable</strong></li>
+</ul>
+
+<ul class="iconify">
+  <li><a href="https://observatory.mozilla.org/analyze/www.juntadeandalucia.es">🖥 Informe técnico del análisis de la web</a></li>
+  <li><a href="https://dmarcguide.globalcyberalliance.org/#/tool-select?d=juntadeandalucia.es&r=s&s=none&lang=es"> ✉️ Informe técnico del análisis del email</a></li>
+  <li><a href="https://dnssec-analyzer.verisignlabs.com/juntadeandalucia.es">🌐 Informe técnico de la seguridad del nombre de dominio</a></li>
+</ul>
 
 
-<p><a class="twitter-share-button" href="https://twitter.com/intent/tweet/?text=Hola @andaluciajunta%0A%0A%F0%9F%94%92%20La%20seguridad%20de%20vuestra%20web%20y%20usuarios%20puede%20ser%20comprometida%20si%20no%20actualiz%C3%A1is%20vuestras%20conexiones%20seguras%20(HTTPS).%0A%E2%9A%A0%EF%B8%8F%20%C2%A1Por%20favor%2C%20revisadlo%20cuanto%20antes!%0A%0Ahttps%3A%2F%2Fwebsegura.pucelabits.org%2Fw%2Fwww!juntadeandalucia!es%2F%3Fpk_campaign%3DHazseloSaber%26pk_source%3Dtwitter%0A%0A%23websegura%20%2Fv%C3%ADa%20%40PucelaBits" target="_blank" rel="noopener" aria-label="Twitter">
+
+
+
+<p><a class="twitter-share-button" href="https://twitter.com/intent/tweet/?text=Hola @andaluciajunta%0A%0A%E2%9C%89%EF%B8%8F%20Los%20emails%20%40juntadeandalucia.es%20son%20vulnerables%20a%20suplantaci%C3%B3n%20de%20identidad%2C%20cualquiera%20puede%20hacerse%20pasar%20por%20vosotros%20sin%20ser%20detectado.%0A%E2%9A%A0%EF%B8%8F%20%C2%A1Por%20favor%2C%20revisadlo%20cuanto%20antes!%0A%0Ahttps%3A%2F%2Fwebsegura.pucelabits.org%2Fw%2Fwww!juntadeandalucia!es%2F%3Fpk_campaign%3DHazseloSaber%26pk_source%3Dtwitter%0A%0A%23emailseguro%20%2Fv%C3%ADa%20%40PucelaBits" target="_blank" rel="noopener" aria-label="Twitter">
     <span class="icon brands fa-twitter">
       <span><strong>¡Házselo saber en Twitter!</strong></span>
     </a></p>
+
 
 
 <h2 id="historial">🕐 Historial</h2>
@@ -850,6 +1397,234 @@ El sitio es muy inseguro. Pasó 8 de las 12 comprobaciones realizadas.<br >
     </tr>
   </thead>
   <tbody>
+      
+      <tr class="safe">
+        <td>B</td>
+        <td>70/100</td>
+        <td>Thu, 22 Jul 2021 16:21:01 GMT</td>
+        </tr>
+      
+      <tr class="moderate">
+        <td>D</td>
+        <td>30/100</td>
+        <td>Tue, 29 Jun 2021 00:06:20 GMT</td>
+        </tr>
+      
+      <tr class="severe">
+        <td>F</td>
+        <td>15/100</td>
+        <td>Thu, 24 Jun 2021 00:05:07 GMT</td>
+        </tr>
+      
+      <tr class="moderate">
+        <td>D</td>
+        <td>30/100</td>
+        <td>Tue, 22 Jun 2021 00:43:34 GMT</td>
+        </tr>
+      
+      <tr class="severe">
+        <td>F</td>
+        <td>15/100</td>
+        <td>Mon, 21 Jun 2021 00:06:26 GMT</td>
+        </tr>
+      
+      <tr class="moderate">
+        <td>D</td>
+        <td>30/100</td>
+        <td>Sat, 19 Jun 2021 00:05:34 GMT</td>
+        </tr>
+      
+      <tr class="severe">
+        <td>F</td>
+        <td>15/100</td>
+        <td>Thu, 17 Jun 2021 00:05:23 GMT</td>
+        </tr>
+      
+      <tr class="moderate">
+        <td>D</td>
+        <td>30/100</td>
+        <td>Tue, 15 Jun 2021 00:48:44 GMT</td>
+        </tr>
+      
+      <tr class="severe">
+        <td>F</td>
+        <td>15/100</td>
+        <td>Thu, 10 Jun 2021 00:05:20 GMT</td>
+        </tr>
+      
+      <tr class="moderate">
+        <td>D</td>
+        <td>30/100</td>
+        <td>Mon, 07 Jun 2021 00:46:11 GMT</td>
+        </tr>
+      
+      <tr class="severe">
+        <td>F</td>
+        <td>15/100</td>
+        <td>Thu, 03 Jun 2021 00:22:31 GMT</td>
+        </tr>
+      
+      <tr class="moderate">
+        <td>D</td>
+        <td>30/100</td>
+        <td>Mon, 31 May 2021 00:20:46 GMT</td>
+        </tr>
+      
+      <tr class="severe">
+        <td>F</td>
+        <td>15/100</td>
+        <td>Fri, 28 May 2021 00:13:02 GMT</td>
+        </tr>
+      
+      <tr class="moderate">
+        <td>D</td>
+        <td>30/100</td>
+        <td>Tue, 25 May 2021 00:07:34 GMT</td>
+        </tr>
+      
+      <tr class="severe">
+        <td>F</td>
+        <td>15/100</td>
+        <td>Sun, 23 May 2021 01:01:18 GMT</td>
+        </tr>
+      
+      <tr class="moderate">
+        <td>D</td>
+        <td>30/100</td>
+        <td>Sat, 22 May 2021 00:16:13 GMT</td>
+        </tr>
+      
+      <tr class="severe">
+        <td>F</td>
+        <td>15/100</td>
+        <td>Thu, 20 May 2021 00:16:04 GMT</td>
+        </tr>
+      
+      <tr class="moderate">
+        <td>D</td>
+        <td>30/100</td>
+        <td>Sun, 16 May 2021 00:59:47 GMT</td>
+        </tr>
+      
+      <tr class="severe">
+        <td>F</td>
+        <td>15/100</td>
+        <td>Tue, 11 May 2021 00:03:48 GMT</td>
+        </tr>
+      
+      <tr class="moderate">
+        <td>D</td>
+        <td>30/100</td>
+        <td>Sun, 09 May 2021 00:48:29 GMT</td>
+        </tr>
+      
+      <tr class="severe">
+        <td>F</td>
+        <td>15/100</td>
+        <td>Sat, 08 May 2021 00:21:01 GMT</td>
+        </tr>
+      
+      <tr class="moderate">
+        <td>D</td>
+        <td>30/100</td>
+        <td>Fri, 30 Apr 2021 05:58:29 GMT</td>
+        </tr>
+      
+      <tr class="severe">
+        <td>F</td>
+        <td>15/100</td>
+        <td>Wed, 21 Apr 2021 00:11:35 GMT</td>
+        </tr>
+      
+      <tr class="moderate">
+        <td>D</td>
+        <td>30/100</td>
+        <td>Sun, 18 Apr 2021 00:12:06 GMT</td>
+        </tr>
+      
+      <tr class="severe">
+        <td>F</td>
+        <td>15/100</td>
+        <td>Mon, 12 Apr 2021 00:57:46 GMT</td>
+        </tr>
+      
+      <tr class="moderate">
+        <td>D</td>
+        <td>30/100</td>
+        <td>Fri, 09 Apr 2021 00:53:55 GMT</td>
+        </tr>
+      
+      <tr class="severe">
+        <td>F</td>
+        <td>15/100</td>
+        <td>Sun, 04 Apr 2021 00:12:31 GMT</td>
+        </tr>
+      
+      <tr class="moderate">
+        <td>D</td>
+        <td>30/100</td>
+        <td>Fri, 02 Apr 2021 01:01:25 GMT</td>
+        </tr>
+      
+      <tr class="severe">
+        <td>F</td>
+        <td>15/100</td>
+        <td>Sun, 28 Mar 2021 00:37:52 GMT</td>
+        </tr>
+      
+      <tr class="moderate">
+        <td>D</td>
+        <td>30/100</td>
+        <td>Fri, 26 Mar 2021 02:23:01 GMT</td>
+        </tr>
+      
+      <tr class="severe">
+        <td>F</td>
+        <td>15/100</td>
+        <td>Thu, 25 Mar 2021 00:14:06 GMT</td>
+        </tr>
+      
+      <tr class="moderate">
+        <td>D</td>
+        <td>30/100</td>
+        <td>Tue, 23 Mar 2021 00:38:38 GMT</td>
+        </tr>
+      
+      <tr class="severe">
+        <td>F</td>
+        <td>15/100</td>
+        <td>Sat, 20 Mar 2021 00:38:36 GMT</td>
+        </tr>
+      
+      <tr class="moderate">
+        <td>D</td>
+        <td>30/100</td>
+        <td>Fri, 12 Mar 2021 00:21:07 GMT</td>
+        </tr>
+      
+      <tr class="severe">
+        <td>F</td>
+        <td>15/100</td>
+        <td>Tue, 09 Mar 2021 00:18:22 GMT</td>
+        </tr>
+      
+      <tr class="moderate">
+        <td>D</td>
+        <td>30/100</td>
+        <td>Sat, 06 Mar 2021 11:10:34 GMT</td>
+        </tr>
+      
+      <tr class="severe">
+        <td>F</td>
+        <td>15/100</td>
+        <td>Tue, 16 Feb 2021 08:06:36 GMT</td>
+        </tr>
+      
+      <tr class="moderate">
+        <td>D</td>
+        <td>30/100</td>
+        <td>Mon, 15 Feb 2021 07:08:47 GMT</td>
+        </tr>
       
       <tr class="severe">
         <td>F</td>
@@ -902,7 +1677,7 @@ El sitio es muy inseguro. Pasó 8 de las 12 comprobaciones realizadas.<br >
     </tbody>
   </table>
 
-<p><small>🔄 Última actualización: Fri, 12 Feb 2021 16:28:34 GMT</small></p>
+<p><small>🔄 Última actualización: Sun, 27 Feb 2022 00:12:46 GMT. El historial solo se actualiza si la puntuación cambia.</small></p>
 
 
     
@@ -941,51 +1716,37 @@ El sitio es muy inseguro. Pasó 8 de las 12 comprobaciones realizadas.<br >
   
     
   
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
   
     
   
@@ -1035,6 +1796,58 @@ El sitio es muy inseguro. Pasó 8 de las 12 comprobaciones realizadas.<br >
   
     
   
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
 
   
     
@@ -1105,6 +1918,12 @@ El sitio es muy inseguro. Pasó 8 de las 12 comprobaciones realizadas.<br >
   
     
   
+    
+  
+
+  
+    
+  
 
   
     
@@ -1123,6 +1942,22 @@ El sitio es muy inseguro. Pasó 8 de las 12 comprobaciones realizadas.<br >
   
     
   
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
 
   
 
@@ -1134,7 +1969,65 @@ El sitio es muy inseguro. Pasó 8 de las 12 comprobaciones realizadas.<br >
     
   
 
+  
+    
+  
+    
+  
+    
+  
 
+  
+    
+  
+    
+  
+    
+  
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
 
   
 
@@ -1348,6 +2241,7 @@ El sitio es muy inseguro. Pasó 8 de las 12 comprobaciones realizadas.<br >
         <p>
           <a href="/faq/">📌 Detalles sobre los riesgos de no tener una buena nota.</a><br />
           <a href="/ranking/">🏆 Ranking: Las mejores y las peores webs.</a><br />
+          <a href="/analisis-email/">✉️ #emailseguro: Análisis sobre suplantación de identidad.</a><br />
           <a href="/medios/">📰 Menciones en los medios.</a>
         </p>
         </div>
@@ -1378,6 +2272,7 @@ El sitio es muy inseguro. Pasó 8 de las 12 comprobaciones realizadas.<br >
           </section>
           <ul class="copyright">
             <li>Una iniciativa de <a href="https://pucelabits.org/">PucelaBits</a>. Cultura libre, ágora hacker.</li>
+            <li><a href="https://pucelabits.org/pautas-participacion/">Pautas de participación</a></li>
             <li><a href="https://github.com/PucelaBits/websegura/blob/main/LICENSE">Licencia AGPL v3</a></li>
             <li>Diseño <a href="http://html5up.net">HTML5 UP</a>
             </li>
