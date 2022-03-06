@@ -4,9 +4,9 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "sun.rediris.es",
       "vega.cc.upv.es",
       "mirzam.ccc.upv.es",
+      "sun.rediris.es",
       "chico.rediris.es"
     ],
     "warnings": []

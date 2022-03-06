@@ -3,34 +3,12 @@
   "base_domain": "turismodearagon.com",
   "dnssec": false,
   "ns": {
-    "hostnames": [
-      "calatayud.aragon.es",
-      "codos.aragon.es"
-    ],
-    "warnings": []
+    "hostnames": [],
+    "error": "The resolution lifetime expired after 3.1 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
   },
   "mx": {
-    "hosts": [
-      {
-        "preference": 10,
-        "hostname": "mxa.eu.mailgun.org",
-        "addresses": [
-          "18.159.81.63",
-          "18.195.142.93",
-          "3.64.177.59"
-        ]
-      },
-      {
-        "preference": 10,
-        "hostname": "mxb.eu.mailgun.org",
-        "addresses": [
-          "18.159.81.63",
-          "18.195.142.93",
-          "3.64.177.59"
-        ]
-      }
-    ],
-    "warnings": []
+    "hosts": [],
+    "error": "All nameservers failed to answer the query turismodearagon.com. IN MX: Server 1.0.0.1 UDP port 53 answered SERVFAIL"
   },
   "spf": {
     "record": "v=spf1 include:mailgun.org ~all",

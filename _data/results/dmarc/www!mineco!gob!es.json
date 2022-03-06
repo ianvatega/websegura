@@ -5,8 +5,8 @@
   "ns": {
     "hostnames": [
       "ns1.t-systems.es",
-      "ns.mcx.es",
-      "ns2.t-systems.es"
+      "ns2.t-systems.es",
+      "ns.mcx.es"
     ],
     "warnings": []
   },

@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "codos.aragon.es",
-      "calatayud.aragon.es"
+      "calatayud.aragon.es",
+      "codos.aragon.es"
     ],
     "warnings": []
   },
@@ -18,18 +18,18 @@
       }
     ],
     "warnings": [
-      "The domain mail.aragonhoy.net does not exist"
+      "The resolution lifetime expired after 3.1 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
     ]
   },
   "spf": {
     "record": null,
     "valid": false,
-    "error": "aragonhoy.net does not have a SPF TXT record"
+    "error": "The resolution lifetime expired after 3.1 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
   },
   "dmarc": {
     "record": null,
     "valid": false,
     "location": null,
-    "error": "A DMARC record does not exist for this domain or its base domain"
+    "error": "The resolution lifetime expired after 3.1 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
   }
 }

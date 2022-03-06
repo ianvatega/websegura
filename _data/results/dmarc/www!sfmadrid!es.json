@@ -5,8 +5,8 @@
   "ns": {
     "hostnames": [
       "ns2.cuentadns.com",
-      "ns3.cuentadns.com",
-      "ns1.cuentadns.com"
+      "ns1.cuentadns.com",
+      "ns3.cuentadns.com"
     ],
     "warnings": []
   },

@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "linuxdns02.telecable.es",
-      "linuxdns01.telecable.es"
+      "linuxdns01.telecable.es",
+      "linuxdns02.telecable.es"
     ],
     "warnings": []
   },
@@ -31,7 +31,7 @@
         "preference": 30,
         "hostname": "mx3.telecable.es",
         "addresses": [
-          "2001:550:2:78::ca:100",
+          "2001:978:2:7::162:100",
           "38.109.53.20"
         ]
       },

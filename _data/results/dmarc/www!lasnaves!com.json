@@ -12,24 +12,8 @@
     "warnings": []
   },
   "mx": {
-    "hosts": [
-      {
-        "preference": 0,
-        "hostname": "lasnaves-com.mail.protection.outlook.com",
-        "addresses": [
-          "104.47.17.138",
-          "104.47.18.74"
-        ]
-      },
-      {
-        "preference": 10,
-        "hostname": "inbound-smtp.eu-west-1.amazonaws.com",
-        "addresses": [
-          "54.239.39.100"
-        ]
-      }
-    ],
-    "warnings": []
+    "hosts": [],
+    "error": "The resolution lifetime expired after 3.1 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
   },
   "spf": {
     "record": "v=spf1 include:spf.protection.outlook.com -all",
