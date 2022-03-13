@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "dns2.nominalia.com",
-      "dns1.nominalia.com"
+      "dns1.nominalia.com",
+      "dns2.nominalia.com"
     ],
     "warnings": []
   },
@@ -102,6 +102,10 @@
                 "mechanism": "a"
               },
               {
+                "value": "2001:1af8:4400:a047:6::1",
+                "mechanism": "a"
+              },
+              {
                 "value": "2001:1af8:4500:a034:101::2",
                 "mechanism": "a"
               },
@@ -123,6 +127,10 @@
               },
               {
                 "value": "209.126.121.73",
+                "mechanism": "a"
+              },
+              {
+                "value": "2604:9a00:2010:a024:21::1",
                 "mechanism": "a"
               },
               {

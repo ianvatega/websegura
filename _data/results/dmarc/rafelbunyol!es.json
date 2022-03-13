@@ -15,7 +15,7 @@
         "preference": 10,
         "hostname": "mx.spamexperts.com",
         "addresses": [
-          "2001:550:2:9::280:100",
+          "2001:550:2:78::ca:100",
           "38.111.198.185"
         ]
       },
@@ -311,6 +311,10 @@
                 "mechanism": "a"
               },
               {
+                "value": "2001:668:1f:ffa4::15",
+                "mechanism": "a"
+              },
+              {
                 "value": "2001:978:2:7::162:10",
                 "mechanism": "a"
               },
@@ -602,6 +606,10 @@
                       "mechanism": "a"
                     },
                     {
+                      "value": "2001:1af8:4400:a047:6::1",
+                      "mechanism": "a"
+                    },
+                    {
                       "value": "2001:1af8:4500:a034:101::2",
                       "mechanism": "a"
                     },
@@ -623,6 +631,10 @@
                     },
                     {
                       "value": "209.126.121.73",
+                      "mechanism": "a"
+                    },
+                    {
+                      "value": "2604:9a00:2010:a024:21::1",
                       "mechanism": "a"
                     },
                     {

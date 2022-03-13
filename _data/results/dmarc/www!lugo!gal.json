@@ -5,9 +5,9 @@
   "ns": {
     "hostnames": [
       "ns4.dinahosting.com",
+      "ns3.dinahosting.com",
       "ns2.dinahosting.com",
-      "ns.dinahosting.com",
-      "ns3.dinahosting.com"
+      "ns.dinahosting.com"
     ],
     "warnings": []
   },
@@ -44,12 +44,12 @@
       {
         "preference": 50,
         "hostname": "correo.lugo.gal",
-        "addresses": []
+        "addresses": [
+          "195.77.245.58"
+        ]
       }
     ],
-    "warnings": [
-      "All nameservers failed to answer the query correo.lugo.gal. IN A: Server 1.0.0.1 UDP port 53 answered SERVFAIL"
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 a mx a:correo.lugo.gal ip4:195.77.245.58 include:spf.hornetsecurity.com -all",
