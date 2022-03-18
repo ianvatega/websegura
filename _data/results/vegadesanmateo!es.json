@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 15 Mar 2022 00:58:15 GMT",
+  "end_time": "Fri, 18 Mar 2022 00:56:23 GMT",
   "grade": "D+",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -12,7 +12,7 @@
     "Content-Encoding": "gzip",
     "Content-Language": "es",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Tue, 15 Mar 2022 00:57:39 GMT",
+    "Date": "Fri, 18 Mar 2022 00:55:24 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Server": "HTTPd",
     "Transfer-Encoding": "chunked",
@@ -21,9 +21,9 @@
     "X-Drupal-Cache": "MISS",
     "X-Frame-Options": "SAMEORIGIN"
   },
-  "scan_id": 25154553,
+  "scan_id": 25232991,
   "score": 40,
-  "start_time": "Tue, 15 Mar 2022 00:57:34 GMT",
+  "start_time": "Fri, 18 Mar 2022 00:55:16 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
