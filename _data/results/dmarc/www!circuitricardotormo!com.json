@@ -85,19 +85,19 @@
           "mechanism": "ip4"
         },
         {
-          "value": "18.67.76.2",
+          "value": "13.249.187.115",
           "mechanism": "a"
         },
         {
-          "value": "18.67.76.35",
+          "value": "13.249.187.22",
           "mechanism": "a"
         },
         {
-          "value": "18.67.76.58",
+          "value": "13.249.187.32",
           "mechanism": "a"
         },
         {
-          "value": "18.67.76.83",
+          "value": "13.249.187.56",
           "mechanism": "a"
         }
       ],

@@ -20,7 +20,7 @@
     "valid": true,
     "dns_lookups": 1,
     "warnings": [
-      "All nameservers failed to answer the query educacionyfp.gob.es. IN MX: Server 1.0.0.1 UDP port 53 answered SERVFAIL"
+      "educacionyfp.gob.es does not have any MX records"
     ],
     "parsed": {
       "pass": [],
