@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 22 Mar 2022 00:59:00 GMT",
+  "end_time": "Fri, 25 Mar 2022 00:57:19 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,12 +9,12 @@
     "Content-Language": "es-ES",
     "Content-Length": "4881",
     "Content-Type": "text/html;charset=utf-8",
-    "Date": "Tue, 22 Mar 2022 00:58:45 GMT",
+    "Date": "Fri, 25 Mar 2022 00:56:58 GMT",
     "Server": "Apache"
   },
-  "scan_id": 25308390,
+  "scan_id": 25376741,
   "score": 0,
-  "start_time": "Tue, 22 Mar 2022 00:58:38 GMT",
+  "start_time": "Fri, 25 Mar 2022 00:56:51 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 7,
