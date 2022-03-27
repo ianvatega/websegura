@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 25 Mar 2022 00:57:36 GMT",
+  "end_time": "Sun, 27 Mar 2022 01:02:34 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
     "Content-language": "ca",
-    "Date": "Fri, 25 Mar 2022 00:57:02 GMT",
+    "Date": "Sun, 27 Mar 2022 01:02:09 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Server": "nginx",
     "Transfer-Encoding": "chunked",
@@ -22,12 +22,12 @@
     "X-Proxy-Cache": "STALE",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 25376877,
+  "scan_id": 25407045,
   "score": 0,
-  "start_time": "Fri, 25 Mar 2022 00:56:56 GMT",
+  "start_time": "Sun, 27 Mar 2022 01:01:21 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 7,
-  "tests_passed": 5,
+  "tests_failed": 6,
+  "tests_passed": 6,
   "tests_quantity": 12
 }
