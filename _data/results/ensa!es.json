@@ -1,19 +1,19 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sat, 26 Mar 2022 00:57:12 GMT",
+  "end_time": "Mon, 28 Mar 2022 00:43:53 GMT",
   "grade": "D+",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Content-Length": "3116",
     "Content-Type": "text/html;charset=UTF-8",
-    "Set-Cookie": "JSESSIONID=B779CE9C126FCC6FA468E3F60B96D703; Path=/; Secure; HttpOnly",
+    "Set-Cookie": "JSESSIONID=C48DD4118093BCEDE6522E68C69F80AF; Path=/; Secure; HttpOnly",
     "Strict-Transport-Security": "max-age=31536000",
     "X-FRAME-OPTIONS": "SAMEORIGIN"
   },
-  "scan_id": 25394202,
+  "scan_id": 25420916,
   "score": 40,
-  "start_time": "Sat, 26 Mar 2022 00:56:56 GMT",
+  "start_time": "Mon, 28 Mar 2022 00:43:36 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
