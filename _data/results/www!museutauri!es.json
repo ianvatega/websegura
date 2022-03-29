@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sun, 27 Mar 2022 01:01:55 GMT",
+  "end_time": "Tue, 29 Mar 2022 00:47:02 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,12 +10,12 @@
     "Content-Length": "62",
     "Pragma": "no-cache"
   },
-  "scan_id": 25406981,
-  "score": 20,
-  "start_time": "Sun, 27 Mar 2022 01:01:17 GMT",
+  "scan_id": 25455791,
+  "score": 0,
+  "start_time": "Tue, 29 Mar 2022 00:46:53 GMT",
   "state": "FINISHED",
   "status_code": 503,
-  "tests_failed": 5,
-  "tests_passed": 7,
+  "tests_failed": 6,
+  "tests_passed": 6,
   "tests_quantity": 12
 }
