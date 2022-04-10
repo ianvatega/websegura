@@ -26,7 +26,10 @@
         ]
       }
     ],
-    "warnings": []
+    "warnings": [
+      "The resolution lifetime expired after 2.100 seconds: Server 127.0.0.53 UDP port 53 answered The DNS operation timed out.",
+      "The reverse DNS of 178.156.125.145 is mail.tribunalconstitucional.es, but the A/AAAA DNS records for mail.tribunalconstitucional.es do not resolve to 178.156.125.145"
+    ]
   },
   "spf": {
     "record": "v=spf1 mx -all",

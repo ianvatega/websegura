@@ -5,8 +5,8 @@
   "ns": {
     "hostnames": [
       "ns3.hostingfacyl.com",
-      "ns2.hostingfacyl.com",
-      "ns1.hostingfacyl.com"
+      "ns1.hostingfacyl.com",
+      "ns2.hostingfacyl.com"
     ],
     "warnings": []
   },

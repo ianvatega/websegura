@@ -5,8 +5,8 @@
   "ns": {
     "hostnames": [
       "dns.policia.es",
-      "ineco.nic.es",
-      "dns2.policia.es"
+      "dns2.policia.es",
+      "ineco.nic.es"
     ],
     "warnings": []
   },
@@ -29,14 +29,12 @@
       {
         "preference": 70,
         "hostname": "correo22.policia.es",
-        "addresses": []
+        "addresses": [
+          "195.55.116.96"
+        ]
       }
     ],
-    "warnings": [
-      "The resolution lifetime expired after 2.100 seconds: Server 127.0.0.53 UDP port 53 answered The DNS operation timed out.",
-      "The reverse DNS of 195.55.116.96 is correo.policia.es, but the A/AAAA DNS records for correo.policia.es do not resolve to 195.55.116.96",
-      "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 mx -all",

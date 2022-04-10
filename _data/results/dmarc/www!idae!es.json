@@ -17,34 +17,46 @@
         "addresses": [
           "213.0.86.147"
         ]
+      },
+      {
+        "preference": 50,
+        "hostname": "idae-es.mail.protection.outlook.com",
+        "addresses": [
+          "104.47.17.138",
+          "104.47.17.74"
+        ]
       }
     ],
     "warnings": []
   },
   "spf": {
-    "record": "v=spf1 a mx ip4:213.0.86.147 ~all include:mail.idae.es ~all include:mail.zendesk.com ~all",
+    "record": "v=spf1 ip4:213.0.86.147 a:mail.idae.es a:mail.zendesk.com a:spf.protection.outlook.com ~all",
     "valid": true,
-    "dns_lookups": 2,
+    "dns_lookups": 3,
     "warnings": [
-      "Any text after the all mechanism is ignored"
+      "spf.protection.outlook.com does not have any A/AAAA records"
     ],
     "parsed": {
       "pass": [
         {
-          "value": "154.58.18.139",
-          "mechanism": "a"
-        },
-        {
-          "value": "213.0.86.147",
-          "mechanism": "a"
-        },
-        {
-          "value": "mail.idae.es",
-          "mechanism": "mx"
-        },
-        {
           "value": "213.0.86.147",
           "mechanism": "ip4"
+        },
+        {
+          "value": "213.0.86.147",
+          "mechanism": "a"
+        },
+        {
+          "value": "184.72.174.126",
+          "mechanism": "a"
+        },
+        {
+          "value": "3.213.143.227",
+          "mechanism": "a"
+        },
+        {
+          "value": "34.235.62.90",
+          "mechanism": "a"
         }
       ],
       "neutral": [],

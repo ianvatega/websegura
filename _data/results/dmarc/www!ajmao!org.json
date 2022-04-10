@@ -17,7 +17,7 @@
     "record": "v=spf1 ip4:88.87.207.210  ip4:88.87.207.202/32 ip4:185.68.189.2/32 ip4:195.57.252.186/32 ip4:185.68.189.17/32 ip4:185.68.189.2/32 include:smtp.tgi.cat include:_spf.google.com ~all",
     "valid": false,
     "warnings": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
+    "error": "smtp.tgi.cat does not have a SPF TXT record"
   },
   "dmarc": {
     "record": "v=DMARC1;p=quarantine;sp=quarantine;rua=mailto:dmarc@silme.es;ruf=mailto:dmarc@silme.es",

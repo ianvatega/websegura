@@ -3,8 +3,12 @@
   "base_domain": "mogan.es",
   "dnssec": false,
   "ns": {
-    "hostnames": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
+    "hostnames": [
+      "ns12.servicio-online.net",
+      "ns11.servicio-online.net",
+      "ns10.servicio-online.net"
+    ],
+    "warnings": []
   },
   "mx": {
     "hosts": [
@@ -16,10 +20,7 @@
         ]
       }
     ],
-    "warnings": [
-      "The resolution lifetime expired after 2.100 seconds: Server 127.0.0.53 UDP port 53 answered The DNS operation timed out.",
-      "The reverse DNS of 213.0.98.20 is correo.mogan.es, but the A/AAAA DNS records for correo.mogan.es do not resolve to 213.0.98.20"
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 mx a ip4:213.0.98.20 a:inf1.mogan.es -all",
