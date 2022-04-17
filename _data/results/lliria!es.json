@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 15 Apr 2022 00:11:33 GMT",
+  "end_time": "Sun, 17 Apr 2022 01:06:53 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
     "Content-language": "es",
-    "Date": "Fri, 15 Apr 2022 00:10:24 GMT",
+    "Date": "Sun, 17 Apr 2022 01:05:13 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Link": "<http://www.lliria.es/es>; rel=\"shortlink\", <http://www.lliria.es/es>; rel=\"canonical\"",
     "Server": "nginx",
@@ -23,9 +23,9 @@
     "X-Proxy-Cache": "STALE",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 25831983,
+  "scan_id": 25858691,
   "score": 10,
-  "start_time": "Fri, 15 Apr 2022 00:10:18 GMT",
+  "start_time": "Sun, 17 Apr 2022 01:05:05 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
