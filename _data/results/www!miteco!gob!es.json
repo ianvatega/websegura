@@ -1,7 +1,7 @@
 {
   "algorithm_version": 2,
-  "end_time": "Wed, 20 Apr 2022 01:18:28 GMT",
-  "grade": "B-",
+  "end_time": "Fri, 22 Apr 2022 00:53:13 GMT",
+  "grade": "B",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
@@ -12,8 +12,8 @@
     "Content-Length": "14272",
     "Content-Security-Policy": "frame-ancestors 'self' https://www.mapama.gob.es",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Wed, 20 Apr 2022 01:18:13 GMT",
-    "Expires": "Wed, 20 Apr 2022 01:33:13 GMT",
+    "Date": "Fri, 22 Apr 2022 00:52:57 GMT",
+    "Expires": "Fri, 22 Apr 2022 01:07:57 GMT",
     "Server": "Microsoft-IIS/8.5",
     "Vary": "Accept-Encoding",
     "X-AspNet-Version": "4.0.30319",
@@ -23,12 +23,12 @@
     "x-frame-options": "ALLOW-FROM https://www.mapama.gob.es/",
     "x-xss-protection": "1; mode=block"
   },
-  "scan_id": 25932706,
-  "score": 65,
-  "start_time": "Wed, 20 Apr 2022 01:18:10 GMT",
+  "scan_id": 25975793,
+  "score": 75,
+  "start_time": "Fri, 22 Apr 2022 00:52:54 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 3,
-  "tests_passed": 9,
+  "tests_failed": 2,
+  "tests_passed": 10,
   "tests_quantity": 12
 }
