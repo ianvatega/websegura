@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sun, 01 May 2022 01:31:52 GMT",
+  "end_time": "Wed, 04 May 2022 01:12:33 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Connection": "keep-alive",
     "Content-Type": "text/html; charset=UTF-8",
     "Content-language": "es",
-    "Date": "Thu, 28 Apr 2022 11:40:02 GMT",
+    "Date": "Tue, 03 May 2022 14:53:05 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Link": "<http://www.cem.es/es>; rel=\"canonical\", <http://www.cem.es/es>; rel=\"shortlink\"",
     "Permissions-Policy": "interest-cohort=()",
@@ -23,9 +23,9 @@
     "X-Powered-By": "PHP/7.3.28",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 26143368,
+  "scan_id": 26219690,
   "score": 0,
-  "start_time": "Sun, 01 May 2022 01:27:35 GMT",
+  "start_time": "Wed, 04 May 2022 01:12:13 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
