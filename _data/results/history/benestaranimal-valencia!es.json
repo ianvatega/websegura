@@ -236,5 +236,19 @@
     "grade": "F",
     "scan_id": 26286358,
     "score": 20
+  },
+  {
+    "end_time": "Wed, 11 May 2022 03:11:46 GMT",
+    "end_time_unix_timestamp": 1652238706,
+    "grade": "F",
+    "scan_id": 26363660,
+    "score": 0
+  },
+  {
+    "end_time": "Fri, 13 May 2022 01:23:10 GMT",
+    "end_time_unix_timestamp": 1652404990,
+    "grade": "F",
+    "scan_id": 26413232,
+    "score": 20
   }
 ]
