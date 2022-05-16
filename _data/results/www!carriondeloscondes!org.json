@@ -1,13 +1,13 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 13 May 2022 01:22:05 GMT",
+  "end_time": "Mon, 16 May 2022 00:14:08 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "Upgrade, Keep-Alive",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Fri, 13 May 2022 01:21:13 GMT",
+    "Date": "Mon, 16 May 2022 00:13:23 GMT",
     "Keep-Alive": "timeout=5, max=100",
     "Link": "<https://www.carriondeloscondes.org/>; rel=shortlink",
     "Server": "Apache",
@@ -15,9 +15,9 @@
     "Upgrade": "h2,h2c",
     "X-Pingback": "https://www.carriondeloscondes.org/xmlrpc.php"
   },
-  "scan_id": 26413319,
+  "scan_id": 26451929,
   "score": 0,
-  "start_time": "Fri, 13 May 2022 01:21:08 GMT",
+  "start_time": "Mon, 16 May 2022 00:13:19 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 7,

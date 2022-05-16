@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 13 May 2022 01:22:08 GMT",
+  "end_time": "Mon, 16 May 2022 00:14:04 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -11,7 +11,7 @@
     "Content-Length": "11179",
     "Content-Type": "text/html; charset=UTF-8",
     "Content-language": "es",
-    "Date": "Fri, 13 May 2022 01:21:11 GMT",
+    "Date": "Mon, 16 May 2022 00:13:23 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Keep-Alive": "timeout=5, max=100",
     "Server": "Apache/2.4.29 (Ubuntu)",
@@ -23,9 +23,9 @@
     "X-Generator": "Drupal 8 (https://www.drupal.org)",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 26413280,
+  "scan_id": 26451902,
   "score": 20,
-  "start_time": "Fri, 13 May 2022 01:21:07 GMT",
+  "start_time": "Mon, 16 May 2022 00:13:18 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
