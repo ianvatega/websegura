@@ -1,7 +1,7 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sun, 22 May 2022 01:09:29 GMT",
-  "grade": "D+",
+  "end_time": "Thu, 26 May 2022 01:21:12 GMT",
+  "grade": "D",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
@@ -9,18 +9,18 @@
     "Content-Encoding": "gzip",
     "Content-Language": "es",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Sun, 22 May 2022 01:09:04 GMT",
+    "Date": "Thu, 26 May 2022 01:20:53 GMT",
     "Server": "nginx/1.16.1",
-    "Set-Cookie": "JSESSIONID=0F6B056E358D9F81D087CB199D7DFBA4; Path=/citaprevia; Secure; HttpOnly",
+    "Set-Cookie": "JSESSIONID=4A55F6AA649FCC2437FA5930EF9EB62E; Path=/citaprevia; Secure; HttpOnly",
     "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
     "Transfer-Encoding": "chunked"
   },
-  "scan_id": 26594381,
-  "score": 40,
-  "start_time": "Sun, 22 May 2022 01:09:00 GMT",
+  "scan_id": 26698321,
+  "score": 30,
+  "start_time": "Thu, 26 May 2022 01:20:49 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 4,
-  "tests_passed": 8,
+  "tests_failed": 5,
+  "tests_passed": 7,
   "tests_quantity": 12
 }
