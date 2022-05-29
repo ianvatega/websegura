@@ -1,23 +1,23 @@
 {
   "algorithm_version": 2,
-  "end_time": "Thu, 26 May 2022 01:21:20 GMT",
+  "end_time": "Sun, 29 May 2022 01:15:49 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "keep-alive",
     "Content-Type": "text/html; charset=ISO-8859-1",
-    "Date": "Thu, 26 May 2022 01:20:54 GMT",
+    "Date": "Sun, 29 May 2022 01:15:41 GMT",
     "Server": "nginx",
     "Transfer-Encoding": "chunked",
     "X-Powered-By": "PHP/5.6.40, PleskLin"
   },
-  "scan_id": 26698326,
+  "scan_id": 26742772,
   "score": 0,
-  "start_time": "Thu, 26 May 2022 01:20:49 GMT",
+  "start_time": "Sun, 29 May 2022 01:15:37 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 7,
-  "tests_passed": 5,
+  "tests_failed": 6,
+  "tests_passed": 6,
   "tests_quantity": 12
 }
