@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sat, 28 May 2022 01:10:59 GMT",
+  "end_time": "Tue, 31 May 2022 00:58:39 GMT",
   "grade": "D-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -11,7 +11,7 @@
     "Content-Encoding": "gzip",
     "Content-Language": "es",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Sat, 28 May 2022 01:32:10 GMT",
+    "Date": "Tue, 31 May 2022 01:20:15 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Link": "<http://www.museuvalenciadelafesta.com/es>; rel=\"canonical\",<http://www.museuvalenciadelafesta.com/es>; rel=\"shortlink\"",
     "Server": "nginx/1.12.2",
@@ -21,11 +21,11 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-Generator": "Drupal 7 (https://www.drupal.org)",
     "X-Proxy-Cache": "MISS",
-    "X-Request-ID": "c977470ae17e1900061c26bcff03d200"
+    "X-Request-ID": "7319dddcbf324b931b65298645ef8a60"
   },
-  "scan_id": 26728589,
+  "scan_id": 26793081,
   "score": 25,
-  "start_time": "Sat, 28 May 2022 01:10:05 GMT",
+  "start_time": "Tue, 31 May 2022 00:58:12 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
