@@ -10,8 +10,41 @@
     "warnings": []
   },
   "mx": {
-    "hosts": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
+    "hosts": [
+      {
+        "preference": 10,
+        "hostname": "mx1.telecable.es",
+        "addresses": [
+          "2001:550:2:9::280:100",
+          "38.111.198.185"
+        ]
+      },
+      {
+        "preference": 20,
+        "hostname": "mx2.telecable.es",
+        "addresses": [
+          "2001:550:2:61::2fc:100",
+          "38.89.254.156"
+        ]
+      },
+      {
+        "preference": 30,
+        "hostname": "mx3.telecable.es",
+        "addresses": [
+          "2001:550:2:78::ca:100",
+          "38.109.53.20"
+        ]
+      },
+      {
+        "preference": 40,
+        "hostname": "mx4.telecable.es",
+        "addresses": [
+          "2001:550:2:9::280:100",
+          "38.111.198.185"
+        ]
+      }
+    ],
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 include:spf.antispamcloud.com ~all",
@@ -33,6 +66,10 @@
               {
                 "value": "185.201.16.0/22",
                 "mechanism": "ip4"
+              },
+              {
+                "value": "130.117.251.9",
+                "mechanism": "a"
               },
               {
                 "value": "138.201.61.140",
@@ -75,7 +112,7 @@
                 "mechanism": "a"
               },
               {
-                "value": "2001:1af8:4500:a034:101::2",
+                "value": "2001:978:2:6::20:10",
                 "mechanism": "a"
               },
               {
@@ -132,10 +169,6 @@
               },
               {
                 "value": "94.75.244.184",
-                "mechanism": "a"
-              },
-              {
-                "value": "95.211.160.147",
                 "mechanism": "a"
               },
               {

@@ -4,10 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns-1171.awsdns-18.org",
-      "ns-180.awsdns-22.com",
-      "ns-1824.awsdns-36.co.uk",
-      "ns-518.awsdns-00.net"
+      "ns1.interxion-nextret.tech",
+      "ns2.interxion-nextret.tech"
     ],
     "warnings": []
   },
@@ -17,14 +15,14 @@
         "preference": 10,
         "hostname": "mxa-00626c01.gslb.pphosted.com",
         "addresses": [
-          "143.55.144.49"
+          "205.220.185.106"
         ]
       },
       {
         "preference": 10,
         "hostname": "mxb-00626c01.gslb.pphosted.com",
         "addresses": [
-          "205.220.185.106"
+          "143.55.144.49"
         ]
       }
     ],

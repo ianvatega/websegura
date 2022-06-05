@@ -3,8 +3,13 @@
   "base_domain": "concellodelugo.gal",
   "dnssec": false,
   "ns": {
-    "hostnames": [],
-    "error": "All nameservers failed to answer the query concellodelugo.gal. IN NS: Server 1.0.0.1 UDP port 53 answered SERVFAIL"
+    "hostnames": [
+      "ns2.dinahosting.com",
+      "ns.dinahosting.com",
+      "ns4.dinahosting.com",
+      "ns3.dinahosting.com"
+    ],
+    "warnings": []
   },
   "mx": {
     "hosts": [],

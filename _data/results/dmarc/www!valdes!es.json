@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "mortadelo.telecable.es",
-      "otilio-pub.telecable.es"
+      "otilio-pub.telecable.es",
+      "mortadelo.telecable.es"
     ],
     "warnings": []
   },
@@ -15,8 +15,8 @@
         "preference": 10,
         "hostname": "mx1.telecable.es",
         "addresses": [
-          "130.117.53.188",
-          "2001:550:2:9::280:100"
+          "2001:550:2:9::280:100",
+          "38.111.198.185"
         ]
       },
       {
@@ -39,14 +39,12 @@
         "preference": 40,
         "hostname": "mx4.telecable.es",
         "addresses": [
-          "2001:978:2:2f::5:100",
+          "2001:550:2:9::280:100",
           "38.111.198.185"
         ]
       }
     ],
-    "warnings": [
-      "2001:978:2:2f::5:100 does not have any reverse DNS (PTR) records"
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 include:spf.antispamcloud.com ~all",
@@ -68,6 +66,10 @@
               {
                 "value": "185.201.16.0/22",
                 "mechanism": "ip4"
+              },
+              {
+                "value": "130.117.251.9",
+                "mechanism": "a"
               },
               {
                 "value": "138.201.61.140",
@@ -110,7 +112,7 @@
                 "mechanism": "a"
               },
               {
-                "value": "2001:1af8:4500:a034:101::2",
+                "value": "2001:978:2:6::20:10",
                 "mechanism": "a"
               },
               {
@@ -167,10 +169,6 @@
               },
               {
                 "value": "94.75.244.184",
-                "mechanism": "a"
-              },
-              {
-                "value": "95.211.160.147",
                 "mechanism": "a"
               },
               {

@@ -4,9 +4,9 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "dns3.raiolanetworks.es",
       "dns1.raiolanetworks.es",
-      "dns2.raiolanetworks.es"
+      "dns2.raiolanetworks.es",
+      "dns3.raiolanetworks.es"
     ],
     "warnings": []
   },
@@ -53,6 +53,10 @@
           "parsed": {
             "pass": [
               {
+                "value": "141.95.251.123",
+                "mechanism": "a"
+              },
+              {
                 "value": "145.239.129.166",
                 "mechanism": "a"
               },
@@ -70,10 +74,6 @@
               },
               {
                 "value": "149.202.98.108",
-                "mechanism": "a"
-              },
-              {
-                "value": "151.80.16.24",
                 "mechanism": "a"
               },
               {
@@ -117,11 +117,27 @@
                 "mechanism": "a"
               },
               {
+                "value": "5.196.239.25",
+                "mechanism": "a"
+              },
+              {
+                "value": "5.39.18.65",
+                "mechanism": "a"
+              },
+              {
+                "value": "51.255.120.212",
+                "mechanism": "a"
+              },
+              {
                 "value": "51.83.52.234",
                 "mechanism": "a"
               },
               {
                 "value": "79.137.45.64",
+                "mechanism": "a"
+              },
+              {
+                "value": "91.134.16.17",
                 "mechanism": "a"
               }
             ],

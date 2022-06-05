@@ -14,33 +14,81 @@
   "mx": {
     "hosts": [
       {
-        "preference": 10,
-        "hostname": "smtp1.gencat.cat",
+        "preference": 2,
+        "hostname": "inbound-smtp.eu-west-1.amazonaws.com",
         "addresses": [
-          "83.247.135.20"
+          "176.32.109.132"
         ]
       },
       {
-        "preference": 20,
-        "hostname": "smtp2.gencat.cat",
+        "preference": 5,
+        "hostname": "mx1.hc489-80.eu.iphmx.com",
         "addresses": [
-          "83.247.135.21"
+          "207.54.76.180",
+          "207.54.77.56"
         ]
       },
       {
-        "preference": 30,
-        "hostname": "smtp3.gencat.cat",
+        "preference": 5,
+        "hostname": "mx2.hc489-80.eu.iphmx.com",
         "addresses": [
-          "83.247.135.22"
+          "207.54.76.180",
+          "207.54.77.56"
         ]
       }
     ],
     "warnings": []
   },
   "spf": {
-    "record": null,
-    "valid": false,
-    "error": "meteo.cat does not have a SPF TXT record"
+    "record": "v=spf1 ip4:207.54.76.180 ip4:207.54.76.248 ip4:207.54.77.56 ip4:207.54.69.189 mx exists:%{i}.spf.hc489-80.eu.iphmx.com -all",
+    "valid": true,
+    "dns_lookups": 2,
+    "warnings": [
+      "SPF type DNS records found. Use of DNS Type SPF has been removed in the standards track version of SPF, RFC 7208. These records should be removed and replaced with TXT records: v=spf1 ip4:207.54.76.180 ip4:207.54.76.248 ip4:207.54.77.56 ip4:207.54.69.189 mx exists:%{i}.spf.hc489-80.eu.iphmx.com -all"
+    ],
+    "parsed": {
+      "pass": [
+        {
+          "value": "207.54.76.180",
+          "mechanism": "ip4"
+        },
+        {
+          "value": "207.54.76.248",
+          "mechanism": "ip4"
+        },
+        {
+          "value": "207.54.77.56",
+          "mechanism": "ip4"
+        },
+        {
+          "value": "207.54.69.189",
+          "mechanism": "ip4"
+        },
+        {
+          "value": "inbound-smtp.eu-west-1.amazonaws.com",
+          "mechanism": "mx"
+        },
+        {
+          "value": "mx1.hc489-80.eu.iphmx.com",
+          "mechanism": "mx"
+        },
+        {
+          "value": "mx2.hc489-80.eu.iphmx.com",
+          "mechanism": "mx"
+        },
+        {
+          "value": "%{i}.spf.hc489-80.eu.iphmx.com",
+          "mechanism": "exists"
+        }
+      ],
+      "neutral": [],
+      "softfail": [],
+      "fail": [],
+      "include": [],
+      "redirect": null,
+      "exp": null,
+      "all": "fail"
+    }
   },
   "dmarc": {
     "record": null,
