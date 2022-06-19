@@ -28,7 +28,12 @@
         ]
       }
     ],
-    "warnings": []
+    "warnings": [
+      "The resolution lifetime expired after 2.100 seconds: Server 127.0.0.53 UDP port 53 answered The DNS operation timed out.",
+      "The reverse DNS of 207.54.72.118 is esa2.hc348-91.eu.iphmx.com, but the A/AAAA DNS records for esa2.hc348-91.eu.iphmx.com do not resolve to 207.54.72.118",
+      "The resolution lifetime expired after 2.100 seconds: Server 127.0.0.53 UDP port 53 answered The DNS operation timed out.",
+      "The reverse DNS of 207.54.72.118 is esa2.hc348-91.eu.iphmx.com, but the A/AAAA DNS records for esa2.hc348-91.eu.iphmx.com do not resolve to 207.54.72.118"
+    ]
   },
   "spf": {
     "record": "v=spf1 ip4:2.139.232.242 a mx ip4:213.4.20.215 include:spf.ipzmarketing.com exists:%{i}.spf.hc348-91.eu.iphmx.com ~all",

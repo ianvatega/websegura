@@ -10,17 +10,36 @@
     "warnings": []
   },
   "mx": {
-    "hosts": [],
-    "error": "All nameservers failed to answer the query 130.19.206.130.in-addr.arpa. IN PTR: Server 1.0.0.1 UDP port 53 answered SERVFAIL"
+    "hosts": [
+      {
+        "preference": 100,
+        "hostname": "mx01.puc.rediris.es",
+        "addresses": [
+          "130.206.19.130",
+          "130.206.19.162",
+          "2001:720:418:ca10::2",
+          "2001:720:418:ca11::2"
+        ]
+      },
+      {
+        "preference": 100,
+        "hostname": "mx02.puc.rediris.es",
+        "addresses": [
+          "130.206.19.130",
+          "130.206.19.162",
+          "2001:720:418:ca10::2",
+          "2001:720:418:ca11::2"
+        ]
+      }
+    ],
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 include:spf.puc.rediris.es a:correo.ine.es a:smtpout.ine.es a:remesas.ine.es a:mta01.ine.es a:mta02.ine.es -all",
     "valid": true,
     "dns_lookups": 6,
     "warnings": [
-      "SPF type DNS records found. Use of DNS Type SPF has been removed in the standards track version of SPF, RFC 7208. These records should be removed and replaced with TXT records: v=spf1 include:spf.puc.rediris.es a:correo.ine.es a:smtpout.ine.es a:remesas.ine.es a:mta01.ine.es a:mta02.ine.es -all",
-      "All nameservers failed to answer the query mta01.ine.es. IN A: Server 1.0.0.1 UDP port 53 answered SERVFAIL",
-      "All nameservers failed to answer the query mta02.ine.es. IN AAAA: Server 1.0.0.1 UDP port 53 answered SERVFAIL"
+      "SPF type DNS records found. Use of DNS Type SPF has been removed in the standards track version of SPF, RFC 7208. These records should be removed and replaced with TXT records: v=spf1 include:spf.puc.rediris.es a:correo.ine.es a:smtpout.ine.es a:remesas.ine.es a:mta01.ine.es a:mta02.ine.es -all"
     ],
     "parsed": {
       "pass": [
@@ -34,6 +53,14 @@
         },
         {
           "value": "195.254.149.6",
+          "mechanism": "a"
+        },
+        {
+          "value": "195.254.149.12",
+          "mechanism": "a"
+        },
+        {
+          "value": "195.254.149.12",
           "mechanism": "a"
         }
       ],
