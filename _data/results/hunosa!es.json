@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 21 Jun 2022 01:16:25 GMT",
+  "end_time": "Fri, 24 Jun 2022 01:12:11 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,11 +8,11 @@
     "Connection": "close",
     "Content-Length": "59556",
     "Content-Type": "text/html",
-    "Date": "Tue Jun 21 01:25:16 2022 GMT"
+    "Date": "Fri Jun 24 01:21:06 2022 GMT"
   },
-  "scan_id": 27287981,
+  "scan_id": 27368367,
   "score": 20,
-  "start_time": "Tue, 21 Jun 2022 01:15:14 GMT",
+  "start_time": "Fri, 24 Jun 2022 01:11:55 GMT",
   "state": "FINISHED",
   "status_code": 503,
   "tests_failed": 5,
