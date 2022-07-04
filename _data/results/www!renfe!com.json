@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sat, 02 Jul 2022 00:58:08 GMT",
+  "end_time": "Mon, 04 Jul 2022 01:06:44 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Length": "14432",
     "Content-Type": "text/html;charset=utf-8",
-    "Date": "Sat, 02 Jul 2022 00:57:57 GMT",
+    "Date": "Mon, 04 Jul 2022 01:06:35 GMT",
     "ETag": "\"180ec-5e2bf71d51dcb-gzip\"",
     "Last-Modified": "Fri, 01 Jul 2022 14:45:59 GMT",
     "Server": "Apache",
@@ -20,9 +20,9 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-Vhost": "publish"
   },
-  "scan_id": 27529868,
+  "scan_id": 27556987,
   "score": 0,
-  "start_time": "Sat, 02 Jul 2022 00:55:54 GMT",
+  "start_time": "Mon, 04 Jul 2022 01:06:32 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
