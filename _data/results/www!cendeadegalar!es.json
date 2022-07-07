@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sun, 03 Jul 2022 01:23:33 GMT",
+  "end_time": "Thu, 07 Jul 2022 00:13:42 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,12 +8,12 @@
     "Connection": "close",
     "Content-Length": "315",
     "Content-Type": "text/html; charset=us-ascii",
-    "Date": "Sun, 03 Jul 2022 01:22:28 GMT",
+    "Date": "Thu, 07 Jul 2022 00:12:33 GMT",
     "Server": "Microsoft-HTTPAPI/2.0"
   },
-  "scan_id": 27542940,
+  "scan_id": 27645126,
   "score": 0,
-  "start_time": "Sun, 03 Jul 2022 01:23:22 GMT",
+  "start_time": "Thu, 07 Jul 2022 00:13:30 GMT",
   "state": "FINISHED",
   "status_code": 404,
   "tests_failed": 6,
