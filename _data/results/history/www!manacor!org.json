@@ -1,9 +1,3 @@
-[
-  {
-    "end_time": "Fri, 05 Feb 2021 00:26:46 GMT",
-    "end_time_unix_timestamp": 1612484806,
-    "grade": "D",
-    "scan_id": 17591289,
-    "score": 35
-  }
-]
+{
+  "error": "Unable to connect to database"
+}
