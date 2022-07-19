@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sat, 16 Jul 2022 01:24:25 GMT",
+  "end_time": "Tue, 19 Jul 2022 00:14:34 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -11,7 +11,7 @@
     "Content-Encoding": "gzip",
     "Content-Length": "20430",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Sat, 16 Jul 2022 01:23:53 GMT",
+    "Date": "Tue, 19 Jul 2022 00:14:15 GMT",
     "Expires": "Mon, 29 Oct 1923 20:30:00 GMT",
     "Keep-Alive": "timeout=5, max=149",
     "Last-Modified": "Thu, 14 Jul 2022 10:00:05 GMT",
@@ -19,9 +19,9 @@
     "Server": "Apache",
     "Vary": "Cookie,User-Agent,Accept-Encoding"
   },
-  "scan_id": 27836493,
+  "scan_id": 27896323,
   "score": 0,
-  "start_time": "Sat, 16 Jul 2022 01:23:48 GMT",
+  "start_time": "Tue, 19 Jul 2022 00:14:11 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 7,
