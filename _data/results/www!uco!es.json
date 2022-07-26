@@ -1,19 +1,19 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sat, 23 Jul 2022 01:18:19 GMT",
+  "end_time": "Tue, 26 Jul 2022 00:12:23 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "keep-alive",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Sat, 23 Jul 2022 01:18:16 GMT",
+    "Date": "Tue, 26 Jul 2022 00:12:19 GMT",
     "Server": "nginx/1.17.10",
     "Transfer-Encoding": "chunked"
   },
-  "scan_id": 27989948,
+  "scan_id": 28100278,
   "score": 0,
-  "start_time": "Sat, 23 Jul 2022 01:18:13 GMT",
+  "start_time": "Tue, 26 Jul 2022 00:12:16 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
