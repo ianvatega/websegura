@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sun, 24 Jul 2022 01:07:02 GMT",
+  "end_time": "Wed, 27 Jul 2022 01:05:30 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,7 +8,7 @@
     "Cache-Control": "private, no-cache, no-store, must-revalidate",
     "Connection": "Keep-Alive",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Sun, 24 Jul 2022 01:06:27 GMT",
+    "Date": "Wed, 27 Jul 2022 01:05:14 GMT",
     "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
     "Keep-Alive": "timeout=5, max=99",
     "Liferay-Portal": "Liferay Digital Experience Platform 7.3.10 SP3 (Athanasius / Build 7310 / September 22, 2020)",
@@ -19,9 +19,9 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-XSS-Protection": "1"
   },
-  "scan_id": 28001812,
+  "scan_id": 28155664,
   "score": 15,
-  "start_time": "Sun, 24 Jul 2022 01:06:21 GMT",
+  "start_time": "Wed, 27 Jul 2022 01:05:09 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
