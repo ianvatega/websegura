@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Wed, 27 Jul 2022 00:15:13 GMT",
+  "end_time": "Fri, 29 Jul 2022 02:02:57 GMT",
   "grade": "D-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Connection": "Keep-Alive",
     "Content-Length": "91188",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Wed, 27 Jul 2022 00:15:05 GMT",
+    "Date": "Fri, 29 Jul 2022 02:02:52 GMT",
     "ETag": "\"16434-5e2060bab2540\"",
     "Keep-Alive": "timeout=5, max=99",
     "Last-Modified": "Wed, 22 Jun 2022 09:34:37 GMT",
@@ -17,9 +17,9 @@
     "Strict-Transport-Security": "max-age=63072000;",
     "X-Frame-Options": "sameorigin"
   },
-  "scan_id": 28154459,
+  "scan_id": 28272854,
   "score": 25,
-  "start_time": "Wed, 27 Jul 2022 00:14:59 GMT",
+  "start_time": "Fri, 29 Jul 2022 02:02:46 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
