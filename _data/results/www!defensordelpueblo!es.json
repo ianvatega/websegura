@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 05 Aug 2022 01:08:28 GMT",
+  "end_time": "Sun, 07 Aug 2022 01:05:20 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Length": "20667",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Fri, 05 Aug 2022 01:07:18 GMT",
+    "Date": "Sun, 07 Aug 2022 01:05:06 GMT",
     "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
     "Link": "<https://www.defensordelpueblo.es/wp-json/>; rel=\"https://api.w.org/\", <https://www.defensordelpueblo.es/>; rel=shortlink",
     "Pragma": "no-cache",
@@ -18,9 +18,9 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 28446121,
+  "scan_id": 28547590,
   "score": 5,
-  "start_time": "Fri, 05 Aug 2022 01:06:22 GMT",
+  "start_time": "Sun, 07 Aug 2022 01:05:03 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
