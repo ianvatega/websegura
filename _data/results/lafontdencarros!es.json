@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Thu, 04 Aug 2022 01:10:47 GMT",
+  "end_time": "Mon, 08 Aug 2022 00:57:41 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
     "Content-language": "ca",
-    "Date": "Thu, 04 Aug 2022 01:10:24 GMT",
+    "Date": "Mon, 08 Aug 2022 00:57:06 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Link": "<http://www.lafontdencarros.es/va>; rel=\"shortlink\", <http://www.lafontdencarros.es/va>; rel=\"canonical\"",
     "Server": "nginx",
@@ -23,9 +23,9 @@
     "X-Proxy-Cache": "STALE",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 28425013,
+  "scan_id": 28558630,
   "score": 0,
-  "start_time": "Thu, 04 Aug 2022 01:05:28 GMT",
+  "start_time": "Mon, 08 Aug 2022 00:57:01 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
