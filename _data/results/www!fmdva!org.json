@@ -1,18 +1,18 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sat, 06 Aug 2022 01:12:23 GMT",
+  "end_time": "Tue, 09 Aug 2022 01:09:10 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Cache-Control": "private",
-    "Content-Length": "82083",
+    "Content-Length": "80997",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Sat, 06 Aug 2022 01:12:14 GMT"
+    "Date": "Tue, 09 Aug 2022 01:09:00 GMT"
   },
-  "scan_id": 28462009,
+  "scan_id": 28588047,
   "score": 0,
-  "start_time": "Sat, 06 Aug 2022 01:12:10 GMT",
+  "start_time": "Tue, 09 Aug 2022 01:05:03 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
