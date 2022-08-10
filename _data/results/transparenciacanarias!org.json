@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sun, 07 Aug 2022 01:03:04 GMT",
+  "end_time": "Wed, 10 Aug 2022 01:03:15 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -12,7 +12,7 @@
     "content-encoding": "gzip",
     "content-length": "27810",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 07 Aug 2022 01:02:25 GMT",
+    "date": "Wed, 10 Aug 2022 01:02:25 GMT",
     "etag": "\"217737-1659701777;gz\"",
     "expires": "Fri, 05 Aug 2022 12:16:17 GMT",
     "link": "<https://transparenciacanarias.org/wp-json/>; rel=\"https://api.w.org/\", <https://transparenciacanarias.org/>; rel=shortlink",
@@ -21,9 +21,9 @@
     "x-powered-by": "PHP/7.2.34",
     "x-ua-compatible": "IE=edge"
   },
-  "scan_id": 28547489,
+  "scan_id": 28616698,
   "score": 0,
-  "start_time": "Sun, 07 Aug 2022 01:02:21 GMT",
+  "start_time": "Wed, 10 Aug 2022 01:02:20 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
