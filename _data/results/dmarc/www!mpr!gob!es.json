@@ -7,7 +7,9 @@
       "chico.rediris.es",
       "sun.rediris.es",
       "dns1.mpr.es",
-      "dns2.mpr.es"
+      "dns2.mpr.es",
+      "chicorelay.rediris.es",
+      "sunrelay.rediris.es"
     ],
     "warnings": []
   },

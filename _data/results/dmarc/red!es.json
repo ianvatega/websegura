@@ -18,27 +18,76 @@
         "hostname": "red-es.mail.protection.outlook.com",
         "addresses": [
           "104.47.4.36",
-          "104.47.5.36",
+          "104.47.6.36",
           "2a01:111:f400:7e05::10",
-          "2a01:111:f400:7e1e::10"
+          "2a01:111:f400:7e06::10"
         ]
       }
     ],
-    "warnings": [
-      "The domain mail-am5eur020010.inbound.protection.outlook.com does not exist",
-      "The reverse DNS of 2a01:111:f400:7e1e::10 is mail-am5eur020010.inbound.protection.outlook.com, but the A/AAAA DNS records for mail-am5eur020010.inbound.protection.outlook.com do not resolve to 2a01:111:f400:7e1e::10"
-    ]
+    "warnings": []
   },
   "spf": {
-    "record": "v=spf1 ip4:194.69.254.0/24 include:spf.protection.outlook.com include:spf.sendinblue.com include:spf.mandrillapp.com -all",
+    "record": "v=spf1 a mx a:smtp.red.es include:spf.protection.outlook.com include:spf.sendinblue.com include:spf.mandrillapp.com -all",
     "valid": true,
-    "dns_lookups": 4,
+    "dns_lookups": 7,
     "warnings": [],
     "parsed": {
       "pass": [
         {
-          "value": "194.69.254.0/24",
-          "mechanism": "ip4"
+          "value": "2600:9000:20ef:1800:12:c39d:d340:93a1",
+          "mechanism": "a"
+        },
+        {
+          "value": "2600:9000:20ef:2200:12:c39d:d340:93a1",
+          "mechanism": "a"
+        },
+        {
+          "value": "2600:9000:20ef:2e00:12:c39d:d340:93a1",
+          "mechanism": "a"
+        },
+        {
+          "value": "2600:9000:20ef:3200:12:c39d:d340:93a1",
+          "mechanism": "a"
+        },
+        {
+          "value": "2600:9000:20ef:5200:12:c39d:d340:93a1",
+          "mechanism": "a"
+        },
+        {
+          "value": "2600:9000:20ef:7200:12:c39d:d340:93a1",
+          "mechanism": "a"
+        },
+        {
+          "value": "2600:9000:20ef:a200:12:c39d:d340:93a1",
+          "mechanism": "a"
+        },
+        {
+          "value": "2600:9000:20ef:e400:12:c39d:d340:93a1",
+          "mechanism": "a"
+        },
+        {
+          "value": "99.86.224.119",
+          "mechanism": "a"
+        },
+        {
+          "value": "99.86.224.12",
+          "mechanism": "a"
+        },
+        {
+          "value": "99.86.224.14",
+          "mechanism": "a"
+        },
+        {
+          "value": "99.86.224.49",
+          "mechanism": "a"
+        },
+        {
+          "value": "red-es.mail.protection.outlook.com",
+          "mechanism": "mx"
+        },
+        {
+          "value": "194.69.254.69",
+          "mechanism": "a"
         }
       ],
       "neutral": [],
@@ -269,7 +318,7 @@
     }
   },
   "dmarc": {
-    "record": "v=DMARC1; p=none; fo=0; rua=mailto:abuse@red.es",
+    "record": "v=DMARC1; p=quarantine; rua=mailto:abuse@red.es; ruf=mailto:abuse@red.es; fo=0; ri=86400; adkim=r; aspf=s",
     "valid": true,
     "location": "red.es",
     "warnings": [],
@@ -279,13 +328,7 @@
         "explicit": true
       },
       "p": {
-        "value": "none",
-        "explicit": true
-      },
-      "fo": {
-        "value": [
-          "0"
-        ],
+        "value": "quarantine",
         "explicit": true
       },
       "rua": {
@@ -298,13 +341,33 @@
         ],
         "explicit": true
       },
+      "ruf": {
+        "value": [
+          {
+            "scheme": "mailto",
+            "address": "abuse@red.es",
+            "size_limit": null
+          }
+        ],
+        "explicit": true
+      },
+      "fo": {
+        "value": [
+          "0"
+        ],
+        "explicit": true
+      },
+      "ri": {
+        "value": 86400,
+        "explicit": true
+      },
       "adkim": {
         "value": "r",
-        "explicit": false
+        "explicit": true
       },
       "aspf": {
-        "value": "r",
-        "explicit": false
+        "value": "s",
+        "explicit": true
       },
       "pct": {
         "value": 100,
@@ -316,12 +379,8 @@
         ],
         "explicit": false
       },
-      "ri": {
-        "value": 86400,
-        "explicit": false
-      },
       "sp": {
-        "value": "none",
+        "value": "quarantine",
         "explicit": false
       }
     }

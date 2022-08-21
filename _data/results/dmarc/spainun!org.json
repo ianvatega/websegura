@@ -14,23 +14,24 @@
       {
         "preference": 0,
         "hostname": "mail.spainun.org",
-        "addresses": [
-          "162.241.248.14"
-        ]
+        "addresses": []
       }
     ],
-    "warnings": []
+    "warnings": [
+      "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
+    ]
   },
   "spf": {
     "record": "v=spf1 a mx include:websitewelcome.com ~all",
     "valid": false,
     "warnings": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
+    "error": "Parsing the SPF record requires 13/10 maximum DNS lookups - https://tools.ietf.org/html/rfc7208#section-4.6.4",
+    "dns_lookups": 13
   },
   "dmarc": {
     "record": null,
     "valid": false,
     "location": null,
-    "error": "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
+    "error": "A DMARC record does not exist for this domain or its base domain"
   }
 }

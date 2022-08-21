@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "dns2.hostinet.com",
-      "dns1.hostinet.com"
+      "dns1.hostinet.com",
+      "dns2.hostinet.com"
     ],
     "warnings": []
   },
@@ -41,7 +41,7 @@
           "mechanism": "mx"
         },
         {
-          "value": "212.89.23.123",
+          "value": "212.89.23.124",
           "mechanism": "a"
         },
         {
