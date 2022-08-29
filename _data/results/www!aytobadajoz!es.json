@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Thu, 25 Aug 2022 01:40:48 GMT",
+  "end_time": "Mon, 29 Aug 2022 01:49:15 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,7 +8,7 @@
     "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
     "Connection": "keep-alive",
     "Content-Type": "text/html",
-    "Date": "Thu, 25 Aug 2022 01:40:35 GMT",
+    "Date": "Mon, 29 Aug 2022 01:49:01 GMT",
     "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
     "Pragma": "no-cache",
     "Server": "nginx",
@@ -16,9 +16,9 @@
     "Transfer-Encoding": "chunked",
     "X-Powered-By": "PHP/5.4.16, PleskLin"
   },
-  "scan_id": 28946922,
+  "scan_id": 29012862,
   "score": 0,
-  "start_time": "Thu, 25 Aug 2022 01:40:30 GMT",
+  "start_time": "Mon, 29 Aug 2022 01:48:56 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
