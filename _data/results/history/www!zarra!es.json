@@ -299,5 +299,12 @@
     "grade": "D+",
     "scan_id": 29157247,
     "score": 40
+  },
+  {
+    "end_time": "Wed, 07 Sep 2022 01:09:06 GMT",
+    "end_time_unix_timestamp": 1662512946,
+    "grade": "F",
+    "scan_id": 29230093,
+    "score": 20
   }
 ]
