@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 06 Sep 2022 00:30:21 GMT",
+  "end_time": "Thu, 08 Sep 2022 00:31:39 GMT",
   "grade": "B+",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -11,7 +11,7 @@
     "Content-Length": "42597",
     "Content-Security-Policy": "default-src https: data:; style-src 'self' 'unsafe-inline' https:; object-src 'none'; script-src * 'unsafe-inline' 'unsafe-eval' https:; img-src 'self' https: data:; frame-src *; frame-ancestors 'self'; base-uri 'self'; form-action *",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Tue, 06 Sep 2022 00:30:17 GMT",
+    "Date": "Thu, 08 Sep 2022 00:31:34 GMT",
     "Expires": "Wed, 17 Aug 2005 00:00:00 GMT",
     "Last-Modified": "Sun, 04 Sep 2022 23:51:27 GMT",
     "Permissions-Policy": "interest-cohort=()",
@@ -24,9 +24,9 @@
     "X-Frame-Options": "SAMEORIGIN, SAMEORIGIN",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 29203583,
+  "scan_id": 29253306,
   "score": 80,
-  "start_time": "Tue, 06 Sep 2022 00:30:15 GMT",
+  "start_time": "Thu, 08 Sep 2022 00:31:33 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 1,
