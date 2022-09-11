@@ -21,10 +21,10 @@
     "warnings": []
   },
   "spf": {
-    "record": "v=spf1 +a +mx +include:dv4.digival.org -all",
+    "record": "v=spf1 +a +mx +include:dv45.digival.org -all",
     "valid": false,
     "warnings": [],
-    "error": "dv4.digival.org does not have a SPF TXT record"
+    "error": "dv45.digival.org does not have a SPF TXT record"
   },
   "dmarc": {
     "record": null,

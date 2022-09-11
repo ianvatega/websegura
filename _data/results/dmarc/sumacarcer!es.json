@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns3.dnsxperta.com",
       "ns1.dnsxperta.com",
+      "ns3.dnsxperta.com",
       "ns2.dnsxperta.com"
     ],
     "warnings": []
@@ -17,7 +17,7 @@
         "hostname": "mx.spamexperts.com",
         "addresses": [
           "2001:550:2:61::2fc:100",
-          "38.111.198.185"
+          "38.89.254.156"
         ]
       },
       {
@@ -268,14 +268,6 @@
                 "mechanism": "a"
               },
               {
-                "value": "2001:1af8:4500:a050:2::1",
-                "mechanism": "a"
-              },
-              {
-                "value": "2001:1af8:4700:a008:1::2",
-                "mechanism": "a"
-              },
-              {
                 "value": "2001:1af8:4900:a01e:9::1",
                 "mechanism": "a"
               },
@@ -444,6 +436,14 @@
                 "mechanism": "a"
               },
               {
+                "value": "2001:978:2:2f::5:101",
+                "mechanism": "a"
+              },
+              {
+                "value": "2001:978:2:2f::5:102",
+                "mechanism": "a"
+              },
+              {
                 "value": "2001:978:2:6::20:11",
                 "mechanism": "a"
               },
@@ -469,6 +469,10 @@
               },
               {
                 "value": "2001:978:2:6::f:101",
+                "mechanism": "a"
+              },
+              {
+                "value": "2001:978:2:7::e7:11",
                 "mechanism": "a"
               },
               {

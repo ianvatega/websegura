@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "olimpia.madrid.org",
-      "icmcom.madrid.org"
+      "icmcom.madrid.org",
+      "olimpia.madrid.org"
     ],
     "warnings": []
   },
@@ -22,15 +22,15 @@
         "preference": 20,
         "hostname": "aspmx.l.google.com",
         "addresses": [
-          "142.251.116.27",
-          "2607:f8b0:4023:1002::1a"
+          "142.250.113.26",
+          "2607:f8b0:4023:1004::1b"
         ]
       },
       {
         "preference": 30,
         "hostname": "alt1.aspmx.l.google.com",
         "addresses": [
-          "142.250.152.26",
+          "142.250.152.27",
           "2607:f8b0:4001:c56::1b"
         ]
       },
@@ -39,23 +39,23 @@
         "hostname": "alt2.aspmx.l.google.com",
         "addresses": [
           "172.253.113.27",
-          "2607:f8b0:4023:1::1b"
+          "2607:f8b0:4023:1::1a"
         ]
       },
       {
         "preference": 40,
         "hostname": "aspmx2.googlemail.com",
         "addresses": [
-          "2607:f8b0:4001:c56::1a",
-          "64.233.184.26"
+          "142.250.152.26",
+          "2607:f8b0:4001:c56::1a"
         ]
       },
       {
         "preference": 40,
         "hostname": "aspmx3.googlemail.com",
         "addresses": [
-          "172.253.113.26",
-          "2a00:1450:4025:401::1a"
+          "172.253.113.27",
+          "2607:f8b0:4023:1::1b"
         ]
       }
     ],
@@ -86,7 +86,7 @@
       "include": [
         {
           "domain": "spf.protection.outlook.com",
-          "record": "v=spf1 ip4:40.92.0.0/15 ip4:40.107.0.0/16 ip4:52.100.0.0/14 ip4:104.47.0.0/17 ip6:2a01:111:f400::/48 ip6:2a01:111:f403::/48 include:spfd.protection.outlook.com -all",
+          "record": "v=spf1 ip4:40.92.0.0/15 ip4:40.107.0.0/16 ip4:52.100.0.0/14 ip4:104.47.0.0/17 ip6:2a01:111:f400::/48 ip6:2a01:111:f403::/49 ip6:2a01:111:f403:8000::/50 ip6:2a01:111:f403:c000::/51 ip6:2a01:111:f403:f000::/52 include:spfd.protection.outlook.com -all",
           "dns_lookups": 1,
           "parsed": {
             "pass": [
@@ -111,7 +111,19 @@
                 "mechanism": "ip6"
               },
               {
-                "value": "2a01:111:f403::/48",
+                "value": "2a01:111:f403::/49",
+                "mechanism": "ip6"
+              },
+              {
+                "value": "2a01:111:f403:8000::/50",
+                "mechanism": "ip6"
+              },
+              {
+                "value": "2a01:111:f403:c000::/51",
+                "mechanism": "ip6"
+              },
+              {
+                "value": "2a01:111:f403:f000::/52",
                 "mechanism": "ip6"
               }
             ],

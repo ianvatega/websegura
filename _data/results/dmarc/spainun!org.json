@@ -14,12 +14,12 @@
       {
         "preference": 0,
         "hostname": "mail.spainun.org",
-        "addresses": []
+        "addresses": [
+          "162.241.248.14"
+        ]
       }
     ],
-    "warnings": [
-      "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 a mx include:websitewelcome.com ~all",

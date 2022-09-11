@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "dns2.murcia.es",
-      "dns1.murcia.es"
+      "dns1.murcia.es",
+      "dns2.murcia.es"
     ],
     "warnings": []
   },
@@ -34,7 +34,7 @@
   "spf": {
     "record": null,
     "valid": false,
-    "error": "All nameservers failed to answer the query murcia.es. IN TXT: Server 1.0.0.1 UDP port 53 answered SERVFAIL"
+    "error": "murcia.es does not have a SPF TXT record"
   },
   "dmarc": {
     "record": null,

@@ -12,43 +12,8 @@
     "warnings": []
   },
   "mx": {
-    "hosts": [
-      {
-        "preference": 10,
-        "hostname": "mx.spamexperts.com",
-        "addresses": [
-          "2001:550:2:61::2fc:100",
-          "38.109.53.20"
-        ]
-      },
-      {
-        "preference": 50,
-        "hostname": "fallbackmx.spamexperts.eu",
-        "addresses": [
-          "2001:550:2:61::2fc:100",
-          "2001:550:2:78::ca:100",
-          "2001:550:2:9::280:100",
-          "38.109.53.20",
-          "38.111.198.185",
-          "38.89.254.156"
-        ]
-      },
-      {
-        "preference": 100,
-        "hostname": "lastmx.spamexperts.net",
-        "addresses": [
-          "130.117.53.188",
-          "149.13.75.27",
-          "2001:550:2:61::2fc:100",
-          "2001:550:2:9::280:100",
-          "2001:978:2:2c::137:100",
-          "2001:978:2:7::162:100",
-          "38.111.198.185",
-          "38.89.254.156"
-        ]
-      }
-    ],
-    "warnings": []
+    "hosts": [],
+    "error": "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
   },
   "spf": {
     "record": "v=spf1 include:spf.qsemail.net include:spf.acumbamail.com -all",
@@ -256,14 +221,6 @@
                 "mechanism": "a"
               },
               {
-                "value": "2001:1af8:4500:a050:2::1",
-                "mechanism": "a"
-              },
-              {
-                "value": "2001:1af8:4700:a008:1::2",
-                "mechanism": "a"
-              },
-              {
                 "value": "2001:1af8:4900:a01e:9::1",
                 "mechanism": "a"
               },
@@ -432,6 +389,14 @@
                 "mechanism": "a"
               },
               {
+                "value": "2001:978:2:2f::5:101",
+                "mechanism": "a"
+              },
+              {
+                "value": "2001:978:2:2f::5:102",
+                "mechanism": "a"
+              },
+              {
                 "value": "2001:978:2:6::20:11",
                 "mechanism": "a"
               },
@@ -457,6 +422,10 @@
               },
               {
                 "value": "2001:978:2:6::f:101",
+                "mechanism": "a"
+              },
+              {
+                "value": "2001:978:2:7::e7:11",
                 "mechanism": "a"
               },
               {
@@ -1084,7 +1053,7 @@
         },
         {
           "domain": "spf.acumbamail.com",
-          "record": "v=spf1 ip4:176.28.104.1/24 ip4:185.2.150.1/24 ip4:185.103.37.224/28 ip4:5.57.226.1/24 ip4:5.57.227.80/28 ip4:185.99.184.146/31 ip4:5.57.227.112/28 ip4:185.99.184.144/28 ip4:185.103.36.192/28 ~all",
+          "record": "v=spf1 ip4:176.28.104.1/24 ip4:185.2.150.1/24 ip4:185.103.37.224/28 ip4:5.57.226.1/24 ip4:5.57.227.80/28 ip4:5.57.227.112/28 ip4:185.99.184.144/28 ip4:185.103.36.192/28 ~all",
           "dns_lookups": 0,
           "parsed": {
             "pass": [
@@ -1106,10 +1075,6 @@
               },
               {
                 "value": "5.57.227.80/28",
-                "mechanism": "ip4"
-              },
-              {
-                "value": "185.99.184.146/31",
                 "mechanism": "ip4"
               },
               {
