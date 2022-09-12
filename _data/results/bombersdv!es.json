@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Thu, 08 Sep 2022 01:08:47 GMT",
+  "end_time": "Mon, 12 Sep 2022 01:11:49 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,7 +8,7 @@
     "Connection": "keep-alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Thu, 08 Sep 2022 01:07:26 GMT",
+    "Date": "Mon, 12 Sep 2022 01:10:59 GMT",
     "Link": "<https://www.bombersdv.es/wp-json/>; rel=\"https://api.w.org/\", <https://www.bombersdv.es/wp-json/wp/v2/pages/40350>; rel=\"alternate\"; type=\"application/json\", <https://www.bombersdv.es/>; rel=shortlink",
     "Server": "nginx/1.14.0 (Ubuntu)",
     "Transfer-Encoding": "chunked",
@@ -18,9 +18,9 @@
     "X-TEC-API-ROOT": "https://www.bombersdv.es/wp-json/tribe/events/v1/",
     "X-TEC-API-VERSION": "v1"
   },
-  "scan_id": 29254027,
+  "scan_id": 29331493,
   "score": 15,
-  "start_time": "Thu, 08 Sep 2022 01:07:17 GMT",
+  "start_time": "Mon, 12 Sep 2022 01:09:52 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
