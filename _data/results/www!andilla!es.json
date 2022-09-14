@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 12 Sep 2022 01:53:07 GMT",
+  "end_time": "Wed, 14 Sep 2022 02:12:48 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
     "Content-language": "es",
-    "Date": "Mon, 12 Sep 2022 01:52:15 GMT",
+    "Date": "Wed, 14 Sep 2022 02:12:36 GMT",
     "ETag": "W/\"1662119449\"",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Last-Modified": "Fri, 02 Sep 2022 11:50:49 GMT",
@@ -24,9 +24,9 @@
     "X-Proxy-Cache": "HIT",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 29332208,
+  "scan_id": 29389628,
   "score": 0,
-  "start_time": "Mon, 12 Sep 2022 01:51:01 GMT",
+  "start_time": "Wed, 14 Sep 2022 02:11:55 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
