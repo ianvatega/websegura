@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Wed, 14 Sep 2022 00:16:01 GMT",
+  "end_time": "Fri, 16 Sep 2022 01:12:59 GMT",
   "grade": "D+",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Connection": "Keep-Alive",
     "Content-Type": "text/html; charset=UTF-8",
     "Content-language": "es",
-    "Date": "Tue, 13 Sep 2022 23:14:29 GMT",
+    "Date": "Thu, 15 Sep 2022 23:15:05 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Keep-Alive": "timeout=5, max=99",
     "Link": "<http://www.pamplona.es/>; rel=\"canonical\", <http://www.pamplona.es/>; rel=\"shortlink\", <http://www.pamplona.es/portada>; rel=\"alternate\"; hreflang=\"es\", <http://www.pamplona.es/eu/hasiera>; rel=\"alternate\"; hreflang=\"eu\", <http://www.pamplona.es/en/home>; rel=\"alternate\"; hreflang=\"en\", <http://www.pamplona.es/fr/couvrir>; rel=\"alternate\"; hreflang=\"fr\", <http://www.pamplona.es/portada>; rel=\"revision\"",
@@ -18,9 +18,9 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 29387515,
+  "scan_id": 29436423,
   "score": 40,
-  "start_time": "Wed, 14 Sep 2022 00:14:58 GMT",
+  "start_time": "Fri, 16 Sep 2022 01:10:47 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
