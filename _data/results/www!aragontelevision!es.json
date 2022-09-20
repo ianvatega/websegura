@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sat, 17 Sep 2022 01:37:00 GMT",
+  "end_time": "Tue, 20 Sep 2022 01:07:52 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Connection": "keep-alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html",
-    "Date": "Sat, 17 Sep 2022 01:36:40 GMT",
+    "Date": "Tue, 20 Sep 2022 01:07:38 GMT",
     "Expires": "Thu, 01 Jan 1970 00:00:01 GMT",
     "Server": "nginx",
     "Transfer-Encoding": "chunked",
@@ -17,9 +17,9 @@
     "X-Content-Options": "nosniff",
     "home": "HIT"
   },
-  "scan_id": 29459021,
+  "scan_id": 29524993,
   "score": 0,
-  "start_time": "Sat, 17 Sep 2022 01:36:38 GMT",
+  "start_time": "Tue, 20 Sep 2022 01:06:35 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 7,
