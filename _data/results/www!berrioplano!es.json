@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 19 Sep 2022 00:14:14 GMT",
+  "end_time": "Wed, 21 Sep 2022 01:14:09 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,12 +8,12 @@
     "Connection": "close",
     "Content-Length": "315",
     "Content-Type": "text/html; charset=us-ascii",
-    "Date": "Mon, 19 Sep 2022 00:14:03 GMT",
+    "Date": "Wed, 21 Sep 2022 01:13:54 GMT",
     "Server": "Microsoft-HTTPAPI/2.0"
   },
-  "scan_id": 29494311,
+  "scan_id": 29553350,
   "score": 0,
-  "start_time": "Mon, 19 Sep 2022 00:14:04 GMT",
+  "start_time": "Wed, 21 Sep 2022 01:13:59 GMT",
   "state": "FINISHED",
   "status_code": 404,
   "tests_failed": 6,
