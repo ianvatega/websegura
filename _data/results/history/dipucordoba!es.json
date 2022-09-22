@@ -243,5 +243,12 @@
     "grade": "C",
     "scan_id": 29526441,
     "score": 55
+  },
+  {
+    "end_time": "Thu, 22 Sep 2022 01:09:19 GMT",
+    "end_time_unix_timestamp": 1663808959,
+    "grade": "B-",
+    "scan_id": 29576597,
+    "score": 65
   }
 ]

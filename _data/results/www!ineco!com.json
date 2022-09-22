@@ -1,8 +1,8 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 19 Sep 2022 01:50:15 GMT",
-  "grade": "F",
-  "hidden": false,
+  "end_time": "Wed, 21 Sep 2022 09:36:57 GMT",
+  "grade": "D-",
+  "hidden": true,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Cache-Control": "no-cache, must-revalidate",
@@ -11,7 +11,7 @@
     "Content-Language": "es",
     "Content-Length": "16333",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Mon, 19 Sep 2022 01:49:56 GMT",
+    "Date": "Wed, 21 Sep 2022 09:36:41 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Keep-Alive": "timeout=5, max=99",
     "Link": "<https://www.ineco.com/webineco/portada>; rel=\"canonical\",<https://www.ineco.com/webineco/portada>; rel=\"shortlink\"",
@@ -19,16 +19,16 @@
     "Server": "Apache",
     "Strict-Transport-Security": "max-age=16070400; includeSubDomains; preload",
     "Vary": "Accept-Encoding",
-    "X-Content-Type-Options": "nosniff, nosniff",
+    "X-Content-Type-Options": "nosniff",
     "X-Frame-Options": "SAMEORIGIN",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 29496369,
-  "score": 20,
-  "start_time": "Mon, 19 Sep 2022 01:49:50 GMT",
+  "scan_id": 29561318,
+  "score": 25,
+  "start_time": "Wed, 21 Sep 2022 09:36:34 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 3,
-  "tests_passed": 9,
+  "tests_failed": 2,
+  "tests_passed": 10,
   "tests_quantity": 12
 }
