@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Wed, 21 Sep 2022 01:53:32 GMT",
+  "end_time": "Sat, 24 Sep 2022 01:44:11 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -11,7 +11,7 @@
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
     "Content-language": "ca",
-    "Date": "Wed, 21 Sep 2022 01:52:54 GMT",
+    "Date": "Sat, 24 Sep 2022 01:43:34 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Permissions-Policy": "interest-cohort=()",
     "Transfer-Encoding": "chunked",
@@ -23,12 +23,12 @@
     "X-Proxy-Cache": "HIT",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 29553957,
-  "score": 20,
-  "start_time": "Wed, 21 Sep 2022 01:52:46 GMT",
+  "scan_id": 29621356,
+  "score": 0,
+  "start_time": "Sat, 24 Sep 2022 01:43:29 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 5,
-  "tests_passed": 7,
+  "tests_failed": 4,
+  "tests_passed": 8,
   "tests_quantity": 12
 }

@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Wed, 21 Sep 2022 00:15:57 GMT",
+  "end_time": "Sat, 24 Sep 2022 00:16:38 GMT",
   "grade": "B-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Language": "es",
     "Content-Security-Policy": "frame-ancestors 'self' www.emasesa.com www2-des.emasesa.com www2-test.emasesa.com ;",
     "Content-Type": "text/html;charset=utf-8",
-    "Date": "Wed, 21 Sep 2022 00:15:54 GMT",
+    "Date": "Sat, 24 Sep 2022 00:16:35 GMT",
     "Expires": "Sat, 01 Jan 2000 00:00:00 GMT",
     "Keep-Alive": "timeout=15, max=100",
     "Server": "nginx/1.6.2",
@@ -23,9 +23,9 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-Ua-Compatible": "IE=edge"
   },
-  "scan_id": 29551930,
+  "scan_id": 29619905,
   "score": 65,
-  "start_time": "Wed, 21 Sep 2022 00:15:50 GMT",
+  "start_time": "Sat, 24 Sep 2022 00:16:12 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 3,
