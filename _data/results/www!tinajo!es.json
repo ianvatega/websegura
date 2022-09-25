@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 23 Sep 2022 00:20:25 GMT",
+  "end_time": "Sun, 25 Sep 2022 01:10:47 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
     "Content-language": "es",
-    "Date": "Fri, 23 Sep 2022 00:19:47 GMT",
+    "Date": "Sun, 25 Sep 2022 01:10:12 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Keep-Alive": "timeout=15",
     "Link": "<https://www.tinajo.es/node/60>; rel=\"canonical\", <https://www.tinajo.es/node/60>; rel=\"shortlink\"",
@@ -24,9 +24,9 @@
     "X-Generator": "Drupal 9 (https://www.drupal.org)",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 29598403,
+  "scan_id": 29638972,
   "score": 20,
-  "start_time": "Fri, 23 Sep 2022 00:16:37 GMT",
+  "start_time": "Sun, 25 Sep 2022 01:09:16 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
