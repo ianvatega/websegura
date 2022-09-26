@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 23 Sep 2022 01:48:55 GMT",
+  "end_time": "Mon, 26 Sep 2022 01:12:31 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -22,9 +22,9 @@
     "X-Powered-By": "PHP/7.4.30",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 29599934,
+  "scan_id": 29659400,
   "score": 0,
-  "start_time": "Fri, 23 Sep 2022 01:48:32 GMT",
+  "start_time": "Mon, 26 Sep 2022 01:11:52 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
