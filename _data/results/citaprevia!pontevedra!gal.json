@@ -1,7 +1,7 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 27 Sep 2022 01:14:03 GMT",
-  "grade": "D+",
+  "end_time": "Sat, 01 Oct 2022 01:26:17 GMT",
+  "grade": "D",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
@@ -9,18 +9,18 @@
     "Content-Encoding": "gzip",
     "Content-Language": "es",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Tue, 27 Sep 2022 01:13:51 GMT",
+    "Date": "Sat, 01 Oct 2022 01:26:00 GMT",
     "Server": "nginx/1.16.1",
-    "Set-Cookie": "JSESSIONID=4EF3F27301565E32460E487218DAD32E; Path=/citaprevia; Secure; HttpOnly",
+    "Set-Cookie": "JSESSIONID=2CC040AFD966A2E1094A4CD9284BB522; Path=/citaprevia; Secure; HttpOnly",
     "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
     "Transfer-Encoding": "chunked"
   },
-  "scan_id": 29689881,
-  "score": 40,
-  "start_time": "Tue, 27 Sep 2022 01:12:55 GMT",
+  "scan_id": 29793817,
+  "score": 30,
+  "start_time": "Sat, 01 Oct 2022 01:25:56 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 4,
-  "tests_passed": 8,
+  "tests_failed": 5,
+  "tests_passed": 7,
   "tests_quantity": 12
 }
