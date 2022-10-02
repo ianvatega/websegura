@@ -1,3 +1,65 @@
-{
-  "error": "Unable to connect to database"
-}
+[
+  {
+    "end_time": "Tue, 09 Feb 2021 12:28:38 GMT",
+    "end_time_unix_timestamp": 1612873718,
+    "grade": "F",
+    "scan_id": 17670977,
+    "score": 0
+  },
+  {
+    "end_time": "Sat, 02 Jul 2022 01:16:43 GMT",
+    "end_time_unix_timestamp": 1656724603,
+    "grade": "F",
+    "scan_id": 27530311,
+    "score": 20
+  },
+  {
+    "end_time": "Fri, 08 Jul 2022 01:02:04 GMT",
+    "end_time_unix_timestamp": 1657242124,
+    "grade": "F",
+    "scan_id": 27664758,
+    "score": 0
+  },
+  {
+    "end_time": "Wed, 21 Sep 2022 02:26:00 GMT",
+    "end_time_unix_timestamp": 1663727160,
+    "grade": "F",
+    "scan_id": 29554490,
+    "score": 20
+  },
+  {
+    "end_time": "Fri, 23 Sep 2022 01:15:27 GMT",
+    "end_time_unix_timestamp": 1663895727,
+    "grade": "F",
+    "scan_id": 29599413,
+    "score": 0
+  },
+  {
+    "end_time": "Sat, 24 Sep 2022 02:20:57 GMT",
+    "end_time_unix_timestamp": 1663986057,
+    "grade": "F",
+    "scan_id": 29621851,
+    "score": 20
+  },
+  {
+    "end_time": "Mon, 26 Sep 2022 01:12:44 GMT",
+    "end_time_unix_timestamp": 1664154764,
+    "grade": "F",
+    "scan_id": 29659466,
+    "score": 0
+  },
+  {
+    "end_time": "Tue, 27 Sep 2022 02:10:09 GMT",
+    "end_time_unix_timestamp": 1664244609,
+    "grade": "F",
+    "scan_id": 29690886,
+    "score": 20
+  },
+  {
+    "end_time": "Sun, 02 Oct 2022 01:21:04 GMT",
+    "end_time_unix_timestamp": 1664673664,
+    "grade": "F",
+    "scan_id": 29821858,
+    "score": 0
+  }
+]
