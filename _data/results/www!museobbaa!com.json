@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sat, 01 Oct 2022 00:22:27 GMT",
+  "end_time": "Mon, 03 Oct 2022 01:10:35 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Length": "10427",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Sat, 01 Oct 2022 00:22:16 GMT",
+    "Date": "Mon, 03 Oct 2022 01:10:13 GMT",
     "ETag": "\"28bb-5e9d1b0529bd5\"",
     "Last-Modified": "Thu, 29 Sep 2022 14:28:19 GMT",
     "MS-Author-Via": "DAV",
@@ -18,9 +18,9 @@
     "Vary": "Accept-Encoding,Cookie",
     "X-Powered-By": "PleskLin"
   },
-  "scan_id": 29792574,
+  "scan_id": 29842839,
   "score": 0,
-  "start_time": "Sat, 01 Oct 2022 00:22:16 GMT",
+  "start_time": "Mon, 03 Oct 2022 01:10:12 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 8,
