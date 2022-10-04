@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 30 Sep 2022 01:46:15 GMT",
+  "end_time": "Tue, 04 Oct 2022 01:19:02 GMT",
   "grade": "D+",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Language": "es",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Fri, 30 Sep 2022 01:46:02 GMT",
+    "Date": "Tue, 04 Oct 2022 01:18:35 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Server": "nginx",
     "Transfer-Encoding": "chunked",
@@ -18,9 +18,9 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-Generator": "Drupal 7 (http://drupal.org)"
   },
-  "scan_id": 29770595,
+  "scan_id": 29871653,
   "score": 40,
-  "start_time": "Fri, 30 Sep 2022 01:45:56 GMT",
+  "start_time": "Tue, 04 Oct 2022 01:18:29 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
