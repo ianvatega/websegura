@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 03 Oct 2022 15:12:37 GMT",
+  "end_time": "Thu, 06 Oct 2022 01:08:56 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,14 +8,14 @@
     "Connection": "keep-alive",
     "Content-Length": "67149",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Mon, 03 Oct 2022 15:12:30 GMT",
+    "Date": "Thu, 06 Oct 2022 01:08:59 GMT",
     "Link": "<https://fortalezacastro.vigo.org/wp-json/>; rel=\"https://api.w.org/\"",
     "Server": "nginx",
-    "X-Powered-By": "PHP/7.4.30, PleskLin"
+    "X-Powered-By": "PHP/7.4.32, PleskLin"
   },
-  "scan_id": 29861341,
+  "scan_id": 29919928,
   "score": 0,
-  "start_time": "Mon, 03 Oct 2022 15:10:30 GMT",
+  "start_time": "Thu, 06 Oct 2022 01:07:21 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
