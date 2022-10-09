@@ -4,6 +4,7 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
+      "mailhost-pre.msc.es",
       "mailhost.msc.es",
       "crdserver.msc.es"
     ],

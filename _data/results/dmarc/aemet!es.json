@@ -104,7 +104,7 @@
     }
   },
   "dmarc": {
-    "record": "v=DMARC1; p=none; rua= mailto:informes.correo@correo.gob.es; ruf=mailto:avisos.correo@correo.gob.es",
+    "record": "v=DMARC1; p=quarantine; rua=mailto:avisos.correo@correo.gob.es; ruf=mailto:avisos.correo@correo.gob.es; fo=1;",
     "valid": true,
     "location": "aemet.es",
     "warnings": [],
@@ -114,14 +114,14 @@
         "explicit": true
       },
       "p": {
-        "value": "none",
+        "value": "quarantine",
         "explicit": true
       },
       "rua": {
         "value": [
           {
             "scheme": "mailto",
-            "address": "informes.correo@correo.gob.es",
+            "address": "avisos.correo@correo.gob.es",
             "size_limit": null
           }
         ],
@@ -137,18 +137,18 @@
         ],
         "explicit": true
       },
+      "fo": {
+        "value": [
+          "1"
+        ],
+        "explicit": true
+      },
       "adkim": {
         "value": "r",
         "explicit": false
       },
       "aspf": {
         "value": "r",
-        "explicit": false
-      },
-      "fo": {
-        "value": [
-          "0"
-        ],
         "explicit": false
       },
       "pct": {
@@ -166,7 +166,7 @@
         "explicit": false
       },
       "sp": {
-        "value": "none",
+        "value": "quarantine",
         "explicit": false
       }
     }

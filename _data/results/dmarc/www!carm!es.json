@@ -4,10 +4,10 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "dns01.ono.com",
+      "rafi.f-integra.org",
       "ns1e.carm.es",
       "ns2e.carm.es",
-      "rafi.f-integra.org"
+      "dns01.ono.com"
     ],
     "warnings": []
   },
@@ -17,7 +17,7 @@
         "preference": 5,
         "hostname": "carm-es.mail.protection.outlook.com",
         "addresses": [
-          "104.47.17.138",
+          "104.47.17.74",
           "104.47.18.74"
         ]
       }
@@ -162,7 +162,7 @@
     }
   },
   "dmarc": {
-    "record": "v=DMARC1; p=none; rua=mailto:dmarc-reports-rua@carm.es; ruf=mailto:dmarc-reports-ruf@carm.es",
+    "record": "v=DMARC1; p=quarantine; fo=1; rua=mailto:dmarc-reports-rua@carm.es; ruf=mailto:dmarc-reports-ruf@carm.es",
     "valid": true,
     "location": "carm.es",
     "warnings": [],
@@ -172,7 +172,13 @@
         "explicit": true
       },
       "p": {
-        "value": "none",
+        "value": "quarantine",
+        "explicit": true
+      },
+      "fo": {
+        "value": [
+          "1"
+        ],
         "explicit": true
       },
       "rua": {
@@ -203,12 +209,6 @@
         "value": "r",
         "explicit": false
       },
-      "fo": {
-        "value": [
-          "0"
-        ],
-        "explicit": false
-      },
       "pct": {
         "value": 100,
         "explicit": false
@@ -224,7 +224,7 @@
         "explicit": false
       },
       "sp": {
-        "value": "none",
+        "value": "quarantine",
         "explicit": false
       }
     }

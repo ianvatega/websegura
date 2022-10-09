@@ -12,6 +12,13 @@
   "mx": {
     "hosts": [
       {
+        "preference": 5,
+        "hostname": "vmail.altia.es",
+        "addresses": [
+          "217.130.24.175"
+        ]
+      },
+      {
         "preference": 10,
         "hostname": "mail.algeciras.es",
         "addresses": [
