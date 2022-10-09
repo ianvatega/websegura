@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Thu, 06 Oct 2022 01:25:24 GMT",
+  "end_time": "Sun, 09 Oct 2022 01:40:42 GMT",
   "grade": "D-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Connection": "Keep-Alive",
     "Content-Language": "ca",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Thu, 06 Oct 2022 01:25:07 GMT",
+    "Date": "Sun, 09 Oct 2022 01:40:29 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Keep-Alive": "timeout=5, max=300",
     "Link": "<http://muvim.es/va>; rel=\"canonical\",<http://muvim.es/va>; rel=\"shortlink\"",
@@ -21,9 +21,9 @@
     "X-Generator": "Drupal 7 (http://drupal.org)",
     "X-Powered-By": "PHP/5.6.32"
   },
-  "scan_id": 29920503,
+  "scan_id": 29983305,
   "score": 25,
-  "start_time": "Thu, 06 Oct 2022 01:25:05 GMT",
+  "start_time": "Sun, 09 Oct 2022 01:40:28 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
