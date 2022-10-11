@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sun, 09 Oct 2022 01:07:26 GMT",
+  "end_time": "Tue, 11 Oct 2022 01:28:30 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Length": "11205",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Sun, 09 Oct 2022 01:07:10 GMT",
+    "Date": "Tue, 11 Oct 2022 01:28:14 GMT",
     "Expect-CT": "enforce, max-age=2592000",
     "Server": "srv",
     "Strict-Transport-Security": "max-age=31536000;",
@@ -20,9 +20,9 @@
     "X-UA-Compatible": "IE=edge",
     "X-XSS-Protection": "1"
   },
-  "scan_id": 29982516,
+  "scan_id": 30029160,
   "score": 15,
-  "start_time": "Sun, 09 Oct 2022 01:07:03 GMT",
+  "start_time": "Tue, 11 Oct 2022 01:28:07 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 3,
