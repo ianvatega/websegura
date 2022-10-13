@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 11 Oct 2022 00:20:01 GMT",
+  "end_time": "Thu, 13 Oct 2022 01:15:05 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Connection": "keep-alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Tue, 11 Oct 2022 00:19:01 GMT",
+    "Date": "Thu, 13 Oct 2022 01:14:26 GMT",
     "Keep-Alive": "timeout=20",
     "Link": "<https://www.circuitricardotormo.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.circuitricardotormo.com/wp-json/wp/v2/pages/46>; rel=\"alternate\"; type=\"application/json\", <https://www.circuitricardotormo.com/>; rel=shortlink",
     "Server": "nginx",
@@ -20,12 +20,12 @@
     "X-Cacheable": "SHORT",
     "X-Powered-By": "WP Engine"
   },
-  "scan_id": 30027565,
-  "score": 20,
-  "start_time": "Tue, 11 Oct 2022 00:18:57 GMT",
+  "scan_id": 30088688,
+  "score": 15,
+  "start_time": "Thu, 13 Oct 2022 01:14:23 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 5,
-  "tests_passed": 7,
+  "tests_failed": 6,
+  "tests_passed": 6,
   "tests_quantity": 12
 }

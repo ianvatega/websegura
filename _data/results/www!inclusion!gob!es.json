@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 11 Oct 2022 01:05:25 GMT",
+  "end_time": "Thu, 13 Oct 2022 01:43:14 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,7 +8,7 @@
     "Cache-Control": "private, no-cache, no-store, must-revalidate",
     "Connection": "Keep-Alive",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Tue, 11 Oct 2022 01:05:15 GMT",
+    "Date": "Thu, 13 Oct 2022 01:42:54 GMT",
     "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
     "Keep-Alive": "timeout=5, max=99",
     "Liferay-Portal": "Liferay Digital Experience Platform 7.3.10 SP3 (Athanasius / Build 7310 / September 22, 2020)",
@@ -19,12 +19,12 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-XSS-Protection": "1"
   },
-  "scan_id": 30028478,
-  "score": 15,
-  "start_time": "Tue, 11 Oct 2022 01:05:09 GMT",
+  "scan_id": 30089253,
+  "score": 10,
+  "start_time": "Thu, 13 Oct 2022 01:41:55 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 4,
-  "tests_passed": 8,
+  "tests_failed": 5,
+  "tests_passed": 7,
   "tests_quantity": 12
 }
