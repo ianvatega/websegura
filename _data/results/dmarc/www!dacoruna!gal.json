@@ -4,11 +4,11 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns1.xunta.es",
-      "dns1.dacoruna.gal",
+      "dns.dicoruna.es",
       "dns1.dicoruna.es",
       "dns.dacoruna.gal",
-      "dns.dicoruna.es",
+      "dns1.dacoruna.gal",
+      "ns1.xunta.es",
       "ns2.xunta.es"
     ],
     "warnings": []

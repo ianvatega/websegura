@@ -4,37 +4,16 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns2.upct.es",
-      "chico.rediris.es",
       "ns1.upct.es",
-      "sun.rediris.es"
+      "sun.rediris.es",
+      "chico.rediris.es",
+      "ns2.upct.es"
     ],
     "warnings": []
   },
   "mx": {
-    "hosts": [
-      {
-        "preference": 10,
-        "hostname": "mx01.puc.rediris.es",
-        "addresses": [
-          "130.206.19.130",
-          "130.206.19.162",
-          "2001:720:418:ca10::2",
-          "2001:720:418:ca11::2"
-        ]
-      },
-      {
-        "preference": 10,
-        "hostname": "mx02.puc.rediris.es",
-        "addresses": [
-          "130.206.19.130",
-          "130.206.19.162",
-          "2001:720:418:ca10::2",
-          "2001:720:418:ca11::2"
-        ]
-      }
-    ],
-    "warnings": []
+    "hosts": [],
+    "error": "All nameservers failed to answer the query 162.19.206.130.in-addr.arpa. IN PTR: Server 1.0.0.1 UDP port 53 answered SERVFAIL"
   },
   "spf": {
     "record": "v=spf1 include:spf.puc.rediris.es include:spf.protection.outlook.com ip4:212.128.20.42 ip4:212.128.20.115 ip4:212.128.20.211 ip4:212.128.20.254 ip4:212.128.20.86 a:eventos.upct.es -all",
@@ -64,11 +43,11 @@
           "mechanism": "ip4"
         },
         {
-          "value": "52.16.241.92",
+          "value": "34.255.167.215",
           "mechanism": "a"
         },
         {
-          "value": "52.49.226.246",
+          "value": "54.246.224.196",
           "mechanism": "a"
         },
         {
