@@ -1,13 +1,13 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 14 Oct 2022 01:19:40 GMT",
+  "end_time": "Mon, 17 Oct 2022 01:56:48 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "Keep-Alive",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Fri, 14 Oct 2022 01:18:44 GMT",
+    "Date": "Mon, 17 Oct 2022 01:56:04 GMT",
     "Keep-Alive": "timeout=3, max=100",
     "Link": "<https://www.madridporeldeporte.org/wp-json/>; rel=\"https://api.w.org/\", <https://www.madridporeldeporte.org/>; rel=shortlink",
     "Server": "Apache/2.4.54 (Unix)",
@@ -16,9 +16,9 @@
     "X-Pingback": "https://www.madridporeldeporte.org/xmlrpc.php",
     "X-Powered-By": "PHP/7.4.30"
   },
-  "scan_id": 30114248,
+  "scan_id": 30171748,
   "score": 15,
-  "start_time": "Fri, 14 Oct 2022 01:18:39 GMT",
+  "start_time": "Mon, 17 Oct 2022 01:54:42 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
