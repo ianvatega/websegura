@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 14 Oct 2022 01:55:44 GMT",
+  "end_time": "Tue, 18 Oct 2022 01:49:19 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Length": "27754",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Fri, 14 Oct 2022 01:55:14 GMT",
+    "Date": "Tue, 18 Oct 2022 01:48:25 GMT",
     "Keep-Alive": "timeout=30",
     "Link": "<https://www.museocienciavalladolid.es/wp-json/>; rel=\"https://api.w.org/\", <https://www.museocienciavalladolid.es/wp-json/wp/v2/pages/16>; rel=\"alternate\"; type=\"application/json\", <https://www.museocienciavalladolid.es/>; rel=shortlink",
     "Server": "Apache/2.4.25 (Debian)",
@@ -19,9 +19,9 @@
     "X-TEC-API-ROOT": "https://www.museocienciavalladolid.es/wp-json/tribe/events/v1/",
     "X-TEC-API-VERSION": "v1"
   },
-  "scan_id": 30115130,
+  "scan_id": 30198716,
   "score": 20,
-  "start_time": "Fri, 14 Oct 2022 01:55:10 GMT",
+  "start_time": "Tue, 18 Oct 2022 01:48:19 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
