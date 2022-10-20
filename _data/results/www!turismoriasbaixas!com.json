@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 17 Oct 2022 01:18:55 GMT",
+  "end_time": "Thu, 20 Oct 2022 01:09:07 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,10 +8,10 @@
     "Connection": "Upgrade, close",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Mon, 17 Oct 2022 01:18:13 GMT",
+    "Date": "Thu, 20 Oct 2022 01:08:47 GMT",
     "Liferay-Portal": "Liferay Portal Community Edition 6.2 CE GA6 (Newton / Build 6205 / January 6, 2016)",
     "Server": "Apache",
-    "Set-Cookie": "JSESSIONID=4ED3F1003C039E6334C92D1D5D392A1A; Path=/; Secure; HttpOnly, COOKIE_SUPPORT=true; Expires=Fri, 31-May-2069 04:00:21 GMT; Path=/; Secure; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Fri, 31-May-2069 04:00:21 GMT; Path=/; Secure; HttpOnly",
+    "Set-Cookie": "JSESSIONID=67C6A4240FB54E7038DDD2B9D4A5518C; Path=/; Secure; HttpOnly, COOKIE_SUPPORT=true; Expires=Mon, 03-Jun-2069 03:50:55 GMT; Path=/; Secure; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Mon, 03-Jun-2069 03:50:55 GMT; Path=/; Secure; HttpOnly",
     "Transfer-Encoding": "chunked",
     "Upgrade": "h2",
     "X-Content-Type-Options": "nosniff",
@@ -19,12 +19,12 @@
     "X-UA-Compatible": "IE=edge",
     "X-XSS-Protection": "1"
   },
-  "scan_id": 30170836,
-  "score": 0,
-  "start_time": "Mon, 17 Oct 2022 01:18:07 GMT",
+  "scan_id": 30257126,
+  "score": 5,
+  "start_time": "Thu, 20 Oct 2022 01:08:14 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 4,
-  "tests_passed": 8,
+  "tests_failed": 3,
+  "tests_passed": 9,
   "tests_quantity": 12
 }

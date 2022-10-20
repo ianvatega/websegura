@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 18 Oct 2022 01:17:08 GMT",
+  "end_time": "Thu, 20 Oct 2022 01:43:42 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "content-encoding": "gzip",
     "content-length": "54750",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Tue, 18 Oct 2022 01:16:40 GMT",
+    "date": "Thu, 20 Oct 2022 01:43:18 GMT",
     "etag": "\"1535-1665681130;gz\"",
     "link": "<https://benestaranimal-valencia.es/va/wp-json/>; rel=\"https://api.w.org/\", <https://benestaranimal-valencia.es/va/wp-json/wp/v2/pages/3163>; rel=\"alternate\"; type=\"application/json\", <https://benestaranimal-valencia.es/va/>; rel=shortlink",
     "p3p": "CP=\"ALL DSP NID CURa ADMa DEVa HISa OTPa OUR NOR NAV DEM\"",
@@ -18,9 +18,9 @@
     "x-litespeed-cache": "hit",
     "x-powered-by": "PHP/7.4.32"
   },
-  "scan_id": 30198028,
+  "scan_id": 30257956,
   "score": 20,
-  "start_time": "Tue, 18 Oct 2022 01:16:32 GMT",
+  "start_time": "Thu, 20 Oct 2022 01:42:41 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
