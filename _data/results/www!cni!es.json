@@ -1,8 +1,8 @@
 {
   "algorithm_version": 2,
-  "end_time": "Wed, 19 Oct 2022 00:31:38 GMT",
+  "end_time": "Thu, 20 Oct 2022 20:23:30 GMT",
   "grade": "B+",
-  "hidden": false,
+  "hidden": true,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
@@ -11,7 +11,7 @@
     "Content-Length": "45289",
     "Content-Security-Policy": "default-src https: data:; style-src 'self' 'unsafe-inline' https:; object-src 'none'; script-src * 'unsafe-inline' 'unsafe-eval' https:; img-src 'self' https: data:; frame-src *; frame-ancestors 'self'; base-uri 'self'; form-action *",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Wed, 19 Oct 2022 00:31:35 GMT",
+    "Date": "Thu, 20 Oct 2022 20:23:25 GMT",
     "Expires": "Wed, 17 Aug 2005 00:00:00 GMT",
     "Last-Modified": "Thu, 13 Oct 2022 10:11:36 GMT",
     "Permissions-Policy": "interest-cohort=()",
@@ -24,9 +24,9 @@
     "X-Frame-Options": "SAMEORIGIN, SAMEORIGIN",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 30225142,
+  "scan_id": 30279309,
   "score": 80,
-  "start_time": "Wed, 19 Oct 2022 00:31:33 GMT",
+  "start_time": "Thu, 20 Oct 2022 20:23:24 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 1,
