@@ -1,26 +1,27 @@
 {
   "algorithm_version": 2,
-  "end_time": "Thu, 20 Oct 2022 00:20:15 GMT",
+  "end_time": "Sat, 22 Oct 2022 01:18:08 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Cache-Control": "no-cache, no-store",
     "Connection": "keep-alive",
-    "Content-Length": "787920",
+    "Content-Length": "787894",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Thu, 20 Oct 2022 00:20:03 GMT",
+    "Date": "Sat, 22 Oct 2022 01:17:48 GMT",
     "Expires": "-1",
     "Pragma": "no-cache",
+    "Request-Context": "appId=cid-v1:25be18a9-6296-4a58-bd52-0b5dc39d366c",
     "Server": "Microsoft-IIS/10.0",
-    "Set-Cookie": "ASP.NET_SessionId=qeilz25vecledtdvvrkwjge3; path=/; HttpOnly; SameSite=Lax, SC_ANALYTICS_GLOBAL_COOKIE=2524b81b9019473cad4dd5cdb2fdfed6|False; expires=Sun, 17-Oct-2032 00:20:02 GMT; path=/; HttpOnly, ARRAffinity=955836102db926670d05a307b7ae2ac7e5e10d2c20fbc5e570312002eb9feedb;Path=/;HttpOnly;Secure;Domain=www.webtenerife.com, ARRAffinitySameSite=955836102db926670d05a307b7ae2ac7e5e10d2c20fbc5e570312002eb9feedb;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.webtenerife.com"
+    "Set-Cookie": "shell#lang=en; path=/; secure; SameSite=None, ASP.NET_SessionId=a3pabltanj4ypstpobat1s4i; path=/; secure; HttpOnly; SameSite=None, SC_ANALYTICS_GLOBAL_COOKIE=5b308049e2994997a295a4e1d74c581b|False; expires=Tue, 19-Oct-2032 01:17:46 GMT; path=/; secure; HttpOnly; SameSite=None, ARRAffinity=b23f5963cd5842fce3daefa8fc774b5b640b296661931e710ec5b725af133a20;Path=/;HttpOnly;Secure;Domain=www.webtenerife.com, ARRAffinitySameSite=b23f5963cd5842fce3daefa8fc774b5b640b296661931e710ec5b725af133a20;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.webtenerife.com"
   },
-  "scan_id": 30256294,
-  "score": 0,
-  "start_time": "Thu, 20 Oct 2022 00:19:56 GMT",
+  "scan_id": 30306738,
+  "score": 15,
+  "start_time": "Sat, 22 Oct 2022 01:17:41 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 7,
-  "tests_passed": 5,
+  "tests_failed": 6,
+  "tests_passed": 6,
   "tests_quantity": 12
 }
