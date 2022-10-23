@@ -1,7 +1,7 @@
 {
   "domain": "dgt.es",
   "base_domain": "dgt.es",
-  "dnssec": false,
+  "dnssec": true,
   "ns": {
     "hostnames": [
       "ns1.age.gob.es",
@@ -32,11 +32,18 @@
     "record": "v=spf1 mx -all",
     "valid": true,
     "dns_lookups": 1,
-    "warnings": [
-      "All nameservers failed to answer the query dgt.es. IN MX: Server 1.0.0.1 UDP port 53 answered SERVFAIL"
-    ],
+    "warnings": [],
     "parsed": {
-      "pass": [],
+      "pass": [
+        {
+          "value": "mx01.dgt.es",
+          "mechanism": "mx"
+        },
+        {
+          "value": "mx02.dgt.es",
+          "mechanism": "mx"
+        }
+      ],
       "neutral": [],
       "softfail": [],
       "fail": [],

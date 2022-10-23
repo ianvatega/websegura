@@ -4,9 +4,9 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns-es.1and1-dns.org",
-      "ns-es.1and1-dns.biz",
       "ns-es.1and1-dns.es",
+      "ns-es.1and1-dns.biz",
+      "ns-es.1and1-dns.org",
       "ns-es.1and1-dns.com"
     ],
     "warnings": []
@@ -23,91 +23,18 @@
       {
         "preference": 11,
         "hostname": "mx01.1and1.es",
-        "addresses": [
-          "217.72.192.67"
-        ]
+        "addresses": []
       }
     ],
-    "warnings": []
+    "warnings": [
+      "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
+    ]
   },
   "spf": {
     "record": "v=spf1 include:_spf.perfora.net include:_spf.kundenserver.de ~all",
-    "valid": true,
-    "dns_lookups": 2,
+    "valid": false,
     "warnings": [],
-    "parsed": {
-      "pass": [],
-      "neutral": [],
-      "softfail": [],
-      "fail": [],
-      "include": [
-        {
-          "domain": "_spf.perfora.net",
-          "record": "v=spf1 ip4:74.208.4.192/26 ip4:82.165.159.128/27 -all",
-          "dns_lookups": 0,
-          "parsed": {
-            "pass": [
-              {
-                "value": "74.208.4.192/26",
-                "mechanism": "ip4"
-              },
-              {
-                "value": "82.165.159.128/27",
-                "mechanism": "ip4"
-              }
-            ],
-            "neutral": [],
-            "softfail": [],
-            "fail": [],
-            "include": [],
-            "redirect": null,
-            "exp": null,
-            "all": "fail"
-          },
-          "warnings": []
-        },
-        {
-          "domain": "_spf.kundenserver.de",
-          "record": "v=spf1 ip4:212.227.126.128/25 ip4:82.165.159.0/26 ip4:212.227.15.0/25 ip4:212.227.17.0/27 ip4:217.72.192.64/26 -all",
-          "dns_lookups": 0,
-          "parsed": {
-            "pass": [
-              {
-                "value": "212.227.126.128/25",
-                "mechanism": "ip4"
-              },
-              {
-                "value": "82.165.159.0/26",
-                "mechanism": "ip4"
-              },
-              {
-                "value": "212.227.15.0/25",
-                "mechanism": "ip4"
-              },
-              {
-                "value": "212.227.17.0/27",
-                "mechanism": "ip4"
-              },
-              {
-                "value": "217.72.192.64/26",
-                "mechanism": "ip4"
-              }
-            ],
-            "neutral": [],
-            "softfail": [],
-            "fail": [],
-            "include": [],
-            "redirect": null,
-            "exp": null,
-            "all": "fail"
-          },
-          "warnings": []
-        }
-      ],
-      "redirect": null,
-      "exp": null,
-      "all": "softfail"
-    }
+    "error": "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
   },
   "dmarc": {
     "record": null,

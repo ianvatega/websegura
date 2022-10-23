@@ -10,18 +10,8 @@
     "warnings": []
   },
   "mx": {
-    "hosts": [
-      {
-        "preference": 10,
-        "hostname": "smtp1.vitoria-gasteiz.org",
-        "addresses": [
-          "46.25.57.207"
-        ]
-      }
-    ],
-    "warnings": [
-      "The reverse DNS of 46.25.57.207 is smtp1.vitoria-gasteiz.org, but the A/AAAA DNS records for smtp1.vitoria-gasteiz.org do not resolve to 46.25.57.207"
-    ]
+    "hosts": [],
+    "error": "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
   },
   "spf": {
     "record": "v=spf1 mx ip4:194.30.117.79 ip4:46.25.57.207 -all",

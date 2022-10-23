@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns2.itbatera.euskadi.eus",
-      "ns1.itbatera.euskadi.eus"
+      "ns1.itbatera.euskadi.eus",
+      "ns2.itbatera.euskadi.eus"
     ],
     "warnings": []
   },
@@ -20,7 +20,10 @@
         ]
       }
     ],
-    "warnings": []
+    "warnings": [
+      "The resolution lifetime expired after 2.100 seconds: Server 127.0.0.53 UDP port 53 answered The DNS operation timed out.",
+      "The reverse DNS of 104.47.6.36 is mail-ve1eur020036.inbound.protection.outlook.com, but the A/AAAA DNS records for mail-ve1eur020036.inbound.protection.outlook.com do not resolve to 104.47.6.36"
+    ]
   },
   "spf": {
     "record": "v=spf1 include:servers.mcsv.net include:euskadi.ip-zone.com include:eu.zcsend.net include:_spf1.shmail.fr include:_spf2.shmail.fr ip4:185.161.119.32/27 include:spf.protection.outlook.com -all",
