@@ -1,23 +1,25 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 24 Oct 2022 01:27:42 GMT",
+  "end_time": "Thu, 27 Oct 2022 00:14:32 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
-    "Content-Length": "114744",
+    "Cache-Control": "no-cache, must-revalidate, max-age=0",
+    "Content-Length": "2937",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Mon, 24 Oct 2022 01:28:19 GMT",
+    "Date": "Thu, 27 Oct 2022 00:15:20 GMT",
+    "Expires": "Wed, 11 Jan 1984 05:00:00 GMT",
     "Link": "<https://www.ansoain.es/wp-json/>; rel=\"https://api.w.org/\"",
     "Server": "Microsoft-IIS/8.5",
-    "X-Powered-By": "PHP/7.4.12, ASP.NET"
+    "X-Powered-By": "PHP/8.0.25, ASP.NET"
   },
-  "scan_id": 30337863,
-  "score": 0,
-  "start_time": "Mon, 24 Oct 2022 01:26:50 GMT",
+  "scan_id": 30413964,
+  "score": 20,
+  "start_time": "Thu, 27 Oct 2022 00:14:21 GMT",
   "state": "FINISHED",
-  "status_code": 200,
-  "tests_failed": 6,
-  "tests_passed": 6,
+  "status_code": 500,
+  "tests_failed": 5,
+  "tests_passed": 7,
   "tests_quantity": 12
 }
