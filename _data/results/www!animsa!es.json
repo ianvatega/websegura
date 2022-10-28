@@ -1,20 +1,20 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 25 Oct 2022 01:50:20 GMT",
+  "end_time": "Fri, 28 Oct 2022 00:15:32 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
-    "Content-Length": "57951",
+    "Content-Length": "61532",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Tue, 25 Oct 2022 01:50:49 GMT",
+    "Date": "Fri, 28 Oct 2022 00:16:08 GMT",
     "Link": "<https://www.animsa.es/wp-json/>; rel=\"https://api.w.org/\"",
     "Server": "Microsoft-IIS/8.5",
-    "X-Powered-By": "PHP/7.4.12, ASP.NET"
+    "X-Powered-By": "PHP/8.0.25, ASP.NET"
   },
-  "scan_id": 30364743,
+  "scan_id": 30440923,
   "score": 0,
-  "start_time": "Tue, 25 Oct 2022 01:49:45 GMT",
+  "start_time": "Fri, 28 Oct 2022 00:15:06 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
