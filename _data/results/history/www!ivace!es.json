@@ -1,23 +1,3 @@
-[
-  {
-    "end_time": "Tue, 12 Apr 2016 12:05:36 GMT",
-    "end_time_unix_timestamp": 1460462736,
-    "grade": "F",
-    "scan_id": 382943,
-    "score": 0
-  },
-  {
-    "end_time": "Sun, 16 May 2021 00:59:17 GMT",
-    "end_time_unix_timestamp": 1621126757,
-    "grade": "F",
-    "scan_id": 19179291,
-    "score": 20
-  },
-  {
-    "end_time": "Tue, 18 May 2021 00:09:29 GMT",
-    "end_time_unix_timestamp": 1621296569,
-    "grade": "F",
-    "scan_id": 19212987,
-    "score": 0
-  }
-]
+{
+  "error": "Unable to connect to database"
+}
