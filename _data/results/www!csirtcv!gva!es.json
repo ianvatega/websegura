@@ -1,13 +1,13 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 01 Nov 2022 01:48:54 GMT",
+  "end_time": "Sat, 05 Nov 2022 01:23:38 GMT",
   "grade": "C",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "Keep-Alive",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Tue, 01 Nov 2022 01:48:17 GMT",
+    "Date": "Sat, 05 Nov 2022 01:23:05 GMT",
     "Keep-Alive": "timeout=5, max=100",
     "Link": "<https://www.csirtcv.gva.es/wp-json/>; rel=\"https://api.w.org/\", <https://www.csirtcv.gva.es/wp-json/wp/v2/pages/73>; rel=\"alternate\"; type=\"application/json\", <https://www.csirtcv.gva.es/>; rel=shortlink",
     "Server": "Apache",
@@ -17,9 +17,9 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 30561507,
+  "scan_id": 30668507,
   "score": 55,
-  "start_time": "Tue, 01 Nov 2022 01:48:12 GMT",
+  "start_time": "Sat, 05 Nov 2022 01:20:59 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 2,

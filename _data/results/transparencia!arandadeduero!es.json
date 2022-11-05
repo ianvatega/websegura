@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Thu, 03 Nov 2022 00:14:52 GMT",
+  "end_time": "Sat, 05 Nov 2022 01:22:50 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,7 +8,7 @@
     "Connection": "keep-alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Thu, 03 Nov 2022 00:14:11 GMT",
+    "Date": "Sat, 05 Nov 2022 01:22:26 GMT",
     "Link": "<https://transparencia.arandadeduero.es/wp-json/>; rel=\"https://api.w.org/\", <https://transparencia.arandadeduero.es/wp-json/wp/v2/pages/749>; rel=\"alternate\"; type=\"application/json\", <https://transparencia.arandadeduero.es/>; rel=shortlink",
     "Server": "nginx",
     "Strict-Transport-Security": "max-age=63072000",
@@ -17,9 +17,9 @@
     "X-Content-Type-Options": "nosniff",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 30617040,
+  "scan_id": 30668567,
   "score": 5,
-  "start_time": "Thu, 03 Nov 2022 00:14:06 GMT",
+  "start_time": "Sat, 05 Nov 2022 01:21:04 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 3,

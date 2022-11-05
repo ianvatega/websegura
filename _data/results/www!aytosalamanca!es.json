@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Wed, 02 Nov 2022 01:41:08 GMT",
+  "end_time": "Sat, 05 Nov 2022 01:22:31 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,16 +9,17 @@
     "Connection": "close",
     "Content-Length": "0",
     "Content-Type": "text/html;charset=ISO-8859-1",
-    "Date": "Wed, 02 Nov 2022 01:41:39 GMT",
+    "Date": "Sat, 05 Nov 2022 01:23:03 GMT",
     "Pragma": "no-cache",
-    "Server": "Apache/2.4.43 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.46"
+    "Server": "Apache/2.4.43 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.46",
+    "Set-Cookie": "JSESSIONID=7657E57B93FC7EE2378B72F8859D82B1; Path=/; Secure"
   },
-  "scan_id": 30592912,
-  "score": 20,
-  "start_time": "Wed, 02 Nov 2022 01:40:19 GMT",
+  "scan_id": 30668556,
+  "score": 0,
+  "start_time": "Sat, 05 Nov 2022 01:21:03 GMT",
   "state": "FINISHED",
   "status_code": 500,
-  "tests_failed": 5,
-  "tests_passed": 7,
+  "tests_failed": 7,
+  "tests_passed": 5,
   "tests_quantity": 12
 }
