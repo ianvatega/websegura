@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sat, 05 Nov 2022 01:02:11 GMT",
+  "end_time": "Tue, 08 Nov 2022 00:59:31 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -11,7 +11,7 @@
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
     "Content-language": "ca",
-    "Date": "Sat, 05 Nov 2022 01:01:16 GMT",
+    "Date": "Tue, 08 Nov 2022 00:58:45 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Permissions-Policy": "interest-cohort=()",
     "Referrer-Policy": "no-referrer-when-downgrade",
@@ -26,9 +26,9 @@
     "X-UA-Compatible": "IE=edge",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 30667959,
+  "scan_id": 30733865,
   "score": 15,
-  "start_time": "Sat, 05 Nov 2022 01:01:10 GMT",
+  "start_time": "Tue, 08 Nov 2022 00:58:20 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 3,
