@@ -110,5 +110,12 @@
     "grade": "F",
     "scan_id": 30519634,
     "score": 15
+  },
+  {
+    "end_time": "Tue, 08 Nov 2022 01:48:41 GMT",
+    "end_time_unix_timestamp": 1667872121,
+    "grade": "D+",
+    "scan_id": 30734908,
+    "score": 40
   }
 ]
