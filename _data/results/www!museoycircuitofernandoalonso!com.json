@@ -1,28 +1,25 @@
 {
   "algorithm_version": 2,
-  "end_time": "Wed, 09 Nov 2022 01:59:17 GMT",
+  "end_time": "Sat, 12 Nov 2022 01:18:11 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "keep-alive",
-    "Content-Encoding": "gzip",
-    "Content-Length": "42255",
+    "Content-Length": "0",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Wed, 09 Nov 2022 01:58:32 GMT",
-    "Link": "<https://museoycircuitofernandoalonso.com/wp-json/>; rel=\"https://api.w.org/\", <https://museoycircuitofernandoalonso.com/wp-json/wp/v2/pages/92>; rel=\"alternate\"; type=\"application/json\", <https://museoycircuitofernandoalonso.com/>; rel=shortlink",
+    "Date": "Sat, 12 Nov 2022 01:18:03 GMT",
+    "Referrer-Policy": "no-referrer-when-downgrade",
     "Server": "nginx",
-    "Set-Cookie": "wp_wpfileupload_3b771d7197e894b9b26b26212e206274=gsqRm29CP8R2BZBK9NXyttdagfSOz7Fj; expires=Fri, 11-Nov-2022 01:58:30 GMT; Max-Age=172800; path=/",
-    "Vary": "Accept-Encoding",
-    "X-Powered-By": "PHP/7.4.32, PleskLin",
-    "X-UA-Compatible": "IE=edge"
+    "X-Cache-Status": "UPDATING",
+    "X-Powered-By": "PHP/8.0.25, PleskLin"
   },
-  "scan_id": 30775034,
+  "scan_id": 30847075,
   "score": 0,
-  "start_time": "Wed, 09 Nov 2022 01:58:14 GMT",
+  "start_time": "Sat, 12 Nov 2022 01:17:58 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 7,
-  "tests_passed": 5,
+  "tests_failed": 6,
+  "tests_passed": 6,
   "tests_quantity": 12
 }
