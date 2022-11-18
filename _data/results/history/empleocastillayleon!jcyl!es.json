@@ -5,5 +5,12 @@
     "grade": "F",
     "scan_id": 9546353,
     "score": 10
+  },
+  {
+    "end_time": "Fri, 18 Nov 2022 01:04:01 GMT",
+    "end_time_unix_timestamp": 1668733441,
+    "grade": "F",
+    "scan_id": 31008526,
+    "score": 15
   }
 ]
