@@ -1,7 +1,7 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 18 Nov 2022 01:20:23 GMT",
-  "grade": "C+",
+  "end_time": "Tue, 22 Nov 2022 01:17:01 GMT",
+  "grade": "D+",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
@@ -11,10 +11,10 @@
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
     "Content-language": "ca",
-    "Date": "Fri, 18 Nov 2022 01:19:35 GMT",
-    "ETag": "W/\"1668705147\"",
+    "Date": "Tue, 22 Nov 2022 01:16:38 GMT",
+    "ETag": "W/\"1669044713\"",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "Last-Modified": "Thu, 17 Nov 2022 17:12:27 GMT",
+    "Last-Modified": "Mon, 21 Nov 2022 15:31:53 GMT",
     "Permissions-Policy": "interest-cohort=()",
     "Referrer-Policy": "no-referrer-when-downgrade",
     "Strict-Transport-Security": "max-age=2592000",
@@ -28,12 +28,12 @@
     "X-UA-Compatible": "IE=edge",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 31008954,
-  "score": 60,
-  "start_time": "Fri, 18 Nov 2022 01:19:30 GMT",
+  "scan_id": 31098337,
+  "score": 40,
+  "start_time": "Tue, 22 Nov 2022 01:16:32 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 3,
-  "tests_passed": 9,
+  "tests_failed": 4,
+  "tests_passed": 8,
   "tests_quantity": 12
 }
