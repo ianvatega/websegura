@@ -5,8 +5,8 @@
   "ns": {
     "hostnames": [
       "dns.serviciosmin.gob.es",
-      "sun.rediris.es",
-      "chico.rediris.es"
+      "chico.rediris.es",
+      "sun.rediris.es"
     ],
     "warnings": []
   },

@@ -5,15 +5,23 @@
   "ns": {
     "hostnames": [
       "ns1114.ui-dns.de",
-      "ns1114.ui-dns.org",
       "ns1114.ui-dns.biz",
-      "ns1114.ui-dns.com"
+      "ns1114.ui-dns.com",
+      "ns1114.ui-dns.org"
     ],
     "warnings": []
   },
   "mx": {
-    "hosts": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
+    "hosts": [
+      {
+        "preference": 10,
+        "hostname": "museoarqueologicodeasturias.com",
+        "addresses": [
+          "82.223.101.161"
+        ]
+      }
+    ],
+    "warnings": []
   },
   "spf": {
     "record": null,

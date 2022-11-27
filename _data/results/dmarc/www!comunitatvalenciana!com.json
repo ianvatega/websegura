@@ -4,10 +4,10 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "sdns3.occentus.net",
-      "sdns2.occentus.net",
       "sdns4.occentus.net",
-      "sdns1.occentus.net"
+      "sdns1.occentus.net",
+      "sdns2.occentus.net",
+      "sdns3.occentus.net"
     ],
     "warnings": []
   },
@@ -17,7 +17,7 @@
         "preference": 10,
         "hostname": "mail.comunitatvalenciana.com",
         "addresses": [
-          "154.58.16.140"
+          "178.255.230.221"
         ]
       }
     ],
@@ -33,11 +33,11 @@
     "parsed": {
       "pass": [
         {
-          "value": "154.58.16.190",
+          "value": "178.255.230.196",
           "mechanism": "a"
         },
         {
-          "value": "154.58.16.191",
+          "value": "178.255.230.198",
           "mechanism": "a"
         },
         {

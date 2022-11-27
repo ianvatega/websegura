@@ -4,9 +4,9 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns1042.ui-dns.org",
       "ns1017.ui-dns.com",
       "ns1122.ui-dns.de",
+      "ns1042.ui-dns.org",
       "ns1045.ui-dns.biz"
     ],
     "warnings": []
@@ -23,14 +23,12 @@
       {
         "preference": 10,
         "hostname": "mx01.1and1.es",
-        "addresses": []
+        "addresses": [
+          "217.72.192.67"
+        ]
       }
     ],
-    "warnings": [
-      "The resolution lifetime expired after 2.100 seconds: Server 127.0.0.53 UDP port 53 answered The DNS operation timed out.",
-      "The reverse DNS of 212.227.15.41 is mx00.kundenserver.de, but the A/AAAA DNS records for mx00.kundenserver.de do not resolve to 212.227.15.41",
-      "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
-    ]
+    "warnings": []
   },
   "spf": {
     "record": null,

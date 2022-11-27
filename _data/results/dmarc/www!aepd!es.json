@@ -1,12 +1,11 @@
 {
   "domain": "aepd.es",
   "base_domain": "aepd.es",
-  "dnssec": false,
+  "dnssec": true,
   "ns": {
     "hostnames": [
-      "ns11.servicio-online.net",
-      "ns10.servicio-online.net",
-      "ns12.servicio-online.net"
+      "ns1.age.gob.es",
+      "ns2.age.gob.es"
     ],
     "warnings": []
   },

@@ -4,11 +4,11 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "buniel.csa.es",
       "tapia.csa.es",
+      "buniel.csa.es",
       "clunia.csa.es",
-      "dns1.csanet.io",
-      "dns2.csanet.io"
+      "dns2.csanet.io",
+      "dns1.csanet.io"
     ],
     "warnings": []
   },
@@ -49,7 +49,9 @@
     "record": "v=spf1 mx a:correo.aytoburgos.es include:spf-relay.sarenet.es include:emailservice.cpd.as -all",
     "valid": true,
     "dns_lookups": 5,
-    "warnings": [],
+    "warnings": [
+      "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
+    ],
     "parsed": {
       "pass": [
         {
@@ -67,10 +69,6 @@
         {
           "value": "mx04.hornetsecurity.com",
           "mechanism": "mx"
-        },
-        {
-          "value": "195.53.84.178",
-          "mechanism": "a"
         }
       ],
       "neutral": [],

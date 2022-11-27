@@ -3,12 +3,55 @@
   "base_domain": "rafelbunyol.es",
   "dnssec": false,
   "ns": {
-    "hostnames": [],
-    "error": "All nameservers failed to answer the query rafelbunyol.es. IN NS: Server 1.0.0.1 UDP port 53 answered SERVFAIL"
+    "hostnames": [
+      "ns2.dnsxperta.com",
+      "ns3.dnsxperta.com",
+      "ns1.dnsxperta.com"
+    ],
+    "warnings": []
   },
   "mx": {
-    "hosts": [],
-    "error": "All nameservers failed to answer the query rafelbunyol.es. IN MX: Server 1.0.0.1 UDP port 53 answered SERVFAIL"
+    "hosts": [
+      {
+        "preference": 10,
+        "hostname": "mx.spamexperts.com",
+        "addresses": [
+          "2001:550:2:61::2fc:100",
+          "38.109.53.20"
+        ]
+      },
+      {
+        "preference": 20,
+        "hostname": "fallbackmx.spamexperts.eu",
+        "addresses": [
+          "2001:550:2:61::2fc:100",
+          "2001:550:2:78::ca:100",
+          "2001:550:2:9::280:100",
+          "38.109.53.20",
+          "38.111.198.185",
+          "38.89.254.156"
+        ]
+      },
+      {
+        "preference": 30,
+        "hostname": "lastmx.spamexperts.net",
+        "addresses": [
+          "130.117.53.188",
+          "149.13.75.27",
+          "2001:550:2:61::2fc:100",
+          "2001:550:2:9::280:100",
+          "2001:978:2:2c::137:100",
+          "2001:978:2:7::162:100",
+          "38.111.198.185",
+          "38.89.254.156"
+        ]
+      }
+    ],
+    "warnings": [
+      "2001:550:2:61::2fc:100 does not have any reverse DNS (PTR) records",
+      "2001:550:2:61::2fc:100 does not have any reverse DNS (PTR) records",
+      "2001:550:2:61::2fc:100 does not have any reverse DNS (PTR) records"
+    ]
   },
   "spf": {
     "record": "v=spf1 include:_kvm4.spf.srvdr.com include:spf.qsemail.net ~all",
@@ -313,15 +356,7 @@
                 "mechanism": "a"
               },
               {
-                "value": "2001:1af8:4010:a016:3::1",
-                "mechanism": "a"
-              },
-              {
                 "value": "2001:1af8:4020:a04e:5555::1",
-                "mechanism": "a"
-              },
-              {
-                "value": "2001:1af8:40e0:a00d:a039::1",
                 "mechanism": "a"
               },
               {
@@ -362,6 +397,10 @@
               },
               {
                 "value": "2001:550:2:61::3bf:110",
+                "mechanism": "a"
+              },
+              {
+                "value": "2001:550:2:61::3bf:12",
                 "mechanism": "a"
               },
               {
@@ -441,19 +480,23 @@
                 "mechanism": "a"
               },
               {
-                "value": "2001:550:2:8::b0:12",
+                "value": "2001:550:2:8::5f:106",
                 "mechanism": "a"
               },
               {
-                "value": "2001:550:2:8::b0:13",
+                "value": "2001:550:2:8::5f:107",
                 "mechanism": "a"
               },
               {
-                "value": "2001:550:2:8::b0:14",
+                "value": "2001:550:2:8::5f:108",
                 "mechanism": "a"
               },
               {
-                "value": "2001:550:2:8::b0:15",
+                "value": "2001:550:2:8::5f:109",
+                "mechanism": "a"
+              },
+              {
+                "value": "2001:550:2:8::5f:110",
                 "mechanism": "a"
               },
               {
@@ -773,26 +816,6 @@
                 "mechanism": "a"
               },
               {
-                "value": "2a01:4f9:2a:2189::2",
-                "mechanism": "a"
-              },
-              {
-                "value": "2a01:4f9:2a:2590::2",
-                "mechanism": "a"
-              },
-              {
-                "value": "2a01:4f9:2a:2591::2",
-                "mechanism": "a"
-              },
-              {
-                "value": "2a01:4f9:2a:2592::2",
-                "mechanism": "a"
-              },
-              {
-                "value": "2a0d:3000:2100:a008:2::1",
-                "mechanism": "a"
-              },
-              {
                 "value": "2a0d:3000:2100:a008:4::1",
                 "mechanism": "a"
               },
@@ -801,35 +824,43 @@
                 "mechanism": "a"
               },
               {
-                "value": "38.107.142.36",
-                "mechanism": "a"
-              },
-              {
-                "value": "38.107.142.37",
-                "mechanism": "a"
-              },
-              {
-                "value": "38.107.142.39",
-                "mechanism": "a"
-              },
-              {
-                "value": "38.107.142.40",
-                "mechanism": "a"
-              },
-              {
-                "value": "38.107.142.42",
-                "mechanism": "a"
-              },
-              {
-                "value": "38.107.142.43",
-                "mechanism": "a"
-              },
-              {
-                "value": "38.107.142.45",
-                "mechanism": "a"
-              },
-              {
                 "value": "38.107.142.46",
+                "mechanism": "a"
+              },
+              {
+                "value": "38.133.190.182",
+                "mechanism": "a"
+              },
+              {
+                "value": "38.133.191.228",
+                "mechanism": "a"
+              },
+              {
+                "value": "38.133.191.234",
+                "mechanism": "a"
+              },
+              {
+                "value": "38.133.191.235",
+                "mechanism": "a"
+              },
+              {
+                "value": "38.133.191.237",
+                "mechanism": "a"
+              },
+              {
+                "value": "38.133.191.238",
+                "mechanism": "a"
+              },
+              {
+                "value": "38.133.191.240",
+                "mechanism": "a"
+              },
+              {
+                "value": "38.133.191.241",
+                "mechanism": "a"
+              },
+              {
+                "value": "38.133.191.243",
                 "mechanism": "a"
               },
               {
@@ -1230,61 +1261,9 @@
     }
   },
   "dmarc": {
-    "record": "v=DMARC1; p=reject; pct=100; rua=mailto:dmarc@rafelbunyol.es",
-    "valid": true,
-    "location": "rafelbunyol.es",
-    "warnings": [],
-    "tags": {
-      "v": {
-        "value": "DMARC1",
-        "explicit": true
-      },
-      "p": {
-        "value": "reject",
-        "explicit": true
-      },
-      "pct": {
-        "value": 100,
-        "explicit": true
-      },
-      "rua": {
-        "value": [
-          {
-            "scheme": "mailto",
-            "address": "dmarc@rafelbunyol.es",
-            "size_limit": null
-          }
-        ],
-        "explicit": true
-      },
-      "adkim": {
-        "value": "r",
-        "explicit": false
-      },
-      "aspf": {
-        "value": "r",
-        "explicit": false
-      },
-      "fo": {
-        "value": [
-          "0"
-        ],
-        "explicit": false
-      },
-      "rf": {
-        "value": [
-          "afrf"
-        ],
-        "explicit": false
-      },
-      "ri": {
-        "value": 86400,
-        "explicit": false
-      },
-      "sp": {
-        "value": "reject",
-        "explicit": false
-      }
-    }
+    "record": null,
+    "valid": false,
+    "location": null,
+    "error": "Unrelated TXT records were discovered. These should be removed, as some receivers may not expect to find unrelated TXT records at _dmarc.rafelbunyol.es\n\nv=spf1 include:_kvm4.spf.srvdr.com include:spf.qsemail.net ~all"
   }
 }

@@ -4,13 +4,13 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
+      "ns1.t-systems.es",
+      "sun.rediris.es",
       "artemis.ttd.net",
       "ns2.t-systems.es",
-      "sun.rediris.es",
-      "chico.rediris.es",
       "nso.nic.es",
       "ns1.mineco.es",
-      "ns1.t-systems.es"
+      "chico.rediris.es"
     ],
     "warnings": []
   },
