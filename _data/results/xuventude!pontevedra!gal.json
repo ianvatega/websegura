@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 05 Dec 2022 00:53:29 GMT",
+  "end_time": "Thu, 08 Dec 2022 00:47:04 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Length": "454",
     "Content-Type": "text/html",
-    "Date": "Mon, 05 Dec 2022 00:53:21 GMT",
+    "Date": "Thu, 08 Dec 2022 00:46:56 GMT",
     "ETag": "\"2ea-5d83333442319-gzip\"",
     "Last-Modified": "Thu, 17 Feb 2022 09:14:58 GMT",
     "Server": "nginx",
@@ -18,9 +18,9 @@
     "X-Accel-Version": "0.01",
     "X-Powered-By": "PleskLin"
   },
-  "scan_id": 31591904,
+  "scan_id": 31723402,
   "score": 20,
-  "start_time": "Mon, 05 Dec 2022 00:51:23 GMT",
+  "start_time": "Thu, 08 Dec 2022 00:46:53 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
