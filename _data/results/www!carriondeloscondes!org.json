@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Wed, 07 Dec 2022 00:12:44 GMT",
+  "end_time": "Fri, 09 Dec 2022 00:49:46 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,7 +8,7 @@
     "Connection": "keep-alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Wed, 07 Dec 2022 00:12:00 GMT",
+    "Date": "Fri, 09 Dec 2022 00:49:03 GMT",
     "Link": "<https://www.carriondeloscondes.org/>; rel=shortlink",
     "Server": "nginx",
     "Transfer-Encoding": "chunked",
@@ -16,9 +16,9 @@
     "X-Pingback": "https://www.carriondeloscondes.org/xmlrpc.php",
     "X-Powered-By": "PHP/5.6.40"
   },
-  "scan_id": 31683856,
+  "scan_id": 31762674,
   "score": 0,
-  "start_time": "Wed, 07 Dec 2022 00:11:46 GMT",
+  "start_time": "Fri, 09 Dec 2022 00:48:59 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 7,
