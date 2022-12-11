@@ -17,28 +17,26 @@
         "addresses": [
           "89.6.103.180"
         ]
-      },
-      {
-        "preference": 10,
-        "hostname": "provinciadevalladolid-com.mail.protection.outlook.com",
-        "addresses": [
-          "104.47.13.36",
-          "104.47.14.36"
-        ]
       }
     ],
-    "warnings": [
-      "The resolution lifetime expired after 2.100 seconds: Server 127.0.0.53 UDP port 53 answered The DNS operation timed out.",
-      "The reverse DNS of 104.47.13.36 is mail-he1eur040036.inbound.protection.outlook.com, but the A/AAAA DNS records for mail-he1eur040036.inbound.protection.outlook.com do not resolve to 104.47.13.36"
-    ]
+    "warnings": []
   },
   "spf": {
-    "record": "v=spf1 include:spf.protection.outlook.com -all",
+    "record": "v=spf1 mx include:spf.protection.outlook.com ip4:89.6.103.145 -all",
     "valid": true,
-    "dns_lookups": 2,
+    "dns_lookups": 3,
     "warnings": [],
     "parsed": {
-      "pass": [],
+      "pass": [
+        {
+          "value": "correo1.dipvalladolid.es",
+          "mechanism": "mx"
+        },
+        {
+          "value": "89.6.103.145",
+          "mechanism": "ip4"
+        }
+      ],
       "neutral": [],
       "softfail": [],
       "fail": [],

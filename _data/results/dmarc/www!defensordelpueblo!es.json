@@ -5,23 +5,14 @@
   "ns": {
     "hostnames": [
       "ns3.interdomain.es",
-      "ns2.interdomain.net",
-      "ns1.interdomain.net"
+      "ns1.interdomain.net",
+      "ns2.interdomain.net"
     ],
     "warnings": []
   },
   "mx": {
-    "hosts": [
-      {
-        "preference": 10,
-        "hostname": "mx1.hc583-29.eu.iphmx.com",
-        "addresses": [
-          "207.54.72.131",
-          "23.90.104.202"
-        ]
-      }
-    ],
-    "warnings": []
+    "hosts": [],
+    "error": "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
   },
   "spf": {
     "record": "v=spf1 ip4:212.51.32.128/25 mx include:_pmta2.antevenio.com include:spf.mail-cert.com include:spf.protection.outlook.com include:_spf.fortimailcloud.com exists:%{i}.spf.hc583-29.eu.iphmx.com -all",
