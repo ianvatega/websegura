@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 09 Dec 2022 00:49:42 GMT",
+  "end_time": "Mon, 12 Dec 2022 00:52:17 GMT",
   "grade": "C-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Connection": "Keep-Alive",
     "Content-Language": "es",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Fri, 09 Dec 2022 00:49:04 GMT",
+    "Date": "Mon, 12 Dec 2022 00:51:53 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Keep-Alive": "timeout=5, max=99",
     "Server": "Apache",
@@ -18,9 +18,9 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-Generator": "Drupal 7 (http://drupal.org)"
   },
-  "scan_id": 31762684,
+  "scan_id": 31856405,
   "score": 45,
-  "start_time": "Fri, 09 Dec 2022 00:48:59 GMT",
+  "start_time": "Mon, 12 Dec 2022 00:51:24 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 3,
