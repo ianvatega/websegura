@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 13 Dec 2022 00:53:57 GMT",
+  "end_time": "Thu, 15 Dec 2022 00:51:16 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,11 +8,11 @@
     "Connection": "close",
     "Content-Length": "59556",
     "Content-Type": "text/html",
-    "Date": "Tue Dec 13 01:06:34 2022 GMT"
+    "Date": "Thu Dec 15 01:03:56 2022 GMT"
   },
-  "scan_id": 31898452,
+  "scan_id": 31980209,
   "score": 20,
-  "start_time": "Tue, 13 Dec 2022 00:52:35 GMT",
+  "start_time": "Thu, 15 Dec 2022 00:50:35 GMT",
   "state": "FINISHED",
   "status_code": 503,
   "tests_failed": 5,
