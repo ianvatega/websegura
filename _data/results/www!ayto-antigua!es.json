@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Wed, 14 Dec 2022 01:05:11 GMT",
+  "end_time": "Fri, 16 Dec 2022 00:45:18 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000, h3-Q050=\":443\"; ma=2592000, h3-Q046=\":443\"; ma=2592000, h3-Q043=\":443\"; ma=2592000, quic=\":443\"; ma=2592000; v=\"43,46\"",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Wed, 14 Dec 2022 01:04:46 GMT",
+    "date": "Fri, 16 Dec 2022 00:45:07 GMT",
     "link": "<https://ayto-antigua.es/wp-json/>; rel=\"https://api.w.org/\", <https://ayto-antigua.es/wp-json/wp/v2/pages/2>; rel=\"alternate\"; type=\"application/json\", <https://ayto-antigua.es/>; rel=shortlink",
     "server": "LiteSpeed",
     "transfer-encoding": "chunked",
@@ -19,9 +19,9 @@
     "x-tec-api-root": "https://ayto-antigua.es/wp-json/tribe/events/v1/",
     "x-tec-api-version": "v1"
   },
-  "scan_id": 31939201,
+  "scan_id": 32016765,
   "score": 15,
-  "start_time": "Wed, 14 Dec 2022 01:04:39 GMT",
+  "start_time": "Fri, 16 Dec 2022 00:44:54 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
