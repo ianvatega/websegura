@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "tauro.iteasoluciones.es",
-      "escorpio.iteasoluciones.es"
+      "escorpio.iteasoluciones.es",
+      "tauro.iteasoluciones.es"
     ],
     "warnings": []
   },
@@ -14,14 +14,11 @@
       {
         "preference": 10,
         "hostname": "tauro.iteasoluciones.es",
-        "addresses": [
-          "37.187.129.54"
-        ]
+        "addresses": []
       }
     ],
     "warnings": [
-      "The resolution lifetime expired after 2.100 seconds: Server 127.0.0.53 UDP port 53 answered The DNS operation timed out.",
-      "The reverse DNS of 37.187.129.54 is tauro.iteasoluciones.es, but the A/AAAA DNS records for tauro.iteasoluciones.es do not resolve to 37.187.129.54"
+      "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
     ]
   },
   "spf": {

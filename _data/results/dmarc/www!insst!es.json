@@ -15,8 +15,8 @@
         "preference": 1,
         "hostname": "aspmx.l.google.com",
         "addresses": [
-          "142.250.138.27",
-          "2607:f8b0:4023:1004::1a"
+          "142.250.138.26",
+          "2607:f8b0:4023:1006::1a"
         ]
       },
       {
@@ -24,7 +24,7 @@
         "hostname": "alt1.aspmx.l.google.com",
         "addresses": [
           "142.250.152.27",
-          "2607:f8b0:4001:c56::1b"
+          "2607:f8b0:4001:c56::1a"
         ]
       },
       {
@@ -48,7 +48,7 @@
         "hostname": "alt4.aspmx.l.google.com",
         "addresses": [
           "173.194.219.27",
-          "2607:f8b0:4002:c03::1a"
+          "2607:f8b0:4002:c03::1b"
         ]
       }
     ],
@@ -95,6 +95,6 @@
     "record": null,
     "valid": false,
     "location": null,
-    "error": "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
+    "error": "A DMARC record does not exist for this domain or its base domain"
   }
 }

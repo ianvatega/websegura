@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns5232.webempresa.eu",
-      "ns5231.webempresa.eu"
+      "ns5231.webempresa.eu",
+      "ns5232.webempresa.eu"
     ],
     "warnings": []
   },
@@ -19,10 +19,7 @@
         ]
       }
     ],
-    "warnings": [
-      "The resolution lifetime expired after 2.100 seconds: Server 127.0.0.53 UDP port 53 answered The DNS operation timed out.",
-      "The reverse DNS of 178.33.164.163 is ns5231.webempresa.eu, but the A/AAAA DNS records for ns5231.webempresa.eu do not resolve to 178.33.164.163"
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 ip4:51.91.61.167 ip4:54.37.172.200 include:_spf.webempresa.eu +a +mx ~all",

@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns06.ns-cloud4b.net",
-      "ns08.ns-cloud4b.com"
+      "ns08.ns-cloud4b.com",
+      "ns06.ns-cloud4b.net"
     ],
     "warnings": []
   },
@@ -15,8 +15,8 @@
         "preference": 0,
         "hostname": "aspmx.l.google.com",
         "addresses": [
-          "142.250.113.27",
-          "2607:f8b0:4023:1009::1b"
+          "142.250.114.27",
+          "2607:f8b0:4023:1006::1b"
         ]
       },
       {
@@ -24,7 +24,7 @@
         "hostname": "alt1.aspmx.l.google.com",
         "addresses": [
           "142.250.152.27",
-          "2607:f8b0:4001:c56::1b"
+          "2607:f8b0:4001:c56::1a"
         ]
       },
       {
@@ -39,7 +39,7 @@
         "preference": 25,
         "hostname": "alt3.aspmx.l.google.com",
         "addresses": [
-          "173.194.77.27",
+          "173.194.77.26",
           "2607:f8b0:4023:401::1a"
         ]
       },
@@ -47,8 +47,8 @@
         "preference": 30,
         "hostname": "alt4.aspmx.l.google.com",
         "addresses": [
-          "173.194.219.27",
-          "2607:f8b0:4002:c03::1b"
+          "173.194.219.26",
+          "2607:f8b0:4002:c03::1a"
         ]
       }
     ],
@@ -257,19 +257,32 @@
     }
   },
   "dmarc": {
-    "record": "v=DMARC1; p=quarantine; pct=100; adkim=s; aspf=s",
+    "record": "v=DMARC1; p=reject; rua=mailto:cpintos@dipsegovia.es, mailto:cpintos@dipsegovia.es;pct=100; adkim=s; aspf=s",
     "valid": true,
     "location": "dipsegovia.es",
-    "warnings": [
-      "rua tag (destination for aggregate reports) not found"
-    ],
+    "warnings": [],
     "tags": {
       "v": {
         "value": "DMARC1",
         "explicit": true
       },
       "p": {
-        "value": "quarantine",
+        "value": "reject",
+        "explicit": true
+      },
+      "rua": {
+        "value": [
+          {
+            "scheme": "mailto",
+            "address": "cpintos@dipsegovia.es",
+            "size_limit": null
+          },
+          {
+            "scheme": "mailto",
+            "address": "cpintos@dipsegovia.es",
+            "size_limit": null
+          }
+        ],
         "explicit": true
       },
       "pct": {
@@ -301,7 +314,7 @@
         "explicit": false
       },
       "sp": {
-        "value": "quarantine",
+        "value": "reject",
         "explicit": false
       }
     }

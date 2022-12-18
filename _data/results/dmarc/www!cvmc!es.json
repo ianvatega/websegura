@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns.dinahosting.com",
       "ns2.dinahosting.com",
+      "ns.dinahosting.com",
       "ns3.dinahosting.com",
       "ns4.dinahosting.com"
     ],
@@ -17,12 +17,15 @@
         "preference": 10,
         "hostname": "cvmc-es.mail.protection.outlook.com",
         "addresses": [
-          "104.47.13.36",
-          "104.47.14.36"
+          "104.47.12.36",
+          "104.47.13.36"
         ]
       }
     ],
-    "warnings": []
+    "warnings": [
+      "The resolution lifetime expired after 2.100 seconds: Server 127.0.0.53 UDP port 53 answered The DNS operation timed out.",
+      "The reverse DNS of 104.47.13.36 is mail-he1eur040036.inbound.protection.outlook.com, but the A/AAAA DNS records for mail-he1eur040036.inbound.protection.outlook.com do not resolve to 104.47.13.36"
+    ]
   },
   "spf": {
     "record": "v=spf1 a ip4:46.231.127.152 a:cvmc.es a:smtp.cvmc.es include:spf.protection.outlook.com ~all",

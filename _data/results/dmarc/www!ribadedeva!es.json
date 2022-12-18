@@ -3,12 +3,8 @@
   "base_domain": "ribadedeva.es",
   "dnssec": false,
   "ns": {
-    "hostnames": [
-      "ns1.noc.softec-internet.com",
-      "ns2.noc.softec-internet.com",
-      "ns4.noc.softec-internet.com"
-    ],
-    "warnings": []
+    "hostnames": [],
+    "error": "All nameservers failed to answer the query ribadedeva.es. IN NS: Server 1.0.0.1 UDP port 53 answered SERVFAIL"
   },
   "mx": {
     "hosts": [
@@ -16,12 +12,15 @@
         "preference": 0,
         "hostname": "ribadedeva-es.mail.protection.outlook.com",
         "addresses": [
-          "104.47.18.202",
-          "104.47.22.138"
+          "104.47.18.138",
+          "104.47.18.202"
         ]
       }
     ],
-    "warnings": []
+    "warnings": [
+      "The resolution lifetime expired after 2.100 seconds: Server 127.0.0.53 UDP port 53 answered The DNS operation timed out.",
+      "The reverse DNS of 104.47.18.202 is mail-am7eur060202.inbound.protection.outlook.com, but the A/AAAA DNS records for mail-am7eur060202.inbound.protection.outlook.com do not resolve to 104.47.18.202"
+    ]
   },
   "spf": {
     "record": "v=spf1 include:spf.protection.outlook.com -all",

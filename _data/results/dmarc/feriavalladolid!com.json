@@ -5,8 +5,8 @@
   "ns": {
     "hostnames": [
       "ns2.feriavalladolid.com",
-      "ns1.feriavalladolid.com",
-      "ns.feriavalladolid.com"
+      "ns.feriavalladolid.com",
+      "ns1.feriavalladolid.com"
     ],
     "warnings": []
   },
