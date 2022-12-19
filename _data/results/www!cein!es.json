@@ -1,13 +1,13 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 16 Dec 2022 01:01:54 GMT",
+  "end_time": "Mon, 19 Dec 2022 00:47:03 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "Keep-Alive",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Fri, 16 Dec 2022 00:58:53 GMT",
+    "Date": "Mon, 19 Dec 2022 00:43:48 GMT",
     "Keep-Alive": "timeout=5, max=100",
     "Link": "<https://www.cein.es/wp-json/>; rel=\"https://api.w.org/\", <https://www.cein.es/wp-json/wp/v2/pages/24711>; rel=\"alternate\"; type=\"application/json\", <https://www.cein.es/>; rel=shortlink",
     "Server": "Apache",
@@ -16,9 +16,9 @@
     "X-Content-Type-Options": "nosniff",
     "X-Powered-By": "PHP/7.4.30, PleskLin"
   },
-  "scan_id": 32017348,
+  "scan_id": 32108455,
   "score": 0,
-  "start_time": "Fri, 16 Dec 2022 01:01:09 GMT",
+  "start_time": "Mon, 19 Dec 2022 00:46:15 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,

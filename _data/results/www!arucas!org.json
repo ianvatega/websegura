@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 16 Dec 2022 01:00:44 GMT",
+  "end_time": "Mon, 19 Dec 2022 00:11:10 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,12 +8,12 @@
     "Connection": "keep-alive",
     "Content-Length": "98",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Fri, 16 Dec 2022 01:00:43 GMT",
+    "Date": "Mon, 19 Dec 2022 00:11:09 GMT",
     "Server": "Apache"
   },
-  "scan_id": 32017197,
+  "scan_id": 32107566,
   "score": 0,
-  "start_time": "Fri, 16 Dec 2022 01:00:41 GMT",
+  "start_time": "Mon, 19 Dec 2022 00:11:06 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,

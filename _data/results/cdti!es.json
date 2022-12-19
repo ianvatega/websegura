@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Thu, 15 Dec 2022 01:09:03 GMT",
+  "end_time": "Mon, 19 Dec 2022 01:01:09 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,12 +9,12 @@
     "Connection": "close",
     "Content-Length": "212",
     "Content-Type": "text/html",
-    "Set-Cookie": "visid_incap_2496528=hw9rXIWgQSOJ5GpBf92rwFJzmmMAAAAAQUIPAAAAAAAetHJxdMSspnThHYfdSryd; expires=Thu, 14 Dec 2023 06:18:19 GMT; HttpOnly; path=/; Domain=.cdti.es, incap_ses_977_2496528=y3FbLQ3AT0anDu2IDwGPDVJzmmMAAAAAyvdlEuPNtOwjJZTKrJRmvg==; path=/; Domain=.cdti.es",
-    "X-Iinfo": "14-354055805-0 0NNN RT(1671066450944 21) q(0 -1 -1 0) r(0 -1) B10(4,314,0) U18"
+    "Set-Cookie": "visid_incap_2496528=ap0t8xgJSRyLyV32hi5+TFm3n2MAAAAAQUIPAAAAAADCnIjfsOG8O4nGm4QlZCg2; expires=Mon, 18 Dec 2023 06:18:18 GMT; HttpOnly; path=/; Domain=.cdti.es, incap_ses_568_2496528=nzSQTTc5LwW74Xegw/HhB1m3n2MAAAAAx4wDLHGKm7hICA+tn2u1pA==; path=/; Domain=.cdti.es",
+    "X-Iinfo": "2-144936975-0 0NNN RT(1671411545885 25) q(0 -1 -1 0) r(0 -1) B10(4,314,0) U18"
   },
-  "scan_id": 31980713,
+  "scan_id": 32108823,
   "score": 0,
-  "start_time": "Thu, 15 Dec 2022 01:06:04 GMT",
+  "start_time": "Mon, 19 Dec 2022 00:59:03 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 7,
