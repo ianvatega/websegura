@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 19 Dec 2022 01:00:08 GMT",
+  "end_time": "Thu, 22 Dec 2022 01:02:52 GMT",
   "grade": "C+",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -11,7 +11,7 @@
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
     "Content-language": "ca",
-    "Date": "Mon, 19 Dec 2022 00:59:24 GMT",
+    "Date": "Thu, 22 Dec 2022 01:01:48 GMT",
     "ETag": "W/\"1670935821\"",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Last-Modified": "Tue, 13 Dec 2022 12:50:21 GMT",
@@ -28,9 +28,9 @@
     "X-UA-Compatible": "IE=edge",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 32108926,
+  "scan_id": 32229190,
   "score": 60,
-  "start_time": "Mon, 19 Dec 2022 00:59:09 GMT",
+  "start_time": "Thu, 22 Dec 2022 01:01:44 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 3,

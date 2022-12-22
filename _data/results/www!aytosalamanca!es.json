@@ -1,24 +1,27 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 19 Dec 2022 01:17:54 GMT",
+  "end_time": "Thu, 22 Dec 2022 00:46:49 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
+    "Age": "137",
     "Cache-Control": "max-age=600, must-revalidate",
-    "Connection": "close",
-    "Content-Length": "0",
+    "Connection": "Keep-Alive",
+    "Content-Length": "94016",
     "Content-Type": "text/html;charset=ISO-8859-1",
-    "Date": "Mon, 19 Dec 2022 01:18:44 GMT",
-    "Pragma": "no-cache",
-    "Server": "Apache/2.4.43 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.46"
+    "Date": "Thu, 22 Dec 2022 00:47:38 GMT",
+    "Keep-Alive": "timeout=5, max=99",
+    "Last-Modified": "Thu, 22 Dec 2022 00:45:23 GMT",
+    "Server": "Apache/2.4.43 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.46",
+    "Set-Cookie": "JSESSIONID=968AEE1E4C9F37C3A078702E05E05432; Path=/; Secure"
   },
-  "scan_id": 32109357,
+  "scan_id": 32228879,
   "score": 0,
-  "start_time": "Mon, 19 Dec 2022 01:17:04 GMT",
+  "start_time": "Thu, 22 Dec 2022 00:45:36 GMT",
   "state": "FINISHED",
-  "status_code": 500,
-  "tests_failed": 6,
-  "tests_passed": 6,
+  "status_code": 200,
+  "tests_failed": 8,
+  "tests_passed": 4,
   "tests_quantity": 12
 }
