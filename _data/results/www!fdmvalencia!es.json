@@ -1,13 +1,13 @@
 {
   "algorithm_version": 2,
-  "end_time": "Wed, 21 Dec 2022 01:13:10 GMT",
+  "end_time": "Sun, 25 Dec 2022 01:04:32 GMT",
   "grade": "D+",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "keep-alive",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Wed, 21 Dec 2022 01:12:46 GMT",
+    "Date": "Sun, 25 Dec 2022 01:04:02 GMT",
     "Link": "<https://www.fdmvalencia.es/wp-json/>; rel=\"https://api.w.org/\", <https://www.fdmvalencia.es/>; rel=shortlink",
     "Server": "nginx",
     "Transfer-Encoding": "chunked",
@@ -15,9 +15,9 @@
     "X-Pingback": "https://www.fdmvalencia.es/xmlrpc.php",
     "X-Powered-By": "PHP/5.6.40, PleskLin"
   },
-  "scan_id": 32187985,
+  "scan_id": 32331627,
   "score": 40,
-  "start_time": "Wed, 21 Dec 2022 00:58:53 GMT",
+  "start_time": "Sun, 25 Dec 2022 01:03:54 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
