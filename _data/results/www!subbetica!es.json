@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Thu, 22 Dec 2022 01:02:20 GMT",
+  "end_time": "Mon, 26 Dec 2022 01:04:37 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,7 +8,7 @@
     "Connection": "Keep-Alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Thu, 22 Dec 2022 01:01:49 GMT",
+    "Date": "Mon, 26 Dec 2022 01:04:31 GMT",
     "Link": "<http://mancomunidad.subbetica.es/index.php?rest_route=/>; rel=\"https://api.w.org/\"",
     "Server": "LiteSpeed",
     "Transfer-Encoding": "chunked",
@@ -18,9 +18,9 @@
     "X-TEC-API-ROOT": "http://mancomunidad.subbetica.es/index.php?rest_route=/tribe/events/v1/",
     "X-TEC-API-VERSION": "v1"
   },
-  "scan_id": 32229196,
+  "scan_id": 32357316,
   "score": 0,
-  "start_time": "Thu, 22 Dec 2022 01:01:44 GMT",
+  "start_time": "Mon, 26 Dec 2022 01:04:11 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 7,
