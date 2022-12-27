@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sun, 25 Dec 2022 00:12:26 GMT",
+  "end_time": "Tue, 27 Dec 2022 00:13:08 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Language": "es-ES",
     "Content-Type": "text/html;charset=utf-8",
-    "Date": "Sun, 25 Dec 2022 00:12:08 GMT",
+    "Date": "Tue, 27 Dec 2022 00:13:00 GMT",
     "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
     "Pragma": "no-cache",
     "Server": "",
@@ -18,9 +18,9 @@
     "Vary": "Accept-Encoding",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 32330733,
+  "scan_id": 32394845,
   "score": 10,
-  "start_time": "Sun, 25 Dec 2022 00:11:57 GMT",
+  "start_time": "Tue, 27 Dec 2022 00:11:58 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
