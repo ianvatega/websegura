@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sat, 24 Dec 2022 00:57:57 GMT",
+  "end_time": "Wed, 28 Dec 2022 01:02:58 GMT",
   "grade": "B",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Content-length": "561071",
     "Content-security-policy": "base-uri 'self'; object-src 'none'; media-src 'self';  child-src 'none'; frame-ancestors 'none'; connect-src 'self' https://www.google-analytics.com/;  manifest-src 'self'; frame-src 'self' https://platform.twitter.com/  https://www.youtube.com/",
     "Content-type": "text/html",
-    "Date": "Sat, 24 Dec 2022 00:57:35 GMT",
+    "Date": "Wed, 28 Dec 2022 01:02:48 GMT",
     "Etag": "\"88faf-63a1ba54\"",
     "Last-modified": "Tue, 20 Dec 2022 13:36:20 GMT",
     "Server": "server-header-none",
@@ -18,9 +18,9 @@
     "X-frame-options": "DENY",
     "X-xss-protection": "1; mode=block"
   },
-  "scan_id": 32298786,
+  "scan_id": 32438287,
   "score": 75,
-  "start_time": "Sat, 24 Dec 2022 00:56:09 GMT",
+  "start_time": "Wed, 28 Dec 2022 01:00:50 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 2,
