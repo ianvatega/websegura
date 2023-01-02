@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 30 Dec 2022 00:54:20 GMT",
+  "end_time": "Mon, 02 Jan 2023 00:46:11 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,15 +9,15 @@
     "Connection": "keep-alive",
     "Content-Length": "114679",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Fri, 30 Dec 2022 00:54:16 GMT",
+    "Date": "Mon, 02 Jan 2023 00:46:05 GMT",
     "Expires": "-1",
     "Pragma": "no-cache",
     "Server": "Microsoft-IIS/10.0",
-    "Set-Cookie": "ApplicationGatewayAffinityCORS=5c3340e59fcf943cac4edf6709d01012; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=5c3340e59fcf943cac4edf6709d01012; Path=/, ASP.NET_SessionId=oykytd3rgmi5npjgu5kunghg; path=/; HttpOnly; SameSite=Lax"
+    "Set-Cookie": "ApplicationGatewayAffinityCORS=5c3340e59fcf943cac4edf6709d01012; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=5c3340e59fcf943cac4edf6709d01012; Path=/, ASP.NET_SessionId=ixozsp2ie2m5inv1u521uffo; path=/; HttpOnly; SameSite=Lax"
   },
-  "scan_id": 32529944,
+  "scan_id": 32634372,
   "score": 0,
-  "start_time": "Fri, 30 Dec 2022 00:51:09 GMT",
+  "start_time": "Mon, 02 Jan 2023 00:46:02 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
