@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sun, 08 Jan 2023 01:25:36 GMT",
+  "end_time": "Wed, 11 Jan 2023 01:05:16 GMT",
   "grade": "C+",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -11,7 +11,7 @@
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
     "Content-language": "ca",
-    "Date": "Sun, 08 Jan 2023 01:25:08 GMT",
+    "Date": "Wed, 11 Jan 2023 01:04:48 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Permissions-Policy": "interest-cohort=()",
     "Referrer-Policy": "no-referrer-when-downgrade",
@@ -26,9 +26,9 @@
     "X-UA-Compatible": "IE=edge",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 32880772,
+  "scan_id": 33009393,
   "score": 60,
-  "start_time": "Sun, 08 Jan 2023 01:25:02 GMT",
+  "start_time": "Wed, 11 Jan 2023 01:04:03 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 3,
