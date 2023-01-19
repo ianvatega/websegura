@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 16 Jan 2023 00:11:42 GMT",
+  "end_time": "Thu, 19 Jan 2023 00:11:55 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,16 +9,16 @@
     "Connection": "Keep-Alive",
     "Content-Length": "7713",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Mon, 16 Jan 2023 00:04:51 GMT",
+    "Date": "Thu, 19 Jan 2023 00:05:06 GMT",
     "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
     "Keep-Alive": "timeout=15, max=100",
     "Pragma": "no-cache",
     "Server": "Apache/2.2.15 (CentOS) mod_ssl/2.2.15 OpenSSL/1.0.1e-fips DAV/2",
-    "Set-Cookie": "PHPSESSID=6gq7jcseq6ncvr0paf1timktq3; expires=Tue, 17-Jan-2023 00:04:51 GMT; Max-Age=86400; path=/"
+    "Set-Cookie": "PHPSESSID=v8n46od43524ofsvbl4tfhinr7; expires=Fri, 20-Jan-2023 00:05:06 GMT; Max-Age=86400; path=/"
   },
-  "scan_id": 33109512,
+  "scan_id": 33224169,
   "score": 0,
-  "start_time": "Mon, 16 Jan 2023 00:11:38 GMT",
+  "start_time": "Thu, 19 Jan 2023 00:11:51 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 7,
