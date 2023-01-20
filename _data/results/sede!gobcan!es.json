@@ -1,27 +1,25 @@
 {
   "algorithm_version": 2,
-  "end_time": "Wed, 18 Jan 2023 00:12:04 GMT",
+  "end_time": "Fri, 20 Jan 2023 00:12:39 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "Keep-Alive",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Wed, 18 Jan 2023 00:11:52 GMT",
+    "Date": "Fri, 20 Jan 2023 00:12:10 GMT",
     "Keep-Alive": "timeout=5, max=499",
     "Server": "Apache",
-    "Server-Timing": "dtRpid;desc=\"1056233953\", dtSInfo;desc=\"0\"",
-    "Set-Cookie": "dtCookie=v_4_srv_1_sn_C15A5B7F58A332849F916653461AFD7E_perc_100000_ol_0_mul_1_app-3A9f4f8269c5bc61b3_0; Path=/; Domain=.gobiernodecanarias.org, JSESSIONID=621CBB9F623C69AD5AA20DBEA90BC3C3.ajp13_ahora-ap04e_tomcat; Path=/; Secure; HttpOnly;HttpOnly;Secure;SameSite=None",
+    "Set-Cookie": "JSESSIONID=86D78022E26D524FA034FA502464350F.ajp13_ahora-ap02e_tomcat; Path=/; Secure; HttpOnly;HttpOnly;Secure;SameSite=None",
     "Strict-Transport-Security": "max-age=0; includeSubDomains",
-    "Transfer-Encoding": "chunked",
-    "X-OneAgent-JS-Injection": "true"
+    "Transfer-Encoding": "chunked"
   },
-  "scan_id": 33186939,
-  "score": 0,
-  "start_time": "Wed, 18 Jan 2023 00:11:45 GMT",
+  "scan_id": 33244366,
+  "score": 5,
+  "start_time": "Fri, 20 Jan 2023 00:12:03 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 8,
-  "tests_passed": 4,
+  "tests_failed": 7,
+  "tests_passed": 5,
   "tests_quantity": 12
 }
