@@ -82,5 +82,19 @@
     "grade": "F",
     "scan_id": 31516697,
     "score": 10
+  },
+  {
+    "end_time": "Wed, 25 Jan 2023 00:12:03 GMT",
+    "end_time_unix_timestamp": 1674605523,
+    "grade": "F",
+    "scan_id": 33427131,
+    "score": 0
+  },
+  {
+    "end_time": "Thu, 26 Jan 2023 00:12:18 GMT",
+    "end_time_unix_timestamp": 1674691938,
+    "grade": "F",
+    "scan_id": 33470762,
+    "score": 10
   }
 ]
