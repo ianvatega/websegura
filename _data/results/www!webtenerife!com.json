@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Wed, 25 Jan 2023 01:02:06 GMT",
+  "end_time": "Fri, 27 Jan 2023 00:12:08 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,16 +9,16 @@
     "Connection": "keep-alive",
     "Content-Length": "785376",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Wed, 25 Jan 2023 01:01:55 GMT",
+    "Date": "Fri, 27 Jan 2023 00:12:03 GMT",
     "Expires": "-1",
     "Pragma": "no-cache",
     "Request-Context": "appId=cid-v1:25be18a9-6296-4a58-bd52-0b5dc39d366c",
     "Server": "Microsoft-IIS/10.0",
-    "Set-Cookie": "shell#lang=en; path=/; secure; SameSite=None, ASP.NET_SessionId=dww1j4tglq5uqtllskie0cyt; path=/; secure; HttpOnly; SameSite=None, SC_ANALYTICS_GLOBAL_COOKIE=539124d6facb4c64bc110bf8f7e32d46|False; expires=Sat, 22-Jan-2033 01:01:54 GMT; path=/; secure; HttpOnly; SameSite=None, ARRAffinity=548ee2e868d397d5aa4bc8838b55c656539155323694f3fa8ac973e09ef68850;Path=/;HttpOnly;Secure;Domain=www.webtenerife.com, ARRAffinitySameSite=548ee2e868d397d5aa4bc8838b55c656539155323694f3fa8ac973e09ef68850;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.webtenerife.com"
+    "Set-Cookie": "shell#lang=en; path=/; secure; SameSite=None, ASP.NET_SessionId=wqmnwvtuf5gwuh4lqskfityw; path=/; secure; HttpOnly; SameSite=None, SC_ANALYTICS_GLOBAL_COOKIE=de83bab0570f44a7a6c32296d4c83bc4|False; expires=Mon, 24-Jan-2033 00:12:00 GMT; path=/; secure; HttpOnly; SameSite=None, ARRAffinity=69121718235bb351d365de3dcbd6c82900cfb904310ff4618be8bf5d80440566;Path=/;HttpOnly;Secure;Domain=www.webtenerife.com, ARRAffinitySameSite=69121718235bb351d365de3dcbd6c82900cfb904310ff4618be8bf5d80440566;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.webtenerife.com"
   },
-  "scan_id": 33428256,
+  "scan_id": 33500112,
   "score": 15,
-  "start_time": "Wed, 25 Jan 2023 01:01:48 GMT",
+  "start_time": "Fri, 27 Jan 2023 00:11:43 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
