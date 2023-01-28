@@ -1,7 +1,7 @@
 {
   "algorithm_version": 2,
-  "end_time": "Wed, 25 Jan 2023 01:18:48 GMT",
-  "grade": "F",
+  "end_time": "Sat, 28 Jan 2023 01:09:11 GMT",
+  "grade": "D",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
@@ -9,21 +9,21 @@
     "Access-Control-Allow-Origin": "*",
     "Connection": "Keep-Alive",
     "Content-Type": "text/html; charset=ISO-8859-1",
-    "Date": "Wed, 25 Jan 2023 01:18:42 GMT",
+    "Date": "Sat, 28 Jan 2023 01:09:09 GMT",
     "ETag": "\"3a25-5eed3db299980\"",
     "Keep-Alive": "timeout=10, max=99",
     "Server": "Apache",
-    "Set-Cookie": "r01euskadiUserCookie=Y9CDckivLYVgPbUH604S2QAAAAo; path=/; domain=euskadi.eus; expires=Thu, 25-Jan-2024 01:18:42 GMT, r01euskadiCookie=web01_eu; path=/; domain=euskadi.eus; expires=Thu, 25-Jan-2024 01:18:42 GMT, r01PortalInfo=web01-hasiera/eu; path=/; domain=www.euskadi.eus",
+    "Set-Cookie": "r01euskadiUserCookie=Y9R1ta4M-X0agPSLhVC3BQAAABI; path=/; domain=euskadi.eus; expires=Sun, 28-Jan-2024 01:09:09 GMT; secure; HttpOnly, r01euskadiCookie=web01_eu; path=/; domain=euskadi.eus; expires=Sun, 28-Jan-2024 01:09:09 GMT; secure, r01PortalInfo=web01-hasiera/eu; path=/; domain=www.euskadi.eus; secure",
     "Strict-Transport-Security": "max-age=525600",
     "Transfer-Encoding": "chunked",
     "Vary": "Cookie,User-Agent,X-Forwarded-Proto"
   },
-  "scan_id": 33428783,
-  "score": 10,
-  "start_time": "Wed, 25 Jan 2023 01:18:37 GMT",
+  "scan_id": 33525459,
+  "score": 30,
+  "start_time": "Sat, 28 Jan 2023 01:05:36 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 6,
-  "tests_passed": 6,
+  "tests_failed": 5,
+  "tests_passed": 7,
   "tests_quantity": 12
 }
