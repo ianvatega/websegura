@@ -1,13 +1,13 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sat, 28 Jan 2023 00:56:43 GMT",
+  "end_time": "Mon, 30 Jan 2023 01:04:28 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "Keep-Alive",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Sat, 28 Jan 2023 00:56:33 GMT",
+    "Date": "Mon, 30 Jan 2023 01:04:00 GMT",
     "Keep-Alive": "timeout=3, max=100",
     "Link": "<https://www.madridporeldeporte.org/wp-json/>; rel=\"https://api.w.org/\", <https://www.madridporeldeporte.org/>; rel=shortlink",
     "Server": "Apache/2.4.54 (Unix)",
@@ -16,9 +16,9 @@
     "X-Pingback": "https://www.madridporeldeporte.org/xmlrpc.php",
     "X-Powered-By": "PHP/7.4.33"
   },
-  "scan_id": 33523133,
+  "scan_id": 33581261,
   "score": 15,
-  "start_time": "Sat, 28 Jan 2023 00:52:11 GMT",
+  "start_time": "Mon, 30 Jan 2023 01:00:34 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,

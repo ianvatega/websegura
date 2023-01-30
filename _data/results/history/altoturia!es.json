@@ -250,5 +250,12 @@
     "grade": "D+",
     "scan_id": 33525109,
     "score": 40
+  },
+  {
+    "end_time": "Sun, 29 Jan 2023 01:27:11 GMT",
+    "end_time_unix_timestamp": 1674955631,
+    "grade": "C+",
+    "scan_id": 33549404,
+    "score": 60
   }
 ]
