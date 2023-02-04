@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Thu, 02 Feb 2023 01:05:46 GMT",
+  "end_time": "Sat, 04 Feb 2023 01:20:01 GMT",
   "grade": "D+",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -27,9 +27,9 @@
     "X-Generator": "Drupal 9 (https://www.drupal.org)",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 33735896,
+  "scan_id": 33802669,
   "score": 40,
-  "start_time": "Thu, 02 Feb 2023 01:05:23 GMT",
+  "start_time": "Sat, 04 Feb 2023 01:19:41 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
