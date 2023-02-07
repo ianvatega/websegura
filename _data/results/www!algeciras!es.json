@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sat, 04 Feb 2023 01:02:34 GMT",
+  "end_time": "Tue, 07 Feb 2023 00:54:09 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,19 +9,19 @@
     "Connection": "Keep-Alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html;charset=utf-8",
-    "Date": "Sat, 04 Feb 2023 01:02:21 GMT",
+    "Date": "Tue, 07 Feb 2023 00:53:53 GMT",
     "Keep-Alive": "timeout=2000",
-    "Last-Modified": "Sat, 04 Feb 2023 01:02:21 GMT",
+    "Last-Modified": "Tue, 07 Feb 2023 00:53:53 GMT",
     "Server": "OpenCms/9.0.1",
-    "Transfer-Encoding": "chunked",
-    "Vary": "Accept-Encoding"
+    "Vary": "Accept-Encoding",
+    "content-length": "12515"
   },
-  "scan_id": 33802175,
+  "scan_id": 33954115,
   "score": 0,
-  "start_time": "Sat, 04 Feb 2023 01:02:13 GMT",
+  "start_time": "Tue, 07 Feb 2023 00:49:17 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 6,
-  "tests_passed": 6,
+  "tests_failed": 7,
+  "tests_passed": 5,
   "tests_quantity": 12
 }
