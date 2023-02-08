@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sun, 05 Feb 2023 01:10:00 GMT",
+  "end_time": "Wed, 08 Feb 2023 01:26:30 GMT",
   "grade": "B+",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Language": "es",
     "Content-Security-Policy": "upgrade-insecure-requests;",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Sun, 05 Feb 2023 01:09:04 GMT",
+    "Date": "Wed, 08 Feb 2023 01:26:01 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Permissions-Policy": "interest-cohort=()",
     "Server": "Apache/2.4.46 (codeit) OpenSSL/1.1.1i PHP/7.3.27",
@@ -21,9 +21,9 @@
     "X-Powered-By": "PHP/7.3.27",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 33831531,
+  "scan_id": 34003845,
   "score": 80,
-  "start_time": "Sun, 05 Feb 2023 01:08:58 GMT",
+  "start_time": "Wed, 08 Feb 2023 01:25:38 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 1,
