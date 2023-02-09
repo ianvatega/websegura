@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 06 Feb 2023 22:23:18 GMT",
+  "end_time": "Thu, 09 Feb 2023 00:11:51 GMT",
   "grade": "D",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Connection": "Keep-Alive",
     "Content-Length": "6425",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Mon, 06 Feb 2023 22:23:16 GMT",
+    "Date": "Thu, 09 Feb 2023 00:11:49 GMT",
     "ETag": "\"1919-5f3b511ded680\"",
     "Keep-Alive": "timeout=5, max=99",
     "Last-Modified": "Thu, 02 Feb 2023 10:31:38 GMT",
@@ -17,9 +17,9 @@
     "Strict-Transport-Security": "max-age=63072000;",
     "X-Frame-Options": "ALLOW-FROM https://sensefum.san.gva.es/, "
   },
-  "scan_id": 33947952,
+  "scan_id": 34049700,
   "score": 30,
-  "start_time": "Mon, 06 Feb 2023 22:23:07 GMT",
+  "start_time": "Thu, 09 Feb 2023 00:11:43 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,

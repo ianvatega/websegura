@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sun, 05 Feb 2023 01:09:21 GMT",
+  "end_time": "Thu, 09 Feb 2023 01:04:22 GMT",
   "grade": "B",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Content-length": "560844",
     "Content-security-policy": "base-uri 'self'; object-src 'none'; media-src 'self';  child-src 'none'; frame-ancestors 'none'; connect-src 'self' https://www.google-analytics.com/;  manifest-src 'self'; frame-src 'self' https://platform.twitter.com/  https://www.youtube.com/",
     "Content-type": "text/html",
-    "Date": "Sun, 05 Feb 2023 01:09:04 GMT",
+    "Date": "Thu, 09 Feb 2023 01:04:13 GMT",
     "Etag": "\"88ecc-63dbaa2c\"",
     "Last-modified": "Thu, 02 Feb 2023 12:18:52 GMT",
     "Server": "server-header-none",
@@ -18,9 +18,9 @@
     "X-frame-options": "DENY",
     "X-xss-protection": "1; mode=block"
   },
-  "scan_id": 33831490,
+  "scan_id": 34052600,
   "score": 75,
-  "start_time": "Sun, 05 Feb 2023 01:08:58 GMT",
+  "start_time": "Thu, 09 Feb 2023 01:04:07 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 2,
