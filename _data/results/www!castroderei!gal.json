@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sun, 12 Feb 2023 00:13:16 GMT",
+  "end_time": "Tue, 14 Feb 2023 00:14:08 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Connection": "Keep-Alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Sun, 12 Feb 2023 00:13:06 GMT",
+    "Date": "Tue, 14 Feb 2023 00:13:51 GMT",
     "Etag": "\"36506-1676060248;gz\"",
     "Link": "<https://www.castroderei.gal/wp-json/>; rel=\"https://api.w.org/\", <https://www.castroderei.gal/wp-json/wp/v2/pages/205336>; rel=\"alternate\"; type=\"application/json\", <https://www.castroderei.gal/>; rel=shortlink",
     "Server": "LiteSpeed",
@@ -17,9 +17,9 @@
     "Vary": "Accept-Encoding",
     "X-LiteSpeed-Cache": "hit"
   },
-  "scan_id": 34174989,
+  "scan_id": 34265588,
   "score": 20,
-  "start_time": "Sun, 12 Feb 2023 00:12:47 GMT",
+  "start_time": "Tue, 14 Feb 2023 00:12:49 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
