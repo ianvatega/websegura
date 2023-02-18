@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Wed, 15 Feb 2023 01:14:36 GMT",
+  "end_time": "Sat, 18 Feb 2023 01:06:26 GMT",
   "grade": "D-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -11,7 +11,7 @@
     "Content-Encoding": "gzip",
     "Content-Language": "es",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Wed, 15 Feb 2023 01:14:05 GMT",
+    "Date": "Sat, 18 Feb 2023 01:06:06 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Link": "<http://www.consorciossnord.es/es>; rel=\"canonical\",<http://www.consorciossnord.es/es>; rel=\"shortlink\"",
     "Server": "nginx/1.12.2",
@@ -21,11 +21,11 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-Generator": "Drupal 7 (http://drupal.org)",
     "X-Proxy-Cache": "MISS",
-    "X-Request-ID": "942f3d2afddb6abb4b7c80cf3a38b846"
+    "X-Request-ID": "c77d318f580efa9a3874404f6cc77dc1"
   },
-  "scan_id": 34317896,
+  "scan_id": 34424719,
   "score": 25,
-  "start_time": "Wed, 15 Feb 2023 01:06:55 GMT",
+  "start_time": "Sat, 18 Feb 2023 01:05:16 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
