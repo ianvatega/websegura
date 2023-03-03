@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Wed, 01 Mar 2023 01:00:11 GMT",
+  "end_time": "Fri, 03 Mar 2023 02:45:39 GMT",
   "grade": "D",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Language": "es-ES",
     "Content-Type": "text/html;charset=utf-8",
-    "Date": "Wed, 01 Mar 2023 00:59:58 GMT",
+    "Date": "Fri, 03 Mar 2023 02:45:27 GMT",
     "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
     "Pragma": "no-cache",
     "Server": "",
@@ -18,9 +18,9 @@
     "Vary": "Accept-Encoding",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 34832841,
+  "scan_id": 34906142,
   "score": 30,
-  "start_time": "Wed, 01 Mar 2023 00:59:53 GMT",
+  "start_time": "Fri, 03 Mar 2023 02:45:19 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
