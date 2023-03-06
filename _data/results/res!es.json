@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 03 Mar 2023 02:58:52 GMT",
+  "end_time": "Mon, 06 Mar 2023 01:08:42 GMT",
   "grade": "D+",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Language": "es",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Fri, 03 Mar 2023 02:58:20 GMT",
+    "Date": "Mon, 06 Mar 2023 01:08:10 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Server": "nginx",
     "Transfer-Encoding": "chunked",
@@ -18,9 +18,9 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-Generator": "Drupal 7 (http://drupal.org)"
   },
-  "scan_id": 34906417,
+  "scan_id": 34967232,
   "score": 40,
-  "start_time": "Fri, 03 Mar 2023 02:58:14 GMT",
+  "start_time": "Mon, 06 Mar 2023 01:07:33 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
