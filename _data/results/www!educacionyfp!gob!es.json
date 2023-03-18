@@ -1,7 +1,7 @@
 {
   "algorithm_version": 2,
-  "end_time": "Wed, 15 Mar 2023 01:05:47 GMT",
-  "grade": "B",
+  "end_time": "Sat, 18 Mar 2023 01:03:18 GMT",
+  "grade": "B+",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
@@ -9,9 +9,9 @@
     "Content-Encoding": "gzip",
     "Content-Security-Policy": "default-src https:; style-src 'self' 'unsafe-inline' https:; object-src 'none'; script-src * 'unsafe-inline' 'unsafe-eval' https:; img-src 'self' https:; frame-src *; frame-ancestors 'none'; base-uri 'self'; form-action *",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Wed, 15 Mar 2023 01:05:34 GMT",
+    "Date": "Sat, 18 Mar 2023 01:02:55 GMT",
     "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
-    "Last-Modified": "Wed, 15 Mar 2023 00:16:04 GMT",
+    "Last-Modified": "Fri, 17 Mar 2023 23:00:38 GMT",
     "Link": "<https://www.educacionyfp.gob.es/portada.html>; rel=\"canonical\"",
     "Pragma": "no-cache",
     "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
@@ -22,12 +22,12 @@
     "X-Magnolia-Registration": "Registered",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 35278374,
-  "score": 75,
-  "start_time": "Wed, 15 Mar 2023 01:05:24 GMT",
+  "scan_id": 35365403,
+  "score": 80,
+  "start_time": "Sat, 18 Mar 2023 01:02:53 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 2,
-  "tests_passed": 10,
+  "tests_failed": 1,
+  "tests_passed": 11,
   "tests_quantity": 12
 }
