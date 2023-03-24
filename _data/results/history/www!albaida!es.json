@@ -306,5 +306,12 @@
     "grade": "F",
     "scan_id": 35121979,
     "score": 15
+  },
+  {
+    "end_time": "Fri, 24 Mar 2023 00:52:10 GMT",
+    "end_time_unix_timestamp": 1679619130,
+    "grade": "D+",
+    "scan_id": 35586103,
+    "score": 40
   }
 ]
