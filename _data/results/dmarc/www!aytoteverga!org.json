@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "escorpio.iteasoluciones.es",
-      "tauro.iteasoluciones.es"
+      "tauro.iteasoluciones.es",
+      "escorpio.iteasoluciones.es"
     ],
     "warnings": []
   },
@@ -14,17 +14,17 @@
       {
         "preference": 10,
         "hostname": "tauro.iteasoluciones.es",
-        "addresses": []
+        "addresses": [
+          "37.187.129.54"
+        ]
       }
     ],
-    "warnings": [
-      "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
-    ]
+    "warnings": []
   },
   "spf": {
     "record": null,
     "valid": false,
-    "error": "aytoteverga.org does not have a SPF TXT record"
+    "error": "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
   },
   "dmarc": {
     "record": null,

@@ -118,7 +118,7 @@
     }
   },
   "dmarc": {
-    "record": "v=DMARC1; p=reject; sp=reject; pct=100; adkim=s; aspf=s; rua=mailto:postmaster@congreso.es; ruf=mailto:postmaster@congreso.es",
+    "record": "v=DMARC1; p=reject; sp=reject; pct=100; adkim=s; aspf=s; rua=mailto:dmarc_rua@emaildefense.proofpoint.com; ruf=mailto:dmarc_ruf@emaildefense.proofpoint.com",
     "valid": true,
     "location": "congreso.es",
     "warnings": [],
@@ -151,7 +151,7 @@
         "value": [
           {
             "scheme": "mailto",
-            "address": "postmaster@congreso.es",
+            "address": "dmarc_rua@emaildefense.proofpoint.com",
             "size_limit": null
           }
         ],
@@ -161,7 +161,7 @@
         "value": [
           {
             "scheme": "mailto",
-            "address": "postmaster@congreso.es",
+            "address": "dmarc_ruf@emaildefense.proofpoint.com",
             "size_limit": null
           }
         ],

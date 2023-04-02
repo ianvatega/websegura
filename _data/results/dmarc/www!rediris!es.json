@@ -119,7 +119,7 @@
     }
   },
   "dmarc": {
-    "record": "v=DMARC1; p=none; fo=1; rua=mailto:dmarc_rua@emaildefense.proofpoint.com; ruf=mailto:dmarc_ruf@emaildefense.proofpoint.com",
+    "record": "v=DMARC1; p=none; sp=none; fo=1; rua=mailto:dmarc_rua@emaildefense.proofpoint.com; ruf=mailto:dmarc_ruf@emaildefense.proofpoint.com",
     "valid": true,
     "location": "rediris.es",
     "warnings": [],
@@ -129,6 +129,10 @@
         "explicit": true
       },
       "p": {
+        "value": "none",
+        "explicit": true
+      },
+      "sp": {
         "value": "none",
         "explicit": true
       },
@@ -178,10 +182,6 @@
       },
       "ri": {
         "value": 86400,
-        "explicit": false
-      },
-      "sp": {
-        "value": "none",
         "explicit": false
       }
     }

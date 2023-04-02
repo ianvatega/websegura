@@ -10,8 +10,22 @@
     "warnings": []
   },
   "mx": {
-    "hosts": [],
-    "error": "All nameservers failed to answer the query hablamosdeeuropa.es. IN MX: Server 1.0.0.1 UDP port 53 answered SERVFAIL"
+    "hosts": [
+      {
+        "preference": 10,
+        "hostname": "smtp4.maec.es",
+        "addresses": []
+      },
+      {
+        "preference": 20,
+        "hostname": "smtp3.maec.es",
+        "addresses": []
+      }
+    ],
+    "warnings": [
+      "smtp4.maec.es does not have any A or AAAA DNS records",
+      "smtp3.maec.es does not have any A or AAAA DNS records"
+    ]
   },
   "spf": {
     "record": "v=spf1 mx ~all",
@@ -42,6 +56,6 @@
     "record": null,
     "valid": false,
     "location": null,
-    "error": "A DMARC record does not exist for this domain or its base domain"
+    "error": "All nameservers failed to answer the query _dmarc.hablamosdeeuropa.es. IN TXT: Server 1.0.0.1 UDP port 53 answered SERVFAIL"
   }
 }

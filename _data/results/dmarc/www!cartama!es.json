@@ -4,10 +4,9 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "dns.malaga.es",
-      "dns2.malaga.es",
-      "dns3.malaga.es",
-      "dns4.malaga.es"
+      "dpmdns03.ns-cloud4b.net",
+      "dpmdns01.ns-cloud4b.org",
+      "dpmdns02.ns-cloud4b.com"
     ],
     "warnings": []
   },
@@ -18,7 +17,7 @@
         "hostname": "mx.spamexperts.com",
         "addresses": [
           "2001:550:2:61::2fc:100",
-          "38.111.198.185"
+          "38.89.254.156"
         ]
       },
       {
@@ -344,6 +343,10 @@
                 "mechanism": "a"
               },
               {
+                "value": "2001:550:2:3::62:100",
+                "mechanism": "a"
+              },
+              {
                 "value": "2001:550:2:3::62:6",
                 "mechanism": "a"
               },
@@ -608,6 +611,14 @@
                 "mechanism": "a"
               },
               {
+                "value": "2001:978:2:7::162:110",
+                "mechanism": "a"
+              },
+              {
+                "value": "2001:978:2:7::162:111",
+                "mechanism": "a"
+              },
+              {
                 "value": "2001:978:2:7::e7:101",
                 "mechanism": "a"
               },
@@ -732,10 +743,6 @@
                 "mechanism": "a"
               },
               {
-                "value": "2604:9a00:2010:a066:8::1",
-                "mechanism": "a"
-              },
-              {
                 "value": "2604:9a00:2100:a043:16::1",
                 "mechanism": "a"
               },
@@ -801,6 +808,10 @@
               },
               {
                 "value": "38.133.191.228",
+                "mechanism": "a"
+              },
+              {
+                "value": "38.133.191.232",
                 "mechanism": "a"
               },
               {
@@ -1278,9 +1289,9 @@
     }
   },
   "dmarc": {
-    "record": null,
+    "record": "v=DMARC1",
     "valid": false,
-    "location": null,
-    "error": "A DMARC record does not exist for this domain or its base domain"
+    "location": "cartama.es",
+    "error": "Error: Expected version_tag at position 0 in: v=DMARC1"
   }
 }

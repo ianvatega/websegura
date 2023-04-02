@@ -120,7 +120,7 @@
     }
   },
   "dmarc": {
-    "record": "v=DMARC1; p=none; sp=none; fo=1; rua=mailto:dmarc_rua@emaildefense.proofpoint.com; ruf=mailto:dmarc_ruf@emaildefense.proofpoint.com",
+    "record": "v=DMARC1; p=quarantine; sp=quarantine; fo=1; rua=mailto:dmarc_rua@emaildefense.proofpoint.com; ruf=mailto:dmarc_ruf@emaildefense.proofpoint.com",
     "valid": true,
     "location": "ine.es",
     "warnings": [],
@@ -130,11 +130,11 @@
         "explicit": true
       },
       "p": {
-        "value": "none",
+        "value": "quarantine",
         "explicit": true
       },
       "sp": {
-        "value": "none",
+        "value": "quarantine",
         "explicit": true
       },
       "fo": {

@@ -4,10 +4,10 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns4.gestiondecuenta.com",
+      "ns3.gestiondecuenta.com",
       "ns.gestiondecuenta.com",
-      "ns2.gestiondecuenta.com",
-      "ns3.gestiondecuenta.com"
+      "ns4.gestiondecuenta.com",
+      "ns2.gestiondecuenta.com"
     ],
     "warnings": []
   },
@@ -15,11 +15,10 @@
     "hosts": [
       {
         "preference": 10,
-        "hostname": "mercasa.in.tmes.trendmicro.eu",
+        "hostname": "mercasaes-mail-onmicrosoft-com.mail.protection.outlook.com",
         "addresses": [
-          "18.185.115.145",
-          "18.185.115.146",
-          "18.185.115.147"
+          "104.47.12.36",
+          "104.47.14.36"
         ]
       },
       {
@@ -40,14 +39,18 @@
     "warnings": []
   },
   "spf": {
-    "record": "v=spf1 mx ip4:212.170.103.172 ip4:2.139.205.222 include:spf.tmes.trendmicro.com include:spf.protection.outlook.com -all",
+    "record": "v=spf1 +a +mx a:172-104-137-76.ip.linodeusercontent.com a:cph-smtp-gw134.customprofessionalhosting.com ip4:172.104.137.76 ip4:185.22.93.134 ip4:212.170.103.172 ip4:2.139.205.222 include:spf.protection.outlook.com -all",
     "valid": true,
     "dns_lookups": 5,
     "warnings": [],
     "parsed": {
       "pass": [
         {
-          "value": "mercasa.in.tmes.trendmicro.eu",
+          "value": "185.22.92.131",
+          "mechanism": "a"
+        },
+        {
+          "value": "mercasaes-mail-onmicrosoft-com.mail.protection.outlook.com",
           "mechanism": "mx"
         },
         {
@@ -57,6 +60,22 @@
         {
           "value": "mx20.mercasa.es",
           "mechanism": "mx"
+        },
+        {
+          "value": "172.104.137.76",
+          "mechanism": "a"
+        },
+        {
+          "value": "185.22.93.134",
+          "mechanism": "a"
+        },
+        {
+          "value": "172.104.137.76",
+          "mechanism": "ip4"
+        },
+        {
+          "value": "185.22.93.134",
+          "mechanism": "ip4"
         },
         {
           "value": "212.170.103.172",
@@ -72,132 +91,9 @@
       "fail": [],
       "include": [
         {
-          "domain": "spf.tmes.trendmicro.com",
-          "record": "v=spf1 ip4:18.208.22.64/26 ip4:18.208.22.128/25 ip4:18.185.115.128/26 ip4:18.185.115.0/25 ip4:13.238.202.0/25 ip4:13.238.202.128/26 ip4:18.176.203.128/25 ip4:13.213.174.128/25 ip4:18.177.156.0/25 ip4:13.213.220.0/25 include:spfb.tmes.trendmicro.com ~all",
-          "dns_lookups": 1,
-          "parsed": {
-            "pass": [
-              {
-                "value": "18.208.22.64/26",
-                "mechanism": "ip4"
-              },
-              {
-                "value": "18.208.22.128/25",
-                "mechanism": "ip4"
-              },
-              {
-                "value": "18.185.115.128/26",
-                "mechanism": "ip4"
-              },
-              {
-                "value": "18.185.115.0/25",
-                "mechanism": "ip4"
-              },
-              {
-                "value": "13.238.202.0/25",
-                "mechanism": "ip4"
-              },
-              {
-                "value": "13.238.202.128/26",
-                "mechanism": "ip4"
-              },
-              {
-                "value": "18.176.203.128/25",
-                "mechanism": "ip4"
-              },
-              {
-                "value": "13.213.174.128/25",
-                "mechanism": "ip4"
-              },
-              {
-                "value": "18.177.156.0/25",
-                "mechanism": "ip4"
-              },
-              {
-                "value": "13.213.220.0/25",
-                "mechanism": "ip4"
-              }
-            ],
-            "neutral": [],
-            "softfail": [],
-            "fail": [],
-            "include": [
-              {
-                "domain": "spfb.tmes.trendmicro.com",
-                "record": "v=spf1 ip4:18.188.9.192/26 ip4:18.188.239.128/26 ip4:34.253.238.128/26 ip4:34.253.238.192/26 ip4:52.202.71.114 ip4:54.145.52.119 ip4:35.156.245.132 ip4:18.156.0.20 ip4:3.74.126.139 ip4:3.72.196.143 ip4:3.212.20.253 ip4:34.225.87.138 ~all",
-                "dns_lookups": 0,
-                "parsed": {
-                  "pass": [
-                    {
-                      "value": "18.188.9.192/26",
-                      "mechanism": "ip4"
-                    },
-                    {
-                      "value": "18.188.239.128/26",
-                      "mechanism": "ip4"
-                    },
-                    {
-                      "value": "34.253.238.128/26",
-                      "mechanism": "ip4"
-                    },
-                    {
-                      "value": "34.253.238.192/26",
-                      "mechanism": "ip4"
-                    },
-                    {
-                      "value": "52.202.71.114",
-                      "mechanism": "ip4"
-                    },
-                    {
-                      "value": "54.145.52.119",
-                      "mechanism": "ip4"
-                    },
-                    {
-                      "value": "35.156.245.132",
-                      "mechanism": "ip4"
-                    },
-                    {
-                      "value": "18.156.0.20",
-                      "mechanism": "ip4"
-                    },
-                    {
-                      "value": "3.74.126.139",
-                      "mechanism": "ip4"
-                    },
-                    {
-                      "value": "3.72.196.143",
-                      "mechanism": "ip4"
-                    },
-                    {
-                      "value": "3.212.20.253",
-                      "mechanism": "ip4"
-                    },
-                    {
-                      "value": "34.225.87.138",
-                      "mechanism": "ip4"
-                    }
-                  ],
-                  "neutral": [],
-                  "softfail": [],
-                  "fail": [],
-                  "include": [],
-                  "redirect": null,
-                  "exp": null,
-                  "all": "softfail"
-                },
-                "warnings": []
-              }
-            ],
-            "redirect": null,
-            "exp": null,
-            "all": "softfail"
-          },
-          "warnings": []
-        },
-        {
           "domain": "spf.protection.outlook.com",
-          "record": "v=spf1 ip4:40.92.0.0/15 ip4:40.107.0.0/16 ip4:52.100.0.0/14 ip4:104.47.0.0/17 ip6:2a01:111:f400::/48 ip6:2a01:111:f403::/49 ip6:2a01:111:f403:8000::/50 ip6:2a01:111:f403:c000::/51 ip6:2a01:111:f403:f000::/52 include:spfd.protection.outlook.com -all",
-          "dns_lookups": 1,
+          "record": "v=spf1 ip4:40.92.0.0/15 ip4:40.107.0.0/16 ip4:52.100.0.0/14 ip4:104.47.0.0/17 ip6:2a01:111:f400::/48 ip6:2a01:111:f403::/49 ip6:2a01:111:f403:8000::/50 ip6:2a01:111:f403:c000::/51 ip6:2a01:111:f403:f000::/52 -all",
+          "dns_lookups": 0,
           "parsed": {
             "pass": [
               {
@@ -240,61 +136,7 @@
             "neutral": [],
             "softfail": [],
             "fail": [],
-            "include": [
-              {
-                "domain": "spfd.protection.outlook.com",
-                "record": "v=spf1 ip4:51.4.72.0/24 ip4:51.5.72.0/24 ip4:51.5.80.0/27 ip4:20.47.149.138/32 ip4:51.4.80.0/27 ip6:2a01:4180:4051:0800::/64 ip6:2a01:4180:4050:0800::/64 ip6:2a01:4180:4051:0400::/64 ip6:2a01:4180:4050:0400::/64 -all",
-                "dns_lookups": 0,
-                "parsed": {
-                  "pass": [
-                    {
-                      "value": "51.4.72.0/24",
-                      "mechanism": "ip4"
-                    },
-                    {
-                      "value": "51.5.72.0/24",
-                      "mechanism": "ip4"
-                    },
-                    {
-                      "value": "51.5.80.0/27",
-                      "mechanism": "ip4"
-                    },
-                    {
-                      "value": "20.47.149.138/32",
-                      "mechanism": "ip4"
-                    },
-                    {
-                      "value": "51.4.80.0/27",
-                      "mechanism": "ip4"
-                    },
-                    {
-                      "value": "2a01:4180:4051:0800::/64",
-                      "mechanism": "ip6"
-                    },
-                    {
-                      "value": "2a01:4180:4050:0800::/64",
-                      "mechanism": "ip6"
-                    },
-                    {
-                      "value": "2a01:4180:4051:0400::/64",
-                      "mechanism": "ip6"
-                    },
-                    {
-                      "value": "2a01:4180:4050:0400::/64",
-                      "mechanism": "ip6"
-                    }
-                  ],
-                  "neutral": [],
-                  "softfail": [],
-                  "fail": [],
-                  "include": [],
-                  "redirect": null,
-                  "exp": null,
-                  "all": "fail"
-                },
-                "warnings": []
-              }
-            ],
+            "include": [],
             "redirect": null,
             "exp": null,
             "all": "fail"
@@ -308,9 +150,61 @@
     }
   },
   "dmarc": {
-    "record": null,
-    "valid": false,
-    "location": null,
-    "error": "A DMARC record does not exist for this domain or its base domain"
+    "record": "v=DMARC1; p=none; rua=mailto:dmarc_agg@vali.email;",
+    "valid": true,
+    "location": "mercasa.es",
+    "warnings": [],
+    "tags": {
+      "v": {
+        "value": "DMARC1",
+        "explicit": true
+      },
+      "p": {
+        "value": "none",
+        "explicit": true
+      },
+      "rua": {
+        "value": [
+          {
+            "scheme": "mailto",
+            "address": "dmarc_agg@vali.email",
+            "size_limit": null
+          }
+        ],
+        "explicit": true
+      },
+      "adkim": {
+        "value": "r",
+        "explicit": false
+      },
+      "aspf": {
+        "value": "r",
+        "explicit": false
+      },
+      "fo": {
+        "value": [
+          "0"
+        ],
+        "explicit": false
+      },
+      "pct": {
+        "value": 100,
+        "explicit": false
+      },
+      "rf": {
+        "value": [
+          "afrf"
+        ],
+        "explicit": false
+      },
+      "ri": {
+        "value": 86400,
+        "explicit": false
+      },
+      "sp": {
+        "value": "none",
+        "explicit": false
+      }
+    }
   }
 }

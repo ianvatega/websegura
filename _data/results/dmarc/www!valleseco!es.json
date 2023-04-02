@@ -95,6 +95,6 @@
     "record": null,
     "valid": false,
     "location": null,
-    "error": "A DMARC record does not exist for this domain or its base domain"
+    "error": "Unrelated TXT records were discovered. These should be removed, as some receivers may not expect to find unrelated TXT records at _dmarc.valleseco.es\n\nVALOR: v=DMARC1; p=none; pct=100"
   }
 }

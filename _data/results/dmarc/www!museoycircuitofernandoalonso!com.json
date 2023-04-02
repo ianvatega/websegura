@@ -17,7 +17,7 @@
     ]
   },
   "spf": {
-    "record": "v=spf1 -all",
+    "record": "v=spf1 ~all",
     "valid": true,
     "dns_lookups": 0,
     "warnings": [],
@@ -29,7 +29,7 @@
       "include": [],
       "redirect": null,
       "exp": null,
-      "all": "fail"
+      "all": "softfail"
     }
   },
   "dmarc": {

@@ -3,8 +3,11 @@
   "base_domain": "spainun.org",
   "dnssec": false,
   "ns": {
-    "hostnames": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
+    "hostnames": [
+      "ns1.bluehost.com",
+      "ns2.bluehost.com"
+    ],
+    "warnings": []
   },
   "mx": {
     "hosts": [
@@ -22,8 +25,8 @@
     "record": "v=spf1 a mx include:websitewelcome.com ~all",
     "valid": false,
     "warnings": [],
-    "error": "Parsing the SPF record requires 13/10 maximum DNS lookups - https://tools.ietf.org/html/rfc7208#section-4.6.4",
-    "dns_lookups": 13
+    "error": "Parsing the SPF record requires 12/10 maximum DNS lookups - https://tools.ietf.org/html/rfc7208#section-4.6.4",
+    "dns_lookups": 12
   },
   "dmarc": {
     "record": null,
