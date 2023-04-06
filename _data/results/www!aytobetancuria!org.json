@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 03 Apr 2023 00:59:15 GMT",
+  "end_time": "Thu, 06 Apr 2023 00:46:56 GMT",
   "grade": "D",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Content-Encoding": "gzip",
     "Content-Length": "21884",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Mon, 03 Apr 2023 00:58:18 GMT",
+    "Date": "Thu, 06 Apr 2023 00:46:09 GMT",
     "Link": "<https://www.aytobetancuria.org/wp-json/>; rel=\"https://api.w.org/\", <https://www.aytobetancuria.org/wp-json/wp/v2/pages/10>; rel=\"alternate\"; type=\"application/json\", <https://www.aytobetancuria.org/>; rel=shortlink",
     "Server": "nginx",
     "Set-Cookie": "qtrans_cookie_test=qTranslate%20Cookie%20Test; path=/; domain=www.aytobetancuria.org",
@@ -21,9 +21,9 @@
     "X-TEC-API-ROOT": "https://www.aytobetancuria.org/wp-json/tribe/events/v1/",
     "X-TEC-API-VERSION": "v1"
   },
-  "scan_id": 35932847,
+  "scan_id": 36073740,
   "score": 35,
-  "start_time": "Mon, 03 Apr 2023 00:58:12 GMT",
+  "start_time": "Thu, 06 Apr 2023 00:44:57 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
