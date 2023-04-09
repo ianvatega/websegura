@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "dns9.servidoresdns.net",
-      "dns10.servidoresdns.net"
+      "dns10.servidoresdns.net",
+      "dns9.servidoresdns.net"
     ],
     "warnings": []
   },
@@ -16,7 +16,7 @@
         "hostname": "aspmx.l.google.com",
         "addresses": [
           "172.253.115.27",
-          "2607:f8b0:4004:c19::1b"
+          "2607:f8b0:4004:c07::1a"
         ]
       }
     ],

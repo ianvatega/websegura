@@ -14,18 +14,18 @@
       {
         "preference": 10,
         "hostname": "correo.sepe.es",
-        "addresses": []
+        "addresses": [
+          "192.187.23.249"
+        ]
       },
       {
         "preference": 50,
         "hostname": "correo2.sepe.es",
-        "addresses": [
-          "192.187.23.248"
-        ]
+        "addresses": []
       }
     ],
     "warnings": [
-      "All nameservers failed to answer the query correo.sepe.es. IN AAAA: Server 1.0.0.1 UDP port 53 answered SERVFAIL"
+      "All nameservers failed to answer the query correo2.sepe.es. IN AAAA: Server 1.0.0.1 UDP port 53 answered SERVFAIL"
     ]
   },
   "spf": {
