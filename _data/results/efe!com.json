@@ -1,25 +1,25 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 11 Apr 2023 00:59:00 GMT",
-  "grade": "D",
+  "end_time": "Fri, 14 Apr 2023 00:46:18 GMT",
+  "grade": "D+",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "keep-alive",
     "Content-Length": "1168",
     "Content-Type": "text/html",
-    "Date": "Tue, 11 Apr 2023 00:58:58 GMT",
+    "Date": "Fri, 14 Apr 2023 00:46:18 GMT",
     "ETag": "\"60a9547a-490\"",
     "Server": "nginx",
     "Strict-Transport-Security": "max-age=31536000",
     "X-ac": "3.sjc _atomic_bur MISS"
   },
-  "scan_id": 36250663,
-  "score": 35,
-  "start_time": "Tue, 11 Apr 2023 00:58:55 GMT",
+  "scan_id": 36353140,
+  "score": 40,
+  "start_time": "Fri, 14 Apr 2023 00:46:16 GMT",
   "state": "FINISHED",
   "status_code": 429,
-  "tests_failed": 5,
-  "tests_passed": 7,
+  "tests_failed": 4,
+  "tests_passed": 8,
   "tests_quantity": 12
 }

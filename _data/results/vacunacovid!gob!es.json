@@ -1,7 +1,7 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 11 Apr 2023 00:59:15 GMT",
-  "grade": "B-",
+  "end_time": "Fri, 14 Apr 2023 00:42:45 GMT",
+  "grade": "B",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
@@ -15,7 +15,7 @@
     "Keep-Alive": "timeout=15, max=100",
     "Link": "<http://www.vacunacovid.gob.es/homepage>; rel=\"revision\"",
     "Referrer-Policy": "no-referrer",
-    "Set-Cookie": "ROUTEID=.vacunacovid1; path=/; HttpOnly; Secure; SameSite=Strict",
+    "Set-Cookie": "ROUTEID=.vacunacovid2; path=/; HttpOnly; Secure; SameSite=Strict",
     "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
     "Transfer-Encoding": "chunked",
     "Vary": "Accept-Encoding",
@@ -29,12 +29,12 @@
     "X-UA-Compatible": "IE=edge",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 36250659,
-  "score": 65,
-  "start_time": "Tue, 11 Apr 2023 00:58:55 GMT",
+  "scan_id": 36353002,
+  "score": 70,
+  "start_time": "Fri, 14 Apr 2023 00:42:37 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 3,
-  "tests_passed": 9,
+  "tests_failed": 2,
+  "tests_passed": 10,
   "tests_quantity": 12
 }

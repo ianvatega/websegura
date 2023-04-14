@@ -1,18 +1,18 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 11 Apr 2023 00:48:16 GMT",
+  "end_time": "Fri, 14 Apr 2023 00:47:49 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Cache-Control": "private",
-    "Content-Length": "69323",
+    "Content-Length": "67832",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Tue, 11 Apr 2023 00:48:14 GMT"
+    "Date": "Fri, 14 Apr 2023 00:47:47 GMT"
   },
-  "scan_id": 36250463,
+  "scan_id": 36353154,
   "score": 20,
-  "start_time": "Tue, 11 Apr 2023 00:48:11 GMT",
+  "start_time": "Fri, 14 Apr 2023 00:46:20 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
