@@ -1,7 +1,7 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 14 Apr 2023 00:46:23 GMT",
-  "grade": "C-",
+  "end_time": "Sun, 16 Apr 2023 01:20:20 GMT",
+  "grade": "D-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
@@ -9,12 +9,12 @@
     "Connection": "Keep-Alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Fri, 14 Apr 2023 00:46:20 GMT",
+    "Date": "Sun, 16 Apr 2023 01:20:08 GMT",
     "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
     "Keep-Alive": "timeout=5, max=100",
     "Liferay-Portal": "Liferay Digital Experience Platform",
     "Pragma": "no-cache",
-    "Set-Cookie": "JSESSIONID=3B702D79F07EB00BC94DE6B149CADD39.lr2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Max-Age=31536000; Expires=Sat, 13-Apr-2024 00:46:20 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Max-Age=31536000; Expires=Sat, 13-Apr-2024 00:46:20 GMT; Path=/; HttpOnly, TS01d1a1a3=019f2630947b312d49424c877e311982c76cd73c282f67787f141ed658d7fc16f27336d0c7a1883afb43f15420ec0d5d052de2ae319f20a3d7d4c84b250be89fd983c6fa79f86e54a4410f51b80fd20dd6cb114862356dad945cea62dc3ce861fab145da27; Path=/",
+    "Set-Cookie": "JSESSIONID=7186263C6CB5CFFE1D2657BB389D14BD; Path=/; HttpOnly, COOKIE_SUPPORT=true; Max-Age=31536000; Expires=Mon, 15-Apr-2024 01:20:09 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Max-Age=31536000; Expires=Mon, 15-Apr-2024 01:20:09 GMT; Path=/; HttpOnly, CK_LF=rd1o00000000000000000000ffffc0a88e78o8080; path=/; Httponly, TS01d1a1a3=019f263094d5e6c509904bd5bf90f038e27144bc11e3209165e15945826558401c5e2e7f6bd949508929c3521e9a08cf261b05e071f4a4dd6800c6a9d741038383805c1de28682d909b767ee1979ce83a40a4a85e43475a1f64b17737688ad4510a9f29e61d34cc13dc6b4017561cf1df8a00e60e1; Path=/",
     "Strict-Transport-Security": "max-age=16070400; includeSubDomains",
     "Transfer-Encoding": "chunked",
     "Vary": "Accept-Encoding",
@@ -22,12 +22,12 @@
     "X-Frame-Options": "SAMEORIGIN, SAMEORIGIN",
     "X-XSS-Protection": "1"
   },
-  "scan_id": 36353144,
-  "score": 45,
-  "start_time": "Fri, 14 Apr 2023 00:46:16 GMT",
+  "scan_id": 36412010,
+  "score": 25,
+  "start_time": "Sun, 16 Apr 2023 01:18:46 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 3,
-  "tests_passed": 9,
+  "tests_failed": 4,
+  "tests_passed": 8,
   "tests_quantity": 12
 }
