@@ -4,9 +4,9 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "tirant2.gva.es",
-      "ninot.gva.es",
       "ninot2.gva.es",
+      "ninot.gva.es",
+      "tirant2.gva.es",
       "tirant.gva.es"
     ],
     "warnings": []
@@ -18,7 +18,7 @@
         "hostname": "dival-es.mail.protection.outlook.com",
         "addresses": [
           "104.47.12.36",
-          "104.47.14.36"
+          "104.47.13.36"
         ]
       }
     ],

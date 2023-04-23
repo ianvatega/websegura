@@ -15,7 +15,7 @@
         "preference": 0,
         "hostname": "soria-es.mail.protection.outlook.com",
         "addresses": [
-          "104.47.17.138",
+          "104.47.17.74",
           "104.47.18.74"
         ]
       }
@@ -30,19 +30,27 @@
     "parsed": {
       "pass": [
         {
-          "value": "104.21.71.40",
+          "value": "104.26.2.120",
           "mechanism": "a"
         },
         {
-          "value": "172.67.143.22",
+          "value": "104.26.3.120",
           "mechanism": "a"
         },
         {
-          "value": "2606:4700:3031::6815:4728",
+          "value": "172.67.75.3",
           "mechanism": "a"
         },
         {
-          "value": "2606:4700:3037::ac43:8f16",
+          "value": "2606:4700:20::681a:278",
+          "mechanism": "a"
+        },
+        {
+          "value": "2606:4700:20::681a:378",
+          "mechanism": "a"
+        },
+        {
+          "value": "2606:4700:20::ac43:4b03",
           "mechanism": "a"
         },
         {

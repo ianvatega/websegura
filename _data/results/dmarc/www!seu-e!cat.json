@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "dns6.atlassolutions.net",
       "dns2.atlassolutions.net",
+      "dns6.atlassolutions.net",
       "dns1.atlassolutions.net"
     ],
     "warnings": []

@@ -17,17 +17,14 @@
         "preference": 10,
         "hostname": "red-es.mail.protection.outlook.com",
         "addresses": [
+          "104.47.11.10",
           "104.47.11.202",
-          "104.47.11.74",
-          "2a01:111:f400:fe13::10",
+          "2a01:111:f400:fe12::10",
           "2a01:111:f400:fe16::10"
         ]
       }
     ],
-    "warnings": [
-      "The resolution lifetime expired after 2.100 seconds: Server 127.0.0.53 UDP port 53 answered The DNS operation timed out.",
-      "The reverse DNS of 104.47.11.202 is mail-am0eur020202.inbound.protection.outlook.com, but the A/AAAA DNS records for mail-am0eur020202.inbound.protection.outlook.com do not resolve to 104.47.11.202"
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 a mx a:smtp.red.es include:spf.protection.outlook.com include:spf.sendinblue.com include:spf.mandrillapp.com -all",
@@ -37,51 +34,51 @@
     "parsed": {
       "pass": [
         {
-          "value": "18.67.76.113",
+          "value": "18.154.242.107",
           "mechanism": "a"
         },
         {
-          "value": "18.67.76.51",
+          "value": "18.154.242.50",
           "mechanism": "a"
         },
         {
-          "value": "18.67.76.6",
+          "value": "18.154.242.75",
           "mechanism": "a"
         },
         {
-          "value": "18.67.76.71",
+          "value": "18.154.242.83",
           "mechanism": "a"
         },
         {
-          "value": "2600:9000:20bc:3800:12:c39d:d340:93a1",
+          "value": "2600:9000:20a9:1c00:12:c39d:d340:93a1",
           "mechanism": "a"
         },
         {
-          "value": "2600:9000:20bc:4400:12:c39d:d340:93a1",
+          "value": "2600:9000:20a9:200:12:c39d:d340:93a1",
           "mechanism": "a"
         },
         {
-          "value": "2600:9000:20bc:6e00:12:c39d:d340:93a1",
+          "value": "2600:9000:20a9:3c00:12:c39d:d340:93a1",
           "mechanism": "a"
         },
         {
-          "value": "2600:9000:20bc:8c00:12:c39d:d340:93a1",
+          "value": "2600:9000:20a9:6000:12:c39d:d340:93a1",
           "mechanism": "a"
         },
         {
-          "value": "2600:9000:20bc:9e00:12:c39d:d340:93a1",
+          "value": "2600:9000:20a9:9600:12:c39d:d340:93a1",
           "mechanism": "a"
         },
         {
-          "value": "2600:9000:20bc:b400:12:c39d:d340:93a1",
+          "value": "2600:9000:20a9:ae00:12:c39d:d340:93a1",
           "mechanism": "a"
         },
         {
-          "value": "2600:9000:20bc:e00:12:c39d:d340:93a1",
+          "value": "2600:9000:20a9:fa00:12:c39d:d340:93a1",
           "mechanism": "a"
         },
         {
-          "value": "2600:9000:20bc:e600:12:c39d:d340:93a1",
+          "value": "2600:9000:20a9:fc00:12:c39d:d340:93a1",
           "mechanism": "a"
         },
         {

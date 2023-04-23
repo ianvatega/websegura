@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "dns.mad.idec.net",
-      "dns.lpa.idec.net"
+      "dns.lpa.idec.net",
+      "dns.mad.idec.net"
     ],
     "warnings": []
   },
@@ -70,10 +70,7 @@
         ]
       }
     ],
-    "warnings": [
-      "The resolution lifetime expired after 2.100 seconds: Server 127.0.0.53 UDP port 53 answered The DNS operation timed out.",
-      "The reverse DNS of 104.47.51.202 is mail-am7eur030202.inbound.protection.outlook.com, but the A/AAAA DNS records for mail-am7eur030202.inbound.protection.outlook.com do not resolve to 104.47.51.202"
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 include:spf.protection.outlook.com -all",

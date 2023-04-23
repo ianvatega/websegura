@@ -4,27 +4,11 @@
   "dnssec": false,
   "ns": {
     "hostnames": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
+    "error": "All nameservers failed to answer the query acuentascanarias.org. IN NS: Server 1.0.0.1 UDP port 53 answered SERVFAIL"
   },
   "mx": {
-    "hosts": [
-      {
-        "preference": 0,
-        "hostname": "acuentascanarias-org.mail.protection.outlook.com",
-        "addresses": [
-          "104.47.18.202",
-          "104.47.22.138"
-        ]
-      },
-      {
-        "preference": 10,
-        "hostname": "correo.acuentascanarias.org",
-        "addresses": [
-          "80.26.156.177"
-        ]
-      }
-    ],
-    "warnings": []
+    "hosts": [],
+    "error": "All nameservers failed to answer the query acuentascanarias.org. IN MX: Server 1.0.0.1 UDP port 53 answered SERVFAIL"
   },
   "spf": {
     "record": null,
@@ -35,6 +19,6 @@
     "record": null,
     "valid": false,
     "location": null,
-    "error": "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
+    "error": "All nameservers failed to answer the query _dmarc.acuentascanarias.org. IN TXT: Server 1.0.0.1 UDP port 53 answered SERVFAIL"
   }
 }
