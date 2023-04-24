@@ -1,7 +1,7 @@
 {
   "algorithm_version": 2,
-  "end_time": "Wed, 19 Apr 2023 00:46:00 GMT",
-  "grade": "D+",
+  "end_time": "Mon, 24 Apr 2023 01:01:25 GMT",
+  "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
@@ -11,10 +11,10 @@
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
     "Content-language": "es",
-    "Date": "Wed, 19 Apr 2023 00:45:48 GMT",
-    "ETag": "W/\"1681840722\"",
+    "Date": "Mon, 24 Apr 2023 01:00:45 GMT",
+    "ETag": "W/\"1682211198\"",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "Last-Modified": "Tue, 18 Apr 2023 17:58:42 GMT",
+    "Last-Modified": "Sun, 23 Apr 2023 00:53:18 GMT",
     "Referrer-Policy": "no-referrer-when-downgrade",
     "Strict-Transport-Security": "max-age=2592000",
     "Transfer-Encoding": "chunked",
@@ -27,12 +27,12 @@
     "X-UA-Compatible": "IE=edge",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 36505006,
-  "score": 40,
-  "start_time": "Wed, 19 Apr 2023 00:44:51 GMT",
+  "scan_id": 36649447,
+  "score": 15,
+  "start_time": "Mon, 24 Apr 2023 01:00:40 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 4,
-  "tests_passed": 8,
+  "tests_failed": 3,
+  "tests_passed": 9,
   "tests_quantity": 12
 }
