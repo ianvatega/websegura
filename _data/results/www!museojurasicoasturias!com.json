@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 21 Apr 2023 00:58:30 GMT",
+  "end_time": "Tue, 25 Apr 2023 00:54:31 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,16 +9,16 @@
     "Connection": "Keep-Alive",
     "Content-Length": "7713",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Fri, 21 Apr 2023 00:52:55 GMT",
+    "Date": "Tue, 25 Apr 2023 00:49:00 GMT",
     "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
     "Keep-Alive": "timeout=15, max=100",
     "Pragma": "no-cache",
     "Server": "Apache/2.2.15 (CentOS) mod_ssl/2.2.15 OpenSSL/1.0.1e-fips DAV/2",
-    "Set-Cookie": "PHPSESSID=mct2ler9lghlip89qb3fgdg3t5; expires=Sat, 22-Apr-2023 00:52:55 GMT; Max-Age=86400; path=/"
+    "Set-Cookie": "PHPSESSID=kuo4dfiho4aav4l13a8ab5pvm0; expires=Wed, 26-Apr-2023 00:49:00 GMT; Max-Age=86400; path=/"
   },
-  "scan_id": 36567584,
+  "scan_id": 36684986,
   "score": 0,
-  "start_time": "Fri, 21 Apr 2023 00:58:25 GMT",
+  "start_time": "Tue, 25 Apr 2023 00:54:01 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 7,
