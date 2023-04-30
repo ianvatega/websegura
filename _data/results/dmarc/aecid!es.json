@@ -14,18 +14,18 @@
       {
         "preference": 10,
         "hostname": "mailhost2.aecid.es",
-        "addresses": []
+        "addresses": [
+          "192.148.209.39"
+        ]
       },
       {
         "preference": 30,
         "hostname": "mailhost3.aecid.es",
-        "addresses": [
-          "192.148.209.40"
-        ]
+        "addresses": []
       }
     ],
     "warnings": [
-      "All nameservers failed to answer the query mailhost2.aecid.es. IN AAAA: Server 1.0.0.1 UDP port 53 answered SERVFAIL"
+      "All nameservers failed to answer the query mailhost3.aecid.es. IN AAAA: Server 1.0.0.1 UDP port 53 answered SERVFAIL"
     ]
   },
   "spf": {

@@ -4,14 +4,14 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "olimpia.madrid.org",
-      "icmcom.madrid.org"
+      "icmcom.madrid.org",
+      "olimpia.madrid.org"
     ],
     "warnings": []
   },
   "mx": {
     "hosts": [],
-    "error": "The DNS response does not contain an answer to the question: 11.128.77.195.in-addr.arpa. IN PTR"
+    "error": "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
   },
   "spf": {
     "record": "v=spf1 ip4:195.77.128.128/25 ip4:195.77.128.55/32 include:spf.protection.outlook.com ~all",

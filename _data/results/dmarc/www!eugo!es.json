@@ -4,9 +4,9 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
+      "dns1.eugo.es",
       "dns.serviciosmin.gob.es",
       "chico.rediris.es",
-      "dns1.eugo.es",
       "sun.rediris.es",
       "dns2.eugo.es"
     ],

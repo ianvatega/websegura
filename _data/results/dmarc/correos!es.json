@@ -20,7 +20,8 @@
       }
     ],
     "warnings": [
-      "193.148.128.133 does not have any reverse DNS (PTR) records"
+      "The resolution lifetime expired after 2.100 seconds: Server 127.0.0.53 UDP port 53 answered The DNS operation timed out.",
+      "The reverse DNS of 193.148.128.133 is mx.cep.correos.es, but the A/AAAA DNS records for mx.cep.correos.es do not resolve to 193.148.128.133"
     ]
   },
   "spf": {

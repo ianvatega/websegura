@@ -4,8 +4,10 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
+      "olmo.csic.es",
       "sabina.cti.csic.es",
-      "olmo.csic.es"
+      "sun.rediris.es",
+      "chico.rediris.es"
     ],
     "warnings": []
   },
