@@ -1,7 +1,7 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 01 May 2023 01:04:11 GMT",
-  "grade": "F",
+  "end_time": "Thu, 04 May 2023 01:00:18 GMT",
+  "grade": "D+",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
@@ -11,7 +11,7 @@
     "Content-Encoding": "gzip",
     "Content-Security-Policy": "upgrade-insecure-requests",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Mon, 01 May 2023 01:03:41 GMT",
+    "Date": "Thu, 04 May 2023 00:59:39 GMT",
     "Expect-CT": "max-age=7776000, enforce",
     "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
     "Keep-Alive": "timeout=5, max=100",
@@ -19,7 +19,7 @@
     "Pragma": "no-cache",
     "Referrer-Policy": "no-referrer-when-downgrade, strict-origin-when-cross-origin",
     "Server": "Apache",
-    "Set-Cookie": "PHPSESSID=4od681cku926q3n28dqfm9r1pg; path=/; secure; HttpOnly; SameSite=Lax",
+    "Set-Cookie": "PHPSESSID=kjpe5kir44r8k712568npg9u4v; path=/; secure; HttpOnly; SameSite=Lax",
     "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
     "Transfer-Encoding": "chunked",
     "Vary": "Accept-Encoding",
@@ -27,12 +27,12 @@
     "X-Frame-Options": "SAMEORIGIN, SAMEORIGIN",
     "X-XSS-Protection": "1; mode=block, 1; mode=block"
   },
-  "scan_id": 36905801,
-  "score": 0,
-  "start_time": "Mon, 01 May 2023 01:03:36 GMT",
+  "scan_id": 36998117,
+  "score": 40,
+  "start_time": "Thu, 04 May 2023 00:59:35 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 7,
-  "tests_passed": 5,
+  "tests_failed": 5,
+  "tests_passed": 7,
   "tests_quantity": 12
 }

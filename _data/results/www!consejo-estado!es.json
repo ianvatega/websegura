@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 01 May 2023 01:05:15 GMT",
+  "end_time": "Thu, 04 May 2023 00:45:16 GMT",
   "grade": "B",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Content-Encoding": "gzip",
     "Content-Length": "49308",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Mon, 01 May 2023 01:04:59 GMT",
+    "Date": "Thu, 04 May 2023 00:44:16 GMT",
     "Link": "<https://www.consejo-estado.es/wp-json/>; rel=\"https://api.w.org/\", <https://www.consejo-estado.es/wp-json/wp/v2/pages/244489>; rel=\"alternate\"; type=\"application/json\", <https://www.consejo-estado.es/>; rel=shortlink",
     "Server": "openresty",
     "Strict-Transport-Security": "max-age=63072000;includeSubDomains; preload",
@@ -20,9 +20,9 @@
     "X-Served-By": "www.consejo-estado.es",
     "X-XSS-Protection": "1;mode=block"
   },
-  "scan_id": 36905876,
+  "scan_id": 36997816,
   "score": 70,
-  "start_time": "Mon, 01 May 2023 01:03:38 GMT",
+  "start_time": "Thu, 04 May 2023 00:44:10 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 2,
