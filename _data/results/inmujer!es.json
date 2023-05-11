@@ -1,19 +1,19 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 08 May 2023 00:59:28 GMT",
+  "end_time": "Thu, 11 May 2023 01:00:09 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Content-length": "223",
     "Content-type": "text/html",
-    "Date": "Mon, 08 May 2023 00:59:27 GMT",
+    "Date": "Thu, 11 May 2023 01:00:08 GMT",
     "Server": "server-header-none",
     "Www-authenticate": "Basic realm=\"Oracle iPlanet Web Server\""
   },
-  "scan_id": 37125668,
+  "scan_id": 37225000,
   "score": 20,
-  "start_time": "Mon, 08 May 2023 00:59:04 GMT",
+  "start_time": "Thu, 11 May 2023 00:59:58 GMT",
   "state": "FINISHED",
   "status_code": 401,
   "tests_failed": 5,
