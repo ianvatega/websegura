@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 12 May 2023 01:25:30 GMT",
+  "end_time": "Mon, 15 May 2023 01:03:02 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,10 +9,9 @@
     "Content-Encoding": "gzip",
     "Content-Security-Policy": "upgrade-insecure-requests",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Fri, 12 May 2023 01:25:01 GMT",
+    "Date": "Mon, 15 May 2023 01:02:02 GMT",
     "Referrer-Policy": "same-origin",
     "Server": "Microsoft-IIS/8.5",
-    "Set-Cookie": "ASP.NET_SessionId=cgmzwlfmkpsnhdo5re5cgfb0; path=/; HttpOnly; SameSite=Lax",
     "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
     "Transfer-Encoding": "chunked",
     "Vary": "Accept-Encoding",
@@ -23,12 +22,12 @@
     "X-UA-Compatible": "IE=Edge",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 37262150,
-  "score": 10,
-  "start_time": "Fri, 12 May 2023 01:24:55 GMT",
+  "scan_id": 37366660,
+  "score": 0,
+  "start_time": "Mon, 15 May 2023 01:01:59 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 4,
-  "tests_passed": 8,
+  "tests_failed": 5,
+  "tests_passed": 7,
   "tests_quantity": 12
 }
