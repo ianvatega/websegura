@@ -1,24 +1,24 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 02 Jun 2023 01:13:29 GMT",
+  "end_time": "Mon, 05 Jun 2023 01:10:22 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Cache-Control": "private",
-    "Content-Length": "14322",
+    "Content-Length": "14617",
     "Content-Type": "text/html",
-    "Date": "Fri, 02 Jun 2023 01:13:24 GMT",
+    "Date": "Mon, 05 Jun 2023 01:10:18 GMT",
     "Server": "Microsoft-IIS/7.5",
-    "Set-Cookie": "ASPSESSIONIDAUTBTDAR=ONHILLODGKNMDAAOJNKKOLNL; secure; path=/",
+    "Set-Cookie": "ASPSESSIONIDCWRBTCBR=JFNLHPECHGOPAIGHKGLFIJDB; secure; path=/",
     "X-Powered-By": "ASP.NET"
   },
-  "scan_id": 38087290,
+  "scan_id": 38174465,
   "score": 0,
-  "start_time": "Fri, 02 Jun 2023 01:10:58 GMT",
+  "start_time": "Mon, 05 Jun 2023 01:09:32 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 6,
-  "tests_passed": 6,
+  "tests_failed": 7,
+  "tests_passed": 5,
   "tests_quantity": 12
 }
