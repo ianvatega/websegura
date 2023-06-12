@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 09 Jun 2023 01:12:36 GMT",
+  "end_time": "Mon, 12 Jun 2023 01:11:50 GMT",
   "grade": "D-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -11,7 +11,7 @@
     "Content-Encoding": "gzip",
     "Content-Language": "es",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Fri, 09 Jun 2023 01:12:25 GMT",
+    "Date": "Mon, 12 Jun 2023 01:11:37 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Link": "<http://www.museuvalenciadelafesta.com/es>; rel=\"canonical\",<http://www.museuvalenciadelafesta.com/es>; rel=\"shortlink\"",
     "Server": "nginx/1.12.2",
@@ -21,11 +21,11 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-Generator": "Drupal 7 (https://www.drupal.org)",
     "X-Proxy-Cache": "MISS",
-    "X-Request-ID": "ab64ff12ced89232edb9638c6c3ebd0f"
+    "X-Request-ID": "f29e97a0b28c100e20b6e1883e9c8537"
   },
-  "scan_id": 38313883,
+  "scan_id": 38397834,
   "score": 25,
-  "start_time": "Fri, 09 Jun 2023 01:12:20 GMT",
+  "start_time": "Mon, 12 Jun 2023 01:11:33 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
