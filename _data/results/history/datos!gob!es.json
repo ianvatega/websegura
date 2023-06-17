@@ -747,5 +747,19 @@
     "grade": "B+",
     "scan_id": 38054487,
     "score": 80
+  },
+  {
+    "end_time": "Fri, 16 Jun 2023 00:52:03 GMT",
+    "end_time_unix_timestamp": 1686876723,
+    "grade": "B",
+    "scan_id": 38629061,
+    "score": 75
+  },
+  {
+    "end_time": "Sat, 17 Jun 2023 01:03:48 GMT",
+    "end_time_unix_timestamp": 1686963828,
+    "grade": "B+",
+    "scan_id": 38675018,
+    "score": 80
   }
 ]
