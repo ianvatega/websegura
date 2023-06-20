@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sun, 18 Jun 2023 00:14:57 GMT",
+  "end_time": "Tue, 20 Jun 2023 01:09:51 GMT",
   "grade": "D",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,7 +8,7 @@
     "Cache-Control": "private, no-cache, no-store, must-revalidate",
     "Connection": "keep-alive",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Sun, 18 Jun 2023 00:14:36 GMT",
+    "Date": "Tue, 20 Jun 2023 01:09:37 GMT",
     "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
     "Liferay-Portal": "Liferay Digital Experience Platform 7.3.10 SP3 (Athanasius / Build 7310 / September 22, 2020)",
     "Pragma": "no-cache",
@@ -18,9 +18,9 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-XSS-Protection": "1"
   },
-  "scan_id": 38703804,
+  "scan_id": 38781255,
   "score": 30,
-  "start_time": "Sun, 18 Jun 2023 00:09:04 GMT",
+  "start_time": "Tue, 20 Jun 2023 01:05:28 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
