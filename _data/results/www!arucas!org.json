@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 20 Jun 2023 00:07:24 GMT",
+  "end_time": "Thu, 22 Jun 2023 01:08:22 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,12 +8,12 @@
     "Connection": "keep-alive",
     "Content-Length": "98",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Tue, 20 Jun 2023 00:07:23 GMT",
+    "Date": "Thu, 22 Jun 2023 01:08:21 GMT",
     "Server": "Apache"
   },
-  "scan_id": 38780191,
+  "scan_id": 38854677,
   "score": 0,
-  "start_time": "Tue, 20 Jun 2023 00:07:20 GMT",
+  "start_time": "Thu, 22 Jun 2023 01:08:18 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
