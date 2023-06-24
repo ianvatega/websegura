@@ -1,7 +1,7 @@
 {
   "algorithm_version": 2,
-  "end_time": "Wed, 21 Jun 2023 01:10:25 GMT",
-  "grade": "D",
+  "end_time": "Sat, 24 Jun 2023 01:19:17 GMT",
+  "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
@@ -11,7 +11,7 @@
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
     "Content-language": "ca",
-    "Date": "Wed, 21 Jun 2023 01:09:48 GMT",
+    "Date": "Sat, 24 Jun 2023 01:18:54 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Referrer-Policy": "no-referrer-when-downgrade",
     "Strict-Transport-Security": "max-age=2592000",
@@ -21,16 +21,16 @@
     "X-Drupal-Cache": "HIT",
     "X-Drupal-Dynamic-Cache": "UNCACHEABLE",
     "X-Frame-Options": "SAMEORIGIN",
-    "X-Proxy-Cache": "HIT",
+    "X-Proxy-Cache": "STALE",
     "X-UA-Compatible": "IE=edge",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 38820525,
-  "score": 30,
-  "start_time": "Wed, 21 Jun 2023 01:06:52 GMT",
+  "scan_id": 38927406,
+  "score": 10,
+  "start_time": "Sat, 24 Jun 2023 01:15:31 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 4,
-  "tests_passed": 8,
+  "tests_failed": 5,
+  "tests_passed": 7,
   "tests_quantity": 12
 }

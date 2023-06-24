@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Thu, 22 Jun 2023 00:08:48 GMT",
+  "end_time": "Sat, 24 Jun 2023 01:19:21 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -11,7 +11,7 @@
     "Content-Encoding": "gzip",
     "Content-Security-Policy": "upgrade-insecure-requests;",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Thu, 22 Jun 2023 00:08:14 GMT",
+    "Date": "Sat, 24 Jun 2023 01:18:32 GMT",
     "Link": "<https://talavera.es/wp-json/>; rel=\"https://api.w.org/\", <https://talavera.es/wp-json/wp/v2/pages/18444>; rel=\"alternate\"; type=\"application/json\", <https://talavera.es/>; rel=shortlink",
     "Permissions-Policy": "geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self),payment=()",
     "Referrer-Policy": "strict-origin",
@@ -24,9 +24,9 @@
     "X-Powered-By": "PHP/8.2.7, PleskLin",
     "X-XSS-Protection": "1; mode=block, 1; mode=block"
   },
-  "scan_id": 38852546,
+  "scan_id": 38927450,
   "score": 0,
-  "start_time": "Thu, 22 Jun 2023 00:08:02 GMT",
+  "start_time": "Sat, 24 Jun 2023 01:15:40 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
