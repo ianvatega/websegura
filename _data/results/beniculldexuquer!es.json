@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Thu, 29 Jun 2023 00:09:37 GMT",
+  "end_time": "Sat, 01 Jul 2023 01:03:55 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -11,7 +11,7 @@
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
     "Content-language": "ca",
-    "Date": "Thu, 29 Jun 2023 00:09:16 GMT",
+    "Date": "Sat, 01 Jul 2023 01:03:40 GMT",
     "ETag": "W/\"1687950080\"",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Last-Modified": "Wed, 28 Jun 2023 11:01:20 GMT",
@@ -28,9 +28,9 @@
     "X-UA-Compatible": "IE=edge",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 39092995,
+  "scan_id": 39187493,
   "score": 10,
-  "start_time": "Thu, 29 Jun 2023 00:09:12 GMT",
+  "start_time": "Sat, 01 Jul 2023 01:03:33 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
