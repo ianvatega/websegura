@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 03 Jul 2023 00:14:03 GMT",
+  "end_time": "Wed, 05 Jul 2023 00:09:52 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -11,7 +11,7 @@
     "Content-Encoding": "gzip",
     "Content-Length": "22655",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Mon, 03 Jul 2023 00:13:56 GMT",
+    "Date": "Wed, 05 Jul 2023 00:09:41 GMT",
     "Expires": "Mon, 29 Oct 1923 20:30:00 GMT",
     "Keep-Alive": "timeout=5, max=149",
     "Last-Modified": "Sun, 02 Jul 2023 10:00:04 GMT",
@@ -19,9 +19,9 @@
     "Server": "Apache",
     "Vary": "Cookie,User-Agent,Accept-Encoding"
   },
-  "scan_id": 39274358,
+  "scan_id": 39363401,
   "score": 0,
-  "start_time": "Mon, 03 Jul 2023 00:13:51 GMT",
+  "start_time": "Wed, 05 Jul 2023 00:09:36 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
