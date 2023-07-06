@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 03 Jul 2023 01:20:27 GMT",
+  "end_time": "Thu, 06 Jul 2023 00:09:54 GMT",
   "grade": "B-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Language": "es",
     "Content-Security-Policy": "frame-ancestors 'self' www.emasesa.com www2-des.emasesa.com www2-test.emasesa.com ;",
     "Content-Type": "text/html;charset=utf-8",
-    "Date": "Mon, 03 Jul 2023 01:20:25 GMT",
+    "Date": "Thu, 06 Jul 2023 00:09:52 GMT",
     "Expires": "Sat, 01 Jan 2000 00:00:00 GMT",
     "Keep-Alive": "timeout=15, max=100",
     "Server": "nginx/1.6.2",
@@ -25,9 +25,9 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-Ua-Compatible": "IE=edge"
   },
-  "scan_id": 39276115,
+  "scan_id": 39403481,
   "score": 65,
-  "start_time": "Mon, 03 Jul 2023 01:20:22 GMT",
+  "start_time": "Thu, 06 Jul 2023 00:09:48 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 3,
