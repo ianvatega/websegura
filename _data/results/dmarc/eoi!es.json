@@ -17,7 +17,7 @@
         "preference": 1,
         "hostname": "aspmx.l.google.com",
         "addresses": [
-          "142.251.167.26",
+          "172.253.62.27",
           "2607:f8b0:4004:c09::1a"
         ]
       },
@@ -34,14 +34,14 @@
         "hostname": "alt2.aspmx.l.google.com",
         "addresses": [
           "2a00:1450:400c:c0b::1b",
-          "64.233.184.26"
+          "64.233.184.27"
         ]
       },
       {
         "preference": 10,
         "hostname": "alt3.aspmx.l.google.com",
         "addresses": [
-          "142.250.27.27",
+          "142.250.27.26",
           "2a00:1450:4025:401::1a"
         ]
       },
@@ -64,11 +64,11 @@
     "parsed": {
       "pass": [
         {
-          "value": "54.75.247.165",
+          "value": "108.128.19.222",
           "mechanism": "a"
         },
         {
-          "value": "63.33.87.37",
+          "value": "52.210.197.234",
           "mechanism": "a"
         },
         {
@@ -397,9 +397,61 @@
     }
   },
   "dmarc": {
-    "record": null,
-    "valid": false,
-    "location": null,
-    "error": "A DMARC record does not exist for this domain or its base domain"
+    "record": "v=DMARC1; p=none; rua=mailto:dmarc@eoi.es",
+    "valid": true,
+    "location": "eoi.es",
+    "warnings": [],
+    "tags": {
+      "v": {
+        "value": "DMARC1",
+        "explicit": true
+      },
+      "p": {
+        "value": "none",
+        "explicit": true
+      },
+      "rua": {
+        "value": [
+          {
+            "scheme": "mailto",
+            "address": "dmarc@eoi.es",
+            "size_limit": null
+          }
+        ],
+        "explicit": true
+      },
+      "adkim": {
+        "value": "r",
+        "explicit": false
+      },
+      "aspf": {
+        "value": "r",
+        "explicit": false
+      },
+      "fo": {
+        "value": [
+          "0"
+        ],
+        "explicit": false
+      },
+      "pct": {
+        "value": 100,
+        "explicit": false
+      },
+      "rf": {
+        "value": [
+          "afrf"
+        ],
+        "explicit": false
+      },
+      "ri": {
+        "value": 86400,
+        "explicit": false
+      },
+      "sp": {
+        "value": "none",
+        "explicit": false
+      }
+    }
   }
 }

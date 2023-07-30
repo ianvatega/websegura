@@ -10,8 +10,30 @@
     "warnings": []
   },
   "mx": {
-    "hosts": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
+    "hosts": [
+      {
+        "preference": 10,
+        "hostname": "mail.mcp.es",
+        "addresses": [
+          "195.76.209.199"
+        ]
+      },
+      {
+        "preference": 90,
+        "hostname": "as.solsenet.com",
+        "addresses": [
+          "77.229.94.207"
+        ]
+      },
+      {
+        "preference": 100,
+        "hostname": "pruebamx.mcp.es",
+        "addresses": []
+      }
+    ],
+    "warnings": [
+      "The domain pruebamx.mcp.es does not exist"
+    ]
   },
   "spf": {
     "record": "v=spf1 a mx include:spf.acumbamail.com a:smtp.mcp.es a:mail.mcp.es ip4:194.179.77.241 include:mail.zendesk.com ~all",
@@ -39,7 +61,7 @@
           "mechanism": "mx"
         },
         {
-          "value": "194.179.77.231",
+          "value": "195.76.209.199",
           "mechanism": "a"
         },
         {

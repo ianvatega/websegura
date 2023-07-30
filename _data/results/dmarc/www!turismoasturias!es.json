@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns2.turismoasturias.es",
-      "ns1.turismoasturias.es"
+      "ns1.turismoasturias.es",
+      "ns2.turismoasturias.es"
     ],
     "warnings": []
   },
@@ -29,7 +29,7 @@
     "parsed": {
       "pass": [
         {
-          "value": "88.151.16.192",
+          "value": "88.151.16.194",
           "mechanism": "a"
         },
         {

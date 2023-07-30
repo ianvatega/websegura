@@ -21,12 +21,12 @@
       {
         "preference": 30,
         "hostname": "mailhost3.aecid.es",
-        "addresses": []
+        "addresses": [
+          "192.148.209.40"
+        ]
       }
     ],
-    "warnings": [
-      "All nameservers failed to answer the query mailhost3.aecid.es. IN AAAA: Server 1.0.0.1 UDP port 53 answered SERVFAIL"
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 mx:aecid.es include:spf.protection.outlook.com -all",

@@ -4,10 +4,10 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "proxy.dip-badajoz.es",
+      "isabel.dip-badajoz.es",
       "ineco.nic.es",
       "artemis.ttd.net",
-      "isabel.dip-badajoz.es"
+      "proxy.dip-badajoz.es"
     ],
     "warnings": []
   },
@@ -54,7 +54,7 @@
     "parsed": {
       "pass": [
         {
-          "value": "195.57.11.78",
+          "value": "195.57.11.116",
           "mechanism": "a"
         },
         {

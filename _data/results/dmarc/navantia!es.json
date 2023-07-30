@@ -108,7 +108,7 @@
     }
   },
   "dmarc": {
-    "record": "v=DMARC1; p=quarantine; pct=100; rua=mailto:dmarc@navantia.es; ruf=mailto:dmarc@navantia.es; fo=1",
+    "record": "v=DMARC1; p=reject; pct=100; rua=mailto:dmarc@navantia.es; ruf=mailto:dmarc@navantia.es; fo=1",
     "valid": true,
     "location": "navantia.es",
     "warnings": [],
@@ -118,7 +118,7 @@
         "explicit": true
       },
       "p": {
-        "value": "quarantine",
+        "value": "reject",
         "explicit": true
       },
       "pct": {
@@ -170,7 +170,7 @@
         "explicit": false
       },
       "sp": {
-        "value": "quarantine",
+        "value": "reject",
         "explicit": false
       }
     }

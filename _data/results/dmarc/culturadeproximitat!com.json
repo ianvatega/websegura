@@ -31,8 +31,8 @@
       }
     ],
     "warnings": [
-      "All nameservers failed to answer the query mx1.filterantispam.com. IN A: Server 1.0.0.1 UDP port 53 answered SERVFAIL",
-      "All nameservers failed to answer the query mx2.filterantispam.com. IN A: Server 1.0.0.1 UDP port 53 answered SERVFAIL"
+      "All nameservers failed to answer the query mx1.filterantispam.com. IN A: Server Do53:1.0.0.1@53 answered SERVFAIL",
+      "All nameservers failed to answer the query mx2.filterantispam.com. IN A: Server Do53:1.0.0.1@53 answered SERVFAIL"
     ]
   },
   "spf": {

@@ -4,10 +4,10 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns1.hostinger.es",
       "ns2.hostinger.es",
+      "ns3.hostinger.es",
       "ns4.hostinger.es",
-      "ns3.hostinger.es"
+      "ns1.hostinger.es"
     ],
     "warnings": []
   },
@@ -17,18 +17,21 @@
         "preference": 10,
         "hostname": "mx.zoho.com",
         "addresses": [
-          "136.143.191.44"
+          "204.141.43.44"
         ]
       },
       {
         "preference": 20,
         "hostname": "mx2.zoho.com",
         "addresses": [
-          "136.143.191.44"
+          "204.141.43.44"
         ]
       }
     ],
-    "warnings": []
+    "warnings": [
+      "The reverse DNS of 204.141.43.44 is mx7.zoho.com, but the A/AAAA DNS records for mx7.zoho.com do not resolve to 204.141.43.44",
+      "The reverse DNS of 204.141.43.44 is mx7.zoho.com, but the A/AAAA DNS records for mx7.zoho.com do not resolve to 204.141.43.44"
+    ]
   },
   "spf": {
     "record": "v=spf1 include:zoho.com ~all",
@@ -53,7 +56,7 @@
             "include": [
               {
                 "domain": "spf.zoho.com",
-                "record": "v=spf1 ip4:136.143.188.0/24 ip4:136.143.184.0/24 ip4:135.84.80.192/26 ip4:135.84.82.0/24 ip4:8.39.54.0/23 ip4:204.141.32.0/23 ip4:136.143.182.0/23 ip4:204.141.42.0/23 ip4:8.40.222.0/23 ip4:65.154.166.0/24 ip4:199.67.84.0/24 ip4:199.67.86.0/24 ip4:169.148.129.0/24 ip4:169.148.131.0/24 ip4:121.244.91.9/32 -all",
+                "record": "v=spf1 ip4:136.143.188.0/24 ip4:136.143.184.0/24 ip4:135.84.80.0/24 ip4:135.84.82.0/24 ip4:8.39.54.0/23 ip4:204.141.32.0/23 ip4:136.143.182.0/23 ip4:204.141.42.0/23 ip4:8.40.222.0/23 ip4:65.154.166.0/24 ip4:199.67.84.0/24 ip4:199.67.86.0/24 ip4:169.148.129.0/24 ip4:169.148.131.0/24 ip4:121.244.91.48/32 ip4:199.67.88.0/24 ip4:122.15.156.182/32 -all",
                 "dns_lookups": 0,
                 "parsed": {
                   "pass": [
@@ -66,7 +69,7 @@
                       "mechanism": "ip4"
                     },
                     {
-                      "value": "135.84.80.192/26",
+                      "value": "135.84.80.0/24",
                       "mechanism": "ip4"
                     },
                     {
@@ -114,7 +117,15 @@
                       "mechanism": "ip4"
                     },
                     {
-                      "value": "121.244.91.9/32",
+                      "value": "121.244.91.48/32",
+                      "mechanism": "ip4"
+                    },
+                    {
+                      "value": "199.67.88.0/24",
+                      "mechanism": "ip4"
+                    },
+                    {
+                      "value": "122.15.156.182/32",
                       "mechanism": "ip4"
                     }
                   ],

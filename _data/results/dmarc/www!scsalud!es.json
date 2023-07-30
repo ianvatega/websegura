@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns2.telefonica-data.com",
-      "ns1.telefonica-data.com"
+      "dns02.ono.com",
+      "dns01.ono.com"
     ],
     "warnings": []
   },
@@ -99,7 +99,7 @@
     ]
   },
   "spf": {
-    "record": "v=spf1 include:spf.protection.outlook.com include:spf.correolimpio.telefonica.es ip4:195.77.245.225 ip4:213.99.38.0/24 include:spf.hornetsecurity.com -all",
+    "record": "v=spf1 include:spf.protection.outlook.com include:spf.correolimpio.telefonica.es ip4:195.77.245.225 ip4:213.99.38.0/24 ip4:95.60.26.127 include:spf.hornetsecurity.com -all",
     "valid": true,
     "dns_lookups": 3,
     "warnings": [],
@@ -111,6 +111,10 @@
         },
         {
           "value": "213.99.38.0/24",
+          "mechanism": "ip4"
+        },
+        {
+          "value": "95.60.26.127",
           "mechanism": "ip4"
         }
       ],

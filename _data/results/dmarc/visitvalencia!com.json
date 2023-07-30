@@ -5,8 +5,8 @@
   "ns": {
     "hostnames": [
       "dns1.prored.es",
-      "dns2.prored.es",
-      "dns3.prored.es"
+      "dns3.prored.es",
+      "dns2.prored.es"
     ],
     "warnings": []
   },
@@ -31,27 +31,15 @@
     "parsed": {
       "pass": [
         {
-          "value": "34.248.7.119",
+          "value": "3.248.28.103",
           "mechanism": "a"
         },
         {
-          "value": "52.17.220.173",
+          "value": "3.251.3.83",
           "mechanism": "a"
         },
         {
-          "value": "52.18.125.136",
-          "mechanism": "a"
-        },
-        {
-          "value": "52.209.180.166",
-          "mechanism": "a"
-        },
-        {
-          "value": "52.215.107.66",
-          "mechanism": "a"
-        },
-        {
-          "value": "52.49.184.64",
+          "value": "54.170.166.123",
           "mechanism": "a"
         }
       ],
@@ -114,7 +102,7 @@
         },
         {
           "domain": "spf.ymlp.com",
-          "record": "v=spf1 ip4:185.83.48.0/22 ip4:87.237.13.64/27 ip4:87.237.8.192/26 -all",
+          "record": "v=spf1 ip4:185.83.48.0/22 ip4:87.237.13.64/27  -all",
           "dns_lookups": 0,
           "parsed": {
             "pass": [
@@ -124,10 +112,6 @@
               },
               {
                 "value": "87.237.13.64/27",
-                "mechanism": "ip4"
-              },
-              {
-                "value": "87.237.8.192/26",
                 "mechanism": "ip4"
               }
             ],

@@ -4,9 +4,9 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
+      "dns2.atlassolutions.net",
       "dns6.atlassolutions.net",
-      "dns1.atlassolutions.net",
-      "dns2.atlassolutions.net"
+      "dns1.atlassolutions.net"
     ],
     "warnings": []
   },
@@ -16,12 +16,27 @@
         "preference": 0,
         "hostname": "seue-cat0i.mail.protection.outlook.com",
         "addresses": [
-          "104.47.12.36",
-          "104.47.13.36"
+          "52.101.68.0",
+          "52.101.68.21",
+          "52.101.68.3",
+          "52.101.68.5",
+          "52.101.73.1",
+          "52.101.73.2",
+          "52.101.73.4",
+          "52.101.73.6"
         ]
       }
     ],
-    "warnings": []
+    "warnings": [
+      "52.101.68.0 does not have any reverse DNS (PTR) records",
+      "52.101.68.21 does not have any reverse DNS (PTR) records",
+      "52.101.68.3 does not have any reverse DNS (PTR) records",
+      "52.101.68.5 does not have any reverse DNS (PTR) records",
+      "52.101.73.1 does not have any reverse DNS (PTR) records",
+      "52.101.73.2 does not have any reverse DNS (PTR) records",
+      "52.101.73.4 does not have any reverse DNS (PTR) records",
+      "52.101.73.6 does not have any reverse DNS (PTR) records"
+    ]
   },
   "spf": {
     "record": "v=spf1 mx ip4:20.224.136.201/32  ip4:137.117.240.124/32 include:spf.protection.outlook.com -all",

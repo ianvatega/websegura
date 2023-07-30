@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "housing2-220.ilimit.es",
-      "dns2.ilimit.net"
+      "dns2.serv622835.servidoresdns.net",
+      "dns1.serv622835.servidoresdns.net"
     ],
     "warnings": []
   },
@@ -43,14 +43,14 @@
     "warnings": []
   },
   "spf": {
-    "record": "v=spf1 include:spf.protection.outlook.com include:spf.hornetsecurity.com +ip4:80.94.2.220 +ip4:2.139.238.122  ~all",
+    "record": "v=spf1 include:spf.protection.outlook.com include:spf.hornetsecurity.com +ip4:82.223.19.151 +ip4:2.139.238.122 ~all",
     "valid": true,
     "dns_lookups": 2,
     "warnings": [],
     "parsed": {
       "pass": [
         {
-          "value": "80.94.2.220",
+          "value": "82.223.19.151",
           "mechanism": "ip4"
         },
         {

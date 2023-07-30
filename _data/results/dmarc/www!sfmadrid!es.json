@@ -5,8 +5,8 @@
   "ns": {
     "hostnames": [
       "ns3.cuentadns.com",
-      "ns2.cuentadns.com",
-      "ns1.cuentadns.com"
+      "ns1.cuentadns.com",
+      "ns2.cuentadns.com"
     ],
     "warnings": []
   },
@@ -16,20 +16,44 @@
         "preference": 0,
         "hostname": "sfmadrid-es.mail.protection.outlook.com",
         "addresses": [
-          "104.47.0.36",
-          "104.47.1.36"
+          "52.101.68.0",
+          "52.101.68.21",
+          "52.101.68.3",
+          "52.101.68.5",
+          "52.101.73.1",
+          "52.101.73.2",
+          "52.101.73.4",
+          "52.101.73.6"
         ]
       }
     ],
-    "warnings": []
+    "warnings": [
+      "52.101.68.0 does not have any reverse DNS (PTR) records",
+      "52.101.68.21 does not have any reverse DNS (PTR) records",
+      "52.101.68.3 does not have any reverse DNS (PTR) records",
+      "52.101.68.5 does not have any reverse DNS (PTR) records",
+      "52.101.73.1 does not have any reverse DNS (PTR) records",
+      "52.101.73.2 does not have any reverse DNS (PTR) records",
+      "52.101.73.4 does not have any reverse DNS (PTR) records",
+      "52.101.73.6 does not have any reverse DNS (PTR) records"
+    ]
   },
   "spf": {
-    "record": "v=spf1 include:spf.protection.outlook.com include:spf.ivcert.net -all",
+    "record": "v=spf1 include:spf.protection.outlook.com include:spf.ivcert.net ip4:213.192.230.81 ip4:213.192.230.80 ~all",
     "valid": true,
     "dns_lookups": 2,
     "warnings": [],
     "parsed": {
-      "pass": [],
+      "pass": [
+        {
+          "value": "213.192.230.81",
+          "mechanism": "ip4"
+        },
+        {
+          "value": "213.192.230.80",
+          "mechanism": "ip4"
+        }
+      ],
       "neutral": [],
       "softfail": [],
       "fail": [],
@@ -151,7 +175,7 @@
       ],
       "redirect": null,
       "exp": null,
-      "all": "fail"
+      "all": "softfail"
     }
   },
   "dmarc": {

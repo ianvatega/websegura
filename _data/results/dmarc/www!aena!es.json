@@ -4,17 +4,39 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "dns13.aena.es",
-      "dns12.aena.es",
       "artemis.ttd.net",
+      "dns13.aena.es",
       "dns7.aena.es",
+      "dns12.aena.es",
       "dns6.aena.es"
     ],
     "warnings": []
   },
   "mx": {
-    "hosts": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server 1.0.0.1 UDP port 53 answered The DNS operation timed out."
+    "hosts": [
+      {
+        "preference": 10,
+        "hostname": "correosmtp.aena.es",
+        "addresses": [
+          "194.224.177.201",
+          "217.130.124.201"
+        ]
+      }
+    ],
+    "warnings": [
+      "The domain meg02.aena.es does not exist",
+      "The reverse DNS of 194.224.177.201 is meg02.aena.es, but the A/AAAA DNS records for meg02.aena.es do not resolve to 194.224.177.201",
+      "The domain spf.aena.es does not exist",
+      "The reverse DNS of 194.224.177.201 is spf.aena.es, but the A/AAAA DNS records for spf.aena.es do not resolve to 194.224.177.201",
+      "The domain meg04.aena.es does not exist",
+      "The reverse DNS of 194.224.177.201 is meg04.aena.es, but the A/AAAA DNS records for meg04.aena.es do not resolve to 194.224.177.201",
+      "The domain spf.aena.es does not exist",
+      "The reverse DNS of 217.130.124.201 is spf.aena.es, but the A/AAAA DNS records for spf.aena.es do not resolve to 217.130.124.201",
+      "The domain meg04.aena.es does not exist",
+      "The reverse DNS of 217.130.124.201 is meg04.aena.es, but the A/AAAA DNS records for meg04.aena.es do not resolve to 217.130.124.201",
+      "The domain meg02.aena.es does not exist",
+      "The reverse DNS of 217.130.124.201 is meg02.aena.es, but the A/AAAA DNS records for meg02.aena.es do not resolve to 217.130.124.201"
+    ]
   },
   "spf": {
     "record": "v=spf1 include:spf-a.aena.es  include:spf.protection.outlook.com -all",
@@ -29,7 +51,7 @@
       "include": [
         {
           "domain": "spf-a.aena.es",
-          "record": "v=spf1 ip4:194.224.177.251 ip4:217.111.219.251 ip4:217.130.124.251 ip4:194.224.177.252 ip4:217.111.219.252 ip4:217.130.124.252 ip4:194.224.177.201 ip4:217.111.219.201 ip4:217.130.124.201 ip4:93.159.213.3 ip4:185.103.8.2 -all",
+          "record": "v=spf1 ip4:194.224.177.251 ip4:217.111.219.251 ip4:217.130.124.251 ip4:194.224.177.252 ip4:217.111.219.252 ip4:217.130.124.252 ip4:194.224.177.201 ip4:217.111.219.201 ip4:217.130.124.201 ip4:93.159.213.3 ip4:185.103.8.2 ip4:217.130.124.197 -all",
           "dns_lookups": 0,
           "parsed": {
             "pass": [
@@ -75,6 +97,10 @@
               },
               {
                 "value": "185.103.8.2",
+                "mechanism": "ip4"
+              },
+              {
+                "value": "217.130.124.197",
                 "mechanism": "ip4"
               }
             ],

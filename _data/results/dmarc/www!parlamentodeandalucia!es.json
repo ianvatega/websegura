@@ -5,7 +5,8 @@
   "ns": {
     "hostnames": [
       "dns2.parlamentodeandalucia.es",
-      "dns1.parlamentodeandalucia.es"
+      "dns1.parlamentodeandalucia.es",
+      "dns3.parlamentodeandalucia.es"
     ],
     "warnings": []
   },
@@ -29,46 +30,20 @@
         "preference": 30,
         "hostname": "mx3.parlamentodeandalucia.es",
         "addresses": [
-          "195.55.47.130"
+          "90.161.143.228"
         ]
       }
     ],
     "warnings": [
-      "195.55.47.130 does not have any reverse DNS (PTR) records"
+      "The domain 228.pool90-161-143.static.orange.es does not exist",
+      "The reverse DNS of 90.161.143.228 is 228.pool90-161-143.static.orange.es, but the A/AAAA DNS records for 228.pool90-161-143.static.orange.es do not resolve to 90.161.143.228"
     ]
   },
   "spf": {
-    "record": "v=spf1 mx ip4:193.147.254.0/24 ?all",
-    "valid": true,
-    "dns_lookups": 1,
+    "record": "v=spf1 mx ip4:193.147.254.0/24 ipv4:90.161.143.225/28 ?all",
+    "valid": false,
     "warnings": [],
-    "parsed": {
-      "pass": [
-        {
-          "value": "dns1.parlamentodeandalucia.es",
-          "mechanism": "mx"
-        },
-        {
-          "value": "dns2.parlamentodeandalucia.es",
-          "mechanism": "mx"
-        },
-        {
-          "value": "mx3.parlamentodeandalucia.es",
-          "mechanism": "mx"
-        },
-        {
-          "value": "193.147.254.0/24",
-          "mechanism": "ip4"
-        }
-      ],
-      "neutral": [],
-      "softfail": [],
-      "fail": [],
-      "include": [],
-      "redirect": null,
-      "exp": null,
-      "all": "neutral"
-    }
+    "error": "parlamentodeandalucia.es: Expected mechanism at position 31 in: v=spf1 mx ip4:193.147.254.0/24 ipv4:90.161.143.225/28 ?all"
   },
   "dmarc": {
     "record": null,
