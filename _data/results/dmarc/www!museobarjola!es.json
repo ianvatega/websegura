@@ -5,8 +5,8 @@
   "ns": {
     "hostnames": [
       "ns09.ns-cloud4b.com",
-      "ns06.ns-cloud4b.net",
-      "ns07.ns-cloud4b.org"
+      "ns07.ns-cloud4b.org",
+      "ns06.ns-cloud4b.net"
     ],
     "warnings": []
   },
@@ -33,14 +33,20 @@
     "record": "v=spf1 +a +mx include:emailservice.cpd.as -all",
     "valid": true,
     "dns_lookups": 4,
-    "warnings": [
-      "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
-    ],
+    "warnings": [],
     "parsed": {
       "pass": [
         {
           "value": "185.79.131.59",
           "mechanism": "a"
+        },
+        {
+          "value": "mx30.asaccomunicaciones.es",
+          "mechanism": "mx"
+        },
+        {
+          "value": "mx40.asaccomunicaciones.es",
+          "mechanism": "mx"
         }
       ],
       "neutral": [],
