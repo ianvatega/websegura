@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns2.isdefe.es",
-      "ns1.isdefe.es"
+      "ns1.isdefe.es",
+      "ns2.isdefe.es"
     ],
     "warnings": []
   },
@@ -26,16 +26,16 @@
         ]
       }
     ],
-    "warnings": [
-      "The resolution lifetime expired after 2.100 seconds: Server Do53:127.0.0.53@53 answered The DNS operation timed out.",
-      "The reverse DNS of 85.115.54.190 is cluster-j.mailcontrol.com, but the A/AAAA DNS records for cluster-j.mailcontrol.com do not resolve to 85.115.54.190"
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 mx a:mail1.isdefe.es a:mail6.isdefe.es a:mail33.isdefe.es a:vw-cmnmail-dmz.isdefe.es a:vw-cmnfree-dmz.isdefe.es ip4:194.15.213.10 ip4:194.15.213.230 ip4:194.15.213.103 ip4:194.15.213.106 include:spf.protection.outlook.com -all",
     "valid": true,
     "dns_lookups": 7,
-    "warnings": [],
+    "warnings": [
+      "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out.",
+      "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    ],
     "parsed": {
       "pass": [
         {
@@ -51,15 +51,7 @@
           "mechanism": "a"
         },
         {
-          "value": "194.15.213.252",
-          "mechanism": "a"
-        },
-        {
           "value": "194.15.213.240",
-          "mechanism": "a"
-        },
-        {
-          "value": "194.15.213.103",
           "mechanism": "a"
         },
         {
@@ -150,7 +142,9 @@
     "record": "v=DMARC1; p=none; rua=mailto:sistemas@isdefe.es; ruf=mailto:sistemas@isdefe.es",
     "valid": true,
     "location": "isdefe.es",
-    "warnings": [],
+    "warnings": [
+      "Failed to retrieve MX records for the domain of ruf email address sistemas@isdefe.es - The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    ],
     "tags": {
       "v": {
         "value": "DMARC1",
@@ -171,13 +165,7 @@
         "explicit": true
       },
       "ruf": {
-        "value": [
-          {
-            "scheme": "mailto",
-            "address": "sistemas@isdefe.es",
-            "size_limit": null
-          }
-        ],
+        "value": "mailto:sistemas@isdefe.es",
         "explicit": true
       },
       "adkim": {
