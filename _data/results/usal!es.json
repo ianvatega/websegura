@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sat, 12 Aug 2023 00:07:44 GMT",
+  "end_time": "Mon, 14 Aug 2023 00:51:15 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Language": "es",
     "Content-Length": "18492",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Sat, 12 Aug 2023 00:07:24 GMT",
+    "Date": "Mon, 14 Aug 2023 00:51:03 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Link": "</Home-Usal>; rel=\"canonical\",</node/103530>; rel=\"shortlink\"",
     "Permissions-Policy": "interest-cohort=()",
@@ -19,9 +19,9 @@
     "X-Content-Type-Options": "nosniff",
     "X-Frame-Options": "sameorigin"
   },
-  "scan_id": 40683383,
+  "scan_id": 40806822,
   "score": 0,
-  "start_time": "Sat, 12 Aug 2023 00:07:03 GMT",
+  "start_time": "Mon, 14 Aug 2023 00:50:53 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,

@@ -1,26 +1,24 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sat, 12 Aug 2023 00:07:33 GMT",
+  "end_time": "Mon, 14 Aug 2023 00:51:09 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Cache-Control": "max-age=600, must-revalidate",
-    "Connection": "Keep-Alive",
-    "Content-Length": "102869",
-    "Content-Type": "text/html;charset=ISO-8859-1",
-    "Date": "Sat, 12 Aug 2023 00:08:41 GMT",
-    "Keep-Alive": "timeout=5, max=99",
-    "Last-Modified": "Sat, 12 Aug 2023 00:08:44 GMT",
-    "Server": "Apache/2.4.43 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.46",
-    "Set-Cookie": "JSESSIONID=573AA5D02EA232ECF8B5C2BDCAF7B567; Path=/; Secure"
+    "Connection": "close",
+    "Content-Length": "0",
+    "Content-Type": "text/html",
+    "Date": "Mon, 14 Aug 2023 00:52:35 GMT",
+    "Pragma": "no-cache",
+    "Server": "Apache/2.4.43 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.46"
   },
-  "scan_id": 40683379,
+  "scan_id": 40806791,
   "score": 0,
-  "start_time": "Sat, 12 Aug 2023 00:07:02 GMT",
+  "start_time": "Mon, 14 Aug 2023 00:50:50 GMT",
   "state": "FINISHED",
-  "status_code": 200,
-  "tests_failed": 8,
-  "tests_passed": 4,
+  "status_code": 500,
+  "tests_failed": 6,
+  "tests_passed": 6,
   "tests_quantity": 12
 }
