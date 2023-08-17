@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 15 Aug 2023 00:07:36 GMT",
+  "end_time": "Thu, 17 Aug 2023 00:49:02 GMT",
   "grade": "B-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Content-Encoding": "gzip",
     "Content-Length": "2711",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Tue, 15 Aug 2023 00:07:35 GMT",
+    "Date": "Thu, 17 Aug 2023 00:49:00 GMT",
     "Server": "Microsoft-IIS/10.0",
     "Strict-Transport-Security": "max-age=31536000",
     "Vary": "Accept-Encoding",
@@ -18,9 +18,9 @@
     "X-Permitted-Cross-Domain-Policies": "master-only",
     "X-XSS-Protection": "0"
   },
-  "scan_id": 40869536,
+  "scan_id": 40942638,
   "score": 65,
-  "start_time": "Tue, 15 Aug 2023 00:07:30 GMT",
+  "start_time": "Thu, 17 Aug 2023 00:48:58 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 2,
