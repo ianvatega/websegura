@@ -1,16 +1,16 @@
 {
   "algorithm_version": 2,
-  "end_time": "Thu, 17 Aug 2023 00:37:35 GMT",
-  "grade": "D-",
+  "end_time": "Sat, 19 Aug 2023 00:48:31 GMT",
+  "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Cache-Control": "private",
     "Connection": "close",
     "Content-Encoding": "gzip",
-    "Content-Length": "12864",
+    "Content-Length": "12862",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Thu, 17 Aug 2023 00:37:29 GMT",
+    "Date": "Sat, 19 Aug 2023 00:48:18 GMT",
     "Expect-CT": "enforce, max-age=2592000",
     "Server": "srv",
     "Strict-Transport-Security": "max-age=31536000;",
@@ -20,12 +20,12 @@
     "X-UA-Compatible": "IE=edge",
     "X-XSS-Protection": "1"
   },
-  "scan_id": 40942341,
-  "score": 25,
-  "start_time": "Thu, 17 Aug 2023 00:37:18 GMT",
+  "scan_id": 41037164,
+  "score": 15,
+  "start_time": "Sat, 19 Aug 2023 00:48:03 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 2,
-  "tests_passed": 10,
+  "tests_failed": 3,
+  "tests_passed": 9,
   "tests_quantity": 12
 }
