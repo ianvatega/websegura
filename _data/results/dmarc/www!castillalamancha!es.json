@@ -32,7 +32,9 @@
     "record": "v=spf1 mx a:pop3.jccm.es a:smtp2.jccm.es a:mail1.jccm.es a:mail3.jccm.es a:mail4.jccm.es a:mail5.jccm.es a:mail6.jccm.es a:mail7.jccm.es a:mail8.jccm.es -all",
     "valid": true,
     "dns_lookups": 10,
-    "warnings": [],
+    "warnings": [
+      "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    ],
     "parsed": {
       "pass": [
         {
@@ -61,10 +63,6 @@
         },
         {
           "value": "89.107.245.14",
-          "mechanism": "a"
-        },
-        {
-          "value": "89.107.245.15",
           "mechanism": "a"
         },
         {
