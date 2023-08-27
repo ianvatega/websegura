@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 25 Aug 2023 00:09:26 GMT",
+  "end_time": "Sun, 27 Aug 2023 00:54:30 GMT",
   "grade": "A-",
   "hidden": false,
   "likelihood_indicator": "LOW",
@@ -21,9 +21,9 @@
     "X-UA-Compatible": "IE=edge",
     "X-Xss-Protection": "1; mode=block"
   },
-  "scan_id": 41262856,
+  "scan_id": 41335049,
   "score": 85,
-  "start_time": "Fri, 25 Aug 2023 00:09:05 GMT",
+  "start_time": "Sun, 27 Aug 2023 00:53:51 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 2,
