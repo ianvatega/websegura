@@ -4,16 +4,15 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns05.ns-cloud4b.org",
-      "ns03.ns-cloud4b.net",
-      "ns06.ns-cloud4b.com"
+      "ns1.zilore.net",
+      "ns2.zilore.net"
     ],
     "warnings": []
   },
   "mx": {
     "hosts": [
       {
-        "preference": 0,
+        "preference": 1,
         "hostname": "emtmadrid.in.tmes.trendmicro.eu",
         "addresses": [
           "18.185.115.145",
@@ -25,27 +24,18 @@
         "preference": 10,
         "hostname": "emtmadrid-es.mail.protection.outlook.com",
         "addresses": [
-          "52.101.68.21",
+          "52.101.68.0",
+          "52.101.68.18",
           "52.101.68.3",
-          "52.101.68.36",
           "52.101.68.5",
           "52.101.73.1",
           "52.101.73.12",
-          "52.101.73.15",
-          "52.101.73.4"
+          "52.101.73.4",
+          "52.101.73.6"
         ]
       }
     ],
-    "warnings": [
-      "52.101.68.21 does not have any reverse DNS (PTR) records",
-      "52.101.68.3 does not have any reverse DNS (PTR) records",
-      "52.101.68.36 does not have any reverse DNS (PTR) records",
-      "52.101.68.5 does not have any reverse DNS (PTR) records",
-      "52.101.73.1 does not have any reverse DNS (PTR) records",
-      "52.101.73.12 does not have any reverse DNS (PTR) records",
-      "52.101.73.15 does not have any reverse DNS (PTR) records",
-      "52.101.73.4 does not have any reverse DNS (PTR) records"
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 ip4:195.57.112.128/28 ip4:188.84.97.215 include:spf.protection.outlook.com include:spf.tmes.trendmicro.com -all",

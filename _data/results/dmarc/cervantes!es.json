@@ -3,8 +3,11 @@
   "base_domain": "cervantes.es",
   "dnssec": false,
   "ns": {
-    "hostnames": [],
-    "error": "All nameservers failed to answer the query cervantes.es. IN NS: Server Do53:1.0.0.1@53 answered SERVFAIL"
+    "hostnames": [
+      "machuca.cervantes.es",
+      "dns.cervantes.es"
+    ],
+    "warnings": []
   },
   "mx": {
     "hosts": [
@@ -16,7 +19,9 @@
       {
         "preference": 10,
         "hostname": "vela2.cervantes.es",
-        "addresses": []
+        "addresses": [
+          "193.146.3.229"
+        ]
       },
       {
         "preference": 20,
@@ -29,8 +34,7 @@
       }
     ],
     "warnings": [
-      "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out.",
-      "All nameservers failed to answer the query vela2.cervantes.es. IN AAAA: Server Do53:1.0.0.1@53 answered SERVFAIL"
+      "All nameservers failed to answer the query vela1.cervantes.es. IN A: Server Do53:1.0.0.1@53 answered SERVFAIL"
     ]
   },
   "spf": {
