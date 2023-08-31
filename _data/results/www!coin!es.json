@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 29 Aug 2023 00:09:44 GMT",
+  "end_time": "Thu, 31 Aug 2023 00:52:47 GMT",
   "grade": "D+",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
     "Content-language": "es",
-    "Date": "Tue, 29 Aug 2023 00:09:38 GMT",
+    "Date": "Thu, 31 Aug 2023 00:52:23 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Keep-Alive": "timeout=15",
     "Server": "Apache",
@@ -25,9 +25,9 @@
     "X-Generator": "Drupal 9 (https://www.drupal.org)",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 41397373,
+  "scan_id": 41489190,
   "score": 40,
-  "start_time": "Tue, 29 Aug 2023 00:09:32 GMT",
+  "start_time": "Thu, 31 Aug 2023 00:51:43 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
