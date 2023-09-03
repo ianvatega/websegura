@@ -3,8 +3,10 @@
   "base_domain": "lasregueras.es",
   "dnssec": false,
   "ns": {
-    "hostnames": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    "hostnames": [
+      "ns.lasregueras.es"
+    ],
+    "warnings": []
   },
   "mx": {
     "hosts": [
@@ -16,10 +18,7 @@
         ]
       }
     ],
-    "warnings": [
-      "The resolution lifetime expired after 2.100 seconds: Server Do53:127.0.0.53@53 answered The DNS operation timed out.",
-      "The reverse DNS of 5.181.46.145 is dv45.digival.org, but the A/AAAA DNS records for dv45.digival.org do not resolve to 5.181.46.145"
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 +a +mx +include:dv45.digival.org -all",
