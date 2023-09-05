@@ -1,8 +1,8 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sat, 02 Sep 2023 06:38:04 GMT",
+  "end_time": "Tue, 05 Sep 2023 00:50:57 GMT",
   "grade": "D+",
-  "hidden": true,
+  "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Cache-Control": "must-revalidate, no-cache, private",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
     "Content-language": "es",
-    "Date": "Sat, 02 Sep 2023 06:37:58 GMT",
+    "Date": "Tue, 05 Sep 2023 00:50:22 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Keep-Alive": "timeout=15",
     "Server": "Apache",
@@ -25,9 +25,9 @@
     "X-Generator": "Drupal 9 (https://www.drupal.org)",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 41589318,
+  "scan_id": 41708780,
   "score": 40,
-  "start_time": "Sat, 02 Sep 2023 06:37:54 GMT",
+  "start_time": "Tue, 05 Sep 2023 00:50:19 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
