@@ -6,9 +6,9 @@
     "hostnames": [
       "ns3.unizar.es",
       "ns2.unizar.es",
-      "ns.unizar.es",
+      "chico.rediris.es",
       "sun.rediris.es",
-      "chico.rediris.es"
+      "ns.unizar.es"
     ],
     "warnings": []
   },

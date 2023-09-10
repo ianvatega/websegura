@@ -5,9 +5,9 @@
   "ns": {
     "hostnames": [
       "sun.rediris.es",
-      "dns.uvigo.es",
+      "dns2.uvigo.es",
       "chico.rediris.es",
-      "dns2.uvigo.es"
+      "dns.uvigo.es"
     ],
     "warnings": []
   },
