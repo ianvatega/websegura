@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Thu, 14 Sep 2023 00:51:38 GMT",
+  "end_time": "Sun, 17 Sep 2023 00:09:48 GMT",
   "grade": "B",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Content-length": "644168",
     "Content-security-policy": "base-uri 'self'; ; object-src 'none'; media-src 'self'; child-src 'none'; frame-ancestors 'none'; connect-src 'self' https://*.google-analytics.com/; manifest-src 'self'; frame-src 'self' https://platform.twitter.com/ https://www.youtube.com/ https://www.google.com/ https://syndication.twitter.com/",
     "Content-type": "text/html",
-    "Date": "Thu, 14 Sep 2023 00:51:34 GMT",
+    "Date": "Sun, 17 Sep 2023 00:09:40 GMT",
     "Etag": "\"9d448-65001b93\"",
     "Last-modified": "Tue, 12 Sep 2023 08:04:35 GMT",
     "Server": "server-header-none",
@@ -18,9 +18,9 @@
     "X-frame-options": "DENY",
     "X-xss-protection": "1; mode=block"
   },
-  "scan_id": 42099173,
+  "scan_id": 42213867,
   "score": 75,
-  "start_time": "Thu, 14 Sep 2023 00:51:26 GMT",
+  "start_time": "Sun, 17 Sep 2023 00:08:12 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 2,
