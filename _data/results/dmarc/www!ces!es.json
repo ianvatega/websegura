@@ -17,16 +17,14 @@
     "record": "v=spf1 mx include:spf.acumbamail.com a:webmail.ces.es a:smtp.mites.gob.es ip4:192.148.211.63 ip4:192.148.211.20 include:spf.protection.outlook.com -all",
     "valid": true,
     "dns_lookups": 5,
-    "warnings": [],
+    "warnings": [
+      "All nameservers failed to answer the query webmail.ces.es. IN A: Server Do53:1.0.0.1@53 answered SERVFAIL"
+    ],
     "parsed": {
       "pass": [
         {
           "value": "mail.ces.es",
           "mechanism": "mx"
-        },
-        {
-          "value": "192.148.211.245",
-          "mechanism": "a"
         },
         {
           "value": "192.148.211.63",

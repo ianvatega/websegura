@@ -5,8 +5,8 @@
   "ns": {
     "hostnames": [
       "atlantistecnologia.mars.orderbox-dns.com",
-      "atlantistecnologia.earth.orderbox-dns.com",
       "atlantistecnologia.mercury.orderbox-dns.com",
+      "atlantistecnologia.earth.orderbox-dns.com",
       "atlantistecnologia.venus.orderbox-dns.com"
     ],
     "warnings": []
@@ -17,8 +17,12 @@
         "preference": 0,
         "hostname": "consultivodecanarias-org.mail.protection.outlook.com",
         "addresses": [
-          "104.47.18.138",
-          "104.47.18.202"
+          "52.101.73.11",
+          "52.101.73.12",
+          "52.101.73.16",
+          "52.101.73.19",
+          "52.101.73.30",
+          "52.101.73.4"
         ]
       }
     ],
