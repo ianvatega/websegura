@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 15 Sep 2023 00:52:58 GMT",
+  "end_time": "Mon, 18 Sep 2023 00:51:52 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,7 +8,7 @@
     "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
     "Cache-Control": "private",
     "Content-Encoding": "gzip",
-    "Date": "Fri, 15 Sep 2023 00:52:56 GMT",
+    "Date": "Mon, 18 Sep 2023 00:51:50 GMT",
     "Server": "Google Frontend",
     "Transfer-Encoding": "chunked",
     "Via": "1.1 google",
@@ -16,9 +16,9 @@
     "content-type": "text/html; charset=UTF-8",
     "vary": "Accept-Encoding"
   },
-  "scan_id": 42139943,
+  "scan_id": 42252739,
   "score": 0,
-  "start_time": "Fri, 15 Sep 2023 00:52:53 GMT",
+  "start_time": "Mon, 18 Sep 2023 00:51:47 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 7,
