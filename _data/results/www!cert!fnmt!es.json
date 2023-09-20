@@ -1,7 +1,7 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 18 Sep 2023 00:07:51 GMT",
-  "grade": "C-",
+  "end_time": "Wed, 20 Sep 2023 00:52:14 GMT",
+  "grade": "D-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
@@ -9,12 +9,12 @@
     "Connection": "Keep-Alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Mon, 18 Sep 2023 00:07:41 GMT",
+    "Date": "Wed, 20 Sep 2023 00:52:11 GMT",
     "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
     "Keep-Alive": "timeout=5, max=100",
     "Liferay-Portal": "Liferay Digital Experience Platform",
     "Pragma": "no-cache",
-    "Set-Cookie": "JSESSIONID=4404FB64ADB03908E6F13698F11C7F9E; Path=/; HttpOnly, COOKIE_SUPPORT=true; Max-Age=31536000; Expires=Tue, 17-Sep-2024 00:07:42 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Max-Age=31536000; Expires=Tue, 17-Sep-2024 00:07:42 GMT; Path=/; HttpOnly, CK_LF=rd1o00000000000000000000ffffc0a88e78o8080; path=/; Httponly, TS01d1a1a3=019f2630949e0865cfc6ec6015b2d81ca1c0f7bb4ae4dd4bd76f3ba9ff730222c2ad7ff8c461e22f18fc5911915a7f93564bdf991c8a9d715406468fe03d4469953fff023778f50c76bfd97d96eca7219878d541d00ea33770197fb67b52aaf0a7b4517979d9cfc192bf63b972e303d01bf34818c4; Path=/, TS02d2016f027=080f31371aab2000fe696ce5785b2d98fa04e891f8189b86d096970d3cddeb43a022bb38477740b108456772d4113000056a11335190feb93ec7bbaf49133540c099a83c7cf148992c215f9b7056f1ddd34462395a7ba95051bf7eaab725202e; Path=/",
+    "Set-Cookie": "JSESSIONID=1C2B735C8981EB956A63FA59319206C0; Path=/; HttpOnly, COOKIE_SUPPORT=true; Max-Age=31536000; Expires=Thu, 19-Sep-2024 00:52:12 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Max-Age=31536000; Expires=Thu, 19-Sep-2024 00:52:12 GMT; Path=/; HttpOnly, CK_LF=rd1o00000000000000000000ffffc0a88e78o8080; path=/; Httponly, TS01d1a1a3=019f26309445037326adac3868dc3fd306e2fa89cc6edc1137dd2cc6ec5a26f78b230c18c511cf36d5a82c4ac28d48b5a807e2adc08e2a5dcfaa6969be7830e5fa754920f1ab2f5a0865efe583936e8fb320aa7c4bf2f3efb260f12f4f7886bb0744ae8c93a55b37203c19589aa94d7b5193f59872; Path=/, TS02d2016f027=080f31371aab200059b023ae4c753968d300be56b15a7d3c70798b2e8349bf167c296c01427d798f08e7677d00113000873a9c86b91a0731ae9ab3bc5f3177a2e0a86d58756afe213cabcb32142049683f249ebbcc5fb05590feb08b7c680ea3; Path=/",
     "Strict-Transport-Security": "max-age=16070400; includeSubDomains",
     "Transfer-Encoding": "chunked",
     "Vary": "Accept-Encoding",
@@ -22,12 +22,12 @@
     "X-Frame-Options": "SAMEORIGIN, SAMEORIGIN",
     "X-XSS-Protection": "1"
   },
-  "scan_id": 42250400,
-  "score": 45,
-  "start_time": "Mon, 18 Sep 2023 00:07:38 GMT",
+  "scan_id": 42335395,
+  "score": 25,
+  "start_time": "Wed, 20 Sep 2023 00:52:04 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 3,
-  "tests_passed": 9,
+  "tests_failed": 4,
+  "tests_passed": 8,
   "tests_quantity": 12
 }
