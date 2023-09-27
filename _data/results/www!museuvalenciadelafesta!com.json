@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 25 Sep 2023 00:39:37 GMT",
+  "end_time": "Wed, 27 Sep 2023 00:53:31 GMT",
   "grade": "D-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -11,7 +11,7 @@
     "Content-Encoding": "gzip",
     "Content-Language": "es",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Mon, 25 Sep 2023 00:39:33 GMT",
+    "Date": "Wed, 27 Sep 2023 00:53:12 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Link": "<http://www.museuvalenciadelafesta.com/es>; rel=\"canonical\",<http://www.museuvalenciadelafesta.com/es>; rel=\"shortlink\"",
     "Server": "nginx/1.12.2",
@@ -21,11 +21,11 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-Generator": "Drupal 7 (https://www.drupal.org)",
     "X-Proxy-Cache": "MISS",
-    "X-Request-ID": "6b1678b5826db6e65fbf348c46bc9871"
+    "X-Request-ID": "8846c4cd14b62628e57f0436ad79d03f"
   },
-  "scan_id": 42529800,
+  "scan_id": 42590633,
   "score": 25,
-  "start_time": "Mon, 25 Sep 2023 00:39:28 GMT",
+  "start_time": "Wed, 27 Sep 2023 00:53:07 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
