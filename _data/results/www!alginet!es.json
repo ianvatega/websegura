@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Wed, 27 Sep 2023 00:45:38 GMT",
+  "end_time": "Sat, 30 Sep 2023 00:07:38 GMT",
   "grade": "D",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Connection": "keep-alive",
     "Content-Type": "text/html; charset=UTF-8",
     "Content-language": "ca",
-    "Date": "Wed, 27 Sep 2023 00:45:32 GMT",
+    "Date": "Sat, 30 Sep 2023 00:07:30 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Referrer-Policy": "no-referrer-when-downgrade",
     "Transfer-Encoding": "chunked",
@@ -18,9 +18,9 @@
     "X-Proxy-Cache": "MISS",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 42590286,
+  "scan_id": 42712048,
   "score": 35,
-  "start_time": "Wed, 27 Sep 2023 00:39:52 GMT",
+  "start_time": "Sat, 30 Sep 2023 00:07:26 GMT",
   "state": "FINISHED",
   "status_code": 503,
   "tests_failed": 5,
