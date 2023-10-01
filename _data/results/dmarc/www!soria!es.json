@@ -218,7 +218,7 @@
     }
   },
   "dmarc": {
-    "record": "v=DMARC1; p=none; pct=100; rua=mailto:re+nhtimecynqp@dmarc.postmarkapp.com; sp=none; aspf=r;",
+    "record": "v=DMARC1; p=reject; pct=100; rua=mailto:re+nhtimecynqp@dmarc.postmarkapp.com; sp=none; aspf=r;",
     "valid": true,
     "location": "soria.es",
     "warnings": [],
@@ -228,7 +228,7 @@
         "explicit": true
       },
       "p": {
-        "value": "none",
+        "value": "reject",
         "explicit": true
       },
       "pct": {

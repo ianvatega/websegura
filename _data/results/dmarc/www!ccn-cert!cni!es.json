@@ -4,14 +4,16 @@
   "dnssec": false,
   "ns": {
     "hostnames": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    "warnings": []
   },
   "mx": {
     "hosts": [
       {
         "preference": 10,
         "hostname": "mx1.ccn-cert.es",
-        "addresses": []
+        "addresses": [
+          "212.170.35.115"
+        ]
       },
       {
         "preference": 20,
@@ -21,11 +23,7 @@
         ]
       }
     ],
-    "warnings": [
-      "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out.",
-      "The resolution lifetime expired after 2.100 seconds: Server Do53:127.0.0.53@53 answered The DNS operation timed out.",
-      "The reverse DNS of 212.170.35.116 is mx2.ccn-cert.es, but the A/AAAA DNS records for mx2.ccn-cert.es do not resolve to 212.170.35.116"
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 ip4:212.170.35.96/27 -all",
