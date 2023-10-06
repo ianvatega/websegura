@@ -1,26 +1,26 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 02 Oct 2023 00:55:41 GMT",
+  "end_time": "Fri, 06 Oct 2023 00:52:56 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Accept-Encoding": "gzip",
     "Content-Encoding": "gzip",
-    "Content-Length": "34258",
+    "Content-Length": "33078",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Mon, 02 Oct 2023 00:55:25 GMT",
+    "Date": "Fri, 06 Oct 2023 00:52:45 GMT",
     "Link": "<https://www.tafalla.es/wp-json/>; rel=\"https://api.w.org/\"",
     "Server": "Microsoft-IIS/10.0",
     "Vary": "Accept-Encoding",
     "X-Powered-By": "PHP/8.0.30, ASP.NET"
   },
-  "scan_id": 42769750,
+  "scan_id": 42920208,
   "score": 0,
-  "start_time": "Mon, 02 Oct 2023 00:52:42 GMT",
+  "start_time": "Fri, 06 Oct 2023 00:52:37 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 7,
-  "tests_passed": 5,
+  "tests_failed": 6,
+  "tests_passed": 6,
   "tests_quantity": 12
 }
