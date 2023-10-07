@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 03 Oct 2023 00:53:41 GMT",
+  "end_time": "Sat, 07 Oct 2023 00:08:41 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,12 +10,12 @@
     "Content-Length": "62",
     "Pragma": "no-cache"
   },
-  "scan_id": 42830726,
-  "score": 20,
-  "start_time": "Tue, 03 Oct 2023 00:53:03 GMT",
+  "scan_id": 42951113,
+  "score": 0,
+  "start_time": "Sat, 07 Oct 2023 00:08:12 GMT",
   "state": "FINISHED",
   "status_code": 503,
-  "tests_failed": 5,
-  "tests_passed": 7,
+  "tests_failed": 6,
+  "tests_passed": 6,
   "tests_quantity": 12
 }
