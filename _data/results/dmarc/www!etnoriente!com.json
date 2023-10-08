@@ -5,8 +5,8 @@
   "ns": {
     "hostnames": [
       "ns1054.ui-dns.biz",
-      "ns1091.ui-dns.com",
       "ns1030.ui-dns.de",
+      "ns1091.ui-dns.com",
       "ns1024.ui-dns.org"
     ],
     "warnings": []

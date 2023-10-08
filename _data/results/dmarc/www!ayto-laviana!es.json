@@ -3,22 +3,66 @@
   "base_domain": "ayto-laviana.es",
   "dnssec": false,
   "ns": {
-    "hostnames": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    "hostnames": [
+      "ns2.interdomain.net",
+      "ns1.interdomain.net",
+      "ns3.interdomain.es"
+    ],
+    "warnings": []
   },
   "mx": {
-    "hosts": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    "hosts": [
+      {
+        "preference": 10,
+        "hostname": "correo.ayto-laviana.es",
+        "addresses": [
+          "185.54.195.145"
+        ]
+      }
+    ],
+    "warnings": []
   },
   "spf": {
-    "record": null,
-    "valid": false,
-    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    "record": "v=spf1 +mx ip4:185.54.195.145 ip4:185.54.195.146 ip4:185.54.195.147 ip4:185.54.195.149 -all",
+    "valid": true,
+    "dns_lookups": 1,
+    "warnings": [],
+    "parsed": {
+      "pass": [
+        {
+          "value": "correo.ayto-laviana.es",
+          "mechanism": "mx"
+        },
+        {
+          "value": "185.54.195.145",
+          "mechanism": "ip4"
+        },
+        {
+          "value": "185.54.195.146",
+          "mechanism": "ip4"
+        },
+        {
+          "value": "185.54.195.147",
+          "mechanism": "ip4"
+        },
+        {
+          "value": "185.54.195.149",
+          "mechanism": "ip4"
+        }
+      ],
+      "neutral": [],
+      "softfail": [],
+      "fail": [],
+      "include": [],
+      "redirect": null,
+      "exp": null,
+      "all": "fail"
+    }
   },
   "dmarc": {
     "record": null,
     "valid": false,
     "location": null,
-    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    "error": "A DMARC record does not exist for this domain or its base domain"
   }
 }

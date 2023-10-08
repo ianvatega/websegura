@@ -36,16 +36,12 @@
     "warnings": []
   },
   "spf": {
-    "record": "v=spf1 include:spf.antispamcloud.com ip4:90.160.60.248/32 ip4:217.130.125.204/32 -all",
+    "record": "v=spf1 include:spf.antispamcloud.com ip4:217.130.125.204/32 -all",
     "valid": true,
     "dns_lookups": 4,
     "warnings": [],
     "parsed": {
       "pass": [
-        {
-          "value": "90.160.60.248/32",
-          "mechanism": "ip4"
-        },
         {
           "value": "217.130.125.204/32",
           "mechanism": "ip4"

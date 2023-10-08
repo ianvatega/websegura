@@ -264,7 +264,7 @@
         },
         {
           "domain": "spf.ipzmarketing.com",
-          "record": "v=spf1 ip4:93.159.208.0/21 ip4:185.103.8.0/22 ip4:5.56.22.0/24 ip4:82.199.156.0/24 ip4:212.192.13.0/24 ~all",
+          "record": "v=spf1 ip4:93.159.208.0/21 ip4:185.103.8.0/22 ip4:5.56.22.0/24 ip4:82.199.156.0/24 ip4:91.194.237.0/24 ~all",
           "dns_lookups": 0,
           "parsed": {
             "pass": [
@@ -285,7 +285,7 @@
                 "mechanism": "ip4"
               },
               {
-                "value": "212.192.13.0/24",
+                "value": "91.194.237.0/24",
                 "mechanism": "ip4"
               }
             ],
@@ -306,53 +306,9 @@
     }
   },
   "dmarc": {
-    "record": "v=DMARC1; p=quarantine; adkim=s; aspf=s",
-    "valid": true,
-    "location": "aller.es",
-    "warnings": [
-      "rua tag (destination for aggregate reports) not found"
-    ],
-    "tags": {
-      "v": {
-        "value": "DMARC1",
-        "explicit": true
-      },
-      "p": {
-        "value": "quarantine",
-        "explicit": true
-      },
-      "adkim": {
-        "value": "s",
-        "explicit": true
-      },
-      "aspf": {
-        "value": "s",
-        "explicit": true
-      },
-      "fo": {
-        "value": [
-          "0"
-        ],
-        "explicit": false
-      },
-      "pct": {
-        "value": 100,
-        "explicit": false
-      },
-      "rf": {
-        "value": [
-          "afrf"
-        ],
-        "explicit": false
-      },
-      "ri": {
-        "value": 86400,
-        "explicit": false
-      },
-      "sp": {
-        "value": "quarantine",
-        "explicit": false
-      }
-    }
+    "record": null,
+    "valid": false,
+    "location": null,
+    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
   }
 }

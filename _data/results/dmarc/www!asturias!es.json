@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "dns.asturias.es",
-      "artemis.ttd.net"
+      "mortadelo.telecable.es",
+      "dns.asturias.es"
     ],
     "warnings": []
   },
