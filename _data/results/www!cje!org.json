@@ -1,21 +1,21 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 10 Oct 2023 00:52:49 GMT",
+  "end_time": "Sat, 14 Oct 2023 00:08:02 GMT",
   "grade": "D",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Tue, 10 Oct 2023 00:52:41 GMT",
+    "Date": "Sat, 14 Oct 2023 00:07:46 GMT",
     "Link": "<https://www.cje.org/wp-json/>; rel=\"https://api.w.org/\", <https://www.cje.org/wp-json/wp/v2/pages/5002>; rel=\"alternate\"; type=\"application/json\", <https://www.cje.org/>; rel=shortlink",
     "Server": "nginx",
     "Strict-Transport-Security": "max-age=15768000; includeSubDomains",
     "Transfer-Encoding": "chunked",
-    "X-Powered-By": "PHP/8.1.23, PleskLin"
+    "X-Powered-By": "PHP/8.1.24, PleskLin"
   },
-  "scan_id": 43070842,
+  "scan_id": 43212157,
   "score": 35,
-  "start_time": "Tue, 10 Oct 2023 00:52:34 GMT",
+  "start_time": "Sat, 14 Oct 2023 00:07:38 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
