@@ -4,20 +4,20 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
+      "ns2.acens.net",
       "srvadmefficientipagr.gobex.pri",
-      "srvefficientipagr.educarex.pri",
-      "srvcpdefficientipagr.gobex.pri",
-      "srvcpdefficientipmor.gobex.pri",
-      "ns1.dominioabsoluto.com",
       "ns1.acens.net",
-      "ip90.dominioabsoluto.com",
+      "srvcpdefficientipagr.gobex.pri",
       "ns7.acens.net",
       "ns4.acens.net",
-      "ns3.acens.net",
-      "ns2.dominioabsoluto.com",
+      "srvcpdefficientipmor.gobex.pri",
+      "ip90.dominioabsoluto.com",
       "srvadmefficientipmor.gobex.pri",
-      "srvefficientipmor.educarex.pri",
-      "ns2.acens.net"
+      "ns3.acens.net",
+      "ns1.dominioabsoluto.com",
+      "ns2.dominioabsoluto.com",
+      "srvefficientipagr.educarex.pri",
+      "srvefficientipmor.educarex.pri"
     ],
     "warnings": []
   },
@@ -28,11 +28,11 @@
         "hostname": "juntaex-es.mail.protection.outlook.com",
         "addresses": [
           "52.101.68.0",
-          "52.101.68.3",
-          "52.101.68.36",
-          "52.101.73.15",
-          "52.101.73.24",
-          "52.101.73.26",
+          "52.101.68.21",
+          "52.101.68.32",
+          "52.101.73.16",
+          "52.101.73.2",
+          "52.101.73.28",
           "52.101.73.30"
         ]
       }

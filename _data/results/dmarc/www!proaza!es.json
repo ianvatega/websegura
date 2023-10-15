@@ -4,16 +4,24 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
+      "ns2.gestiondecuenta.com",
       "ns3.gestiondecuenta.com",
       "ns4.gestiondecuenta.com",
-      "ns.gestiondecuenta.com",
-      "ns2.gestiondecuenta.com"
+      "ns.gestiondecuenta.com"
     ],
     "warnings": []
   },
   "mx": {
-    "hosts": [],
-    "error": "All nameservers failed to answer the query 95.165.98.82.in-addr.arpa. IN PTR: Server Do53:1.0.0.1@53 answered SERVFAIL"
+    "hosts": [
+      {
+        "preference": 10,
+        "hostname": "mail.proaza.es",
+        "addresses": [
+          "82.98.165.95"
+        ]
+      }
+    ],
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 a mx ip4:82.98.132.60 +all",
