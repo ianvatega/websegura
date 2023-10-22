@@ -5,9 +5,9 @@
   "ns": {
     "hostnames": [
       "ns4.gestiondecuenta.com",
-      "ns.gestiondecuenta.com",
       "ns2.gestiondecuenta.com",
-      "ns3.gestiondecuenta.com"
+      "ns3.gestiondecuenta.com",
+      "ns.gestiondecuenta.com"
     ],
     "warnings": []
   },
@@ -17,14 +17,17 @@
         "preference": 10,
         "hostname": "mumi-es.mail.protection.outlook.com",
         "addresses": [
-          "104.47.30.74",
-          "104.47.51.202"
+          "52.101.73.16",
+          "52.101.73.2",
+          "52.101.73.21",
+          "52.101.73.26",
+          "52.101.73.28",
+          "52.101.73.30",
+          "52.101.73.8"
         ]
       }
     ],
-    "warnings": [
-      "104.47.30.74 does not have any reverse DNS (PTR) records"
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 include:spf.protection.outlook.com -all",
