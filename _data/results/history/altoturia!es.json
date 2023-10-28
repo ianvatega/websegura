@@ -789,5 +789,26 @@
     "grade": "C",
     "scan_id": 43577767,
     "score": 55
+  },
+  {
+    "end_time": "Wed, 25 Oct 2023 00:39:14 GMT",
+    "end_time_unix_timestamp": 1698194354,
+    "grade": "D",
+    "scan_id": 43627945,
+    "score": 35
+  },
+  {
+    "end_time": "Fri, 27 Oct 2023 00:38:36 GMT",
+    "end_time_unix_timestamp": 1698367116,
+    "grade": "C",
+    "scan_id": 43698178,
+    "score": 55
+  },
+  {
+    "end_time": "Sat, 28 Oct 2023 00:50:54 GMT",
+    "end_time_unix_timestamp": 1698454254,
+    "grade": "D",
+    "scan_id": 43726504,
+    "score": 35
   }
 ]
