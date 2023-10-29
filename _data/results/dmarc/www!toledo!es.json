@@ -12,10 +12,16 @@
   "mx": {
     "hosts": [
       {
-        "preference": 10,
-        "hostname": "mx.serviciodecorreo.es",
+        "preference": 1,
+        "hostname": "toledo-es.mail.protection.outlook.com",
         "addresses": [
-          "82.223.190.100"
+          "52.101.68.0",
+          "52.101.73.15",
+          "52.101.73.16",
+          "52.101.73.19",
+          "52.101.73.2",
+          "52.101.73.28",
+          "52.101.73.8"
         ]
       }
     ],
