@@ -1,7 +1,7 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sun, 29 Oct 2023 00:11:16 GMT",
-  "grade": "D-",
+  "end_time": "Tue, 31 Oct 2023 00:52:55 GMT",
+  "grade": "C-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
@@ -9,12 +9,12 @@
     "Connection": "Keep-Alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Sun, 29 Oct 2023 00:11:12 GMT",
+    "Date": "Tue, 31 Oct 2023 00:52:47 GMT",
     "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
     "Keep-Alive": "timeout=5, max=100",
     "Liferay-Portal": "Liferay Digital Experience Platform",
     "Pragma": "no-cache",
-    "Set-Cookie": "JSESSIONID=B10C310174645CED0886912620024EC1.lr2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Max-Age=31536000; Expires=Mon, 28-Oct-2024 00:11:12 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Max-Age=31536000; Expires=Mon, 28-Oct-2024 00:11:12 GMT; Path=/; HttpOnly, TS01d1a1a3=019f26309466146a91d87730fb9d56863997e4805c34d59f2b276b6cdfc389cad2cc26df8b7d7c907c5ba5af1f594154d9deb2c3e8d0c82bf7af9645b5b04b77cc6f994c70ee3fe29b03cb067c3777bdf4ee8b5ef8a125c2a073c2a601e380f049f41e2257; Path=/, TS02d2016f027=080f31371aab2000bfb48fd830b5df180be545f22218d65e8820b522e21ebe343a566db7d5ab9c2f08283336b81130003131799e04aa41ddb7324043f36ab3563d405fb3da9e3afee927792c63c6a0d9ac0e2babcf154c6a952ca59148be6e50; Path=/",
+    "Set-Cookie": "JSESSIONID=D0C4C2CBC4153134C3E5AAF9DD6128EE.lr2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Max-Age=31536000; Expires=Wed, 30-Oct-2024 00:52:48 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Max-Age=31536000; Expires=Wed, 30-Oct-2024 00:52:48 GMT; Path=/; HttpOnly, TS01d1a1a3=019f26309484b4788efa46cab4abf129796cb710e6058d46451cfef18fac8e36171be196638c62d2a164e8264640b5f6441801cda8f126078c24631dd4b2f9ac3b0bc4378a9afaec53c4ade4751201d00c3b5fa902fb6745c4affbad1124fe9e7b423b7f3b; Path=/, TS02d2016f027=080f31371aab2000d08b91eb76358bcb94eec42fb820e25efef286c13820e81d32054b1b7084c914087a2d0bdc11300038381683201ff89e05697f3d96836ae91282015fbefac45ab54b8378f45579235d71ee1b5cca027404aff6cd2ca8f153; Path=/",
     "Strict-Transport-Security": "max-age=16070400; includeSubDomains",
     "Transfer-Encoding": "chunked",
     "Vary": "Accept-Encoding",
@@ -22,12 +22,12 @@
     "X-Frame-Options": "SAMEORIGIN, SAMEORIGIN",
     "X-XSS-Protection": "1"
   },
-  "scan_id": 43753803,
-  "score": 25,
-  "start_time": "Sun, 29 Oct 2023 00:08:12 GMT",
+  "scan_id": 43839948,
+  "score": 45,
+  "start_time": "Tue, 31 Oct 2023 00:52:43 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 4,
-  "tests_passed": 8,
+  "tests_failed": 3,
+  "tests_passed": 9,
   "tests_quantity": 12
 }
