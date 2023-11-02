@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 30 Oct 2023 00:54:37 GMT",
+  "end_time": "Thu, 02 Nov 2023 00:52:53 GMT",
   "grade": "B-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -16,7 +16,7 @@
     "Last-Modified": "Thu, 21 Sep 2023 14:24:08 GMT",
     "Link": "<http://www.vacunacovid.gob.es/homepage>; rel=\"revision\"",
     "Referrer-Policy": "no-referrer",
-    "Set-Cookie": "ROUTEID=.vacunacovid1; path=/; HttpOnly; Secure; SameSite=Strict",
+    "Set-Cookie": "ROUTEID=.vacunacovid2; path=/; HttpOnly; Secure; SameSite=Strict",
     "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
     "Transfer-Encoding": "chunked",
     "Vary": "Cookie,Accept-Encoding",
@@ -30,9 +30,9 @@
     "X-UA-Compatible": "IE=edge",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 43782603,
+  "scan_id": 43929833,
   "score": 65,
-  "start_time": "Mon, 30 Oct 2023 00:52:55 GMT",
+  "start_time": "Thu, 02 Nov 2023 00:52:44 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 3,
