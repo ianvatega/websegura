@@ -1,18 +1,18 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 31 Oct 2023 00:53:26 GMT",
+  "end_time": "Fri, 03 Nov 2023 00:53:07 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Content-Length": "40572",
     "Content-Type": "text/html",
-    "Date": "Tue, 31 Oct 2023 00:53:23 GMT",
+    "Date": "Fri, 03 Nov 2023 00:53:04 GMT",
     "Server": "Microsoft-IIS/8.5"
   },
-  "scan_id": 43839851,
+  "scan_id": 43979034,
   "score": 20,
-  "start_time": "Tue, 31 Oct 2023 00:52:40 GMT",
+  "start_time": "Fri, 03 Nov 2023 00:53:01 GMT",
   "state": "FINISHED",
   "status_code": 404,
   "tests_failed": 5,
