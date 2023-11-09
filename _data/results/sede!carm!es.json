@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sat, 04 Nov 2023 00:59:11 GMT",
+  "end_time": "Thu, 09 Nov 2023 00:08:44 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,18 +9,18 @@
     "Connection": "Keep-Alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Sat, 04 Nov 2023 00:58:59 GMT",
+    "Date": "Thu, 09 Nov 2023 00:08:33 GMT",
     "Keep-Alive": "timeout=5, max=99",
     "Server": "Apache",
     "Transfer-Encoding": "chunked",
     "Vary": "Accept-Encoding"
   },
-  "scan_id": 44022939,
-  "score": 0,
-  "start_time": "Sat, 04 Nov 2023 00:53:24 GMT",
+  "scan_id": 44205499,
+  "score": 15,
+  "start_time": "Thu, 09 Nov 2023 00:08:01 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 7,
-  "tests_passed": 5,
+  "tests_failed": 6,
+  "tests_passed": 6,
   "tests_quantity": 12
 }
