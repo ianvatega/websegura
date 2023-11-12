@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns2.parlamentib.es",
-      "ns1.parlamentib.es"
+      "ns1.parlamentib.es",
+      "ns2.parlamentib.es"
     ],
     "warnings": []
   },
@@ -16,12 +16,12 @@
         "hostname": "parlamentib-es.mail.protection.outlook.com",
         "addresses": [
           "52.101.68.16",
-          "52.101.68.21",
-          "52.101.68.3",
           "52.101.68.36",
-          "52.101.73.24",
-          "52.101.73.26",
-          "52.101.73.28"
+          "52.101.68.5",
+          "52.101.73.12",
+          "52.101.73.16",
+          "52.101.73.6",
+          "52.101.73.8"
         ]
       }
     ],
@@ -103,9 +103,71 @@
     }
   },
   "dmarc": {
-    "record": null,
-    "valid": false,
-    "location": null,
-    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    "record": "v=DMARC1; p=none; rua=mailto:postmaster@parlamentib.es; ruf=mailto:postmaster@parlamentib.es; adkim=s; aspf=s; rf=afrf",
+    "valid": true,
+    "location": "parlamentib.es",
+    "warnings": [],
+    "tags": {
+      "v": {
+        "value": "DMARC1",
+        "explicit": true
+      },
+      "p": {
+        "value": "none",
+        "explicit": true
+      },
+      "rua": {
+        "value": [
+          {
+            "scheme": "mailto",
+            "address": "postmaster@parlamentib.es",
+            "size_limit": null
+          }
+        ],
+        "explicit": true
+      },
+      "ruf": {
+        "value": [
+          {
+            "scheme": "mailto",
+            "address": "postmaster@parlamentib.es",
+            "size_limit": null
+          }
+        ],
+        "explicit": true
+      },
+      "adkim": {
+        "value": "s",
+        "explicit": true
+      },
+      "aspf": {
+        "value": "s",
+        "explicit": true
+      },
+      "rf": {
+        "value": [
+          "afrf"
+        ],
+        "explicit": true
+      },
+      "fo": {
+        "value": [
+          "0"
+        ],
+        "explicit": false
+      },
+      "pct": {
+        "value": 100,
+        "explicit": false
+      },
+      "ri": {
+        "value": 86400,
+        "explicit": false
+      },
+      "sp": {
+        "value": "none",
+        "explicit": false
+      }
+    }
   }
 }

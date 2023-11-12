@@ -4,11 +4,11 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns2.cdmon.net",
+      "ns3.cdmon.net",
+      "ns4.cdmondns-01.org",
       "ns1.cdmon.net",
       "ns5.cdmondns-01.com",
-      "ns4.cdmondns-01.org",
-      "ns3.cdmon.net"
+      "ns2.cdmon.net"
     ],
     "warnings": []
   },
@@ -18,7 +18,7 @@
         "preference": 10,
         "hostname": "mx.spamexperts.com",
         "addresses": [
-          "2001:550:2:78::ca:100",
+          "2001:550:2:61::2fc:100",
           "38.111.198.185"
         ]
       },
@@ -50,6 +50,7 @@
       }
     ],
     "warnings": [
+      "2001:550:2:61::2fc:100 does not have any reverse DNS (PTR) records",
       "2001:550:2:61::2fc:100 does not have any reverse DNS (PTR) records",
       "2001:550:2:61::2fc:100 does not have any reverse DNS (PTR) records"
     ]
@@ -796,18 +797,6 @@
                 "mechanism": "a"
               },
               {
-                "value": "2a01:4f8:172:1686::2",
-                "mechanism": "a"
-              },
-              {
-                "value": "2a01:4f8:172:1689::2",
-                "mechanism": "a"
-              },
-              {
-                "value": "2a01:4f8:172:168b::2",
-                "mechanism": "a"
-              },
-              {
                 "value": "2a0d:3000:2100:a008:4::1",
                 "mechanism": "a"
               },
@@ -1161,22 +1150,6 @@
                     {
                       "value": "38.109.53.39",
                       "mechanism": "a"
-                    },
-                    {
-                      "value": "88.198.67.41",
-                      "mechanism": "a"
-                    },
-                    {
-                      "value": "88.198.67.44",
-                      "mechanism": "a"
-                    },
-                    {
-                      "value": "94.130.139.116",
-                      "mechanism": "a"
-                    },
-                    {
-                      "value": "94.130.140.62",
-                      "mechanism": "a"
                     }
                   ],
                   "neutral": [],
@@ -1290,9 +1263,71 @@
     }
   },
   "dmarc": {
-    "record": null,
-    "valid": false,
-    "location": null,
-    "error": "Unrelated TXT records were discovered. These should be removed, as some receivers may not expect to find unrelated TXT records at _dmarc.velezmalaga.es\n\nv=spf1 include:spf.qsemail.net include:spf.mailjet.com -all\n\nVLOPS5720"
+    "record": "v=DMARC1; p=quarantine; rua=mailto:dmarc@velezmalaga.es; ruf=mailto:dmarc@velezmalaga.es; pct=100; fo=0;",
+    "valid": true,
+    "location": "velezmalaga.es",
+    "warnings": [],
+    "tags": {
+      "v": {
+        "value": "DMARC1",
+        "explicit": true
+      },
+      "p": {
+        "value": "quarantine",
+        "explicit": true
+      },
+      "rua": {
+        "value": [
+          {
+            "scheme": "mailto",
+            "address": "dmarc@velezmalaga.es",
+            "size_limit": null
+          }
+        ],
+        "explicit": true
+      },
+      "ruf": {
+        "value": [
+          {
+            "scheme": "mailto",
+            "address": "dmarc@velezmalaga.es",
+            "size_limit": null
+          }
+        ],
+        "explicit": true
+      },
+      "pct": {
+        "value": 100,
+        "explicit": true
+      },
+      "fo": {
+        "value": [
+          "0"
+        ],
+        "explicit": true
+      },
+      "adkim": {
+        "value": "r",
+        "explicit": false
+      },
+      "aspf": {
+        "value": "r",
+        "explicit": false
+      },
+      "rf": {
+        "value": [
+          "afrf"
+        ],
+        "explicit": false
+      },
+      "ri": {
+        "value": 86400,
+        "explicit": false
+      },
+      "sp": {
+        "value": "quarantine",
+        "explicit": false
+      }
+    }
   }
 }

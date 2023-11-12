@@ -4,10 +4,10 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
+      "proxy.dip-badajoz.es",
       "artemis.ttd.net",
       "ineco.nic.es",
-      "isabel.dip-badajoz.es",
-      "proxy.dip-badajoz.es"
+      "isabel.dip-badajoz.es"
     ],
     "warnings": []
   },
@@ -30,7 +30,9 @@
       {
         "preference": 500,
         "hostname": "sdb-mta01.dip-badajoz.es",
-        "addresses": []
+        "addresses": [
+          "195.57.11.111"
+        ]
       },
       {
         "preference": 500,
@@ -40,9 +42,7 @@
         ]
       }
     ],
-    "warnings": [
-      "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 a mx ptr ip4:195.57.11.0/25 mx:lobon.es -all",
