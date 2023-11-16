@@ -1,18 +1,20 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 14 Nov 2023 00:08:51 GMT",
+  "end_time": "Thu, 16 Nov 2023 00:56:07 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Cache-Control": "private",
-    "Content-Length": "56735",
+    "Content-Encoding": "gzip",
+    "Content-Length": "12259",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Tue, 14 Nov 2023 00:08:48 GMT"
+    "Date": "Thu, 16 Nov 2023 00:56:06 GMT",
+    "Vary": "Accept-Encoding"
   },
-  "scan_id": 44387709,
+  "scan_id": 44473439,
   "score": 0,
-  "start_time": "Tue, 14 Nov 2023 00:08:11 GMT",
+  "start_time": "Thu, 16 Nov 2023 00:56:04 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
