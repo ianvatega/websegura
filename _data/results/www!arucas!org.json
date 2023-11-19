@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Thu, 16 Nov 2023 00:55:58 GMT",
+  "end_time": "Sun, 19 Nov 2023 00:09:15 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,12 +8,12 @@
     "Connection": "keep-alive",
     "Content-Length": "98",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Thu, 16 Nov 2023 00:55:57 GMT",
+    "Date": "Sun, 19 Nov 2023 00:09:14 GMT",
     "Server": "Apache"
   },
-  "scan_id": 44473417,
+  "scan_id": 44601487,
   "score": 0,
-  "start_time": "Thu, 16 Nov 2023 00:55:55 GMT",
+  "start_time": "Sun, 19 Nov 2023 00:09:08 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
