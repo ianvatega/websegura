@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sat, 18 Nov 2023 00:55:10 GMT",
+  "end_time": "Tue, 21 Nov 2023 01:04:34 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,9 +10,9 @@
     "Content-Length": "62",
     "Pragma": "no-cache"
   },
-  "scan_id": 44574206,
+  "scan_id": 44682279,
   "score": 0,
-  "start_time": "Sat, 18 Nov 2023 00:55:02 GMT",
+  "start_time": "Tue, 21 Nov 2023 00:59:25 GMT",
   "state": "FINISHED",
   "status_code": 503,
   "tests_failed": 6,
