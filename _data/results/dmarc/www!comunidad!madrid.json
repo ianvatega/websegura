@@ -4,14 +4,14 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "a7-65.akam.net",
       "a11-64.akam.net",
-      "ns2.comunidad.madrid",
-      "a12-64.akam.net",
+      "a7-65.akam.net",
+      "a24-64.akam.net",
       "ns1.comunidad.madrid",
-      "a1-232.akam.net",
       "a20-66.akam.net",
-      "a24-64.akam.net"
+      "a12-64.akam.net",
+      "a1-232.akam.net",
+      "ns2.comunidad.madrid"
     ],
     "warnings": []
   },
@@ -20,10 +20,9 @@
     "error": "The DNS response does not contain an answer to the question: 11.128.77.195.in-addr.arpa. IN PTR"
   },
   "spf": {
-    "record": "v=spf1 mx ip4:195.77.128.128/25,195.77.128.55/32 include:spf.protection.outlook.com, exists:%{i}.spf.hc1855-42.eu.iphmx.com ~all",
+    "record": null,
     "valid": false,
-    "warnings": [],
-    "error": "comunidad.madrid: Expected end_of_statement or mechanism at position 31 in: v=spf1 mx ip4:195.77.128.128/25,195.77.128.55/32 include:spf.protection.outlook.com, exists:%{i}.spf.hc1855-42.eu.iphmx.com ~all"
+    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered ; Server Do53:1.0.0.1@53 answered The DNS operation timed out."
   },
   "dmarc": {
     "record": "v=DMARC1;p=reject;rua=mailto:dmarc@madrid.org;ruf=mailto:dmarc@madrid.org",

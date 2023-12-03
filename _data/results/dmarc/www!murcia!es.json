@@ -27,6 +27,8 @@
       }
     ],
     "warnings": [
+      "The domain correo.murcia.es does not exist",
+      "The reverse DNS of 81.46.205.179 is correo.murcia.es, but the A/AAAA DNS records for correo.murcia.es do not resolve to 81.46.205.179",
       "The domain 81-46-205-178.redes.acens.net does not exist",
       "The reverse DNS of 81.46.205.178 is 81-46-205-178.redes.acens.net, but the A/AAAA DNS records for 81-46-205-178.redes.acens.net do not resolve to 81.46.205.178"
     ]
