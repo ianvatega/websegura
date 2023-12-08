@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 05 Dec 2023 00:57:35 GMT",
+  "end_time": "Fri, 08 Dec 2023 00:11:59 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,12 +8,12 @@
     "Connection": "keep-alive",
     "Content-Length": "98",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Tue, 05 Dec 2023 00:57:34 GMT",
+    "Date": "Fri, 08 Dec 2023 00:11:58 GMT",
     "Server": "Apache"
   },
-  "scan_id": 45203719,
+  "scan_id": 45303351,
   "score": 0,
-  "start_time": "Tue, 05 Dec 2023 00:57:31 GMT",
+  "start_time": "Fri, 08 Dec 2023 00:11:56 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
