@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 08 Dec 2023 00:08:58 GMT",
+  "end_time": "Sun, 10 Dec 2023 01:00:12 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Content-Encoding": "gzip",
     "Content-Length": "11674",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Fri, 08 Dec 2023 00:08:50 GMT",
+    "Date": "Sun, 10 Dec 2023 01:00:03 GMT",
     "Keep-Alive": "timeout=5, max=98",
     "Link": "<http://www.cabildofuer.es/cabildo/>; rel=shortlink",
     "Server": "Apache/2.2.22 (Ubuntu)",
@@ -17,9 +17,9 @@
     "X-Pingback": "http://www.cabildofuer.es/cabildo/xmlrpc.php",
     "X-Powered-By": "PHP/5.3.10-1ubuntu3.26"
   },
-  "scan_id": 45303110,
+  "scan_id": 45352889,
   "score": 0,
-  "start_time": "Fri, 08 Dec 2023 00:08:48 GMT",
+  "start_time": "Sun, 10 Dec 2023 00:59:46 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 7,
