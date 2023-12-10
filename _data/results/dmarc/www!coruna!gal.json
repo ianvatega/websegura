@@ -16,12 +16,13 @@
       {
         "preference": 10,
         "hostname": "coruna-gal.mail.protection.outlook.com",
-        "addresses": []
+        "addresses": [
+          "104.47.17.138",
+          "104.47.17.74"
+        ]
       }
     ],
-    "warnings": [
-      "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 a:ara.coruna.es a:gerion.coruna.es a:oxi.coruna.es a:bakdmz.coruna.es include:spf.protection.outlook.com -all",

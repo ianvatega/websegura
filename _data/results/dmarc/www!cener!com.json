@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "dns9.servidoresdns.net",
-      "dns10.servidoresdns.net"
+      "dns10.servidoresdns.net",
+      "dns9.servidoresdns.net"
     ],
     "warnings": []
   },
@@ -16,8 +16,7 @@
         "hostname": "cener-com.mail.protection.outlook.com",
         "addresses": [
           "104.47.12.36",
-          "104.47.13.36",
-          "52.101.73.28"
+          "104.47.14.36"
         ]
       }
     ],

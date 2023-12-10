@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "dns1.nominalia.com",
-      "dns2.nominalia.com"
+      "dns2.nominalia.com",
+      "dns1.nominalia.com"
     ],
     "warnings": []
   },
@@ -15,8 +15,8 @@
         "preference": 1,
         "hostname": "aspmx.l.google.com",
         "addresses": [
-          "142.250.123.27",
-          "2607:f8b0:4023:1407::1a"
+          "142.251.165.27",
+          "2607:f8b0:4023:1413::1b"
         ]
       },
       {
@@ -32,7 +32,7 @@
         "hostname": "alt2.aspmx.l.google.com",
         "addresses": [
           "172.253.62.27",
-          "2607:f8b0:4004:c07::1a"
+          "2607:f8b0:4004:c07::1b"
         ]
       },
       {
