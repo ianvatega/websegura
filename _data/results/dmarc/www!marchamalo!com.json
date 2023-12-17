@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns1.plug-in.es",
-      "ns2.plug-in.es"
+      "ns2.plug-in.es",
+      "ns1.plug-in.es"
     ],
     "warnings": []
   },
@@ -15,15 +15,15 @@
         "preference": 1,
         "hostname": "aspmx.l.google.com",
         "addresses": [
-          "142.251.177.27",
-          "2607:f8b0:4023:1401::1a"
+          "142.251.177.26",
+          "2607:f8b0:4023:1417::1a"
         ]
       },
       {
         "preference": 5,
         "hostname": "alt1.aspmx.l.google.com",
         "addresses": [
-          "108.177.12.27",
+          "108.177.12.26",
           "2607:f8b0:400c:c08::1a"
         ]
       },
@@ -31,8 +31,8 @@
         "preference": 5,
         "hostname": "alt2.aspmx.l.google.com",
         "addresses": [
-          "172.253.62.26",
-          "2607:f8b0:4004:c07::1a"
+          "172.253.62.27",
+          "2607:f8b0:4004:c07::1b"
         ]
       },
       {

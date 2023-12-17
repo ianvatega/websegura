@@ -3,29 +3,19 @@
   "base_domain": "ayto-riberadearriba.es",
   "dnssec": false,
   "ns": {
-    "hostnames": [
-      "gaudiosa.greencom.net",
-      "fruela.greencom.net"
-    ],
-    "warnings": []
+    "hostnames": [],
+    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
   },
   "mx": {
-    "hosts": [
-      {
-        "preference": 10,
-        "hostname": "fruela.greencom.net",
-        "addresses": [
-          "212.89.6.11"
-        ]
-      }
-    ],
-    "warnings": []
+    "hosts": [],
+    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
   },
   "spf": {
     "record": "v=spf1 a mx ptr ip4:212.89.6.11 ~all",
     "valid": true,
     "dns_lookups": 2,
     "warnings": [
+      "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out.",
       "The ptr mechanism should not be used - https://tools.ietf.org/html/rfc7208#section-5.5"
     ],
     "parsed": {
@@ -33,10 +23,6 @@
         {
           "value": "212.89.23.124",
           "mechanism": "a"
-        },
-        {
-          "value": "fruela.greencom.net",
-          "mechanism": "mx"
         },
         {
           "value": "",
