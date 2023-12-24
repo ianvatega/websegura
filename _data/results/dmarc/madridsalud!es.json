@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "dns1.madridsalud.org",
-      "dns2.madridsalud.org"
+      "146.255.96.10.dnsgigas.es",
+      "146.255.96.10.ns2.dnsgigas.es"
     ],
     "warnings": []
   },
