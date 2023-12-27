@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 25 Dec 2023 00:08:42 GMT",
+  "end_time": "Wed, 27 Dec 2023 00:53:44 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,7 +8,7 @@
     "cache-control": "must-revalidate, no-cache, private",
     "content-language": "es",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 24 Dec 2023 21:30:56 GMT",
+    "date": "Tue, 26 Dec 2023 19:00:45 GMT",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "server": "Apache/2.4.37 (AlmaLinux)",
     "transfer-encoding": "chunked",
@@ -20,9 +20,9 @@
     "x-powered-by": "PHP/8.1.24",
     "x-ua-compatible": "IE=edge"
   },
-  "scan_id": 45776294,
+  "scan_id": 45854487,
   "score": 0,
-  "start_time": "Mon, 25 Dec 2023 00:08:07 GMT",
+  "start_time": "Wed, 27 Dec 2023 00:53:23 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
