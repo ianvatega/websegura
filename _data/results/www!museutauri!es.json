@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 02 Jan 2024 00:55:16 GMT",
+  "end_time": "Fri, 05 Jan 2024 00:55:57 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,9 +10,9 @@
     "Content-Length": "62",
     "Pragma": "no-cache"
   },
-  "scan_id": 46069871,
+  "scan_id": 46177057,
   "score": 0,
-  "start_time": "Tue, 02 Jan 2024 00:53:51 GMT",
+  "start_time": "Fri, 05 Jan 2024 00:55:50 GMT",
   "state": "FINISHED",
   "status_code": 503,
   "tests_failed": 6,

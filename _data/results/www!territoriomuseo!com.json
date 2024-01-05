@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Wed, 03 Jan 2024 00:08:58 GMT",
+  "end_time": "Fri, 05 Jan 2024 00:56:28 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,7 +8,7 @@
     "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
     "Cache-Control": "private",
     "Content-Encoding": "gzip",
-    "Date": "Wed, 03 Jan 2024 00:08:57 GMT",
+    "Date": "Fri, 05 Jan 2024 00:56:22 GMT",
     "Server": "Google Frontend",
     "Transfer-Encoding": "chunked",
     "Via": "1.1 google",
@@ -16,9 +16,9 @@
     "content-type": "text/html; charset=UTF-8",
     "vary": "Accept-Encoding"
   },
-  "scan_id": 46105311,
+  "scan_id": 46177105,
   "score": 0,
-  "start_time": "Wed, 03 Jan 2024 00:08:47 GMT",
+  "start_time": "Fri, 05 Jan 2024 00:56:00 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 7,
