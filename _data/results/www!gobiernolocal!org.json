@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sat, 06 Jan 2024 00:10:58 GMT",
+  "end_time": "Mon, 08 Jan 2024 00:58:10 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -11,7 +11,7 @@
     "Content-Encoding": "gzip",
     "Content-Length": "23224",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Sat, 06 Jan 2024 00:10:42 GMT",
+    "Date": "Mon, 08 Jan 2024 00:57:52 GMT",
     "Expires": "Mon, 29 Oct 1923 20:30:00 GMT",
     "Last-Modified": "Tue, 02 Jan 2024 09:01:02 GMT",
     "Pragma": "no-cache",
@@ -19,9 +19,9 @@
     "Vary": "User-Agent,Accept-Encoding",
     "X-Powered-By": "PleskLin"
   },
-  "scan_id": 46202285,
+  "scan_id": 46241851,
   "score": 15,
-  "start_time": "Sat, 06 Jan 2024 00:10:10 GMT",
+  "start_time": "Mon, 08 Jan 2024 00:57:22 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
