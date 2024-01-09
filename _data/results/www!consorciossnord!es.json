@@ -1,22 +1,22 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sun, 07 Jan 2024 00:10:30 GMT",
+  "end_time": "Tue, 09 Jan 2024 00:56:40 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "keep-alive",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Sun, 07 Jan 2024 00:10:24 GMT",
+    "Date": "Tue, 09 Jan 2024 00:56:39 GMT",
     "Server": "nginx/1.12.2",
     "Transfer-Encoding": "chunked",
     "X-Generator": "Drupal 7 (http://drupal.org)",
     "X-Proxy-Cache": "MISS",
-    "X-Request-ID": "ce1d5a930b067da58a13ba3d744cfa75"
+    "X-Request-ID": "c17784dee8e43b7775961b3c4852ee64"
   },
-  "scan_id": 46224333,
+  "scan_id": 46268966,
   "score": 0,
-  "start_time": "Sun, 07 Jan 2024 00:09:26 GMT",
+  "start_time": "Tue, 09 Jan 2024 00:56:35 GMT",
   "state": "FINISHED",
   "status_code": 500,
   "tests_failed": 6,
