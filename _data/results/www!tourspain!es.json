@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 08 Jan 2024 00:08:58 GMT",
+  "end_time": "Wed, 10 Jan 2024 00:57:29 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,14 +9,14 @@
     "Connection": "keep-alive",
     "Content-Length": "49127",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Mon, 08 Jan 2024 00:08:50 GMT",
-    "Last-Modified": "Mon, 08 Jan 2024 02:08:50 EET",
+    "Date": "Wed, 10 Jan 2024 00:57:17 GMT",
+    "Last-Modified": "Tue, 09 Jan 2024 19:57:17 EST",
     "Server": "nginx/1.14.1",
-    "Set-Cookie": "JSESSIONID=768DABAB6423FC890E393BB9E6890CB5; Path=/; HttpOnly"
+    "Set-Cookie": "JSESSIONID=388E1158DD93365422D245D75653FD7C; Path=/; HttpOnly"
   },
-  "scan_id": 46240726,
+  "scan_id": 46295665,
   "score": 0,
-  "start_time": "Mon, 08 Jan 2024 00:08:42 GMT",
+  "start_time": "Wed, 10 Jan 2024 00:57:03 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 8,
