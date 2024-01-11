@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 08 Jan 2024 00:57:35 GMT",
+  "end_time": "Thu, 11 Jan 2024 00:56:42 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,12 +8,12 @@
     "Connection": "keep-alive",
     "Content-Length": "98",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Mon, 08 Jan 2024 00:57:34 GMT",
+    "Date": "Thu, 11 Jan 2024 00:56:41 GMT",
     "Server": "Apache"
   },
-  "scan_id": 46241758,
+  "scan_id": 46332285,
   "score": 0,
-  "start_time": "Mon, 08 Jan 2024 00:57:06 GMT",
+  "start_time": "Thu, 11 Jan 2024 00:56:38 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
