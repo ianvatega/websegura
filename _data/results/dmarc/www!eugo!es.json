@@ -5,10 +5,10 @@
   "ns": {
     "hostnames": [
       "dns.serviciosmin.gob.es",
-      "dns1.eugo.es",
       "sun.rediris.es",
-      "chico.rediris.es",
-      "dns2.eugo.es"
+      "dns1.eugo.es",
+      "dns2.eugo.es",
+      "chico.rediris.es"
     ],
     "warnings": []
   },

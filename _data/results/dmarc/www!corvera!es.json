@@ -3,12 +3,18 @@
   "base_domain": "corvera.es",
   "dnssec": false,
   "ns": {
-    "hostnames": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    "hostnames": [
+      "ns08.ns-cloud4b.com",
+      "ns07.ns-cloud4b.org",
+      "ns06.ns-cloud4b.net"
+    ],
+    "warnings": []
   },
   "mx": {
     "hosts": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    "warnings": [
+      "No MX records found. Is the domain parked?"
+    ]
   },
   "spf": {
     "record": null,
@@ -19,6 +25,6 @@
     "record": null,
     "valid": false,
     "location": null,
-    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    "error": "A DMARC record does not exist for this domain or its base domain"
   }
 }
