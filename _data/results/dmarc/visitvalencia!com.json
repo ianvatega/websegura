@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "dns3.prored.es",
       "dns2.prored.es",
+      "dns3.prored.es",
       "dns1.prored.es"
     ],
     "warnings": []
@@ -17,12 +17,12 @@
         "hostname": "visitvalencia-com.mail.protection.outlook.com",
         "addresses": [
           "52.101.68.16",
-          "52.101.68.3",
-          "52.101.73.11",
-          "52.101.73.2",
+          "52.101.68.21",
+          "52.101.68.36",
+          "52.101.68.5",
+          "52.101.73.12",
           "52.101.73.21",
-          "52.101.73.4",
-          "52.101.73.8"
+          "52.101.73.26"
         ]
       }
     ],
@@ -107,7 +107,7 @@
         },
         {
           "domain": "spf.ymlp.com",
-          "record": "v=spf1 ip4:185.83.48.0/22 ip4:87.237.13.64/27  -all",
+          "record": "v=spf1 ip4:185.83.48.0/22 ip4:87.237.13.64/27 -all",
           "dns_lookups": 0,
           "parsed": {
             "pass": [

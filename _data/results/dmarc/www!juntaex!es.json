@@ -4,20 +4,20 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "srvadmefficientipmor.gobex.pri",
-      "srvefficientipmor.educarex.pri",
-      "ns3.acens.net",
-      "srvadmefficientipagr.gobex.pri",
-      "srvefficientipagr.educarex.pri",
-      "ns4.acens.net",
-      "ns7.acens.net",
-      "srvcpdefficientipagr.gobex.pri",
-      "srvcpdefficientipmor.gobex.pri",
-      "ns1.dominioabsoluto.com",
-      "ns2.dominioabsoluto.com",
       "ns1.acens.net",
+      "ns4.acens.net",
+      "srvcpdefficientipmor.gobex.pri",
+      "srvefficientipmor.educarex.pri",
+      "ns2.dominioabsoluto.com",
+      "ns3.acens.net",
+      "srvadmefficientipmor.gobex.pri",
+      "srvadmefficientipagr.gobex.pri",
+      "ns1.dominioabsoluto.com",
       "ns2.acens.net",
-      "ip90.dominioabsoluto.com"
+      "ns7.acens.net",
+      "srvefficientipagr.educarex.pri",
+      "ip90.dominioabsoluto.com",
+      "srvcpdefficientipagr.gobex.pri"
     ],
     "warnings": []
   },
@@ -29,11 +29,11 @@
         "addresses": [
           "52.101.68.16",
           "52.101.68.36",
-          "52.101.68.5",
-          "52.101.73.1",
+          "52.101.73.12",
+          "52.101.73.15",
           "52.101.73.16",
-          "52.101.73.24",
-          "52.101.73.26"
+          "52.101.73.26",
+          "52.101.73.6"
         ]
       }
     ],
