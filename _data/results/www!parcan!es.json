@@ -1,24 +1,24 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 23 Jan 2024 00:09:08 GMT",
-  "grade": "F",
+  "end_time": "Thu, 25 Jan 2024 00:58:08 GMT",
+  "grade": "D+",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "keep-alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Tue, 23 Jan 2024 00:09:06 GMT",
+    "Date": "Thu, 25 Jan 2024 00:58:05 GMT",
     "Server": "nginx",
     "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
     "Transfer-Encoding": "chunked"
   },
-  "scan_id": 46890598,
-  "score": 0,
-  "start_time": "Tue, 23 Jan 2024 00:09:01 GMT",
+  "scan_id": 47011143,
+  "score": 40,
+  "start_time": "Thu, 25 Jan 2024 00:57:56 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 5,
-  "tests_passed": 7,
+  "tests_failed": 4,
+  "tests_passed": 8,
   "tests_quantity": 12
 }
