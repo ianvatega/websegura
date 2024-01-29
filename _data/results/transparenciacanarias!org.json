@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 26 Jan 2024 00:09:36 GMT",
+  "end_time": "Mon, 29 Jan 2024 00:36:57 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Content-Encoding": "gzip",
     "Content-Length": "29534",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Fri, 26 Jan 2024 00:09:31 GMT",
+    "Date": "Mon, 29 Jan 2024 00:36:41 GMT",
     "Link": "<https://transparenciacanarias.org/wp-json/>; rel=\"https://api.w.org/\", <https://transparenciacanarias.org/wp-json/wp/v2/pages/23289>; rel=\"alternate\"; type=\"application/json\", <https://transparenciacanarias.org/>; rel=shortlink",
     "Server": "nginx/1.18.0 (Ubuntu)",
     "Vary": "Accept-Encoding",
@@ -17,9 +17,9 @@
     "X-Powered-By": "PHP/8.0.30",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 47053789,
+  "scan_id": 47150770,
   "score": 20,
-  "start_time": "Fri, 26 Jan 2024 00:09:08 GMT",
+  "start_time": "Mon, 29 Jan 2024 00:09:13 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,

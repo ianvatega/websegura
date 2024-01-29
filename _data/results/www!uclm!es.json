@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sat, 27 Jan 2024 00:40:43 GMT",
+  "end_time": "Mon, 29 Jan 2024 01:00:43 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,15 +9,15 @@
     "Connection": "keep-alive",
     "Content-Length": "120213",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Sat, 27 Jan 2024 00:40:38 GMT",
+    "Date": "Mon, 29 Jan 2024 01:00:37 GMT",
     "Expires": "-1",
     "Pragma": "no-cache",
     "Server": "Microsoft-IIS/10.0",
-    "Set-Cookie": "ApplicationGatewayAffinityCORS=b479c97ce1c6e39bfb61dd5e73b04d5b; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=b479c97ce1c6e39bfb61dd5e73b04d5b; Path=/, ASP.NET_SessionId=uejvenr0lfny0bv5wbbproza; path=/; HttpOnly; SameSite=Lax"
+    "Set-Cookie": "ApplicationGatewayAffinityCORS=b479c97ce1c6e39bfb61dd5e73b04d5b; Path=/; SameSite=None; Secure, ApplicationGatewayAffinity=b479c97ce1c6e39bfb61dd5e73b04d5b; Path=/, ASP.NET_SessionId=yr55px0gpvytwvw42hhpxqcx; path=/; HttpOnly; SameSite=Lax"
   },
-  "scan_id": 47096215,
+  "scan_id": 47151648,
   "score": 0,
-  "start_time": "Sat, 27 Jan 2024 00:40:30 GMT",
+  "start_time": "Mon, 29 Jan 2024 00:53:58 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 7,
