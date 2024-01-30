@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sat, 27 Jan 2024 00:53:58 GMT",
+  "end_time": "Tue, 30 Jan 2024 00:57:51 GMT",
   "grade": "D",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -24,9 +24,9 @@
     "X-Powered-By": "PHP/8.1.25",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 47096566,
+  "scan_id": 47177832,
   "score": 35,
-  "start_time": "Sat, 27 Jan 2024 00:52:53 GMT",
+  "start_time": "Tue, 30 Jan 2024 00:52:15 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
