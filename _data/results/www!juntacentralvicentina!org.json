@@ -1,6 +1,6 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Mon, 29 Jan 2024 01:01:26 GMT",
+  "algorithm_version": 3,
+  "end_time": "Wed, 31 Jan 2024 00:08:19 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,17 +10,17 @@
     "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000, h3-Q050=\":443\"; ma=2592000, h3-Q046=\":443\"; ma=2592000, h3-Q043=\":443\"; ma=2592000, quic=\":443\"; ma=2592000; v=\"43,46\"",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Mon, 29 Jan 2024 01:01:08 GMT",
+    "date": "Wed, 31 Jan 2024 00:08:10 GMT",
     "link": "<https://juntacentralvicentina.org/wp-json/>; rel=\"https://api.w.org/\"",
     "transfer-encoding": "chunked",
     "vary": "Accept-Encoding"
   },
-  "scan_id": 47151487,
-  "score": 0,
-  "start_time": "Mon, 29 Jan 2024 00:53:08 GMT",
+  "scan_id": 47016956,
+  "score": 10,
+  "start_time": "Wed, 31 Jan 2024 00:08:05 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 6,
+  "tests_failed": 5,
   "tests_passed": 6,
-  "tests_quantity": 12
+  "tests_quantity": 11
 }

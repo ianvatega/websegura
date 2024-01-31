@@ -1,25 +1,25 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Mon, 29 Jan 2024 00:37:41 GMT",
+  "algorithm_version": 3,
+  "end_time": "Wed, 31 Jan 2024 00:54:02 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Content-Encoding": "gzip",
-    "Content-Length": "28471",
+    "Content-Length": "28474",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Mon, 29 Jan 2024 00:37:11 GMT",
+    "Date": "Wed, 31 Jan 2024 00:53:54 GMT",
     "Link": "<https://www.berriozar.es/wp-json/>; rel=\"https://api.w.org/\"",
     "Server": "Microsoft-IIS/10.0",
     "Vary": "Accept-Encoding",
     "X-Powered-By": "PHP/8.0.30, ASP.NET"
   },
-  "scan_id": 47150735,
+  "scan_id": 47018149,
   "score": 0,
-  "start_time": "Mon, 29 Jan 2024 00:09:05 GMT",
+  "start_time": "Wed, 31 Jan 2024 00:53:48 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 6,
+  "tests_failed": 5,
   "tests_passed": 6,
-  "tests_quantity": 12
+  "tests_quantity": 11
 }

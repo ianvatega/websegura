@@ -1,6 +1,6 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Sun, 28 Jan 2024 00:42:29 GMT",
+  "algorithm_version": 3,
+  "end_time": "Wed, 31 Jan 2024 00:53:18 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,12 +10,12 @@
     "Content-Length": "62",
     "Pragma": "no-cache"
   },
-  "scan_id": 47130542,
-  "score": 0,
-  "start_time": "Sun, 28 Jan 2024 00:42:20 GMT",
+  "scan_id": 47018068,
+  "score": 10,
+  "start_time": "Wed, 31 Jan 2024 00:53:11 GMT",
   "state": "FINISHED",
   "status_code": 503,
-  "tests_failed": 6,
+  "tests_failed": 5,
   "tests_passed": 6,
-  "tests_quantity": 12
+  "tests_quantity": 11
 }

@@ -1,6 +1,6 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Mon, 29 Jan 2024 01:01:46 GMT",
+  "algorithm_version": 3,
+  "end_time": "Wed, 31 Jan 2024 00:08:18 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,21 +10,21 @@
     "Content-encoding": "gzip",
     "Content-length": "10971",
     "Content-type": "text/html;charset=UTF-8",
-    "Date": "Mon, 29 Jan 2024 01:01:35 GMT",
+    "Date": "Wed, 31 Jan 2024 00:08:15 GMT",
     "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
-    "Keep-Alive": "timeout=15, max=199",
+    "Keep-Alive": "timeout=1, max=4999",
     "Last-modified": "Fri, 26 Jan 2024 03:38:13 GMT",
     "Pragma": "no-cache",
-    "Set-cookie": "JSESSIONID=3A443FFCB14907B38E56B647E4C8C129.sedepropuba; Path=/; Secure; HttpOnly, csrf=0mGDu6hk0P0zQx_jYyAhAn8-WT_fWSyauMN55z6yhQ4; Path=\"\", TS010eeb46=01b9fcf5f894a8a7f096da320c8a873fe28fdf61cb32efa94e69ecac935dcceda9540fa398b1f446cdfa076e3d3b51c74f851c41cab45291912c92b732fc4ff83caa0edfe7; Path=/; Domain=.sede.sepe.gob.es, TS0184f071=01b9fcf5f84d0a6a45abb9cab97a8943a18f55ad1732efa94e69ecac935dcceda9540fa3984fb91a195b5333ee0377a85897979d4ddba11e64cde1397b7bae62c80f0e17c4; path=\"\"",
+    "Set-cookie": "JSESSIONID=D7D6B4C083DD107A85150AE757C3FA93.sedepropuba; Path=/; Secure; HttpOnly, csrf=6wQzNKzOSsiVwpWztZQwvaLxfSBhZnH5bv94P8MELxc; Path=\"\", TS010eeb46=01b9fcf5f8f356ca10496419256fbcff7c01f4b46957f3ab4e61880a9407c5f462266b1cd08052ffef0a1a61df5afc66bbc8375e1f16e68ebebbbde299b59d4a92c42a1275; Path=/; Domain=.sede.sepe.gob.es, TS0184f071=01b9fcf5f85f0f2fad641548c0a7c5bba7fa54c66157f3ab4e61880a9407c5f462266b1cd04f7ea81e9ce99159073506b18c63376d134c4df1b0657025df98f1a480bb4de2; path=\"\"",
     "Vary": "Accept-Encoding",
     "X-magnolia-registration": "Registered"
   },
-  "scan_id": 47151567,
-  "score": 0,
-  "start_time": "Mon, 29 Jan 2024 00:53:43 GMT",
+  "scan_id": 47016967,
+  "score": 5,
+  "start_time": "Wed, 31 Jan 2024 00:08:12 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 7,
+  "tests_failed": 6,
   "tests_passed": 5,
-  "tests_quantity": 12
+  "tests_quantity": 11
 }

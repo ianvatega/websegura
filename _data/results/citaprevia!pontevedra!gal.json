@@ -1,6 +1,6 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Mon, 29 Jan 2024 00:37:22 GMT",
+  "algorithm_version": 3,
+  "end_time": "Wed, 31 Jan 2024 00:53:37 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,17 +10,17 @@
     "Content-Language": "es",
     "Content-Security-Policy": "frame-ancestors 'self';",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Mon, 29 Jan 2024 00:13:46 GMT",
+    "Date": "Wed, 31 Jan 2024 00:29:51 GMT",
     "Server": "nginx/1.24.0",
-    "Set-Cookie": "JSESSIONID=8372820DED800624D75540CC22F09F60; Path=/citaprevia; HttpOnly",
+    "Set-Cookie": "JSESSIONID=CC99AFF9C933F4184119E583869CE8A4; Path=/citaprevia; HttpOnly",
     "Transfer-Encoding": "chunked"
   },
-  "scan_id": 47150684,
-  "score": 5,
-  "start_time": "Mon, 29 Jan 2024 00:08:56 GMT",
+  "scan_id": 47018114,
+  "score": 15,
+  "start_time": "Wed, 31 Jan 2024 00:53:31 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 5,
+  "tests_failed": 4,
   "tests_passed": 7,
-  "tests_quantity": 12
+  "tests_quantity": 11
 }
