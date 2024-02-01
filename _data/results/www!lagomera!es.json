@@ -1,6 +1,6 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Mon, 29 Jan 2024 01:01:52 GMT",
+  "algorithm_version": 3,
+  "end_time": "Thu, 01 Feb 2024 00:55:20 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,18 +8,18 @@
     "Connection": "keep-alive",
     "Content-Encoding": "deflate",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Mon, 29 Jan 2024 01:01:08 GMT",
+    "Date": "Thu, 01 Feb 2024 00:55:18 GMT",
     "Server": "nginx/1.18.0 (Ubuntu)",
     "Transfer-Encoding": "chunked",
     "Vary": "Accept-Encoding",
     "X-HTML-Minification-Powered-By": "WebMarkupMin"
   },
-  "scan_id": 47151677,
+  "scan_id": 47054649,
   "score": 0,
-  "start_time": "Mon, 29 Jan 2024 00:54:04 GMT",
+  "start_time": "Thu, 01 Feb 2024 00:55:15 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 6,
+  "tests_failed": 5,
   "tests_passed": 6,
-  "tests_quantity": 12
+  "tests_quantity": 11
 }

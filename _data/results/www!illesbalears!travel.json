@@ -1,6 +1,6 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Tue, 30 Jan 2024 00:58:19 GMT",
+  "algorithm_version": 3,
+  "end_time": "Thu, 01 Feb 2024 00:56:00 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,18 +9,18 @@
     "Connection": "keep-alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Tue, 30 Jan 2024 00:58:14 GMT",
+    "Date": "Thu, 01 Feb 2024 00:55:57 GMT",
     "Server": "Apache/2.4.52 (Ubuntu)",
-    "Set-Cookie": "XSRF-TOKEN=eyJpdiI6ImRPRk9XVmsyMHZHSFVvQURaTUg3blE9PSIsInZhbHVlIjoiMktnVWhFQnVhZXBYYXVoQ1I3OTFrM2kvUWhxZ0FNL2FFenlPaEdCN21aa3RoYmVadFhOcnY2ZnIvTlNEM1ZWczBHMjNzRDc2YjlxeUR0M1FsNzlHMFpITzJYSUFyeGVKTjRBeEJDdWRQNVM2THphNnRrZWlHZjM1UWpzSWhnb0kiLCJtYWMiOiI0Y2MyOTRhMTk0MTUyNTI4YWUzMjgxMmNjYTg0YWIzMWEyMTFkZGU2M2Y2MDczZTQzYjEyNzhhNTQ2ZDRjMWI1IiwidGFnIjoiIn0%3D; expires=Tue, 30 Jan 2024 02:58:14 GMT; Max-Age=7200; path=/; samesite=lax, illes_balears_session=eyJpdiI6IlBBMXRxOGV6R1hScm43cGo3eE1uM2c9PSIsInZhbHVlIjoiMzJQSUFXeGpielB2Vlh2VC8rUVJjdndkb2htT3BGQ1U2WkhYWjQwTytKT2hCalJFVGI3Nnc5ZUdWV0daSnlXR0hCMy9oWVNqTU1tU0dQMjU3MG5GdjBQbEkrV3UvdmYvem54bWxmOVA1NU53aXQ4VFI0a1UwaTBsWVRVWENWdjciLCJtYWMiOiI4ZjQyNzE3NWYxNmY1YzM1MWFjMmQ5Zjc5ZDQ4NzU2MTdkZDQ4MGE2NTViMzNjYjc2ZDI5MTM5ODc2MjkzOTI0IiwidGFnIjoiIn0%3D; expires=Tue, 30 Jan 2024 02:58:14 GMT; Max-Age=7200; path=/; httponly; samesite=lax",
+    "Set-Cookie": "XSRF-TOKEN=eyJpdiI6IlZWSVRodVZBbXJxc0VrVnpqWHFueWc9PSIsInZhbHVlIjoieldEVGNpSktoNE1aa3dwYTRIeU14amVrVjMrdnFMR0xVbW9VZ1p3Rk1wWEpqVnRoZlJuOGxRbVdTb0wxUG1ldjhQL1pVZHV6eUxzbXNpZEVaRzI4bTFPNDloR2oyM3VrZ1FFNjcySWRvendJdHViVTFiMkVTTXF5WjQ5UFlud1QiLCJtYWMiOiJlMTkzOGQzOWJiNWIxZWJjZGFlZDI0NDY0NWE0NWUzMTZhZGMxMWZhOGI0NWViYTYyN2I4MjY3YzE0ZGY1OWNiIiwidGFnIjoiIn0%3D; expires=Thu, 01 Feb 2024 02:55:57 GMT; Max-Age=7200; path=/; samesite=lax, illes_balears_session=eyJpdiI6IktmWEMycWNBbENpZkxaWktNVm1YU1E9PSIsInZhbHVlIjoiVjBkam1FZFRaOThBVUJoMEQ4S1duWGxFakJoR2ltY1lmRDhJMmhXQ0w0Z0VJM2lpTnptUW9OTm9wYnVHTmtXUXg1L3pvZUFCVTVFWDFLTzV2WkFtUHNMNnV6bWg2VzZZY3NRTWxleGI3dTNNV0ZnVVJYZHdHVWQ5d0o5SUNoaHMiLCJtYWMiOiI4YmU2NmU3MDlhNGZhZmRhM2VmZDY2MTY2NTg0Yzk4NjM5OGQxYzExZDc0YWQwOTcyMjY2Zjc3ODljZGQ5MmE2IiwidGFnIjoiIn0%3D; expires=Thu, 01 Feb 2024 02:55:57 GMT; Max-Age=7200; path=/; httponly; samesite=lax",
     "Transfer-Encoding": "chunked",
     "Vary": "Accept-Encoding"
   },
-  "scan_id": 47177714,
+  "scan_id": 47054736,
   "score": 0,
-  "start_time": "Tue, 30 Jan 2024 00:52:12 GMT",
+  "start_time": "Thu, 01 Feb 2024 00:55:55 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 7,
+  "tests_failed": 6,
   "tests_passed": 5,
-  "tests_quantity": 12
+  "tests_quantity": 11
 }

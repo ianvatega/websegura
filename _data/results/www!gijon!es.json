@@ -1,14 +1,14 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Mon, 29 Jan 2024 01:00:36 GMT",
-  "grade": "F",
+  "algorithm_version": 3,
+  "end_time": "Thu, 01 Feb 2024 00:55:14 GMT",
+  "grade": "D",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "keep-alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html",
-    "Date": "Mon, 29 Jan 2024 01:00:35 GMT",
+    "Date": "Thu, 01 Feb 2024 00:55:13 GMT",
     "ETag": "W/\"659531b7-d03f\"",
     "Last-Modified": "Wed, 03 Jan 2024 10:06:47 GMT",
     "Server": "nginx",
@@ -16,12 +16,12 @@
     "Vary": "Accept-Encoding",
     "X-Powered-By": "PleskLin"
   },
-  "scan_id": 47151669,
-  "score": 20,
-  "start_time": "Mon, 29 Jan 2024 00:54:02 GMT",
+  "scan_id": 47054639,
+  "score": 30,
+  "start_time": "Thu, 01 Feb 2024 00:55:11 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 5,
+  "tests_failed": 4,
   "tests_passed": 7,
-  "tests_quantity": 12
+  "tests_quantity": 11
 }

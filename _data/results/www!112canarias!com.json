@@ -1,6 +1,6 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Mon, 29 Jan 2024 01:01:09 GMT",
+  "algorithm_version": 3,
+  "end_time": "Thu, 01 Feb 2024 00:54:56 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,18 +9,18 @@
     "Connection": "keep-alive",
     "Content-Length": "2173",
     "Content-Type": "text/html",
-    "Date": "Mon, 29 Jan 2024 01:01:08 GMT",
+    "Date": "Thu, 01 Feb 2024 00:54:55 GMT",
     "ETag": "\"62de37bb-87d\"",
     "Last-Modified": "Mon, 25 Jul 2022 06:27:07 GMT",
     "Server": "nginx",
     "X-Powered-By": "PleskLin"
   },
-  "scan_id": 47151627,
-  "score": 0,
-  "start_time": "Mon, 29 Jan 2024 00:53:54 GMT",
+  "scan_id": 47054599,
+  "score": 10,
+  "start_time": "Thu, 01 Feb 2024 00:54:54 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 6,
+  "tests_failed": 5,
   "tests_passed": 6,
-  "tests_quantity": 12
+  "tests_quantity": 11
 }

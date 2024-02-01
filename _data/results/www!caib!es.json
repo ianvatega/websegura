@@ -1,26 +1,26 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Tue, 30 Jan 2024 00:58:16 GMT",
+  "algorithm_version": 3,
+  "end_time": "Thu, 01 Feb 2024 00:56:00 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "Keep-Alive",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Tue, 30 Jan 2024 00:58:13 GMT",
+    "Date": "Thu, 01 Feb 2024 00:55:58 GMT",
     "Keep-Alive": "timeout=5, max=97",
     "Server": "Apache-Coyote/1.1",
-    "Set-Cookie": "JSESSIONID=A09F4E024E2BFAFDF94D5D2838C5F475; Path=/govern",
+    "Set-Cookie": "JSESSIONID=69858574846686A2B9E74F7E9E2BC11D; Path=/govern",
     "Transfer-Encoding": "chunked",
     "Vary": "User-Agent",
     "X-Powered-By": "bubu"
   },
-  "scan_id": 47177722,
+  "scan_id": 47054737,
   "score": 0,
-  "start_time": "Tue, 30 Jan 2024 00:52:12 GMT",
+  "start_time": "Thu, 01 Feb 2024 00:55:55 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 8,
+  "tests_failed": 7,
   "tests_passed": 4,
-  "tests_quantity": 12
+  "tests_quantity": 11
 }

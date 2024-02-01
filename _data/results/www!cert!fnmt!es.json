@@ -1,6 +1,6 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Tue, 30 Jan 2024 00:58:16 GMT",
+  "algorithm_version": 3,
+  "end_time": "Thu, 01 Feb 2024 00:56:05 GMT",
   "grade": "C-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,12 +9,12 @@
     "Connection": "Keep-Alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Tue, 30 Jan 2024 00:58:12 GMT",
+    "Date": "Thu, 01 Feb 2024 00:56:03 GMT",
     "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
     "Keep-Alive": "timeout=5, max=100",
     "Liferay-Portal": "Liferay Digital Experience Platform",
     "Pragma": "no-cache",
-    "Set-Cookie": "JSESSIONID=B5E8325F39F955B004300D8783BE00DF.lr2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Max-Age=31536000; Expires=Wed, 29 Jan 2025 00:58:12 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Max-Age=31536000; Expires=Wed, 29 Jan 2025 00:58:12 GMT; Path=/; HttpOnly, CK_LF=rd1o00000000000000000000ffffc0a88e78o8080; expires=Wed, 29-Jan-2025 00:58:12 GMT; path=/; Httponly, f5avraaaaaaaaaaaaaaaa_session_=KIKAAIDJFMNAEOJDOEMICEPKAMIOMPGPCIHLACGBMMLPGMOACFDNPBKEBLGENHDGINODFEELJJDAAOAHBLOABBBBFEEMHCCKMANMCDNOAJOGFMMFLNJKOEOPAFENNIKA; HttpOnly; secure;, f5_cspm=1234;;, TS01d1a1a3=019f2630942f6c7cbdad5ca668576b6c876655b3f4639be8b792ca52264fea32df6e290768874feb1fed1a5cf402726da9f970535777f9983eee08828c154d8a7d81d830b68f47c3c2023af605ca0d0d4546e1b86cb091b1b80658a7fa7c12db234279238f50fb2fb8f4f1822af8aaf01331602f731e533e8965f3b171fb8752bf03723076f5cb31e3275a450319d9a11833fa15c7; Path=/, TS02d2016f027=080f31371aab20007763138469c5917101397b4d7c844cd8bb69a5fd0f4608266bc78f9385b4953a08a1d267be1130007a1930c97a86893248fca19a24bc0d98fc7cf6d97d1336c69d3c3bbea83e26daa78c2fc316c0c4a1c11b599ff91dafdd; Path=/",
+    "Set-Cookie": "JSESSIONID=BA3777C60729B53C69295862E4F90340.lr2; Path=/; HttpOnly, COOKIE_SUPPORT=true; Max-Age=31536000; Expires=Fri, 31 Jan 2025 00:56:03 GMT; Path=/; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Max-Age=31536000; Expires=Fri, 31 Jan 2025 00:56:03 GMT; Path=/; HttpOnly, CK_LF=rd1o00000000000000000000ffffc0a88e78o8080; expires=Fri, 31-Jan-2025 00:56:03 GMT; path=/; Httponly, f5avraaaaaaaaaaaaaaaa_session_=FFBPEGCMJECOMLAKMMBAOKJFCHNJMPLHKKFEMCFFKBDDHLNIKHMJIGGEPLHMAIBGKNHDDENMILBBFGFACNBAJHBLNOONKOJPFEJCHPHBALEHGCODIPCBFIFFEMBEFDEL; HttpOnly; secure;, f5_cspm=1234;;, TS01d1a1a3=019f2630941a504446cde6d22779efd1dde74785bec485a2d356585fda27b1df9b8a8583a3af8c7bae132f03fcb5da26489f924f4b65242b580df7741770f1048b576f9d4e416091a4b146d2fdcc689c7c99cd622a5fd10a4460773d6e412cd35b07a5bf25e4665ae00ddb70796dd60f024683c2dd83908b207b8baa33dba71f3c5e5c7b71b25da9dc0ad2d057de5881bbe9ac336e; Path=/, TS02d2016f027=080f31371aab20008bb513396b0644aabc000f9e05c5a0461fa1e42aaedf6178996f071b3dde872608d45652ea1130006a89b787572e96dacb08115eb54a30fd178a4e24f4936be9ffb3eaf5e2b6bcf5113f9fc5ecdf3529d527293854197bf7; Path=/",
     "Strict-Transport-Security": "max-age=16070400; includeSubDomains",
     "Transfer-Encoding": "chunked",
     "Vary": "Accept-Encoding",
@@ -22,12 +22,12 @@
     "X-Frame-Options": "SAMEORIGIN, SAMEORIGIN",
     "X-XSS-Protection": "1"
   },
-  "scan_id": 47177741,
+  "scan_id": 47054749,
   "score": 45,
-  "start_time": "Tue, 30 Jan 2024 00:52:12 GMT",
+  "start_time": "Thu, 01 Feb 2024 00:56:01 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 3,
-  "tests_passed": 9,
-  "tests_quantity": 12
+  "tests_passed": 8,
+  "tests_quantity": 11
 }

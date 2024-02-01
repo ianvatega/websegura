@@ -1,27 +1,27 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Tue, 30 Jan 2024 00:58:36 GMT",
-  "grade": "F",
+  "algorithm_version": 3,
+  "end_time": "Thu, 01 Feb 2024 00:42:01 GMT",
+  "grade": "D-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Cache-Control": "max-age=3, must-revalidate",
     "Connection": "keep-alive",
     "Content-Encoding": "gzip",
-    "Content-Length": "45262",
+    "Content-Length": "45260",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Tue, 30 Jan 2024 00:58:16 GMT",
-    "Last-Modified": "Tue, 30 Jan 2024 00:58:15 GMT",
+    "Date": "Thu, 01 Feb 2024 00:41:38 GMT",
+    "Last-Modified": "Thu, 01 Feb 2024 00:12:13 GMT",
     "Server": "nginx",
     "Vary": "Accept-Encoding,Cookie",
     "X-Powered-By": "PHP/7.4.33, PleskLin"
   },
-  "scan_id": 47177711,
-  "score": 15,
-  "start_time": "Tue, 30 Jan 2024 00:52:11 GMT",
+  "scan_id": 47054369,
+  "score": 25,
+  "start_time": "Thu, 01 Feb 2024 00:41:37 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 6,
+  "tests_failed": 5,
   "tests_passed": 6,
-  "tests_quantity": 12
+  "tests_quantity": 11
 }

@@ -1,6 +1,6 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Mon, 29 Jan 2024 01:00:54 GMT",
+  "algorithm_version": 3,
+  "end_time": "Thu, 01 Feb 2024 00:55:14 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,19 +8,19 @@
     "Connection": "keep-alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Mon, 29 Jan 2024 01:00:39 GMT",
+    "Date": "Thu, 01 Feb 2024 00:55:06 GMT",
     "Keep-Alive": "timeout=15",
     "Link": "<https://aytocabanillas.org/wp-json/>; rel=\"https://api.w.org/\", <https://aytocabanillas.org/wp-json/wp/v2/pages/2>; rel=\"alternate\"; type=\"application/json\", <https://aytocabanillas.org/>; rel=shortlink",
     "Server": "Apache",
     "Transfer-Encoding": "chunked",
     "X-Pingback": "https://aytocabanillas.org/xmlrpc.php"
   },
-  "scan_id": 47151637,
+  "scan_id": 47054611,
   "score": 0,
-  "start_time": "Mon, 29 Jan 2024 00:53:55 GMT",
+  "start_time": "Thu, 01 Feb 2024 00:55:00 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 6,
+  "tests_failed": 5,
   "tests_passed": 6,
-  "tests_quantity": 12
+  "tests_quantity": 11
 }

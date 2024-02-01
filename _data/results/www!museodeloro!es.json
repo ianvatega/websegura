@@ -1,6 +1,6 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Tue, 30 Jan 2024 00:58:30 GMT",
+  "algorithm_version": 3,
+  "end_time": "Thu, 01 Feb 2024 00:56:13 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,21 +9,21 @@
     "Connection": "keep-alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Tue, 30 Jan 2024 00:58:18 GMT",
+    "Date": "Thu, 01 Feb 2024 00:56:03 GMT",
     "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
     "Keep-Alive": "timeout=15",
     "Link": "<https://museodeloro.es/wp-json/>; rel=\"https://api.w.org/\", <https://museodeloro.es/wp-json/wp/v2/pages/16>; rel=\"alternate\"; type=\"application/json\", <https://museodeloro.es/>; rel=shortlink",
     "Pragma": "no-cache",
     "Server": "Apache",
-    "Set-Cookie": "PHPSESSID=850c95877391c29a71f4ed400d1cb1e2; path=/",
+    "Set-Cookie": "PHPSESSID=da7e04ff7e44574e7d9e4113af05c96e; path=/",
     "Transfer-Encoding": "chunked"
   },
-  "scan_id": 47177716,
+  "scan_id": 47054734,
   "score": 0,
-  "start_time": "Tue, 30 Jan 2024 00:52:12 GMT",
+  "start_time": "Thu, 01 Feb 2024 00:55:55 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 8,
+  "tests_failed": 7,
   "tests_passed": 4,
-  "tests_quantity": 12
+  "tests_quantity": 11
 }

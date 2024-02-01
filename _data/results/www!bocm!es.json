@@ -1,7 +1,7 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Mon, 29 Jan 2024 01:00:55 GMT",
-  "grade": "D+",
+  "algorithm_version": 3,
+  "end_time": "Thu, 01 Feb 2024 00:55:11 GMT",
+  "grade": "C",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
@@ -9,12 +9,12 @@
     "Connection": "keep-alive",
     "Content-Language": "es",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Mon, 29 Jan 2024 01:00:43 GMT",
-    "Etag": "\"1706479559-0\"",
+    "Date": "Thu, 01 Feb 2024 00:55:04 GMT",
+    "Etag": "\"1706738801-0\"",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "Last-Modified": "Sun, 28 Jan 2024 22:05:59 GMT",
+    "Last-Modified": "Wed, 31 Jan 2024 22:06:41 GMT",
     "Link": "<https://www.bocm.es/>; rel=\"canonical\",<https://www.bocm.es/>; rel=\"shortlink\"",
-    "Set-Cookie": "srv_id=9d884d0d4fe03b8755f1f0f3d2ac7384; expires=Mon, 29-Jan-24 02:00:43 GMT; max-age=3600; domain=caching.labs.local",
+    "Set-Cookie": "srv_id=e367eca67ee42e388931e81ce7ece1a6; expires=Thu, 01-Feb-24 01:55:04 GMT; max-age=3600; domain=caching.labs.local",
     "Transfer-Encoding": "chunked",
     "Vary": "Cookie",
     "X-Content-Type-Options": "nosniff, nosniff",
@@ -22,12 +22,12 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-Generator": "Drupal (http://drupal.org)"
   },
-  "scan_id": 47151635,
-  "score": 40,
-  "start_time": "Mon, 29 Jan 2024 00:53:55 GMT",
+  "scan_id": 47054606,
+  "score": 50,
+  "start_time": "Thu, 01 Feb 2024 00:54:58 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 4,
+  "tests_failed": 3,
   "tests_passed": 8,
-  "tests_quantity": 12
+  "tests_quantity": 11
 }

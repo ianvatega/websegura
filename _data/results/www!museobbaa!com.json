@@ -1,6 +1,6 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Tue, 30 Jan 2024 00:57:41 GMT",
+  "algorithm_version": 3,
+  "end_time": "Thu, 01 Feb 2024 00:56:19 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,21 +9,21 @@
     "Content-Encoding": "gzip",
     "Content-Length": "9700",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Tue, 30 Jan 2024 00:57:20 GMT",
+    "Date": "Thu, 01 Feb 2024 00:56:14 GMT",
     "Link": "<https://www.museobbaa.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.museobbaa.com/>; rel=shortlink",
     "MS-Author-Via": "DAV",
     "Server": "nginx",
-    "Set-Cookie": "_icl_current_language=es; expires=Wed, 31-Jan-2024 00:57:20 GMT; Max-Age=86400; path=/, _icl_current_language=es; expires=Wed, 31-Jan-2024 00:57:20 GMT; Max-Age=86400; path=/",
+    "Set-Cookie": "_icl_current_language=es; expires=Fri, 02-Feb-2024 00:56:14 GMT; Max-Age=86400; path=/, _icl_current_language=es; expires=Fri, 02-Feb-2024 00:56:14 GMT; Max-Age=86400; path=/",
     "Vary": "Accept-Encoding",
     "X-Pingback": "https://www.museobbaa.com/xmlrpc.php",
     "X-Powered-By": "PleskLin"
   },
-  "scan_id": 47177760,
-  "score": 0,
-  "start_time": "Tue, 30 Jan 2024 00:52:14 GMT",
+  "scan_id": 47054764,
+  "score": 5,
+  "start_time": "Thu, 01 Feb 2024 00:56:11 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 7,
+  "tests_failed": 6,
   "tests_passed": 5,
-  "tests_quantity": 12
+  "tests_quantity": 11
 }

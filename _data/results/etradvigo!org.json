@@ -1,6 +1,6 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Tue, 30 Jan 2024 00:40:28 GMT",
+  "algorithm_version": 3,
+  "end_time": "Thu, 01 Feb 2024 00:55:52 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -11,19 +11,19 @@
     "cache-control": "public, max-age=86400",
     "content-encoding": "gzip",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Tue, 30 Jan 2024 00:40:26 GMT",
-    "expires": "Wed, 31 Jan 2024 00:40:26 GMT",
-    "set-cookie": "ETRAD_session=VVZvMk1VcGFNMjV4UzFweVpYcHdiV2xoVld0MVYwUnNjbm81UTNnMEt6TkxlbGx3VjFodU4zZHRkVFJTVDFFemFFbDFVMk5xUVZsaFZrUnpLMnQyUTFkbWNIVlVjV2Q0YlVNdmFVUk5ZMHAzZUU1V01rMXpRVkZyY1RWeGRXTXhSVkJ6VkVOQlVESlViWHB1VFdaQ2JYVnlSaXRHZFRZeGFrWklRVWROZUVsTU1qZ3lOM1ZhZEc1aEswWnRZME0wZGpkWFNtdExkVGszTlhsVU1VaGxUbXBNVlhWSVoycHViMDR6Y2taWE5uQkZRemh3Y1hSa2ExbExka3RLT1ZWM01WUmxVbU5sWTI5bmNtOWllaTg0TWxobVMzcHNTVzVTZFU0ck1rUjFWV0pSVjBJdk5FODViblJhYWpnNWNVMHJXakZzYmxobGFFeE5lbXAwTkhkcGNEbHJZbEpzWXpKS1MwaDRWbVZ4ZVU4eGNHVlFORXRzYUdOVWFTOU1XR1JCUjJOcGJUUkpVV0UwVVVkdWVtUjFaMHhSWW10YVlsaE5XVkI2VURJeUsxbE1TbE41ZFdSNk5IVnJVVVpWZGxKdFFuRjVLMlV5U0doNk9FZEZVbmhMY1RZd2FsZFFiRTVOZGtSM1BUbzY0dHJFblZUZHp1aDh0cTVBeGZrbjZ3PT0%3D135cf0eab278aa40615c1896e29fdaeb218dff4f; expires=Thu, 29-Feb-2024 00:40:26 GMT; Max-Age=2592000; path=/; secure",
+    "date": "Thu, 01 Feb 2024 00:55:47 GMT",
+    "expires": "Fri, 02 Feb 2024 00:55:47 GMT",
+    "set-cookie": "ETRAD_session=WTI5UVVIZExRMjlHVlhSdGNpOUtiSE54Vkc1cFNUaHljRmhVYldGRVJtZ3ZkbVJOUTFwVFl6UnhXVWRvZGtGWVozZ3dTbUZUZDFGdWVsWlhNRGMzVG05Q2QyRkxRWGsxTm1WT2NYSm1SakZEZVU4eVRpOWhXVTlsTm1zMWFuWjJkakZKUlhKTVRVSTBhbEJDVlN0UFVIRndjRTVPYW5CcldqTXdiWFJ4YWpSNmIzQXdkMDlHY0VONUswSXZXSGR1VjFWSVRESlhUbWhsUzJkSlNHeDFLMmRMYjFCTGIxcGFUMFJyWjNKRGJYVmtVbEl6VTJWbGRVTTRUV28yVDJSTFptUm1MMmRMUlZsM1F6aHlkRlpMTjJ0dFFTODJla2xZYTNKTGVFaHpSVGhhUkRkWE5sTTFVREV5UkhnclJsSk1NbkZ5VWxKeVUwa3pPRU4xTTNkYVExcFVlblphWkZCdlNERXhSM2xwVUZOb2VIcDBNRll2Y25SSFpEWXJjRkFyVUhSRFYwWlpOVXROYzNSTVNEZFllRmREU0ZCTlZWWm9Sa2c1WWtKUVMza3lLMmx4UlZkdWMzbEljbE5WVDNSdWRWaHFTV1o1YUdKUE1TdEVPRnBZTjIxNlEyZG9lRlp0Tkd3NVRuRlpaRlV6ZEUxU2F5ODVNVzlvS3l0VmFIUjZPanJydVA1VTZnM053aW41cytsNXhZVkY%3Ddbc9e3ed5ee5e7ea81eb3bc2b8edf4da2739411f; expires=Sat, 02-Mar-2024 00:55:47 GMT; Max-Age=2592000; path=/; secure",
     "transfer-encoding": "chunked",
     "vary": "Accept-Encoding",
     "x-powered-by": "PHP/7.1.33"
   },
-  "scan_id": 47177584,
+  "scan_id": 47054710,
   "score": 0,
-  "start_time": "Tue, 30 Jan 2024 00:39:40 GMT",
+  "start_time": "Thu, 01 Feb 2024 00:55:43 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 8,
+  "tests_failed": 7,
   "tests_passed": 4,
-  "tests_quantity": 12
+  "tests_quantity": 11
 }

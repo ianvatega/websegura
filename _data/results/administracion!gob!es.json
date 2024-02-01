@@ -1,6 +1,6 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Tue, 30 Jan 2024 00:58:16 GMT",
+  "algorithm_version": 3,
+  "end_time": "Thu, 01 Feb 2024 00:56:07 GMT",
   "grade": "D-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,12 +8,12 @@
     "Connection": "Keep-Alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Tue, 30 Jan 2024 00:58:13 GMT",
+    "Date": "Thu, 01 Feb 2024 00:56:04 GMT",
     "Keep-Alive": "timeout=15, max=500",
     "Referrer-Policy": "origin-when-cross-origin,strict-origin-when-cross-origin",
     "Server": "Microsoft-IIS/5.0",
-    "Server-Timing": "dtSInfo;desc=\"0\", dtRpid;desc=\"1092552763\"",
-    "Set-Cookie": "NEW_VISITOR=new; Expires=Wed, 31-Jan-2024 00:58:13 GMT; HttpOnly; Secure; SameSite=None, VISITOR=returning; Path=/pag_Home/index.html; HttpOnly; Secure; SameSite=None, JSESSIONID=736CA180E08C6C9A372EAB82E4C222A1; Path=/; Secure; HttpOnly; SameSite=None, dtCookie=v_4_srv_1_sn_9CF72E54FDD672DEE2E9CAA6CF7C798E_perc_100000_ol_0_mul_1_app-3A7bd681314de07953_0; Path=/; Domain=.administracion.gob.es; HttpOnly; Secure; SameSite=None, TS01a8e1d0=01d9c3d3183809232a16c6acdd713bab46647027966779dea3f1fb9dee186921a561c37c9126a9f83137d81498a2665b80f0be369fb52b6106e88b50a49f054cd81bac666d0c58e952fcede8444d3b58f410874ecc; Path=/; HttpOnly; Secure; SameSite=None, TS013cc2a2=01d9c3d31864f93ab5fcc2de7908f671beca2300556779dea3f1fb9dee186921a561c37c915b9224573e9782baeff0b66cb6444ab29e9c512708e6e9aa4942ab1f884aeb44; path=/pag_Home/index.html; HttpOnly; Secure; SameSite=None, TS011faf93=01d9c3d3181ed668bd97d09fbf7fbca7d6e7d2b52e6779dea3f1fb9dee186921a561c37c91c3c9bdff1543da17224f8c521b30f9f11644d833b6b23539e7c4097205556d0f; path=/; domain=.administracion.gob.es; HttpOnly; Secure; SameSite=None",
+    "Server-Timing": "dtSInfo;desc=\"0\", dtRpid;desc=\"-431691704\"",
+    "Set-Cookie": "NEW_VISITOR=new; Expires=Fri, 02-Feb-2024 00:56:04 GMT; HttpOnly; Secure; SameSite=None, VISITOR=returning; Path=/pag_Home/index.html; HttpOnly; Secure; SameSite=None, JSESSIONID=87B78ADA96CBABF50A8AADE018BE545B; Path=/; Secure; HttpOnly; SameSite=None, dtCookie=v_4_srv_3_sn_828C84D5A9D01D39C7C785CAEDA0BF7C_perc_100000_ol_0_mul_1_app-3A7bd681314de07953_0; Path=/; Domain=.administracion.gob.es; HttpOnly; Secure; SameSite=None, TS01a8e1d0=01d9c3d3189e01950be4d67b6896e0f30b94cba77f1fa510f029a8b06eead3025c3b693b79fec0b2745ebeba3cdf229ceabd99813368cf5e529ecc9cbcd20b8ca14a740222e57a9700040c14f742a78ebc5c27f119; Path=/; HttpOnly; Secure; SameSite=None, TS013cc2a2=01d9c3d3183fc8aded46e2ec27133a6ee6cba6eb221fa510f029a8b06eead3025c3b693b79325b727442a604e3c300706526b84da9c1c86cffd0c2150e2a76754842682790; path=/pag_Home/index.html; HttpOnly; Secure; SameSite=None, TS011faf93=01d9c3d318ebf06903e25956405f6bd32fd5385d091fa510f029a8b06eead3025c3b693b792dbe45cf6ca6bc28b2fb8448f014cbb7d15f8fcbf09a8cf23fb45aa436f6192d; path=/; domain=.administracion.gob.es; HttpOnly; Secure; SameSite=None",
     "Strict-Transport-Security": "max-age=63072000; preload",
     "Transfer-Encoding": "chunked",
     "Vary": "Accept-Encoding",
@@ -22,12 +22,12 @@
     "X-OneAgent-JS-Injection": "true, true",
     "X-XSS-Protection": "1;mode=block"
   },
-  "scan_id": 47177731,
+  "scan_id": 47054752,
   "score": 25,
-  "start_time": "Tue, 30 Jan 2024 00:52:12 GMT",
+  "start_time": "Thu, 01 Feb 2024 00:56:02 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 2,
-  "tests_passed": 10,
-  "tests_quantity": 12
+  "tests_passed": 9,
+  "tests_quantity": 11
 }

@@ -1,6 +1,6 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Tue, 30 Jan 2024 00:57:25 GMT",
+  "algorithm_version": 3,
+  "end_time": "Thu, 01 Feb 2024 00:11:53 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,7 +8,7 @@
     "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
     "Cache-Control": "private",
     "Content-Encoding": "gzip",
-    "Date": "Tue, 30 Jan 2024 00:57:21 GMT",
+    "Date": "Thu, 01 Feb 2024 00:11:51 GMT",
     "Server": "Google Frontend",
     "Transfer-Encoding": "chunked",
     "Via": "1.1 google",
@@ -16,12 +16,12 @@
     "content-type": "text/html; charset=UTF-8",
     "vary": "Accept-Encoding"
   },
-  "scan_id": 47177759,
-  "score": 0,
-  "start_time": "Tue, 30 Jan 2024 00:52:13 GMT",
+  "scan_id": 47054103,
+  "score": 5,
+  "start_time": "Thu, 01 Feb 2024 00:11:49 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 7,
+  "tests_failed": 6,
   "tests_passed": 5,
-  "tests_quantity": 12
+  "tests_quantity": 11
 }

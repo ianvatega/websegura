@@ -1,29 +1,29 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Tue, 30 Jan 2024 00:58:13 GMT",
+  "algorithm_version": 3,
+  "end_time": "Thu, 01 Feb 2024 00:56:03 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Access-Control-Allow-Origin": "*",
     "Cache-Control": "private",
-    "Content-Length": "15038",
+    "Content-Length": "15041",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Tue, 30 Jan 2024 00:58:11 GMT",
+    "Date": "Thu, 01 Feb 2024 00:56:01 GMT",
     "Server": "Microsoft-IIS/10.0",
-    "Set-Cookie": "ASP.NET_SessionId=uuicl4l4zrkhkuq1uy0iksif; path=/; HttpOnly; SameSite=Lax",
+    "Set-Cookie": "ASP.NET_SessionId=fhuhljmpktnaqrfuz20v0d1z; path=/; HttpOnly; SameSite=Lax",
     "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
     "X-AspNet-Version": "4.0.30319",
     "X-Content-Type-Options": "nosniff",
     "X-Frame-Options": "SAMEORIGIN",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 47177742,
+  "scan_id": 47054745,
   "score": 0,
-  "start_time": "Tue, 30 Jan 2024 00:52:12 GMT",
+  "start_time": "Thu, 01 Feb 2024 00:56:00 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
-  "tests_passed": 8,
-  "tests_quantity": 12
+  "tests_passed": 7,
+  "tests_quantity": 11
 }

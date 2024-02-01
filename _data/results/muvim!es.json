@@ -1,7 +1,7 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Mon, 29 Jan 2024 01:00:49 GMT",
-  "grade": "D-",
+  "algorithm_version": 3,
+  "end_time": "Thu, 01 Feb 2024 00:55:17 GMT",
+  "grade": "D",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
@@ -9,7 +9,7 @@
     "Connection": "Keep-Alive",
     "Content-Language": "ca",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Mon, 29 Jan 2024 01:00:53 GMT",
+    "Date": "Thu, 01 Feb 2024 00:55:27 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Keep-Alive": "timeout=5, max=300",
     "Link": "<http://muvim.es/va>; rel=\"canonical\",<http://muvim.es/va>; rel=\"shortlink\"",
@@ -21,12 +21,12 @@
     "X-Generator": "Drupal 7 (http://drupal.org)",
     "X-Powered-By": "PHP/5.6.32"
   },
-  "scan_id": 47151656,
-  "score": 25,
-  "start_time": "Mon, 29 Jan 2024 00:53:59 GMT",
+  "scan_id": 47054633,
+  "score": 35,
+  "start_time": "Thu, 01 Feb 2024 00:55:09 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 4,
+  "tests_failed": 3,
   "tests_passed": 8,
-  "tests_quantity": 12
+  "tests_quantity": 11
 }
