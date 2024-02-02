@@ -1,15 +1,15 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Tue, 30 Jan 2024 00:57:08 GMT",
-  "grade": "F",
+  "algorithm_version": 3,
+  "end_time": "Fri, 02 Feb 2024 00:53:11 GMT",
+  "grade": "D-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "Upgrade, Keep-Alive",
     "Content-Encoding": "gzip",
-    "Content-Length": "26888",
+    "Content-Length": "26855",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Tue, 30 Jan 2024 00:56:49 GMT",
+    "Date": "Fri, 02 Feb 2024 00:53:03 GMT",
     "Keep-Alive": "timeout=5, max=100",
     "Link": "<https://saeca.es/wp-json/>; rel=\"https://api.w.org/\", <https://saeca.es/wp-json/wp/v2/pages/2365>; rel=\"alternate\"; type=\"application/json\", <https://saeca.es/>; rel=shortlink",
     "Server": "Apache",
@@ -18,12 +18,12 @@
     "X-Pingback": "https://saeca.es/xmlrpc.php",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 47177915,
-  "score": 15,
-  "start_time": "Tue, 30 Jan 2024 00:52:18 GMT",
+  "scan_id": 47092200,
+  "score": 25,
+  "start_time": "Fri, 02 Feb 2024 00:53:00 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 6,
+  "tests_failed": 5,
   "tests_passed": 6,
-  "tests_quantity": 12
+  "tests_quantity": 11
 }

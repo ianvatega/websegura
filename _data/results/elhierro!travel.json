@@ -1,7 +1,7 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Tue, 30 Jan 2024 00:56:51 GMT",
-  "grade": "F",
+  "algorithm_version": 3,
+  "end_time": "Fri, 02 Feb 2024 00:11:37 GMT",
+  "grade": "D-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
@@ -11,11 +11,11 @@
     "Content-Length": "12569",
     "Content-Type": "text/html; charset=UTF-8",
     "Content-language": "es",
-    "Date": "Tue, 30 Jan 2024 00:58:19 GMT",
-    "ETag": "\"1706576299-gzip\"",
+    "Date": "Fri, 02 Feb 2024 00:13:06 GMT",
+    "ETag": "\"1706832786-gzip\"",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Keep-Alive": "timeout=5, max=100",
-    "Last-Modified": "Tue, 30 Jan 2024 00:58:19 GMT",
+    "Last-Modified": "Fri, 02 Feb 2024 00:13:06 GMT",
     "Link": "<https://elhierro.travel/>; rel=\"canonical\", <https://elhierro.travel/>; rel=\"shortlink\", <https://elhierro.travel/en/>; rel=\"alternate\"; hreflang=\"en\", <https://elhierro.travel/>; rel=\"alternate\"; hreflang=\"es\", <https://elhierro.travel/de/>; rel=\"alternate\"; hreflang=\"de\"",
     "Server": "Apache",
     "Vary": "Cookie,Accept-Encoding",
@@ -28,12 +28,12 @@
     "X-Generator": "Drupal 8 (https://www.drupal.org)",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 47177905,
-  "score": 15,
-  "start_time": "Tue, 30 Jan 2024 00:52:18 GMT",
+  "scan_id": 47091732,
+  "score": 25,
+  "start_time": "Fri, 02 Feb 2024 00:11:31 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 6,
+  "tests_failed": 5,
   "tests_passed": 6,
-  "tests_quantity": 12
+  "tests_quantity": 11
 }

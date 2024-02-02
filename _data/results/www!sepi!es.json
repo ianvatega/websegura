@@ -1,7 +1,7 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Tue, 30 Jan 2024 00:57:01 GMT",
-  "grade": "D+",
+  "algorithm_version": 3,
+  "end_time": "Fri, 02 Feb 2024 00:53:07 GMT",
+  "grade": "C",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
@@ -9,7 +9,7 @@
     "Connection": "Keep-Alive",
     "Content-Type": "text/html; charset=UTF-8",
     "Content-language": "es",
-    "Date": "Tue, 30 Jan 2024 00:56:47 GMT",
+    "Date": "Fri, 02 Feb 2024 00:53:00 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Keep-Alive": "timeout=5, max=99",
     "Link": "<https://www.sepi.es/es>; rel=\"canonical\", <https://www.sepi.es/es>; rel=\"shortlink\"",
@@ -26,12 +26,12 @@
     "X-Generator": "Drupal 9 (https://www.drupal.org)",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 47177913,
-  "score": 40,
-  "start_time": "Tue, 30 Jan 2024 00:52:18 GMT",
+  "scan_id": 47092197,
+  "score": 50,
+  "start_time": "Fri, 02 Feb 2024 00:52:59 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 4,
+  "tests_failed": 3,
   "tests_passed": 8,
-  "tests_quantity": 12
+  "tests_quantity": 11
 }

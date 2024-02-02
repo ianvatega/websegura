@@ -1,6 +1,6 @@
 {
-  "algorithm_version": 2,
-  "end_time": "Tue, 30 Jan 2024 00:56:52 GMT",
+  "algorithm_version": 3,
+  "end_time": "Fri, 02 Feb 2024 00:52:35 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -11,20 +11,20 @@
     "Content-Language": "es",
     "Content-Length": "13745",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Tue, 30 Jan 2024 00:56:49 GMT",
+    "Date": "Fri, 02 Feb 2024 00:52:33 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Server": "nginx",
-    "Set-Cookie": "cookiesession1=678A3E1EQRSTUVWXZABCDEFGHIKL8F47;Expires=Wed, 29 Jan 2025 00:56:49 GMT;Path=/;HttpOnly",
+    "Set-Cookie": "cookiesession1=678A3E1EEFGIJKLMNOPQRSUV0123DFA3;Expires=Sat, 01 Feb 2025 00:52:33 GMT;Path=/;HttpOnly",
     "Vary": "Accept-Encoding",
     "X-Content-Type-Options": "nosniff, nosniff",
     "X-Frame-Options": "SAMEORIGIN"
   },
-  "scan_id": 47177874,
+  "scan_id": 47092136,
   "score": 0,
-  "start_time": "Tue, 30 Jan 2024 00:52:17 GMT",
+  "start_time": "Fri, 02 Feb 2024 00:52:32 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 7,
+  "tests_failed": 6,
   "tests_passed": 5,
-  "tests_quantity": 12
+  "tests_quantity": 11
 }
