@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Wed, 31 Jan 2024 00:53:54 GMT",
+  "end_time": "Sat, 03 Feb 2024 00:52:31 GMT",
   "grade": "D-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,7 +8,7 @@
     "Connection": "keep-alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Wed, 31 Jan 2024 00:53:44 GMT",
+    "Date": "Sat, 03 Feb 2024 00:52:04 GMT",
     "Link": "<https://mercadocolon.es/wp-json/>; rel=\"https://api.w.org/\", <https://mercadocolon.es/wp-json/wp/v2/pages/8>; rel=\"alternate\"; type=\"application/json\", <https://mercadocolon.es/>; rel=shortlink",
     "Server": "nginx",
     "Server-Timing": "HIT , rt;dur=0.000;desc=Process-Time",
@@ -16,9 +16,9 @@
     "Vary": "Accept-Encoding",
     "X-Microcache": "True"
   },
-  "scan_id": 47018128,
+  "scan_id": 47135902,
   "score": 25,
-  "start_time": "Wed, 31 Jan 2024 00:53:38 GMT",
+  "start_time": "Sat, 03 Feb 2024 00:51:58 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
