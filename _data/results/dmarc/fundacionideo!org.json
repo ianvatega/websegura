@@ -4,10 +4,10 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns1080.ui-dns.com",
-      "ns1069.ui-dns.biz",
+      "ns1096.ui-dns.de",
       "ns1071.ui-dns.org",
-      "ns1096.ui-dns.de"
+      "ns1080.ui-dns.com",
+      "ns1069.ui-dns.biz"
     ],
     "warnings": []
   },
@@ -31,7 +31,7 @@
     "parsed": {
       "pass": [
         {
-          "value": "77.231.150.97",
+          "value": "46.24.26.110",
           "mechanism": "a"
         },
         {
