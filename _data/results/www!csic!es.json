@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Thu, 08 Feb 2024 00:52:53 GMT",
+  "end_time": "Sun, 11 Feb 2024 00:57:10 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,7 +8,7 @@
     "cache-control": "must-revalidate, no-cache, private",
     "content-language": "es",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Wed, 07 Feb 2024 23:02:19 GMT",
+    "date": "Sat, 10 Feb 2024 21:12:21 GMT",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "server": "Apache/2.4.37 (AlmaLinux)",
     "transfer-encoding": "chunked",
@@ -20,9 +20,9 @@
     "x-powered-by": "PHP/8.1.24",
     "x-ua-compatible": "IE=edge"
   },
-  "scan_id": 47301398,
+  "scan_id": 47420495,
   "score": 5,
-  "start_time": "Thu, 08 Feb 2024 00:52:41 GMT",
+  "start_time": "Sun, 11 Feb 2024 00:56:58 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 3,
