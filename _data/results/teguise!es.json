@@ -1,13 +1,13 @@
 {
   "algorithm_version": 3,
-  "end_time": "Fri, 09 Feb 2024 00:52:14 GMT",
+  "end_time": "Mon, 12 Feb 2024 00:53:41 GMT",
   "grade": "D-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Fri, 09 Feb 2024 00:51:55 GMT",
+    "Date": "Mon, 12 Feb 2024 00:53:21 GMT",
     "Link": "<https://teguise.es/wp-json/>; rel=\"https://api.w.org/\", <https://teguise.es/wp-json/wp/v2/pages/72>; rel=\"alternate\"; type=\"application/json\", <https://teguise.es/>; rel=shortlink",
     "Server": "Apache/2.4.52 (Debian)",
     "Transfer-Encoding": "chunked",
@@ -15,9 +15,9 @@
     "X-Pingback": "https://teguise.es/xmlrpc.php",
     "X-Powered-By": "PHP/7.4.28"
   },
-  "scan_id": 47341057,
+  "scan_id": 47458109,
   "score": 25,
-  "start_time": "Fri, 09 Feb 2024 00:51:51 GMT",
+  "start_time": "Mon, 12 Feb 2024 00:53:18 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
