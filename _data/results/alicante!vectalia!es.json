@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Mon, 12 Feb 2024 00:12:00 GMT",
+  "end_time": "Thu, 15 Feb 2024 00:11:20 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,15 +10,15 @@
     "Connection": "close",
     "Content-Length": "270",
     "Content-Type": "text/html",
-    "Date": "Mon, 12 Feb 2024 00:11:59 GMT",
-    "Expires": "Mon, 12 Feb 2024 00:11:59 GMT",
+    "Date": "Thu, 15 Feb 2024 00:11:19 GMT",
+    "Expires": "Thu, 15 Feb 2024 00:11:19 GMT",
     "Mime-Version": "1.0",
     "Pragma": "no-cache",
-    "Server-Timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1707696719909_398645715_563578324_14_5951_31_22_-\";dur=1"
+    "Server-Timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1707955879802_3089012179_1473279161_21_7712_80_14_-\";dur=1"
   },
-  "scan_id": 47456086,
+  "scan_id": 47593164,
   "score": 10,
-  "start_time": "Mon, 12 Feb 2024 00:11:59 GMT",
+  "start_time": "Thu, 15 Feb 2024 00:11:19 GMT",
   "state": "FINISHED",
   "status_code": 403,
   "tests_failed": 5,
