@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Tue, 13 Feb 2024 00:53:47 GMT",
+  "end_time": "Fri, 16 Feb 2024 00:53:00 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,7 +8,7 @@
     "Connection": "Upgrade, Keep-Alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Tue, 13 Feb 2024 00:53:38 GMT",
+    "Date": "Fri, 16 Feb 2024 00:52:45 GMT",
     "Keep-Alive": "timeout=5, max=100",
     "Link": "<https://illescas.es/wp-json/>; rel=\"https://api.w.org/\", <https://illescas.es/wp-json/wp/v2/pages/7426>; rel=\"alternate\"; type=\"application/json\", <https://illescas.es/>; rel=shortlink",
     "Server": "Apache",
@@ -16,9 +16,9 @@
     "Upgrade": "h2",
     "Vary": "Accept-Encoding"
   },
-  "scan_id": 47510110,
+  "scan_id": 47654742,
   "score": 0,
-  "start_time": "Tue, 13 Feb 2024 00:53:34 GMT",
+  "start_time": "Fri, 16 Feb 2024 00:52:39 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
