@@ -1,22 +1,26 @@
 {
   "algorithm_version": 3,
-  "end_time": "Fri, 16 Feb 2024 00:10:59 GMT",
-  "grade": "D",
+  "end_time": "Sun, 18 Feb 2024 00:08:39 GMT",
+  "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
+    "Cache-Control": "no-cache, private",
     "Connection": "keep-alive",
-    "Content-Length": "122",
-    "Content-Type": "text/html",
-    "Date": "Fri, 16 Feb 2024 00:10:59 GMT",
-    "Server": "awselb/2.0"
+    "Content-Encoding": "gzip",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Date": "Sun, 18 Feb 2024 00:08:35 GMT",
+    "Server": "Apache/2.4.52 (Ubuntu)",
+    "Set-Cookie": "XSRF-TOKEN=eyJpdiI6IjBVbzk4UXJyVmZaZmkvOUVUenpWS3c9PSIsInZhbHVlIjoibjUySjJQMjFNcUtxYnc2TnZEdmdKdndBd2pZS0N5NEZURHBoYkUyajc5QlF2U0xUaDcweFNTME02SVRzcUUxU2ltbGxUTHFxOVl6dVhxWnByMFJWUEUxU0xraGtvcWRFcUs0UVg1Z3UwTGhRdmVPazlucmpEUytFSVJaQTBJQkEiLCJtYWMiOiIyOWRiY2QwMWRkYTcxYzc0ZWZlMDZkOTQzNWM1YzMzODc1MjViNGQzMmY2NDZhOTBkZTZiNTA5MDRmZDZlNmJkIiwidGFnIjoiIn0%3D; expires=Sun, 18 Feb 2024 02:08:35 GMT; Max-Age=7200; path=/; samesite=lax, illes_balears_session=eyJpdiI6Ijh5ZVBNZE1wK3dEMTJMVGNiUWZQMXc9PSIsInZhbHVlIjoiZW5SdmNZeUpFRFlPZnNmQ1V3RVErWkVUYmY4UWVLQS9XdHhERGhTalRod0ErclhQc0dIRUxCVHNlZFZIanVZTVFpOHhOWC9naW0wK2ozdkYvSWh5SXRJeUpkZ3Zhd2kwczNCMU9RNGh6em9USmlGYnoreXh6MVQyVnJiT1ozMWQiLCJtYWMiOiIyMDU5ZDgyNWU0MjAyNTJjNzdkN2EwNzRiZDA2ODM3MGEwMDljZmViZGI5MjE3YjBmMjRiODhmMjEyNTI1YjdiIiwidGFnIjoiIn0%3D; expires=Sun, 18 Feb 2024 02:08:35 GMT; Max-Age=7200; path=/; httponly; samesite=lax",
+    "Transfer-Encoding": "chunked",
+    "Vary": "Accept-Encoding"
   },
-  "scan_id": 47652708,
-  "score": 30,
-  "start_time": "Fri, 16 Feb 2024 00:10:57 GMT",
+  "scan_id": 47745093,
+  "score": 0,
+  "start_time": "Sun, 18 Feb 2024 00:08:33 GMT",
   "state": "FINISHED",
-  "status_code": 502,
-  "tests_failed": 4,
-  "tests_passed": 7,
+  "status_code": 200,
+  "tests_failed": 6,
+  "tests_passed": 5,
   "tests_quantity": 11
 }
