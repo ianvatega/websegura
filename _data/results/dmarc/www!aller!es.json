@@ -3,15 +3,26 @@
   "base_domain": "aller.es",
   "dnssec": false,
   "ns": {
-    "hostnames": [
-      "ns1.aller.es",
-      "ns2.aller.es"
-    ],
-    "warnings": []
+    "hostnames": [],
+    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
   },
   "mx": {
-    "hosts": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    "hosts": [
+      {
+        "preference": 0,
+        "hostname": "aller-es.mail.protection.outlook.com",
+        "addresses": [
+          "52.101.68.0",
+          "52.101.68.12",
+          "52.101.68.18",
+          "52.101.68.21",
+          "52.101.68.27",
+          "52.101.73.19",
+          "52.101.73.22"
+        ]
+      }
+    ],
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 include:_spf.google.com include:spf.protection.outlook.com include:spf.ipzmarketing.com ~all",

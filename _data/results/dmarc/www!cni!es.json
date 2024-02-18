@@ -3,12 +3,8 @@
   "base_domain": "cni.es",
   "dnssec": false,
   "ns": {
-    "hostnames": [
-      "ns2.interdomain.net",
-      "ns1.interdomain.net",
-      "ns3.interdomain.es"
-    ],
-    "warnings": []
+    "hostnames": [],
+    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
   },
   "mx": {
     "hosts": [
