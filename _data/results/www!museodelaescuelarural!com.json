@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Mon, 19 Feb 2024 00:12:20 GMT",
+  "end_time": "Wed, 21 Feb 2024 00:54:15 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,12 +8,12 @@
     "Connection": "close",
     "Content-Length": "315",
     "Content-Type": "text/html; charset=us-ascii",
-    "Date": "Mon, 19 Feb 2024 00:12:15 GMT",
+    "Date": "Wed, 21 Feb 2024 00:54:09 GMT",
     "Server": "Microsoft-HTTPAPI/2.0"
   },
-  "scan_id": 47783250,
+  "scan_id": 47871668,
   "score": 10,
-  "start_time": "Mon, 19 Feb 2024 00:12:10 GMT",
+  "start_time": "Wed, 21 Feb 2024 00:54:03 GMT",
   "state": "FINISHED",
   "status_code": 404,
   "tests_failed": 5,
