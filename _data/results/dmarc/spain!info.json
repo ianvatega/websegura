@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns1.zilore.net",
-      "ns2.zilore.net"
+      "ns2.zilore.net",
+      "ns1.zilore.net"
     ],
     "warnings": []
   },
@@ -24,6 +24,6 @@
     "record": null,
     "valid": false,
     "location": null,
-    "error": "All nameservers failed to answer the query _dmarc.spain.info. IN TXT: Server Do53:1.0.0.1@53 answered SERVFAIL"
+    "error": "A DMARC record does not exist for this domain or its base domain"
   }
 }

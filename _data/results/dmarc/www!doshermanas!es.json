@@ -19,7 +19,10 @@
         ]
       }
     ],
-    "warnings": []
+    "warnings": [
+      "The resolution lifetime expired after 2.100 seconds: Server Do53:127.0.0.53@53 answered The DNS operation timed out.",
+      "The reverse DNS of 217.116.0.227 is relaysin.dominioabsoluto.net, but the A/AAAA DNS records for relaysin.dominioabsoluto.net do not resolve to 217.116.0.227"
+    ]
   },
   "spf": {
     "record": "v=spf1 a mx a:mx.doshermanas.es ip4:217.116.26.0/24 ~all",
