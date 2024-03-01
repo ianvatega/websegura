@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Mon, 26 Feb 2024 00:54:09 GMT",
+  "end_time": "Fri, 01 Mar 2024 00:57:12 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -11,15 +11,15 @@
     "Content-Length": "1026",
     "Content-Type": "text/html; charset=utf-8",
     "Critical-Ch": "sec-ch-prefers-color-scheme",
-    "Date": "Mon, 26 Feb 2024 00:54:07 GMT",
-    "Set-Cookie": "parking_session=daf11cad-a898-4ca8-b49f-43628b7b5726; expires=Mon, 26 Feb 2024 01:09:07 GMT; path=/",
+    "Date": "Fri, 01 Mar 2024 00:57:10 GMT",
+    "Set-Cookie": "parking_session=ef2c76f7-c00c-4d5b-8f6a-1161bc217647; expires=Fri, 01 Mar 2024 01:12:11 GMT; path=/",
     "Vary": "sec-ch-prefers-color-scheme",
     "X-Adblock-Key": "MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_NUXlisptR4OW++FhyTQ8bW+39zuU1fcUQgbS+39nUfqsNpM2Tmx4Wle3Xupy1Gu+nTeq2LCbap9u0OLUoGKDXA==",
-    "X-Request-Id": "daf11cad-a898-4ca8-b49f-43628b7b5726"
+    "X-Request-Id": "ef2c76f7-c00c-4d5b-8f6a-1161bc217647"
   },
-  "scan_id": 48050230,
+  "scan_id": 48245582,
   "score": 0,
-  "start_time": "Mon, 26 Feb 2024 00:54:07 GMT",
+  "start_time": "Fri, 01 Mar 2024 00:57:10 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
