@@ -26,7 +26,10 @@
         ]
       }
     ],
-    "warnings": []
+    "warnings": [
+      "The resolution lifetime expired after 2.100 seconds: Server Do53:127.0.0.53@53 answered The DNS operation timed out.",
+      "The reverse DNS of 195.77.198.97 is mx2.correo.aeat.es, but the A/AAAA DNS records for mx2.correo.aeat.es do not resolve to 195.77.198.97"
+    ]
   },
   "spf": {
     "record": "v=spf1 ip4:195.77.198.96/32 ip4:195.77.198.97/32 -all",

@@ -4,14 +4,28 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns1.dominioabsoluto.com",
-      "ns2.dominioabsoluto.com"
+      "ns2.dominioabsoluto.com",
+      "ns1.dominioabsoluto.com"
     ],
     "warnings": []
   },
   "mx": {
-    "hosts": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    "hosts": [
+      {
+        "preference": 10,
+        "hostname": "segovia-es.mail.protection.outlook.com",
+        "addresses": [
+          "52.101.68.10",
+          "52.101.68.29",
+          "52.101.68.3",
+          "52.101.68.5",
+          "52.101.68.8",
+          "52.101.73.26",
+          "52.101.73.28"
+        ]
+      }
+    ],
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 include:spf.ipzmarketing.com include:spf.protection.outlook.com -all",

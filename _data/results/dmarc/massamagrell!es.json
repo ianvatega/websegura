@@ -5,8 +5,8 @@
   "ns": {
     "hostnames": [
       "ns2.dnsxperta.com",
-      "ns3.dnsxperta.com",
-      "ns1.dnsxperta.com"
+      "ns1.dnsxperta.com",
+      "ns3.dnsxperta.com"
     ],
     "warnings": []
   },
@@ -25,7 +25,7 @@
         "hostname": "alt1.aspmx.l.google.com",
         "addresses": [
           "209.85.202.26",
-          "2a00:1450:400b:c00::1b"
+          "2a00:1450:400b:c00::1a"
         ]
       }
     ],
