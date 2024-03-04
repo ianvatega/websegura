@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sat, 02 Mar 2024 00:38:40 GMT",
+  "end_time": "Mon, 04 Mar 2024 00:53:58 GMT",
   "grade": "A-",
   "hidden": false,
   "likelihood_indicator": "LOW",
@@ -21,9 +21,9 @@
     "X-UA-Compatible": "IE=edge",
     "X-Xss-Protection": "1; mode=block"
   },
-  "scan_id": 48296994,
+  "scan_id": 48383863,
   "score": 85,
-  "start_time": "Sat, 02 Mar 2024 00:38:28 GMT",
+  "start_time": "Mon, 04 Mar 2024 00:53:43 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 2,
