@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sat, 02 Mar 2024 00:51:35 GMT",
+  "end_time": "Tue, 05 Mar 2024 00:52:27 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,21 +10,21 @@
     "Content-Language": "es",
     "Content-Length": "16892",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Sat, 02 Mar 2024 00:51:32 GMT",
+    "Date": "Tue, 05 Mar 2024 00:52:23 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Link": "</universidad-de-salamanca>; rel=\"canonical\",</node/103660>; rel=\"shortlink\"",
     "Permissions-Policy": "interest-cohort=()",
     "Server": "Apache",
     "Vary": "Accept-Encoding",
-    "X-Content-Type-Options": "nosniff, nosniff",
-    "X-Frame-Options": "SAMEORIGIN, sameorigin"
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "sameorigin"
   },
-  "scan_id": 48297528,
-  "score": 0,
-  "start_time": "Sat, 02 Mar 2024 00:51:30 GMT",
+  "scan_id": 48438279,
+  "score": 5,
+  "start_time": "Tue, 05 Mar 2024 00:52:21 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 5,
-  "tests_passed": 6,
+  "tests_failed": 3,
+  "tests_passed": 8,
   "tests_quantity": 11
 }
