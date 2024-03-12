@@ -68,5 +68,19 @@
     "grade": "D-",
     "scan_id": 47419698,
     "score": 25
+  },
+  {
+    "end_time": "Mon, 11 Mar 2024 00:11:50 GMT",
+    "end_time_unix_timestamp": 1710115910,
+    "grade": "B+",
+    "scan_id": 48706851,
+    "score": 80
+  },
+  {
+    "end_time": "Tue, 12 Mar 2024 00:52:21 GMT",
+    "end_time_unix_timestamp": 1710204741,
+    "grade": "D-",
+    "scan_id": 48748570,
+    "score": 25
   }
 ]
