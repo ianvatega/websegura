@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Fri, 15 Mar 2024 00:11:23 GMT",
+  "end_time": "Mon, 18 Mar 2024 00:12:30 GMT",
   "grade": "D",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -11,7 +11,7 @@
     "Content-Length": "11305",
     "Content-Type": "text/html; charset=UTF-8",
     "Content-language": "es",
-    "Date": "Fri, 15 Mar 2024 00:11:20 GMT",
+    "Date": "Mon, 18 Mar 2024 00:12:26 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Keep-Alive": "timeout=5, max=100",
     "Server": "Apache/2.4.29 (Ubuntu)",
@@ -23,9 +23,9 @@
     "X-Generator": "Drupal 8 (https://www.drupal.org)",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 48868927,
+  "scan_id": 48979748,
   "score": 30,
-  "start_time": "Fri, 15 Mar 2024 00:11:17 GMT",
+  "start_time": "Mon, 18 Mar 2024 00:12:23 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
