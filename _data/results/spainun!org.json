@@ -1,19 +1,19 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sat, 16 Mar 2024 00:51:43 GMT",
+  "end_time": "Tue, 19 Mar 2024 00:52:17 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "close",
     "Content-Type": "text/html; charset=ISO-8859-1",
-    "Date": "Sat, 16 Mar 2024 00:51:30 GMT",
+    "Date": "Tue, 19 Mar 2024 00:52:16 GMT",
     "Server": "Apache/2.2.31 (CentOS)",
     "Transfer-Encoding": "chunked"
   },
-  "scan_id": 48915009,
+  "scan_id": 49023248,
   "score": 0,
-  "start_time": "Sat, 16 Mar 2024 00:51:29 GMT",
+  "start_time": "Tue, 19 Mar 2024 00:52:16 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,

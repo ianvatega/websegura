@@ -1,7 +1,7 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sat, 16 Mar 2024 00:51:24 GMT",
-  "grade": "C",
+  "end_time": "Tue, 19 Mar 2024 00:52:15 GMT",
+  "grade": "D",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
@@ -12,7 +12,7 @@
     "Content-Security-Policy": "frame-ancestors https://*.ionos.com https://*.ionos.at https://*.ionos.co.uk https://*.ionos.de https://*.ionos.es https://*.ionos.fr https://*.ionos.it https://*.ionos.ca https://*.ionos.mx https://*.ionos.us https://*.website-editor.net https://*.mywebsite-editor.com www.smviva.es",
     "Content-Type": "text/html;charset=utf-8",
     "D-Geo": "EU",
-    "Date": "Sat, 16 Mar 2024 00:51:22 GMT",
+    "Date": "Tue, 19 Mar 2024 00:52:14 GMT",
     "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
     "Keep-Alive": "timeout=15",
     "Server": "nginx",
@@ -20,12 +20,12 @@
     "X-Content-Type-Options": "nosniff",
     "d-cache": "from-cache"
   },
-  "scan_id": 48914992,
-  "score": 55,
-  "start_time": "Sat, 16 Mar 2024 00:51:20 GMT",
+  "scan_id": 49023225,
+  "score": 35,
+  "start_time": "Tue, 19 Mar 2024 00:52:11 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 3,
-  "tests_passed": 8,
+  "tests_failed": 4,
+  "tests_passed": 7,
   "tests_quantity": 11
 }
