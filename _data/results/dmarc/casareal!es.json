@@ -13,30 +13,44 @@
     "hosts": [
       {
         "preference": 1,
+        "hostname": "mxa-0085c402.gslb.pphosted.com",
+        "addresses": [
+          "66.159.233.119"
+        ]
+      },
+      {
+        "preference": 2,
+        "hostname": "mxb-0085c402.gslb.pphosted.com",
+        "addresses": [
+          "66.159.233.119"
+        ]
+      },
+      {
+        "preference": 10,
         "hostname": "mx01.hornetsecurity.com",
         "addresses": [
           "94.100.132.8"
         ]
       },
       {
-        "preference": 2,
-        "hostname": "mx02.hornetsecurity.com",
-        "addresses": [
-          "94.100.136.8"
-        ]
-      },
-      {
-        "preference": 3,
+        "preference": 11,
         "hostname": "mx03.hornetsecurity.com",
         "addresses": [
           "94.100.134.8"
         ]
       },
       {
-        "preference": 4,
+        "preference": 12,
         "hostname": "mx04.hornetsecurity.com",
         "addresses": [
           "94.100.136.7"
+        ]
+      },
+      {
+        "preference": 13,
+        "hostname": "mx02.hornetsecurity.com",
+        "addresses": [
+          "94.100.136.8"
         ]
       }
     ],

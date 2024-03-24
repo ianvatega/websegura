@@ -15,20 +15,20 @@
         "preference": 10,
         "hostname": "antequera-es.mail.protection.outlook.com",
         "addresses": [
-          "52.101.68.0",
-          "52.101.68.10",
-          "52.101.68.25",
-          "52.101.68.36",
+          "52.101.68.27",
+          "52.101.68.32",
+          "52.101.68.5",
+          "52.101.68.8",
+          "52.101.73.11",
           "52.101.73.19",
-          "52.101.73.2",
-          "52.101.73.8"
+          "52.101.73.28"
         ]
       }
     ],
     "warnings": []
   },
   "spf": {
-    "record": "v=spf1 ip4:195.77.81.170 ip4:195.77.81.171 include:spf.protection.outlook.com include:spf.EU.exclaimer.net ~all",
+    "record": "v=spf1 ip4:195.77.81.170 ip4:195.77.81.171 ip4:195.77.81.172 include:spf.protection.outlook.com include:spf.EU.exclaimer.net ~all",
     "valid": true,
     "dns_lookups": 2,
     "warnings": [],
@@ -40,6 +40,10 @@
         },
         {
           "value": "195.77.81.171",
+          "mechanism": "ip4"
+        },
+        {
+          "value": "195.77.81.172",
           "mechanism": "ip4"
         }
       ],

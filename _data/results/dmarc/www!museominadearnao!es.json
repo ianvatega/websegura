@@ -4,30 +4,15 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns7.acens.net",
       "ns4.acens.net",
+      "ns7.acens.net",
       "ns3.acens.net"
     ],
     "warnings": []
   },
   "mx": {
-    "hosts": [
-      {
-        "preference": 10,
-        "hostname": "mail.museominadearnao.es",
-        "addresses": [
-          "195.55.127.94"
-        ]
-      },
-      {
-        "preference": 20,
-        "hostname": "mail2.museominadearnao.es",
-        "addresses": [
-          "195.55.127.94"
-        ]
-      }
-    ],
-    "warnings": []
+    "hosts": [],
+    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
   },
   "spf": {
     "record": "v=spf1 mx a ip4:195.55.125.164 ip4:195.55.125.162 ip4:195.55.127.94 ~all",
@@ -74,6 +59,6 @@
     "record": null,
     "valid": false,
     "location": null,
-    "error": "Unrelated TXT records were discovered. These should be removed, as some receivers may not expect to find unrelated TXT records at _dmarc.museominadearnao.es\n\nv=spf1 mx a ip4:195.55.125.164 ip4:195.55.125.162 ip4:195.55.127.94 ~all\n\ngoogle-site-verification=vYeLBu62kBthr7GrxODLfnbkGrOkgD3NYt0RHLtatnk"
+    "error": "Unrelated TXT records were discovered. These should be removed, as some receivers may not expect to find unrelated TXT records at _dmarc.museominadearnao.es\n\ngoogle-site-verification=vYeLBu62kBthr7GrxODLfnbkGrOkgD3NYt0RHLtatnk\n\nv=spf1 mx a ip4:195.55.125.164 ip4:195.55.125.162 ip4:195.55.127.94 ~all"
   }
 }
