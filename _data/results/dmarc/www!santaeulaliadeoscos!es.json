@@ -28,9 +28,7 @@
       {
         "preference": 30,
         "hostname": "mx3.telecable.es",
-        "addresses": [
-          "94.100.134.8"
-        ]
+        "addresses": []
       },
       {
         "preference": 40,
@@ -40,7 +38,9 @@
         ]
       }
     ],
-    "warnings": []
+    "warnings": [
+      "All nameservers failed to answer the query mx3.telecable.es. IN AAAA: Server Do53:1.0.0.1@53 answered SERVFAIL"
+    ]
   },
   "spf": {
     "record": "v=spf1 include:spf.antispamcloud.com include:spf.hornetsecurity.com ~all",

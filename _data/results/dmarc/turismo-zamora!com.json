@@ -11,8 +11,16 @@
     "warnings": []
   },
   "mx": {
-    "hosts": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    "hosts": [
+      {
+        "preference": 0,
+        "hostname": "mail.turismo-zamora.com",
+        "addresses": [
+          "188.95.113.133"
+        ]
+      }
+    ],
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 ip4:188.95.113.133 ip4:185.23.70.108 ip4:54.171.143.22 ip4:52.16.203.74 include:_spf.guebs.net a mx ~all",

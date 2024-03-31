@@ -12,29 +12,8 @@
     "warnings": []
   },
   "mx": {
-    "hosts": [
-      {
-        "preference": 10,
-        "hostname": "feriavalencia-com.mail.protection.outlook.com",
-        "addresses": [
-          "52.101.68.16",
-          "52.101.68.39",
-          "52.101.68.8",
-          "52.101.73.1",
-          "52.101.73.12",
-          "52.101.73.22",
-          "52.101.73.24"
-        ]
-      },
-      {
-        "preference": 30,
-        "hostname": "senvios02.feriavalencia.com",
-        "addresses": [
-          "188.86.160.90"
-        ]
-      }
-    ],
-    "warnings": []
+    "hosts": [],
+    "error": "All nameservers failed to answer the query 90.160.86.188.in-addr.arpa. IN PTR: Server Do53:1.0.0.1@53 answered SERVFAIL"
   },
   "spf": {
     "record": "v=spf1 ip4:188.86.160.90 ip4:188.86.160.91 ip4:77.228.101.135 include:spf.protection.outlook.com -all",

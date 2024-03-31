@@ -3,11 +3,8 @@
   "base_domain": "caib.es",
   "dnssec": false,
   "ns": {
-    "hostnames": [
-      "sintlin1.caib.es",
-      "sintlin2.caib.es"
-    ],
-    "warnings": []
+    "hostnames": [],
+    "error": "All nameservers failed to answer the query caib.es. IN NS: Server Do53:1.0.0.1@53 answered SERVFAIL"
   },
   "mx": {
     "hosts": [
@@ -21,49 +18,17 @@
       {
         "preference": 5,
         "hostname": "rmail2.caib.es",
-        "addresses": [
-          "85.119.193.4"
-        ]
+        "addresses": []
       }
     ],
-    "warnings": []
+    "warnings": [
+      "All nameservers failed to answer the query rmail2.caib.es. IN A: Server Do53:1.0.0.1@53 answered SERVFAIL"
+    ]
   },
   "spf": {
-    "record": "v=spf1 mx ip4:85.119.193.2 ip4:85.119.198.6 ip4:85.119.198.16 -all",
-    "valid": true,
-    "dns_lookups": 1,
-    "warnings": [],
-    "parsed": {
-      "pass": [
-        {
-          "value": "rmail1.caib.es",
-          "mechanism": "mx"
-        },
-        {
-          "value": "rmail2.caib.es",
-          "mechanism": "mx"
-        },
-        {
-          "value": "85.119.193.2",
-          "mechanism": "ip4"
-        },
-        {
-          "value": "85.119.198.6",
-          "mechanism": "ip4"
-        },
-        {
-          "value": "85.119.198.16",
-          "mechanism": "ip4"
-        }
-      ],
-      "neutral": [],
-      "softfail": [],
-      "fail": [],
-      "include": [],
-      "redirect": null,
-      "exp": null,
-      "all": "fail"
-    }
+    "record": null,
+    "valid": false,
+    "error": "All nameservers failed to answer the query caib.es. IN TXT: Server Do53:1.0.0.1@53 answered SERVFAIL"
   },
   "dmarc": {
     "record": null,

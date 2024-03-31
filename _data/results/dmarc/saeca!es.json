@@ -4,10 +4,10 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
+      "ns1.intervia.com",
       "ns2.intervia.com",
-      "ns0.intervia.com",
       "ns3.intervia.com",
-      "ns1.intervia.com"
+      "ns0.intervia.com"
     ],
     "warnings": []
   },
@@ -16,12 +16,12 @@
       {
         "preference": 10,
         "hostname": "mail.intervia.com",
-        "addresses": []
+        "addresses": [
+          "95.211.205.16"
+        ]
       }
     ],
-    "warnings": [
-      "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 include:_spf.intervia.com ip4:88.2.101.45 mx -all",

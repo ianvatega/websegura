@@ -4,10 +4,10 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "sun.rediris.es",
       "vega.cc.upv.es",
-      "chico.rediris.es",
-      "mirzam.ccc.upv.es"
+      "sun.rediris.es",
+      "mirzam.ccc.upv.es",
+      "chico.rediris.es"
     ],
     "warnings": []
   },
@@ -41,7 +41,9 @@
     "record": "v=spf1 a:smtpsal1.cc.upv.es a:smtpsal2.cc.upv.es a:smtpxv.cc.upv.es a:smtpxr.cc.upv.es a:smtpsalv.cc.upv.es a:smtpsalr.cc.upv.es include:spf.protection.outlook.com ~all",
     "valid": true,
     "dns_lookups": 7,
-    "warnings": [],
+    "warnings": [
+      "All nameservers failed to answer the query smtpxr.cc.upv.es. IN AAAA: Server Do53:1.0.0.1@53 answered SERVFAIL"
+    ],
     "parsed": {
       "pass": [
         {
@@ -54,10 +56,6 @@
         },
         {
           "value": "158.42.249.46",
-          "mechanism": "a"
-        },
-        {
-          "value": "158.42.249.47",
           "mechanism": "a"
         },
         {
@@ -136,7 +134,9 @@
     "record": "v=DMARC1; p=none; sp=none; fo=1; rua=mailto:dmarc_rua@upv.es; ruf=mailto:dmarc_ruf@upv.es;",
     "valid": true,
     "location": "upv.es",
-    "warnings": [],
+    "warnings": [
+      "Failed to retrieve MX records for the domain of ruf email address dmarc_ruf@upv.es - All nameservers failed to answer the query upv.es. IN MX: Server Do53:1.0.0.1@53 answered SERVFAIL"
+    ],
     "tags": {
       "v": {
         "value": "DMARC1",
@@ -167,13 +167,7 @@
         "explicit": true
       },
       "ruf": {
-        "value": [
-          {
-            "scheme": "mailto",
-            "address": "dmarc_ruf@upv.es",
-            "size_limit": null
-          }
-        ],
+        "value": "mailto:dmarc_ruf@upv.es",
         "explicit": true
       },
       "adkim": {

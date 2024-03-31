@@ -4,15 +4,30 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
+      "ns3.acens.net",
       "ns4.acens.net",
-      "ns7.acens.net",
-      "ns3.acens.net"
+      "ns7.acens.net"
     ],
     "warnings": []
   },
   "mx": {
-    "hosts": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    "hosts": [
+      {
+        "preference": 10,
+        "hostname": "mail.museominadearnao.es",
+        "addresses": [
+          "195.55.127.94"
+        ]
+      },
+      {
+        "preference": 20,
+        "hostname": "mail2.museominadearnao.es",
+        "addresses": [
+          "195.55.127.94"
+        ]
+      }
+    ],
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 mx a ip4:195.55.125.164 ip4:195.55.125.162 ip4:195.55.127.94 ~all",

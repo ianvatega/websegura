@@ -21,7 +21,9 @@
     "record": "v=DMARC1;p=none;fo=1;rua=mailto:rua@navarra.es;ruf=mailto:ruf@navarra.es",
     "valid": true,
     "location": "navarra.es",
-    "warnings": [],
+    "warnings": [
+      "Failed to retrieve MX records for the domain of ruf email address ruf@navarra.es - All nameservers failed to answer the query navarra.es. IN MX: Server Do53:1.0.0.1@53 answered SERVFAIL"
+    ],
     "tags": {
       "v": {
         "value": "DMARC1",
@@ -48,13 +50,7 @@
         "explicit": true
       },
       "ruf": {
-        "value": [
-          {
-            "scheme": "mailto",
-            "address": "ruf@navarra.es",
-            "size_limit": null
-          }
-        ],
+        "value": "mailto:ruf@navarra.es",
         "explicit": true
       },
       "adkim": {

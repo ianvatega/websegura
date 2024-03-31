@@ -8,9 +8,7 @@
   },
   "mx": {
     "hosts": [],
-    "warnings": [
-      "No MX records found. Is the domain parked?"
-    ]
+    "error": "All nameservers failed to answer the query hacienda.navarra.es. IN MX: Server Do53:1.0.0.1@53 answered SERVFAIL"
   },
   "spf": {
     "record": null,
@@ -18,71 +16,9 @@
     "error": "hacienda.navarra.es does not have a SPF TXT record"
   },
   "dmarc": {
-    "record": "v=DMARC1;p=none;fo=1;rua=mailto:rua@navarra.es;ruf=mailto:ruf@navarra.es",
-    "valid": true,
-    "location": "navarra.es",
-    "warnings": [],
-    "tags": {
-      "v": {
-        "value": "DMARC1",
-        "explicit": true
-      },
-      "p": {
-        "value": "none",
-        "explicit": true
-      },
-      "fo": {
-        "value": [
-          "1"
-        ],
-        "explicit": true
-      },
-      "rua": {
-        "value": [
-          {
-            "scheme": "mailto",
-            "address": "rua@navarra.es",
-            "size_limit": null
-          }
-        ],
-        "explicit": true
-      },
-      "ruf": {
-        "value": [
-          {
-            "scheme": "mailto",
-            "address": "ruf@navarra.es",
-            "size_limit": null
-          }
-        ],
-        "explicit": true
-      },
-      "adkim": {
-        "value": "r",
-        "explicit": false
-      },
-      "aspf": {
-        "value": "r",
-        "explicit": false
-      },
-      "pct": {
-        "value": 100,
-        "explicit": false
-      },
-      "rf": {
-        "value": [
-          "afrf"
-        ],
-        "explicit": false
-      },
-      "ri": {
-        "value": 86400,
-        "explicit": false
-      },
-      "sp": {
-        "value": "none",
-        "explicit": false
-      }
-    }
+    "record": null,
+    "valid": false,
+    "location": null,
+    "error": "All nameservers failed to answer the query _dmarc.navarra.es. IN TXT: Server Do53:1.0.0.1@53 answered SERVFAIL"
   }
 }

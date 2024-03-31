@@ -15,13 +15,13 @@
         "preference": 10,
         "hostname": "sepe-es.mail.protection.outlook.com",
         "addresses": [
-          "52.101.68.10",
+          "52.101.68.12",
           "52.101.68.36",
-          "52.101.73.21",
-          "52.101.73.24",
+          "52.101.73.1",
+          "52.101.73.15",
+          "52.101.73.22",
           "52.101.73.26",
-          "52.101.73.6",
-          "52.101.73.8"
+          "52.101.73.4"
         ]
       },
       {
@@ -46,12 +46,7 @@
         ]
       }
     ],
-    "warnings": [
-      "The reverse DNS of 192.187.23.240 is correo1.empleate.gob.es, but the A/AAAA DNS records for correo1.empleate.gob.es do not resolve to 192.187.23.240",
-      "The reverse DNS of 192.187.23.240 is correo1.inem.es, but the A/AAAA DNS records for correo1.inem.es do not resolve to 192.187.23.240",
-      "The reverse DNS of 192.187.23.240 is correo1.sepe.gob.es, but the A/AAAA DNS records for correo1.sepe.gob.es do not resolve to 192.187.23.240",
-      "The reverse DNS of 192.187.23.240 is correo1.sistemanacionalempleo.es, but the A/AAAA DNS records for correo1.sistemanacionalempleo.es do not resolve to 192.187.23.240"
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 ip4:192.187.23.248/31 ip4:192.187.23.240 include:spf.protection.outlook.com ~all",

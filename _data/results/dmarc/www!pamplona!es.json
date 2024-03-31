@@ -3,11 +3,8 @@
   "base_domain": "pamplona.es",
   "dnssec": false,
   "ns": {
-    "hostnames": [
-      "dns1.hostinet.com",
-      "dns2.hostinet.com"
-    ],
-    "warnings": []
+    "hostnames": [],
+    "error": "All nameservers failed to answer the query pamplona.es. IN NS: Server Do53:1.0.0.1@53 answered SERVFAIL"
   },
   "mx": {
     "hosts": [
@@ -21,31 +18,25 @@
       {
         "preference": 20,
         "hostname": "correo2.pamplona.es",
-        "addresses": [
-          "213.0.38.186"
-        ]
+        "addresses": []
       }
     ],
-    "warnings": []
+    "warnings": [
+      "All nameservers failed to answer the query correo2.pamplona.es. IN AAAA: Server Do53:1.0.0.1@53 answered SERVFAIL"
+    ]
   },
   "spf": {
     "record": "v=spf1 include:spf.ipzmarketing.com +a +mx +ip4:213.0.38.186 +ip4:213.0.38.185 -all",
     "valid": true,
     "dns_lookups": 3,
-    "warnings": [],
+    "warnings": [
+      "All nameservers failed to answer the query pamplona.es. IN MX: Server Do53:1.0.0.1@53 answered SERVFAIL"
+    ],
     "parsed": {
       "pass": [
         {
           "value": "213.0.38.200",
           "mechanism": "a"
-        },
-        {
-          "value": "correo.pamplona.es",
-          "mechanism": "mx"
-        },
-        {
-          "value": "correo2.pamplona.es",
-          "mechanism": "mx"
         },
         {
           "value": "213.0.38.186",
@@ -107,7 +98,9 @@
     "record": "v=DMARC1; p=none; fo=1; rua=mailto:dmarc_rua@emaildefense.proofpoint.com,mailto:rua@pamplona.es; ruf=mailto:dmarc_ruf@emaildefense.proofpoint.com,mailto:ruf@pamplona.es",
     "valid": true,
     "location": "pamplona.es",
-    "warnings": [],
+    "warnings": [
+      "Failed to retrieve MX records for the domain of ruf email address ruf@pamplona.es - All nameservers failed to answer the query pamplona.es. IN MX: Server Do53:1.0.0.1@53 answered SERVFAIL"
+    ],
     "tags": {
       "v": {
         "value": "DMARC1",

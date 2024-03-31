@@ -93,7 +93,9 @@
     "record": "v=DMARC1; p=quarantine; pct=100; fo=1; rua=mailto:dmarc@castillalamancha.es; ruf=mailto:dmarcfo@castillalamancha.es",
     "valid": true,
     "location": "castillalamancha.es",
-    "warnings": [],
+    "warnings": [
+      "Failed to retrieve MX records for the domain of ruf email address dmarcfo@castillalamancha.es - All nameservers failed to answer the query castillalamancha.es. IN MX: Server Do53:1.0.0.1@53 answered SERVFAIL"
+    ],
     "tags": {
       "v": {
         "value": "DMARC1",
@@ -124,13 +126,7 @@
         "explicit": true
       },
       "ruf": {
-        "value": [
-          {
-            "scheme": "mailto",
-            "address": "dmarcfo@castillalamancha.es",
-            "size_limit": null
-          }
-        ],
+        "value": "mailto:dmarcfo@castillalamancha.es",
         "explicit": true
       },
       "adkim": {
