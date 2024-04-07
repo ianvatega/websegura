@@ -11,8 +11,27 @@
     "warnings": []
   },
   "mx": {
-    "hosts": [],
-    "error": "All nameservers failed to answer the query icex.es. IN MX: Server Do53:1.0.0.1@53 answered SERVFAIL"
+    "hosts": [
+      {
+        "preference": 10,
+        "hostname": "d307707.a.ess.de.barracudanetworks.com",
+        "addresses": [
+          "18.185.115.250",
+          "18.185.115.251",
+          "18.185.115.252"
+        ]
+      },
+      {
+        "preference": 10,
+        "hostname": "d307707.b.ess.de.barracudanetworks.com",
+        "addresses": [
+          "18.185.115.250",
+          "18.185.115.251",
+          "18.185.115.252"
+        ]
+      }
+    ],
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 mx include:_listaip.icex.es include:_spfIcx.icex.es include:spf.protection.outlook.com -all",

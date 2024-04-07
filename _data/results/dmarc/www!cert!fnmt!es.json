@@ -4,14 +4,16 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "dns1.fnmt.es",
-      "dns2.fnmt.es"
+      "dns2.fnmt.es",
+      "dns1.fnmt.es"
     ],
     "warnings": []
   },
   "mx": {
     "hosts": [],
-    "error": "All nameservers failed to answer the query cert.fnmt.es. IN MX: Server Do53:1.0.0.1@53 answered SERVFAIL"
+    "warnings": [
+      "No MX records found. Is the domain parked?"
+    ]
   },
   "spf": {
     "record": null,

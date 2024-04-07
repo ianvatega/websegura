@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "dns2.cloudunificado.com",
-      "dns1.cloudunificado.com"
+      "dns1.cloudunificado.com",
+      "dns2.cloudunificado.com"
     ],
     "warnings": []
   },
@@ -28,7 +28,9 @@
       {
         "preference": 30,
         "hostname": "mx3.telecable.es",
-        "addresses": []
+        "addresses": [
+          "94.100.134.8"
+        ]
       },
       {
         "preference": 40,
@@ -38,9 +40,7 @@
         ]
       }
     ],
-    "warnings": [
-      "All nameservers failed to answer the query mx3.telecable.es. IN AAAA: Server Do53:1.0.0.1@53 answered SERVFAIL"
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 include:spf.antispamcloud.com include:spf.hornetsecurity.com ~all",

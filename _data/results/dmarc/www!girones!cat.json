@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "dns2.grn.es",
-      "adns.grn.es"
+      "adns.grn.es",
+      "dns2.grn.es"
     ],
     "warnings": []
   },
@@ -14,7 +14,9 @@
       {
         "preference": 10,
         "hostname": "mx1.grn.es",
-        "addresses": []
+        "addresses": [
+          "80.64.32.18"
+        ]
       },
       {
         "preference": 20,
@@ -24,9 +26,7 @@
         ]
       }
     ],
-    "warnings": [
-      "All nameservers failed to answer the query mx1.grn.es. IN AAAA: Server Do53:1.0.0.1@53 answered SERVFAIL"
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 mx ip4:80.64.32.0/26 ip4:80.64.47.207 ip4:80.64.37.224/27 ~all",

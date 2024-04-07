@@ -15,23 +15,23 @@
         "preference": 0,
         "hostname": "acuentascanarias-org.mail.protection.outlook.com",
         "addresses": [
-          "52.101.68.18",
+          "52.101.68.0",
+          "52.101.68.21",
           "52.101.68.29",
-          "52.101.68.5",
-          "52.101.73.1",
-          "52.101.73.2",
-          "52.101.73.8"
+          "52.101.73.12",
+          "52.101.73.22",
+          "52.101.73.24"
         ]
       },
       {
         "preference": 10,
         "hostname": "correo.acuentascanarias.org",
-        "addresses": []
+        "addresses": [
+          "80.26.156.177"
+        ]
       }
     ],
-    "warnings": [
-      "All nameservers failed to answer the query correo.acuentascanarias.org. IN A: Server Do53:1.0.0.1@53 answered SERVFAIL"
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 include:spf.protection.outlook.com -all",

@@ -4,26 +4,40 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns2.acens.net",
-      "srvcpdefficientipagr.gobex.pri",
-      "srvcpdefficientipmor.gobex.pri",
-      "ns1.acens.net",
-      "srvadmefficientipmor.gobex.pri",
-      "srvefficientipmor.educarex.pri",
       "ns2.dominioabsoluto.com",
-      "ns4.acens.net",
-      "srvadmefficientipagr.gobex.pri",
-      "ns1.dominioabsoluto.com",
+      "ns2.acens.net",
+      "srvefficientipmor.educarex.pri",
       "ns7.acens.net",
+      "srvadmefficientipagr.gobex.pri",
+      "srvcpdefficientipagr.gobex.pri",
+      "ns1.acens.net",
+      "srvcpdefficientipmor.gobex.pri",
       "ns3.acens.net",
       "srvefficientipagr.educarex.pri",
+      "ns4.acens.net",
+      "ns1.dominioabsoluto.com",
+      "srvadmefficientipmor.gobex.pri",
       "ip90.dominioabsoluto.com"
     ],
     "warnings": []
   },
   "mx": {
-    "hosts": [],
-    "error": "All nameservers failed to answer the query juntaex.es. IN MX: Server Do53:1.0.0.1@53 answered SERVFAIL"
+    "hosts": [
+      {
+        "preference": 10,
+        "hostname": "juntaex-es.mail.protection.outlook.com",
+        "addresses": [
+          "52.101.68.12",
+          "52.101.68.18",
+          "52.101.68.27",
+          "52.101.68.39",
+          "52.101.68.5",
+          "52.101.73.11",
+          "52.101.73.30"
+        ]
+      }
+    ],
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 ip4:217.124.182.92 ip4:178.255.108.128 include:spf.protection.outlook.com -all",

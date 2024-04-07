@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "otilio-pub.telecable.es",
-      "mortadelo.telecable.es"
+      "mortadelo.telecable.es",
+      "otilio-pub.telecable.es"
     ],
     "warnings": []
   },
@@ -21,7 +21,9 @@
       {
         "preference": 20,
         "hostname": "mx2.telecable.es",
-        "addresses": []
+        "addresses": [
+          "94.100.136.8"
+        ]
       },
       {
         "preference": 30,
@@ -38,9 +40,7 @@
         ]
       }
     ],
-    "warnings": [
-      "All nameservers failed to answer the query mx2.telecable.es. IN AAAA: Server Do53:1.0.0.1@53 answered SERVFAIL"
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 include:spf.antispamcloud.com include:spf.hornetsecurity.com ~all",

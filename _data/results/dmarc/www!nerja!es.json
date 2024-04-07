@@ -5,8 +5,8 @@
   "ns": {
     "hostnames": [
       "ns3.dinahosting.com",
-      "ns.dinahosting.com",
       "ns2.dinahosting.com",
+      "ns.dinahosting.com",
       "ns4.dinahosting.com"
     ],
     "warnings": []
@@ -48,11 +48,13 @@
     "record": "v=spf1 include:spf.hornetsecurity.com +a +mx -all",
     "valid": true,
     "dns_lookups": 3,
-    "warnings": [
-      "All nameservers failed to answer the query nerja.es. IN AAAA: Server Do53:1.0.0.1@53 answered SERVFAIL"
-    ],
+    "warnings": [],
     "parsed": {
       "pass": [
+        {
+          "value": "77.231.98.152",
+          "mechanism": "a"
+        },
         {
           "value": "mx01.hornetsecurity.com",
           "mechanism": "mx"

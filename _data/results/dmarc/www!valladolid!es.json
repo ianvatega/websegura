@@ -18,7 +18,7 @@
   "spf": {
     "record": null,
     "valid": false,
-    "error": "All nameservers failed to answer the query valladolid.es. IN TXT: Server Do53:1.0.0.1@53 answered SERVFAIL"
+    "error": "valladolid.es does not have a SPF TXT record"
   },
   "dmarc": {
     "record": null,

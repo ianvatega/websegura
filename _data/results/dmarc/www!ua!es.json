@@ -4,16 +4,24 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
+      "aitana.cpd.ua.es",
       "tabarca.cpd.ua.es",
       "sun.rediris.es",
-      "chico.rediris.es",
-      "aitana.cpd.ua.es"
+      "chico.rediris.es"
     ],
     "warnings": []
   },
   "mx": {
-    "hosts": [],
-    "error": "All nameservers failed to answer the query ua.es. IN MX: Server Do53:1.0.0.1@53 answered SERVFAIL"
+    "hosts": [
+      {
+        "preference": 10,
+        "hostname": "aitana.cpd.ua.es",
+        "addresses": [
+          "193.145.233.5"
+        ]
+      }
+    ],
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 ip4:193.145.233.5 ip4:193.145.233.9 ~all",

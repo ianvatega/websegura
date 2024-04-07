@@ -15,8 +15,8 @@
         "preference": 10,
         "hostname": "mx.spamexperts.com",
         "addresses": [
-          "2001:550:2:9::280:100",
-          "38.109.53.20"
+          "2001:550:2:61::2fc:100",
+          "38.111.198.185"
         ]
       },
       {
@@ -47,6 +47,7 @@
       }
     ],
     "warnings": [
+      "2001:550:2:61::2fc:100 does not have any reverse DNS (PTR) records",
       "2001:550:2:61::2fc:100 does not have any reverse DNS (PTR) records",
       "2001:550:2:61::2fc:100 does not have any reverse DNS (PTR) records"
     ]
@@ -1250,7 +1251,7 @@
     }
   },
   "dmarc": {
-    "record": "v=DMARC1; p=none; rua=mailto:dmarc@hispasec.com; ruf=mailto:dmarc@hispasec.com; fo=1",
+    "record": "v=DMARC1; p=quarantine; rua=mailto:dmarc@hispasec.com; ruf=mailto:dmarc@hispasec.com; sp=quarantine; fo=1",
     "valid": true,
     "location": "alora.es",
     "warnings": [
@@ -1263,7 +1264,7 @@
         "explicit": true
       },
       "p": {
-        "value": "none",
+        "value": "quarantine",
         "explicit": true
       },
       "rua": {
@@ -1272,6 +1273,10 @@
       },
       "ruf": {
         "value": "mailto:dmarc@hispasec.com",
+        "explicit": true
+      },
+      "sp": {
+        "value": "quarantine",
         "explicit": true
       },
       "fo": {
@@ -1300,10 +1305,6 @@
       },
       "ri": {
         "value": 86400,
-        "explicit": false
-      },
-      "sp": {
-        "value": "none",
         "explicit": false
       }
     }

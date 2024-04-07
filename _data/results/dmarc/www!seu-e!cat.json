@@ -4,9 +4,10 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "dns6.atlassolutions.net",
-      "dns1.atlassolutions.net",
-      "dns2.atlassolutions.net"
+      "ns-1095.awsdns-08.org",
+      "ns-1686.awsdns-18.co.uk",
+      "ns-224.awsdns-28.com",
+      "ns-922.awsdns-51.net"
     ],
     "warnings": []
   },
@@ -16,13 +17,13 @@
         "preference": 0,
         "hostname": "seue-cat0i.mail.protection.outlook.com",
         "addresses": [
-          "52.101.68.10",
-          "52.101.68.15",
-          "52.101.68.25",
+          "52.101.68.0",
+          "52.101.68.21",
           "52.101.68.39",
-          "52.101.73.15",
-          "52.101.73.19",
-          "52.101.73.22"
+          "52.101.73.16",
+          "52.101.73.2",
+          "52.101.73.21",
+          "52.101.73.28"
         ]
       }
     ],

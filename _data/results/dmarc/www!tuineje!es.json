@@ -4,15 +4,29 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "sdns2.ovh.net",
       "ns111.ovh.net",
       "dns111.ovh.net"
     ],
     "warnings": []
   },
   "mx": {
-    "hosts": [],
-    "error": "All nameservers failed to answer the query tuineje.es. IN MX: Server Do53:1.0.0.1@53 answered SERVFAIL"
+    "hosts": [
+      {
+        "preference": 10,
+        "hostname": "mail.tuineje.es",
+        "addresses": [
+          "188.165.207.97"
+        ]
+      },
+      {
+        "preference": 20,
+        "hostname": "correo.tuineje.es",
+        "addresses": [
+          "188.165.207.97"
+        ]
+      }
+    ],
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 a mx a:correo.tuineje.es ip4:188.165.207.97 -all",
@@ -55,9 +69,7 @@
     "record": "v=DMARC1; p=reject; rua=mailto:dmarc@tuineje.es; ruf=mailto:dmarc@tuineje.es; adkim=s; aspf=s; rf=afrf; sp=reject",
     "valid": true,
     "location": "tuineje.es",
-    "warnings": [
-      "Failed to retrieve MX records for the domain of ruf email address dmarc@tuineje.es - All nameservers failed to answer the query tuineje.es. IN MX: Server Do53:1.0.0.1@53 answered SERVFAIL"
-    ],
+    "warnings": [],
     "tags": {
       "v": {
         "value": "DMARC1",
@@ -78,7 +90,13 @@
         "explicit": true
       },
       "ruf": {
-        "value": "mailto:dmarc@tuineje.es",
+        "value": [
+          {
+            "scheme": "mailto",
+            "address": "dmarc@tuineje.es",
+            "size_limit": null
+          }
+        ],
         "explicit": true
       },
       "adkim": {

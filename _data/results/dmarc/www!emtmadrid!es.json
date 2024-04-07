@@ -10,31 +10,8 @@
     "warnings": []
   },
   "mx": {
-    "hosts": [
-      {
-        "preference": 1,
-        "hostname": "emtmadrid.in.tmes.trendmicro.eu",
-        "addresses": [
-          "18.185.115.145",
-          "18.185.115.146",
-          "18.185.115.147"
-        ]
-      },
-      {
-        "preference": 10,
-        "hostname": "emtmadrid-es.mail.protection.outlook.com",
-        "addresses": [
-          "52.101.68.27",
-          "52.101.68.29",
-          "52.101.68.3",
-          "52.101.68.8",
-          "52.101.73.2",
-          "52.101.73.4",
-          "52.101.73.8"
-        ]
-      }
-    ],
-    "warnings": []
+    "hosts": [],
+    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
   },
   "spf": {
     "record": "v=spf1 ip4:195.57.112.128/28 ip4:188.84.97.215 include:spf.protection.outlook.com include:spf.tmes.trendmicro.com -all",

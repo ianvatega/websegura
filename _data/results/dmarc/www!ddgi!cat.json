@@ -4,7 +4,6 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "dns2.grn.es",
       "dns2.ddgi.cat",
       "dns1.ddgi.cat"
     ],

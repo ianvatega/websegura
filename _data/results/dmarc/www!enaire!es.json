@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "dns.comtenidos.com",
-      "dns2.comtenidos.com"
+      "dns2.comtenidos.com",
+      "dns.comtenidos.com"
     ],
     "warnings": []
   },
@@ -15,13 +15,13 @@
         "preference": 10,
         "hostname": "enaire-es.mail.protection.outlook.com",
         "addresses": [
-          "52.101.68.0",
-          "52.101.68.21",
-          "52.101.68.3",
-          "52.101.68.39",
+          "52.101.68.15",
+          "52.101.68.25",
+          "52.101.68.27",
+          "52.101.68.36",
           "52.101.73.1",
-          "52.101.73.15",
-          "52.101.73.21"
+          "52.101.73.21",
+          "52.101.73.6"
         ]
       }
     ],
@@ -119,8 +119,7 @@
     "valid": true,
     "location": "enaire.es",
     "warnings": [
-      "DMARC record at root of enaire.es has no effect",
-      "Failed to retrieve MX records for the domain of rua email address dmarceports@enaire.es - All nameservers failed to answer the query enaire.es. IN MX: Server Do53:1.0.0.1@53 answered SERVFAIL"
+      "DMARC record at root of enaire.es has no effect"
     ],
     "tags": {
       "v": {
@@ -140,7 +139,13 @@
         "explicit": true
       },
       "rua": {
-        "value": "mailto:dmarceports@enaire.es",
+        "value": [
+          {
+            "scheme": "mailto",
+            "address": "dmarceports@enaire.es",
+            "size_limit": null
+          }
+        ],
         "explicit": true
       },
       "adkim": {

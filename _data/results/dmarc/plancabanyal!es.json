@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns2.iukanet.com",
-      "ns1.iukanet.com"
+      "ns2.ymant.com",
+      "ns1.ymant.com"
     ],
     "warnings": []
   },
@@ -16,12 +16,12 @@
         "hostname": "plancabanyal-es.mail.protection.outlook.com",
         "addresses": [
           "52.101.68.10",
-          "52.101.68.27",
-          "52.101.68.3",
+          "52.101.68.12",
           "52.101.68.5",
-          "52.101.73.11",
-          "52.101.73.22",
-          "52.101.73.24"
+          "52.101.73.2",
+          "52.101.73.28",
+          "52.101.73.30",
+          "52.101.73.4"
         ]
       }
     ],

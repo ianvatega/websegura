@@ -4,10 +4,10 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ninot2.gva.es",
       "tirant2.gva.es",
       "ninot.gva.es",
-      "tirant.gva.es"
+      "tirant.gva.es",
+      "ninot2.gva.es"
     ],
     "warnings": []
   },
@@ -15,29 +15,23 @@
     "hosts": [
       {
         "preference": 10,
-        "hostname": "mx1ext.gva.es",
+        "hostname": "mxext.gva.es",
         "addresses": [
-          "193.145.206.215",
-          "195.77.18.230"
+          "193.145.200.16",
+          "195.77.20.28"
         ]
-      },
-      {
-        "preference": 10,
-        "hostname": "mx2ext.gva.es",
-        "addresses": []
       }
     ],
     "warnings": [
-      "All nameservers failed to answer the query mx2ext.gva.es. IN A: Server Do53:1.0.0.1@53 answered SERVFAIL"
+      "The reverse DNS of 193.145.200.16 is mxext.gva.es, but the A/AAAA DNS records for mxext.gva.es do not resolve to 193.145.200.16",
+      "The reverse DNS of 195.77.20.28 is mxext.gva.es, but the A/AAAA DNS records for mxext.gva.es do not resolve to 195.77.20.28"
     ]
   },
   "spf": {
     "record": "v=spf1 include:spf.protection.outlook.com include:mta.gva.es include:mtallistes.gva.es include:spf.difusio.gva.es -all",
     "valid": true,
     "dns_lookups": 6,
-    "warnings": [
-      "All nameservers failed to answer the query sarabi.gva.es. IN AAAA: Server Do53:1.0.0.1@53 answered SERVFAIL"
-    ],
+    "warnings": [],
     "parsed": {
       "pass": [],
       "neutral": [],
@@ -175,6 +169,46 @@
               {
                 "value": "195.77.19.105",
                 "mechanism": "a"
+              },
+              {
+                "value": "193.145.207.20",
+                "mechanism": "a"
+              },
+              {
+                "value": "193.145.207.21",
+                "mechanism": "a"
+              },
+              {
+                "value": "193.145.207.22",
+                "mechanism": "a"
+              },
+              {
+                "value": "193.145.207.23",
+                "mechanism": "a"
+              },
+              {
+                "value": "193.145.207.86",
+                "mechanism": "a"
+              },
+              {
+                "value": "195.77.19.106",
+                "mechanism": "a"
+              },
+              {
+                "value": "195.77.19.68",
+                "mechanism": "a"
+              },
+              {
+                "value": "195.77.19.69",
+                "mechanism": "a"
+              },
+              {
+                "value": "195.77.19.70",
+                "mechanism": "a"
+              },
+              {
+                "value": "195.77.19.71",
+                "mechanism": "a"
               }
             ],
             "neutral": [],
@@ -185,9 +219,7 @@
             "exp": null,
             "all": "fail"
           },
-          "warnings": [
-            "All nameservers failed to answer the query sarabi.gva.es. IN AAAA: Server Do53:1.0.0.1@53 answered SERVFAIL"
-          ]
+          "warnings": []
         },
         {
           "domain": "spf.difusio.gva.es",
