@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sat, 06 Apr 2024 00:52:30 GMT",
+  "end_time": "Tue, 09 Apr 2024 00:54:23 GMT",
   "grade": "A-",
   "hidden": false,
   "likelihood_indicator": "LOW",
@@ -21,9 +21,9 @@
     "X-UA-Compatible": "IE=edge",
     "X-Xss-Protection": "1; mode=block"
   },
-  "scan_id": 49731530,
+  "scan_id": 49829248,
   "score": 85,
-  "start_time": "Sat, 06 Apr 2024 00:52:18 GMT",
+  "start_time": "Tue, 09 Apr 2024 00:54:04 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 2,
