@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns2.nds.es",
-      "ns1.nds.es"
+      "ns1.nds.es",
+      "ns2.nds.es"
     ],
     "warnings": []
   },
@@ -13,9 +13,9 @@
     "hosts": [
       {
         "preference": 10,
-        "hostname": "mail.mirandadeebro.es",
+        "hostname": "mx.serviciodecorreo.es",
         "addresses": [
-          "185.253.153.139"
+          "82.223.190.100"
         ]
       }
     ],
@@ -29,7 +29,7 @@
     "parsed": {
       "pass": [
         {
-          "value": "mail.mirandadeebro.es",
+          "value": "mx.serviciodecorreo.es",
           "mechanism": "mx"
         },
         {

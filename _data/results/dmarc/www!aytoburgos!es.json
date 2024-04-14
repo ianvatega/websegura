@@ -5,10 +5,10 @@
   "ns": {
     "hostnames": [
       "tapia.csa.es",
-      "dns1.csanet.io",
-      "dns2.csanet.io",
+      "buniel.csa.es",
       "clunia.csa.es",
-      "buniel.csa.es"
+      "dns1.csanet.io",
+      "dns2.csanet.io"
     ],
     "warnings": []
   },

@@ -5,15 +5,36 @@
   "ns": {
     "hostnames": [
       "ns3.interec.com",
-      "ns2.interec.com",
+      "ns.interec.com",
       "ns1.interec.com",
-      "ns.interec.com"
+      "ns2.interec.com"
     ],
     "warnings": []
   },
   "mx": {
-    "hosts": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    "hosts": [
+      {
+        "preference": 10,
+        "hostname": "fdmvalencia-es.mail.protection.outlook.com",
+        "addresses": [
+          "52.101.68.0",
+          "52.101.68.10",
+          "52.101.68.15",
+          "52.101.68.16",
+          "52.101.68.21",
+          "52.101.73.26",
+          "52.101.73.8"
+        ]
+      },
+      {
+        "preference": 25,
+        "hostname": "fdmvalencia-es.mail.protection.outlook.com",
+        "addresses": []
+      }
+    ],
+    "warnings": [
+      "Hostname fdmvalencia-es.mail.protection.outlook.com is listed in multiple MX records"
+    ]
   },
   "spf": {
     "record": "v=spf1 include:spf.protection.outlook.com mx:fdmvalencia.es -all",

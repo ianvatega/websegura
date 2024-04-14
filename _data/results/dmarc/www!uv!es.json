@@ -32,12 +32,10 @@
     "warnings": []
   },
   "spf": {
-    "record": "v=spf1 a:postin.uv.es a:postin.ipv6.uv.es a:postilla.uv.es a:postilla.ipv6.uv.es a:hal.ific.uv.es a:ifmx.ific.uv.es a:glup.irobot.uv.es -all",
+    "record": "v=spf1 a:postin.uv.es a:postin.ipv6.uv.es a:postilla.uv.es a:hal.ific.uv.es a:ifmx.ific.uv.es a:glup.irobot.uv.es -all",
     "valid": true,
-    "dns_lookups": 7,
-    "warnings": [
-      "The domain postilla.ipv6.uv.es does not exist"
-    ],
+    "dns_lookups": 6,
+    "warnings": [],
     "parsed": {
       "pass": [
         {

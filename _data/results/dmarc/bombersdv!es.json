@@ -13,11 +13,9 @@
     "hosts": [
       {
         "preference": 5,
-        "hostname": "gollum.gva.es",
+        "hostname": "mxext.gva.es",
         "addresses": [
           "193.145.200.16",
-          "193.145.206.215",
-          "195.77.18.230",
           "195.77.20.28"
         ]
       }
@@ -63,7 +61,7 @@
           "mechanism": "ip4"
         },
         {
-          "value": "gollum.gva.es",
+          "value": "mxext.gva.es",
           "mechanism": "mx"
         },
         {
