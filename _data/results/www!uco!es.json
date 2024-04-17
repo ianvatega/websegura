@@ -1,19 +1,19 @@
 {
   "algorithm_version": 3,
-  "end_time": "Fri, 12 Apr 2024 00:54:56 GMT",
+  "end_time": "Wed, 17 Apr 2024 00:54:35 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "keep-alive",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Fri, 12 Apr 2024 00:54:55 GMT",
+    "Date": "Wed, 17 Apr 2024 00:54:33 GMT",
     "Server": "nginx/1.16.1",
     "Transfer-Encoding": "chunked"
   },
-  "scan_id": 49934050,
+  "scan_id": 50091786,
   "score": 10,
-  "start_time": "Fri, 12 Apr 2024 00:54:54 GMT",
+  "start_time": "Wed, 17 Apr 2024 00:54:32 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
