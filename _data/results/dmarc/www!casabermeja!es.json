@@ -4,59 +4,23 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
+      "dpmdns01.ns-cloud4b.org",
       "dpmdns03.ns-cloud4b.net",
-      "dpmdns02.ns-cloud4b.com",
-      "dpmdns01.ns-cloud4b.org"
+      "dpmdns02.ns-cloud4b.com"
     ],
     "warnings": []
   },
   "mx": {
-    "hosts": [
-      {
-        "preference": 10,
-        "hostname": "mx.spamexperts.com",
-        "addresses": [
-          "2001:550:2:78::ca:100",
-          "38.109.53.20"
-        ]
-      },
-      {
-        "preference": 20,
-        "hostname": "fallbackmx.spamexperts.eu",
-        "addresses": [
-          "2001:550:2:61::2fc:100",
-          "2001:550:2:78::ca:100",
-          "2001:550:2:9::280:100",
-          "38.109.53.20",
-          "38.111.198.185",
-          "38.89.254.156"
-        ]
-      },
-      {
-        "preference": 30,
-        "hostname": "lastmx.spamexperts.net",
-        "addresses": [
-          "149.13.75.27",
-          "154.59.104.23",
-          "2001:550:2:61::2fc:100",
-          "2001:550:2:9::280:100",
-          "2001:978:2:2c::137:100",
-          "2001:978:2:7::162:100",
-          "38.111.198.185",
-          "38.89.254.156"
-        ]
-      }
-    ],
-    "warnings": [
-      "2001:550:2:61::2fc:100 does not have any reverse DNS (PTR) records",
-      "2001:550:2:61::2fc:100 does not have any reverse DNS (PTR) records"
-    ]
+    "hosts": [],
+    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
   },
   "spf": {
     "record": "v=spf1 include:spf2.malaga.es -all",
     "valid": true,
     "dns_lookups": 6,
-    "warnings": [],
+    "warnings": [
+      "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    ],
     "parsed": {
       "pass": [],
       "neutral": [],
@@ -1103,74 +1067,6 @@
                     {
                       "value": "94.75.244.184",
                       "mechanism": "a"
-                    },
-                    {
-                      "value": "130.117.249.148",
-                      "mechanism": "a"
-                    },
-                    {
-                      "value": "130.117.249.150",
-                      "mechanism": "a"
-                    },
-                    {
-                      "value": "138.201.192.38",
-                      "mechanism": "a"
-                    },
-                    {
-                      "value": "149.13.73.60",
-                      "mechanism": "a"
-                    },
-                    {
-                      "value": "149.13.75.38",
-                      "mechanism": "a"
-                    },
-                    {
-                      "value": "162.210.192.149",
-                      "mechanism": "a"
-                    },
-                    {
-                      "value": "2604:9a00:2100:a043:16::1",
-                      "mechanism": "a"
-                    },
-                    {
-                      "value": "2a01:4f8:13b:3001::2",
-                      "mechanism": "a"
-                    },
-                    {
-                      "value": "2a01:4f8:13b:308b::2",
-                      "mechanism": "a"
-                    },
-                    {
-                      "value": "2a01:4f8:140:4289::2",
-                      "mechanism": "a"
-                    },
-                    {
-                      "value": "2a01:4f8:140:42a7::2",
-                      "mechanism": "a"
-                    },
-                    {
-                      "value": "2a01:4f8:172:1666::2",
-                      "mechanism": "a"
-                    },
-                    {
-                      "value": "2a01:4f8:172:3582::2",
-                      "mechanism": "a"
-                    },
-                    {
-                      "value": "2a01:4f8:172:379b::2",
-                      "mechanism": "a"
-                    },
-                    {
-                      "value": "2a01:4f8:172:39e5::2",
-                      "mechanism": "a"
-                    },
-                    {
-                      "value": "2a01:4f8:172:39e6::2",
-                      "mechanism": "a"
-                    },
-                    {
-                      "value": "38.109.53.39",
-                      "mechanism": "a"
                     }
                   ],
                   "neutral": [],
@@ -1235,14 +1131,18 @@
                   "exp": null,
                   "all": "fail"
                 },
-                "warnings": []
+                "warnings": [
+                  "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+                ]
               }
             ],
             "redirect": null,
             "exp": null,
             "all": "softfail"
           },
-          "warnings": []
+          "warnings": [
+            "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+          ]
         }
       ],
       "redirect": null,

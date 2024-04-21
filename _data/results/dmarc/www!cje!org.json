@@ -14,9 +14,7 @@
       {
         "preference": 10,
         "hostname": "mx01.hornetsecurity.com",
-        "addresses": [
-          "94.100.132.8"
-        ]
+        "addresses": []
       },
       {
         "preference": 20,
@@ -40,7 +38,9 @@
         ]
       }
     ],
-    "warnings": []
+    "warnings": [
+      "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    ]
   },
   "spf": {
     "record": "v=spf1 include:spf.protection.outlook.com include:spf.hornetsecurity.com +ip4:82.223.19.151 +ip4:2.139.238.122 ~all",
@@ -215,7 +215,7 @@
     }
   },
   "dmarc": {
-    "record": "v=DMARC1; p=reject",
+    "record": "v=DMARC1; p=quarantine",
     "valid": true,
     "location": "cje.org",
     "warnings": [
@@ -227,7 +227,7 @@
         "explicit": true
       },
       "p": {
-        "value": "reject",
+        "value": "quarantine",
         "explicit": true
       },
       "adkim": {
@@ -259,7 +259,7 @@
         "explicit": false
       },
       "sp": {
-        "value": "reject",
+        "value": "quarantine",
         "explicit": false
       }
     }

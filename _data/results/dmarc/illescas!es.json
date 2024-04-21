@@ -4,14 +4,22 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns2.srv-acens.com",
-      "ns1.srv-acens.com"
+      "ns1.srv-acens.com",
+      "ns2.srv-acens.com"
     ],
     "warnings": []
   },
   "mx": {
-    "hosts": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    "hosts": [
+      {
+        "preference": 10,
+        "hostname": "mx.illescas.es",
+        "addresses": [
+          "217.116.0.227"
+        ]
+      }
+    ],
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 include:spf.protection.outlook.com redirect=spf.dominioabsoluto.net",

@@ -10,22 +10,8 @@
     "warnings": []
   },
   "mx": {
-    "hosts": [
-      {
-        "preference": 10,
-        "hostname": "puertos-es.mail.protection.outlook.com",
-        "addresses": [
-          "52.101.68.10",
-          "52.101.68.8",
-          "52.101.73.16",
-          "52.101.73.24",
-          "52.101.73.26",
-          "52.101.73.28",
-          "52.101.73.4"
-        ]
-      }
-    ],
-    "warnings": []
+    "hosts": [],
+    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
   },
   "spf": {
     "record": "v=spf1 mx a ip4:195.53.26.234 ip4:195.55.142.69 include:spf.protection.outlook.com -all",

@@ -35,9 +35,7 @@
       {
         "preference": 10,
         "hostname": "antispam35.tragsa.es",
-        "addresses": [
-          "194.224.34.72"
-        ]
+        "addresses": []
       },
       {
         "preference": 50,
@@ -47,7 +45,9 @@
         ]
       }
     ],
-    "warnings": []
+    "warnings": [
+      "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    ]
   },
   "spf": {
     "record": "v=spf1 mx:tragsa.es a:mail00.tragsa.es a:mailrelay01.tragsa.es a:mail20.tragsa.es a:mail35.tragsa.es ip4:195.77.152.0/24 -all",

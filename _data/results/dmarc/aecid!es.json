@@ -13,16 +13,18 @@
     "hosts": [
       {
         "preference": 10,
-        "hostname": "mailhost2.aecid.es",
+        "hostname": "mail1.correo.gob.es",
         "addresses": [
-          "192.148.209.39"
+          "185.73.172.122",
+          "185.73.172.123"
         ]
       },
       {
-        "preference": 30,
-        "hostname": "mailhost3.aecid.es",
+        "preference": 10,
+        "hostname": "mail2.correo.gob.es",
         "addresses": [
-          "192.148.209.40"
+          "185.73.172.124",
+          "185.73.172.125"
         ]
       }
     ],
