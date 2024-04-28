@@ -4,33 +4,15 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "dns1.parlamentodeandalucia.es",
       "dns2.parlamentodeandalucia.es",
-      "dns3.parlamentodeandalucia.es"
+      "dns3.parlamentodeandalucia.es",
+      "dns1.parlamentodeandalucia.es"
     ],
     "warnings": []
   },
   "mx": {
-    "hosts": [
-      {
-        "preference": 10,
-        "hostname": "dns1.parlamentodeandalucia.es",
-        "addresses": [
-          "193.147.254.21"
-        ]
-      },
-      {
-        "preference": 30,
-        "hostname": "mx3.parlamentodeandalucia.es",
-        "addresses": [
-          "90.161.143.228"
-        ]
-      }
-    ],
-    "warnings": [
-      "The domain 228.pool90-161-143.static.orange.es does not exist",
-      "The reverse DNS of 90.161.143.228 is 228.pool90-161-143.static.orange.es, but the A/AAAA DNS records for 228.pool90-161-143.static.orange.es do not resolve to 90.161.143.228"
-    ]
+    "hosts": [],
+    "error": "All nameservers failed to answer the query 21.254.147.193.in-addr.arpa. IN PTR: Server Do53:1.0.0.1@53 answered SERVFAIL"
   },
   "spf": {
     "record": "v=spf1 ip4:193.147.254.0/24 ip4:90.161.143.224/28 include:spf.protection.outlook.com ~all",

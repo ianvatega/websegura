@@ -4,14 +4,28 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "lamec.puertos.es",
-      "theta.puertos.es"
+      "theta.puertos.es",
+      "lamec.puertos.es"
     ],
     "warnings": []
   },
   "mx": {
-    "hosts": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    "hosts": [
+      {
+        "preference": 10,
+        "hostname": "puertos-es.mail.protection.outlook.com",
+        "addresses": [
+          "52.101.68.12",
+          "52.101.68.16",
+          "52.101.68.3",
+          "52.101.73.15",
+          "52.101.73.16",
+          "52.101.73.30",
+          "52.101.73.8"
+        ]
+      }
+    ],
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 mx a ip4:195.53.26.234 ip4:195.55.142.69 include:spf.protection.outlook.com -all",

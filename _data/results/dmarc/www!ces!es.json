@@ -157,7 +157,9 @@
     "record": "v=DMARC1; p=none; fo=0; rua=mailto:dmarc.rua2@ces.es; ruf=mailto:dmarc.ruf2@ces.es; adkim=r; aspf=s",
     "valid": true,
     "location": "ces.es",
-    "warnings": [],
+    "warnings": [
+      "Failed to retrieve MX records for the domain of ruf email address dmarc.ruf2@ces.es - All nameservers failed to answer the query ces.es. IN MX: Server Do53:1.0.0.1@53 answered SERVFAIL"
+    ],
     "tags": {
       "v": {
         "value": "DMARC1",
@@ -184,13 +186,7 @@
         "explicit": true
       },
       "ruf": {
-        "value": [
-          {
-            "scheme": "mailto",
-            "address": "dmarc.ruf2@ces.es",
-            "size_limit": null
-          }
-        ],
+        "value": "mailto:dmarc.ruf2@ces.es",
         "explicit": true
       },
       "adkim": {

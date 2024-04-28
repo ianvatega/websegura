@@ -3,11 +3,8 @@
   "base_domain": "madrid.org",
   "dnssec": false,
   "ns": {
-    "hostnames": [
-      "sun.rediris.es",
-      "chico.rediris.es"
-    ],
-    "warnings": []
+    "hostnames": [],
+    "error": "All nameservers failed to answer the query educa2.madrid.org. IN NS: Server Do53:1.0.0.1@53 answered SERVFAIL"
   },
   "mx": {
     "hosts": [],

@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns2.zilore.net",
-      "ns1.zilore.net"
+      "ns1.zilore.net",
+      "ns2.zilore.net"
     ],
     "warnings": []
   },
@@ -21,7 +21,9 @@
       {
         "preference": 20,
         "hostname": "mx02.hornetsecurity.com",
-        "addresses": []
+        "addresses": [
+          "94.100.136.8"
+        ]
       },
       {
         "preference": 30,
@@ -31,9 +33,7 @@
         ]
       }
     ],
-    "warnings": [
-      "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 ip4:195.53.119.133 ip4:217.160.102.135 ip4:185.79.131.235 include:_spf.simpleviewinc.com include:teenvio.com include:spf.protection.outlook.com include:spf.hornetsecurity.com include:spf.brevo.com ~all",

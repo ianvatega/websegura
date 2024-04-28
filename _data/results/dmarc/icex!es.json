@@ -4,15 +4,34 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "nso.nic.es",
       "halcon.icex.es",
+      "nso.nic.es",
       "milano.icex.es"
     ],
     "warnings": []
   },
   "mx": {
-    "hosts": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    "hosts": [
+      {
+        "preference": 10,
+        "hostname": "d307707.a.ess.de.barracudanetworks.com",
+        "addresses": [
+          "18.185.115.250",
+          "18.185.115.251",
+          "18.185.115.252"
+        ]
+      },
+      {
+        "preference": 10,
+        "hostname": "d307707.b.ess.de.barracudanetworks.com",
+        "addresses": [
+          "18.185.115.250",
+          "18.185.115.251",
+          "18.185.115.252"
+        ]
+      }
+    ],
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 mx include:_listaip.icex.es include:_spfIcx.icex.es include:spf.protection.outlook.com -all",

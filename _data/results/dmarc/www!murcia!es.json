@@ -4,28 +4,14 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "dns2.murcia.es",
-      "dns1.murcia.es"
+      "dns1.murcia.es",
+      "dns2.murcia.es"
     ],
     "warnings": []
   },
   "mx": {
-    "hosts": [
-      {
-        "preference": 10,
-        "hostname": "correo.murcia.es",
-        "addresses": []
-      },
-      {
-        "preference": 20,
-        "hostname": "correo2.murcia.es",
-        "addresses": []
-      }
-    ],
-    "warnings": [
-      "All nameservers failed to answer the query correo.murcia.es. IN A: Server Do53:1.0.0.1@53 answered SERVFAIL",
-      "All nameservers failed to answer the query correo2.murcia.es. IN A: Server Do53:1.0.0.1@53 answered SERVFAIL"
-    ]
+    "hosts": [],
+    "error": "All nameservers failed to answer the query murcia.es. IN MX: Server Do53:1.0.0.1@53 answered SERVFAIL"
   },
   "spf": {
     "record": null,
