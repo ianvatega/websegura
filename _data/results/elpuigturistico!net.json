@@ -1,24 +1,24 @@
 {
   "algorithm_version": 3,
-  "end_time": "Wed, 01 May 2024 01:00:38 GMT",
-  "grade": "C",
+  "end_time": "Sun, 05 May 2024 00:58:49 GMT",
+  "grade": "C-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Content-Length": "1089",
     "Content-Type": "text/html",
-    "Date": "Wed, 01 May 2024 01:00:34 GMT",
+    "Date": "Sun, 05 May 2024 00:58:48 GMT",
     "Server": "Microsoft-IIS/8.5",
     "Strict-Transport-Security": "max-age=15552001; includeSubDomains; preload",
     "X-Powered-By": "ASP.NET",
     "X-Powered-By-Plesk": "PleskWin"
   },
-  "scan_id": 50560605,
-  "score": 50,
-  "start_time": "Wed, 01 May 2024 01:00:01 GMT",
+  "scan_id": 50703643,
+  "score": 45,
+  "start_time": "Sun, 05 May 2024 00:58:45 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 3,
-  "tests_passed": 8,
+  "tests_failed": 4,
+  "tests_passed": 7,
   "tests_quantity": 11
 }
