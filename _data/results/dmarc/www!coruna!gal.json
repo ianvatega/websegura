@@ -5,8 +5,8 @@
   "ns": {
     "hostnames": [
       "ns4.coruna.es",
-      "ns2.coruna.es",
       "ns1.coruna.es",
+      "ns2.coruna.es",
       "ns3.coruna.es"
     ],
     "warnings": []
@@ -17,13 +17,13 @@
         "preference": 10,
         "hostname": "coruna-gal.mail.protection.outlook.com",
         "addresses": [
-          "52.101.68.27",
+          "52.101.68.25",
           "52.101.68.36",
-          "52.101.68.8",
-          "52.101.73.15",
+          "52.101.73.12",
           "52.101.73.16",
-          "52.101.73.2",
-          "52.101.73.6"
+          "52.101.73.19",
+          "52.101.73.24",
+          "52.101.73.28"
         ]
       }
     ],
@@ -120,6 +120,6 @@
     "record": null,
     "valid": false,
     "location": null,
-    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    "error": "A DMARC record does not exist for this domain or its base domain"
   }
 }

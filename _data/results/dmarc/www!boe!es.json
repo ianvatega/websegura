@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns.boe.es",
-      "artemis.ttd.net"
+      "artemis.ttd.net",
+      "ns.boe.es"
     ],
     "warnings": []
   },
@@ -14,18 +14,12 @@
       {
         "preference": 10,
         "hostname": "boe-es.mail.protection.outlook.com",
-        "addresses": [
-          "52.101.68.21",
-          "52.101.68.25",
-          "52.101.68.27",
-          "52.101.73.15",
-          "52.101.73.16",
-          "52.101.73.21",
-          "52.101.73.8"
-        ]
+        "addresses": []
       }
     ],
-    "warnings": []
+    "warnings": [
+      "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    ]
   },
   "spf": {
     "record": "v=spf1 ip4:81.89.32.208 ip4:81.89.33.140 include:spf.protection.outlook.com ~all",

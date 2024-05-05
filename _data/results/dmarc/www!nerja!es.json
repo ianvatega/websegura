@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns4.dinahosting.com",
       "ns2.dinahosting.com",
+      "ns4.dinahosting.com",
       "ns.dinahosting.com",
       "ns3.dinahosting.com"
     ],
@@ -16,7 +16,9 @@
       {
         "preference": 10,
         "hostname": "mx01.hornetsecurity.com",
-        "addresses": []
+        "addresses": [
+          "94.100.132.8"
+        ]
       },
       {
         "preference": 20,
@@ -40,9 +42,7 @@
         ]
       }
     ],
-    "warnings": [
-      "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 include:spf.hornetsecurity.com +a +mx -all",

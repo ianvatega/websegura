@@ -17,7 +17,9 @@
       {
         "preference": 10,
         "hostname": "correo.incibe.es",
-        "addresses": []
+        "addresses": [
+          "195.53.165.148"
+        ]
       },
       {
         "preference": 20,
@@ -28,7 +30,6 @@
       }
     ],
     "warnings": [
-      "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out.",
       "193.146.253.148 does not have any reverse DNS (PTR) records"
     ]
   },
