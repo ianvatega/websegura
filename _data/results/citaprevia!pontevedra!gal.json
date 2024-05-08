@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sun, 05 May 2024 00:58:43 GMT",
+  "end_time": "Wed, 08 May 2024 00:45:42 GMT",
   "grade": "B+",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Content-Encoding": "gzip",
     "Content-Security-Policy": "default-src 'self' http: https: data: blob: 'unsafe-inline'",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Sun, 05 May 2024 00:58:39 GMT",
+    "Date": "Wed, 08 May 2024 00:45:35 GMT",
     "ETag": "\"fi0a1fvji042f\"",
     "Server": "openresty",
     "Strict-Transport-Security": "max-age=31536000; includeSubdomains; preload",
@@ -20,9 +20,9 @@
     "X-Powered-By": "Next.js",
     "X-Served-By": "citaprevia.pontevedra.gal"
   },
-  "scan_id": 50703625,
+  "scan_id": 50804147,
   "score": 80,
-  "start_time": "Sun, 05 May 2024 00:58:37 GMT",
+  "start_time": "Wed, 08 May 2024 00:45:33 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 1,
