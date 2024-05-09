@@ -1,3 +1,23 @@
-{
-  "error": "sede.cni.gob.es is an invalid hostname"
-}
+[
+  {
+    "end_time": "Sun, 23 Dec 2018 00:42:51 GMT",
+    "end_time_unix_timestamp": 1545525771,
+    "grade": "F",
+    "scan_id": 9544039,
+    "score": 15
+  },
+  {
+    "end_time": "Mon, 30 Sep 2019 09:16:34 GMT",
+    "end_time_unix_timestamp": 1569834994,
+    "grade": "F",
+    "scan_id": 12020955,
+    "score": 20
+  },
+  {
+    "end_time": "Thu, 01 Feb 2024 00:08:59 GMT",
+    "end_time_unix_timestamp": 1706746139,
+    "grade": "D",
+    "scan_id": 47053813,
+    "score": 30
+  }
+]

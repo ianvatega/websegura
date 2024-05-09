@@ -1,7 +1,7 @@
 {
   "algorithm_version": 3,
-  "end_time": "Mon, 06 May 2024 00:44:13 GMT",
-  "grade": "D-",
+  "end_time": "Thu, 09 May 2024 00:55:36 GMT",
+  "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Length": "14435",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Mon, 06 May 2024 00:44:08 GMT",
+    "Date": "Thu, 09 May 2024 00:55:26 GMT",
     "Expect-CT": "enforce, max-age=2592000",
     "Server": "srv",
     "Strict-Transport-Security": "max-age=31536000;",
@@ -20,12 +20,12 @@
     "X-UA-Compatible": "IE=edge",
     "X-XSS-Protection": "1"
   },
-  "scan_id": 50733654,
-  "score": 25,
-  "start_time": "Mon, 06 May 2024 00:44:03 GMT",
+  "scan_id": 50843649,
+  "score": 15,
+  "start_time": "Thu, 09 May 2024 00:55:22 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 2,
-  "tests_passed": 9,
+  "tests_failed": 3,
+  "tests_passed": 8,
   "tests_quantity": 11
 }
