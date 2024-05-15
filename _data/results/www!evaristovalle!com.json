@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sat, 11 May 2024 00:55:42 GMT",
+  "end_time": "Wed, 15 May 2024 00:56:36 GMT",
   "grade": "D+",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Content-Encoding": "gzip",
     "Content-Length": "19684",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Sat, 11 May 2024 00:55:30 GMT",
+    "Date": "Wed, 15 May 2024 00:56:27 GMT",
     "Link": "<https://evaristovalle.com/wp-json/>; rel=\"https://api.w.org/\", <https://evaristovalle.com/wp-json/wp/v2/pages/19>; rel=\"alternate\"; type=\"application/json\", <https://evaristovalle.com/>; rel=shortlink",
     "Server": "nginx",
     "Set-Cookie": "qtrans_cookie_test=qTranslate%20Cookie%20Test; path=/; domain=evaristovalle.com",
@@ -18,9 +18,9 @@
     "X-Pingback": "https://evaristovalle.com/xmlrpc.php",
     "X-Powered-By": "PHP/7.4.33, PleskLin"
   },
-  "scan_id": 50926265,
+  "scan_id": 51089461,
   "score": 40,
-  "start_time": "Sat, 11 May 2024 00:55:23 GMT",
+  "start_time": "Wed, 15 May 2024 00:56:21 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
