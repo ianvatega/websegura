@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sun, 12 May 2024 01:01:32 GMT",
+  "end_time": "Thu, 16 May 2024 00:56:30 GMT",
   "grade": "C-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -24,9 +24,9 @@
     "X-Powered-By": "PHP/8.1.25",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 50963840,
+  "scan_id": 51136820,
   "score": 45,
-  "start_time": "Sun, 12 May 2024 01:01:24 GMT",
+  "start_time": "Thu, 16 May 2024 00:56:21 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
