@@ -14,12 +14,12 @@
       {
         "preference": 10,
         "hostname": "mail.ayto-caso.es",
-        "addresses": [
-          "89.17.204.80"
-        ]
+        "addresses": []
       }
     ],
-    "warnings": []
+    "warnings": [
+      "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    ]
   },
   "spf": {
     "record": "v=spf1 mx a ip4:89.17.204.80 ip4:89.17.204.220 ip4:89.17.204.215 ip4:89.17.204.213 -all ",
