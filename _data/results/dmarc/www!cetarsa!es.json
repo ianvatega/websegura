@@ -10,18 +10,34 @@
     "warnings": []
   },
   "mx": {
-    "hosts": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    "hosts": [
+      {
+        "preference": 10,
+        "hostname": "cetarsa-es.mail.protection.outlook.com",
+        "addresses": [
+          "52.101.68.10",
+          "52.101.68.16",
+          "52.101.68.27",
+          "52.101.68.29",
+          "52.101.68.39",
+          "52.101.68.5",
+          "52.101.73.15"
+        ]
+      }
+    ],
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 a:cetarsa.es mx:cetarsa.es include:spf.abansys.com ip4:194.179.96.130 include:spf.protection.outlook.com ~all",
     "valid": true,
     "dns_lookups": 4,
-    "warnings": [
-      "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
-    ],
+    "warnings": [],
     "parsed": {
       "pass": [
+        {
+          "value": "86.109.162.32",
+          "mechanism": "a"
+        },
         {
           "value": "cetarsa-es.mail.protection.outlook.com",
           "mechanism": "mx"
