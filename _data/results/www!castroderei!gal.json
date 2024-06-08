@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Wed, 05 Jun 2024 00:58:29 GMT",
+  "end_time": "Sat, 08 Jun 2024 00:13:15 GMT",
   "grade": "D",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Connection": "Keep-Alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Wed, 05 Jun 2024 00:58:23 GMT",
+    "Date": "Sat, 08 Jun 2024 00:13:09 GMT",
     "Etag": "\"104718-1717530610;gz\"",
     "Link": "<https://www.castroderei.gal/wp-json/>; rel=\"https://api.w.org/\", <https://www.castroderei.gal/wp-json/wp/v2/pages/205336>; rel=\"alternate\"; type=\"application/json\", <https://www.castroderei.gal/>; rel=shortlink",
     "Server": "LiteSpeed",
@@ -17,9 +17,9 @@
     "Vary": "Accept-Encoding",
     "X-LiteSpeed-Cache": "hit"
   },
-  "scan_id": 51857397,
+  "scan_id": 51997780,
   "score": 30,
-  "start_time": "Wed, 05 Jun 2024 00:58:21 GMT",
+  "start_time": "Sat, 08 Jun 2024 00:13:08 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
