@@ -5,10 +5,10 @@
   "ns": {
     "hostnames": [
       "dns1.dacoruna.gal",
-      "ns2.xunta.es",
       "ns1.xunta.es",
-      "dns.dacoruna.gal",
       "dns.dicoruna.es",
+      "dns.dacoruna.gal",
+      "ns2.xunta.es",
       "dns1.dicoruna.es"
     ],
     "warnings": []

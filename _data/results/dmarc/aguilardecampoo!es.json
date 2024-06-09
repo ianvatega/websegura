@@ -31,7 +31,7 @@
         "hostname": "alt2.aspmx.l.google.com",
         "addresses": [
           "2607:f8b0:4001:c1d::1a",
-          "74.125.126.26"
+          "74.125.126.27"
         ]
       },
       {
@@ -47,7 +47,7 @@
         "hostname": "aspmx3.googlemail.com",
         "addresses": [
           "2607:f8b0:4001:c1d::1b",
-          "74.125.126.27"
+          "74.125.126.26"
         ]
       }
     ],

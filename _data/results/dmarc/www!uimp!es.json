@@ -1,34 +1,86 @@
 {
   "domain": "uimp.es",
   "base_domain": "uimp.es",
-  "dnssec": true,
+  "dnssec": false,
   "ns": {
-    "hostnames": [
-      "ns1.age.gob.es",
-      "ns2.age.gob.es",
-      "artemis.ttd.net",
-      "cloudflare",
-      "offcorrmad.uimp.es",
-      "suimpdnsmad01.uimp.es"
-    ],
-    "warnings": []
+    "hostnames": [],
+    "error": "All nameservers failed to answer the query uimp.es. IN NS: Server Do53:1.0.0.1@53 answered SERVFAIL"
   },
   "mx": {
-    "hosts": [],
-    "error": "All nameservers failed to answer the query uimp.es. IN MX: Server Do53:1.0.0.1@53 answered SERVFAIL"
+    "hosts": [
+      {
+        "preference": 1,
+        "hostname": "aspmx.l.google.com",
+        "addresses": [
+          "142.251.2.26",
+          "2607:f8b0:4023:c0d::1a"
+        ]
+      },
+      {
+        "preference": 5,
+        "hostname": "alt1.aspmx.l.google.com",
+        "addresses": [
+          "108.177.104.26",
+          "2607:f8b0:4003:c04::1a"
+        ]
+      },
+      {
+        "preference": 5,
+        "hostname": "alt2.aspmx.l.google.com",
+        "addresses": [
+          "2607:f8b0:4001:c1d::1b",
+          "74.125.126.26"
+        ]
+      },
+      {
+        "preference": 10,
+        "hostname": "alt3.aspmx.l.google.com",
+        "addresses": [
+          "172.253.113.27",
+          "2607:f8b0:4023:1::1b"
+        ]
+      },
+      {
+        "preference": 10,
+        "hostname": "alt4.aspmx.l.google.com",
+        "addresses": [
+          "173.194.77.26",
+          "2607:f8b0:4023:401::1b"
+        ]
+      }
+    ],
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 include:uimp.ip-zone.com include:_spf.google.com a mx -all",
     "valid": true,
     "dns_lookups": 7,
-    "warnings": [
-      "All nameservers failed to answer the query uimp.es. IN MX: Server Do53:1.0.0.1@53 answered SERVFAIL"
-    ],
+    "warnings": [],
     "parsed": {
       "pass": [
         {
           "value": "212.128.111.246",
           "mechanism": "a"
+        },
+        {
+          "value": "aspmx.l.google.com",
+          "mechanism": "mx"
+        },
+        {
+          "value": "alt1.aspmx.l.google.com",
+          "mechanism": "mx"
+        },
+        {
+          "value": "alt2.aspmx.l.google.com",
+          "mechanism": "mx"
+        },
+        {
+          "value": "alt3.aspmx.l.google.com",
+          "mechanism": "mx"
+        },
+        {
+          "value": "alt4.aspmx.l.google.com",
+          "mechanism": "mx"
         }
       ],
       "neutral": [],

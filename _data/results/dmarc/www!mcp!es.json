@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "dns1.serv513734.servidoresdns.net",
-      "dns2.serv513734.servidoresdns.net"
+      "dns2.serv513734.servidoresdns.net",
+      "dns1.serv513734.servidoresdns.net"
     ],
     "warnings": []
   },
@@ -21,7 +21,9 @@
       {
         "preference": 90,
         "hostname": "as.solsenet.com",
-        "addresses": []
+        "addresses": [
+          "77.229.94.207"
+        ]
       },
       {
         "preference": 100,
@@ -30,7 +32,6 @@
       }
     ],
     "warnings": [
-      "The domain as.solsenet.com does not exist",
       "The domain pruebamx.mcp.es does not exist"
     ]
   },

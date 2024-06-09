@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "a-ns.primari.net",
-      "b-ns.primari.net"
+      "b-ns.primari.net",
+      "a-ns.primari.net"
     ],
     "warnings": []
   },
@@ -15,8 +15,8 @@
         "preference": 1,
         "hostname": "aspmx.l.google.com",
         "addresses": [
-          "2607:f8b0:4023:c0d::1b",
-          "74.125.137.26"
+          "142.251.2.26",
+          "2607:f8b0:4023:c0b::1b"
         ]
       },
       {
@@ -24,7 +24,7 @@
         "hostname": "alt1.aspmx.l.google.com",
         "addresses": [
           "108.177.104.27",
-          "2607:f8b0:4003:c04::1b"
+          "2607:f8b0:4003:c04::1a"
         ]
       },
       {
@@ -40,42 +40,27 @@
         "hostname": "alt3.aspmx.l.google.com",
         "addresses": [
           "172.253.113.27",
-          "2607:f8b0:4023:1::1b"
+          "2607:f8b0:4023:1::1a"
         ]
       },
       {
         "preference": 10,
         "hostname": "alt4.aspmx.l.google.com",
         "addresses": [
-          "173.194.77.26",
+          "173.194.77.27",
           "2607:f8b0:4023:401::1b"
-        ]
-      },
-      {
-        "preference": 10,
-        "hostname": "correo.utrera.org",
-        "addresses": [
-          "195.53.27.99"
-        ]
-      },
-      {
-        "preference": 10,
-        "hostname": "smail.utrera.org",
-        "addresses": [
-          "195.53.27.99"
         ]
       }
     ],
     "warnings": []
   },
   "spf": {
-    "record": "v=spf1 mx ip4:195.53.27.99 a:smail.utrera.org include:_spf.google.com include:98.red-195-53-27.customer.static.ccgg.telefonica.net ~all",
+    "record": null,
     "valid": false,
-    "warnings": [],
-    "error": "The domain 98.red-195-53-27.customer.static.ccgg.telefonica.net does not exist"
+    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
   },
   "dmarc": {
-    "record": "v=DMARC1; p=reject; rua=mailto:dmarc@utrera.org",
+    "record": "v=DMARC1; p=none; rua=mailto:dmarc@utrera.org",
     "valid": true,
     "location": "utrera.org",
     "warnings": [],
@@ -85,7 +70,7 @@
         "explicit": true
       },
       "p": {
-        "value": "reject",
+        "value": "none",
         "explicit": true
       },
       "rua": {
@@ -127,7 +112,7 @@
         "explicit": false
       },
       "sp": {
-        "value": "reject",
+        "value": "none",
         "explicit": false
       }
     }
