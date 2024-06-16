@@ -1,18 +1,17 @@
 {
   "domain": "inmujer.es",
   "base_domain": "inmujer.es",
-  "dnssec": false,
+  "dnssec": true,
   "ns": {
     "hostnames": [
-      "mailhost.msc.es",
-      "artemis.ttd.net",
-      "crdserver.msc.es"
+      "ns1.age.gob.es",
+      "ns2.age.gob.es"
     ],
     "warnings": []
   },
   "mx": {
     "hosts": [],
-    "error": "All nameservers failed to answer the query inmujer.es. IN MX: Server Do53:1.0.0.1@53 answered SERVFAIL"
+    "error": "All nameservers failed to answer the query 52.250.230.91.in-addr.arpa. IN PTR: Server Do53:1.0.0.1@53 answered SERVFAIL"
   },
   "spf": {
     "record": null,

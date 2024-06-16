@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns1.dnsxperta.com",
-      "ns2.dnsxperta.com"
+      "ns2.dnsxperta.com",
+      "ns1.dnsxperta.com"
     ],
     "warnings": []
   },
@@ -17,7 +17,7 @@
         "addresses": [
           "52.101.68.18",
           "52.101.68.39",
-          "52.101.73.26",
+          "52.101.68.8",
           "52.101.73.4"
         ]
       },
