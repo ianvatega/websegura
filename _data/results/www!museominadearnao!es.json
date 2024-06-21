@@ -1,28 +1,28 @@
 {
   "algorithm_version": 3,
-  "end_time": "Tue, 18 Jun 2024 01:00:44 GMT",
+  "end_time": "Fri, 21 Jun 2024 00:59:11 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "Keep-Alive",
     "Content-Encoding": "gzip",
-    "Content-Length": "31350",
+    "Content-Length": "31318",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Tue, 18 Jun 2024 01:00:33 GMT",
+    "Date": "Fri, 21 Jun 2024 00:58:59 GMT",
     "Keep-Alive": "timeout=5, max=100",
     "Link": "<http://museominadearnao.es/wp-json/>; rel=\"https://api.w.org/\", <http://museominadearnao.es/wp-json/wp/v2/pages/48>; rel=\"alternate\"; type=\"application/json\", <http://museominadearnao.es/>; rel=shortlink",
     "Server": "Apache",
-    "Set-Cookie": "cookiesession1=678ADA62DD32F6102E8353895973A444;Expires=Wed, 18 Jun 2025 01:08:46 GMT;Path=/;HttpOnly",
+    "Set-Cookie": "cookiesession1=678ADA622D700840DE5492EE1B146BCC;Expires=Sat, 21 Jun 2025 01:07:16 GMT;Path=/;HttpOnly",
     "Vary": "Accept-Encoding",
-    "X-Frame-Options": "SAMEORIGIN"
+    "X-Frame-Options": "SAMEORIGIN, SAMEORIGIN"
   },
-  "scan_id": 52392168,
+  "scan_id": 52515794,
   "score": 0,
-  "start_time": "Tue, 18 Jun 2024 01:00:30 GMT",
+  "start_time": "Fri, 21 Jun 2024 00:58:56 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 6,
-  "tests_passed": 5,
+  "tests_failed": 7,
+  "tests_passed": 4,
   "tests_quantity": 11
 }

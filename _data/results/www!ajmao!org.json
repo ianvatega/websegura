@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Wed, 19 Jun 2024 00:12:15 GMT",
+  "end_time": "Fri, 21 Jun 2024 00:59:04 GMT",
   "grade": "B",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Content-Encoding": "gzip",
     "Content-Length": "2711",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Wed, 19 Jun 2024 00:12:14 GMT",
+    "Date": "Fri, 21 Jun 2024 00:59:03 GMT",
     "Server": "Microsoft-IIS/10.0",
     "Strict-Transport-Security": "max-age=31536000",
     "Vary": "Accept-Encoding",
@@ -18,9 +18,9 @@
     "X-Permitted-Cross-Domain-Policies": "master-only",
     "X-XSS-Protection": "0"
   },
-  "scan_id": 52431028,
+  "scan_id": 52515810,
   "score": 75,
-  "start_time": "Wed, 19 Jun 2024 00:12:13 GMT",
+  "start_time": "Fri, 21 Jun 2024 00:59:02 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 1,
