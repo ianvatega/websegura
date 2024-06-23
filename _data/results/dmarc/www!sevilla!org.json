@@ -4,10 +4,10 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns3.dinahosting.com",
       "ns4.dinahosting.com",
       "ns.dinahosting.com",
-      "ns2.dinahosting.com"
+      "ns2.dinahosting.com",
+      "ns3.dinahosting.com"
     ],
     "warnings": []
   },
@@ -17,8 +17,8 @@
         "preference": 1,
         "hostname": "aspmx.l.google.com",
         "addresses": [
-          "142.250.101.27",
-          "2607:f8b0:4023:c0d::1a"
+          "142.251.2.27",
+          "2607:f8b0:4023:c06::1a"
         ]
       },
       {
@@ -41,8 +41,8 @@
         "preference": 10,
         "hostname": "alt3.aspmx.l.google.com",
         "addresses": [
-          "172.253.113.27",
-          "2607:f8b0:4023:1::1a"
+          "172.253.113.26",
+          "2607:f8b0:4023:1::1b"
         ]
       },
       {
@@ -50,7 +50,7 @@
         "hostname": "alt4.aspmx.l.google.com",
         "addresses": [
           "173.194.77.27",
-          "2607:f8b0:4023:401::1b"
+          "2607:f8b0:4023:401::1a"
         ]
       }
     ],

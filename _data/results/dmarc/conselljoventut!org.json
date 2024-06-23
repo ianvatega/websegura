@@ -4,10 +4,10 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns4.dinahosting.com",
       "ns.dinahosting.com",
       "ns3.dinahosting.com",
-      "ns2.dinahosting.com"
+      "ns2.dinahosting.com",
+      "ns4.dinahosting.com"
     ],
     "warnings": []
   },
@@ -17,7 +17,7 @@
         "preference": 10,
         "hostname": "aspmx.l.google.com",
         "addresses": [
-          "142.250.141.27",
+          "142.251.2.26",
           "2607:f8b0:4023:c0d::1b"
         ]
       },

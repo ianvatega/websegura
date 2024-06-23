@@ -10,16 +10,8 @@
     "warnings": []
   },
   "mx": {
-    "hosts": [
-      {
-        "preference": 0,
-        "hostname": "correo.ayto-sobrescobio.es",
-        "addresses": [
-          "37.153.90.131"
-        ]
-      }
-    ],
-    "warnings": []
+    "hosts": [],
+    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
   },
   "spf": {
     "record": "v=spf1 ip4:37.153.90.131 +mx +a +ip4:37.153.90.139 ~all",

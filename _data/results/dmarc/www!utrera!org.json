@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "b-ns.primari.net",
-      "a-ns.primari.net"
+      "a-ns.primari.net",
+      "b-ns.primari.net"
     ],
     "warnings": []
   },
@@ -21,23 +21,11 @@
     "parsed": {
       "pass": [
         {
-          "value": "aspmx.l.google.com",
+          "value": "correo.utrera.org",
           "mechanism": "mx"
         },
         {
-          "value": "alt1.aspmx.l.google.com",
-          "mechanism": "mx"
-        },
-        {
-          "value": "alt2.aspmx.l.google.com",
-          "mechanism": "mx"
-        },
-        {
-          "value": "alt3.aspmx.l.google.com",
-          "mechanism": "mx"
-        },
-        {
-          "value": "alt4.aspmx.l.google.com",
+          "value": "smail.utrera.org",
           "mechanism": "mx"
         },
         {
@@ -236,9 +224,61 @@
     }
   },
   "dmarc": {
-    "record": null,
-    "valid": false,
-    "location": null,
-    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    "record": "v=DMARC1;p=none;rua=mailto:dmarc@utrera.org",
+    "valid": true,
+    "location": "utrera.org",
+    "warnings": [],
+    "tags": {
+      "v": {
+        "value": "DMARC1",
+        "explicit": true
+      },
+      "p": {
+        "value": "none",
+        "explicit": true
+      },
+      "rua": {
+        "value": [
+          {
+            "scheme": "mailto",
+            "address": "dmarc@utrera.org",
+            "size_limit": null
+          }
+        ],
+        "explicit": true
+      },
+      "adkim": {
+        "value": "r",
+        "explicit": false
+      },
+      "aspf": {
+        "value": "r",
+        "explicit": false
+      },
+      "fo": {
+        "value": [
+          "0"
+        ],
+        "explicit": false
+      },
+      "pct": {
+        "value": 100,
+        "explicit": false
+      },
+      "rf": {
+        "value": [
+          "afrf"
+        ],
+        "explicit": false
+      },
+      "ri": {
+        "value": 86400,
+        "explicit": false
+      },
+      "sp": {
+        "value": "none",
+        "explicit": false
+      }
+    }
   }
 }

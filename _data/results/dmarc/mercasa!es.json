@@ -5,8 +5,8 @@
   "ns": {
     "hostnames": [
       "ns4.gestiondecuenta.com",
-      "ns.gestiondecuenta.com",
       "ns2.gestiondecuenta.com",
+      "ns.gestiondecuenta.com",
       "ns3.gestiondecuenta.com"
     ],
     "warnings": []
@@ -17,10 +17,10 @@
         "preference": 10,
         "hostname": "mercasa-es.mail.protection.outlook.com",
         "addresses": [
-          "52.101.68.15",
-          "52.101.68.36",
-          "52.101.68.5",
-          "52.101.73.15"
+          "52.101.68.0",
+          "52.101.68.18",
+          "52.101.68.27",
+          "52.101.73.6"
         ]
       }
     ],
