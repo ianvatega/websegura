@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Thu, 20 Jun 2024 00:44:26 GMT",
+  "end_time": "Mon, 24 Jun 2024 01:00:44 GMT",
   "grade": "D",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,12 +8,12 @@
     "Connection": "close",
     "Content-length": "142",
     "Content-type": "text/html",
-    "Date": "Thu, 20 Jun 2024 00:44:22 GMT",
+    "Date": "Mon, 24 Jun 2024 01:00:41 GMT",
     "Server": "server-header-none"
   },
-  "scan_id": 52474183,
+  "scan_id": 52625041,
   "score": 30,
-  "start_time": "Thu, 20 Jun 2024 00:44:15 GMT",
+  "start_time": "Mon, 24 Jun 2024 01:00:33 GMT",
   "state": "FINISHED",
   "status_code": 403,
   "tests_failed": 4,

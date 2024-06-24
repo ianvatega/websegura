@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Thu, 20 Jun 2024 00:58:20 GMT",
+  "end_time": "Mon, 24 Jun 2024 01:00:50 GMT",
   "grade": "D",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Connection": "Upgrade, Keep-Alive",
     "Content-Type": "text/html; charset=UTF-8",
     "Content-language": "es",
-    "Date": "Wed, 19 Jun 2024 12:38:51 GMT",
+    "Date": "Sat, 22 Jun 2024 08:58:52 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Keep-Alive": "timeout=5, max=100",
     "Server": "Apache",
@@ -22,9 +22,9 @@
     "X-Generator": "Drupal 9 (https://www.drupal.org)",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 52474806,
+  "scan_id": 52625061,
   "score": 30,
-  "start_time": "Thu, 20 Jun 2024 00:58:12 GMT",
+  "start_time": "Mon, 24 Jun 2024 01:00:44 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
