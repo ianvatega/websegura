@@ -124,5 +124,19 @@
     "grade": "D-",
     "scan_id": 52392042,
     "score": 25
+  },
+  {
+    "end_time": "Mon, 24 Jun 2024 00:46:30 GMT",
+    "end_time_unix_timestamp": 1719189990,
+    "grade": "F",
+    "scan_id": 52624612,
+    "score": 0
+  },
+  {
+    "end_time": "Wed, 26 Jun 2024 01:00:54 GMT",
+    "end_time_unix_timestamp": 1719363654,
+    "grade": "D-",
+    "scan_id": 52708611,
+    "score": 25
   }
 ]

@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sat, 22 Jun 2024 00:58:19 GMT",
+  "end_time": "Wed, 26 Jun 2024 01:00:11 GMT",
   "grade": "D",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -11,7 +11,7 @@
     "Content-Encoding": "gzip",
     "Content-Language": "es",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Sat, 22 Jun 2024 00:58:12 GMT",
+    "Date": "Wed, 26 Jun 2024 01:00:07 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Link": "<http://www.consorciossnord.es/es>; rel=\"canonical\",<http://www.consorciossnord.es/es>; rel=\"shortlink\"",
     "Server": "nginx/1.12.2",
@@ -21,11 +21,11 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-Generator": "Drupal 7 (http://drupal.org)",
     "X-Proxy-Cache": "MISS",
-    "X-Request-ID": "6aca06addb7f74b618adcee39fb156dd"
+    "X-Request-ID": "107caa3a7225be72427f5e8a76581909"
   },
-  "scan_id": 52554559,
+  "scan_id": 52708204,
   "score": 35,
-  "start_time": "Sat, 22 Jun 2024 00:58:06 GMT",
+  "start_time": "Wed, 26 Jun 2024 01:00:03 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 3,
