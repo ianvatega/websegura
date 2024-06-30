@@ -4,10 +4,10 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns2.dinahosting.com",
       "ns4.dinahosting.com",
+      "ns3.dinahosting.com",
       "ns.dinahosting.com",
-      "ns3.dinahosting.com"
+      "ns2.dinahosting.com"
     ],
     "warnings": []
   },
@@ -19,8 +19,8 @@
         "addresses": [
           "52.101.68.21",
           "52.101.68.25",
-          "52.101.73.16",
-          "52.101.73.21"
+          "52.101.68.27",
+          "52.101.73.16"
         ]
       }
     ],

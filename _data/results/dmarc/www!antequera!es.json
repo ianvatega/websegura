@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "sdns2.ovh.net",
-      "ns3053579.ip-137-74-93.eu"
+      "ns3053579.ip-137-74-93.eu",
+      "sdns2.ovh.net"
     ],
     "warnings": []
   },
@@ -13,21 +13,29 @@
     "hosts": [
       {
         "preference": 10,
-        "hostname": "antequera-es.mail.protection.outlook.com",
+        "hostname": "d333539.a.ess.de.barracudanetworks.com",
         "addresses": [
-          "52.101.68.16",
-          "52.101.68.36",
-          "52.101.73.28",
-          "52.101.73.4"
+          "18.185.115.250",
+          "18.185.115.251",
+          "18.185.115.252"
+        ]
+      },
+      {
+        "preference": 20,
+        "hostname": "d333539.b.ess.de.barracudanetworks.com",
+        "addresses": [
+          "18.185.115.250",
+          "18.185.115.251",
+          "18.185.115.252"
         ]
       }
     ],
     "warnings": []
   },
   "spf": {
-    "record": "v=spf1 ip4:195.77.81.170 ip4:195.77.81.171 ip4:195.77.81.172 include:spf.protection.outlook.com include:spf.EU.exclaimer.net ~all",
+    "record": "v=spf1 ip4:195.77.81.170 ip4:195.77.81.171 ip4:195.77.81.172 include:spf.protection.outlook.com include:spf.EU.exclaimer.net  include:spf.ess.de.barracudanetworks.com -all",
     "valid": true,
-    "dns_lookups": 2,
+    "dns_lookups": 3,
     "warnings": [],
     "parsed": {
       "pass": [
@@ -133,79 +141,46 @@
             "all": "softfail"
           },
           "warnings": []
+        },
+        {
+          "domain": "spf.ess.de.barracudanetworks.com",
+          "record": "v=spf1 ip4:35.157.190.224/27 ip4:18.185.115.192/26 ip4:18.184.203.224/27 -all",
+          "dns_lookups": 0,
+          "parsed": {
+            "pass": [
+              {
+                "value": "35.157.190.224/27",
+                "mechanism": "ip4"
+              },
+              {
+                "value": "18.185.115.192/26",
+                "mechanism": "ip4"
+              },
+              {
+                "value": "18.184.203.224/27",
+                "mechanism": "ip4"
+              }
+            ],
+            "neutral": [],
+            "softfail": [],
+            "fail": [],
+            "include": [],
+            "redirect": null,
+            "exp": null,
+            "all": "fail"
+          },
+          "warnings": []
         }
       ],
       "redirect": null,
       "exp": null,
-      "all": "softfail"
+      "all": "fail"
     }
   },
   "dmarc": {
-    "record": "v=DMARC1; p=reject; fo=1; rua=mailto:rua+antequera.es@dmarc.barracudanetworks.com; ruf=mailto:ruf+antequera.es@dmarc.barracudanetworks.com",
-    "valid": true,
-    "location": "antequera.es",
-    "warnings": [],
-    "tags": {
-      "v": {
-        "value": "DMARC1",
-        "explicit": true
-      },
-      "p": {
-        "value": "reject",
-        "explicit": true
-      },
-      "fo": {
-        "value": [
-          "1"
-        ],
-        "explicit": true
-      },
-      "rua": {
-        "value": [
-          {
-            "scheme": "mailto",
-            "address": "rua+antequera.es@dmarc.barracudanetworks.com",
-            "size_limit": null
-          }
-        ],
-        "explicit": true
-      },
-      "ruf": {
-        "value": [
-          {
-            "scheme": "mailto",
-            "address": "ruf+antequera.es@dmarc.barracudanetworks.com",
-            "size_limit": null
-          }
-        ],
-        "explicit": true
-      },
-      "adkim": {
-        "value": "r",
-        "explicit": false
-      },
-      "aspf": {
-        "value": "r",
-        "explicit": false
-      },
-      "pct": {
-        "value": 100,
-        "explicit": false
-      },
-      "rf": {
-        "value": [
-          "afrf"
-        ],
-        "explicit": false
-      },
-      "ri": {
-        "value": 86400,
-        "explicit": false
-      },
-      "sp": {
-        "value": "reject",
-        "explicit": false
-      }
-    }
+    "record": null,
+    "valid": false,
+    "location": null,
+    "error": "Multiple DMARC policy records are not permitted - https://tools.ietf.org/html/rfc7489#section-6.6.3"
   }
 }

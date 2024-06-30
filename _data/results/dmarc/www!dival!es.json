@@ -17,22 +17,27 @@
         "preference": 4,
         "hostname": "dival-es.mail.protection.outlook.com",
         "addresses": [
+          "52.101.68.3",
           "52.101.68.32",
-          "52.101.68.5",
-          "52.101.73.15",
-          "52.101.73.19"
+          "52.101.73.16",
+          "52.101.73.22"
         ]
       }
     ],
     "warnings": []
   },
   "spf": {
-    "record": "v=spf1 include:mta.gva.es include:mtallistes.gva.es include:spf.difusio.gva.es include:spf.protection.outlook.com -all",
+    "record": "v=spf1 include:mta.gva.es include:mtallistes.gva.es include:spf.difusio.gva.es include:spf.protection.outlook.com ip4:213.4.84.57 -all",
     "valid": true,
     "dns_lookups": 6,
     "warnings": [],
     "parsed": {
-      "pass": [],
+      "pass": [
+        {
+          "value": "213.4.84.57",
+          "mechanism": "ip4"
+        }
+      ],
       "neutral": [],
       "softfail": [],
       "fail": [],

@@ -286,7 +286,7 @@
     }
   },
   "dmarc": {
-    "record": "v=DMARC1; p=quarantine;aspf=r;",
+    "record": "v=DMARC1;p=quarantine;aspf=r;",
     "valid": true,
     "location": "ico.es",
     "warnings": [

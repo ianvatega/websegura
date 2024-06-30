@@ -10,31 +10,84 @@
     "warnings": []
   },
   "mx": {
-    "hosts": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    "hosts": [
+      {
+        "preference": 1,
+        "hostname": "aspmx.l.google.com",
+        "addresses": [
+          "142.251.176.26",
+          "2607:f8b0:4023:1402::1a"
+        ]
+      },
+      {
+        "preference": 5,
+        "hostname": "alt1.aspmx.l.google.com",
+        "addresses": [
+          "108.177.12.27",
+          "2607:f8b0:400c:c08::1a"
+        ]
+      },
+      {
+        "preference": 5,
+        "hostname": "alt2.aspmx.l.google.com",
+        "addresses": [
+          "172.253.62.26",
+          "2607:f8b0:4004:c07::1a"
+        ]
+      },
+      {
+        "preference": 10,
+        "hostname": "alt3.aspmx.l.google.com",
+        "addresses": [
+          "2800:3f0:4003:c00::1a",
+          "64.233.186.27"
+        ]
+      },
+      {
+        "preference": 10,
+        "hostname": "alt4.aspmx.l.google.com",
+        "addresses": [
+          "209.85.202.26",
+          "2a00:1450:400b:c00::1a"
+        ]
+      }
+    ],
+    "warnings": [
+      "2800:3f0:4003:c00::1a does not have any reverse DNS (PTR) records"
+    ]
   },
   "spf": {
     "record": "v=spf1 mx ip4:195.53.27.99 a:smail.utrera.org include:_spf.google.com ~all",
     "valid": true,
     "dns_lookups": 6,
-    "warnings": [],
+    "warnings": [
+      "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    ],
     "parsed": {
       "pass": [
         {
-          "value": "correo.utrera.org",
+          "value": "aspmx.l.google.com",
           "mechanism": "mx"
         },
         {
-          "value": "smail.utrera.org",
+          "value": "alt1.aspmx.l.google.com",
+          "mechanism": "mx"
+        },
+        {
+          "value": "alt2.aspmx.l.google.com",
+          "mechanism": "mx"
+        },
+        {
+          "value": "alt3.aspmx.l.google.com",
+          "mechanism": "mx"
+        },
+        {
+          "value": "alt4.aspmx.l.google.com",
           "mechanism": "mx"
         },
         {
           "value": "195.53.27.99",
           "mechanism": "ip4"
-        },
-        {
-          "value": "195.53.27.99",
-          "mechanism": "a"
         }
       ],
       "neutral": [],
@@ -224,7 +277,7 @@
     }
   },
   "dmarc": {
-    "record": "v=DMARC1;p=none;rua=mailto:dmarc@utrera.org",
+    "record": "v=DMARC1; p=none; rua=mailto:dmarc@utrera.org",
     "valid": true,
     "location": "utrera.org",
     "warnings": [],
