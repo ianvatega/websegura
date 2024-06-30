@@ -1,7 +1,7 @@
 {
   "algorithm_version": 3,
-  "end_time": "Fri, 28 Jun 2024 00:12:21 GMT",
-  "grade": "C",
+  "end_time": "Sun, 30 Jun 2024 01:05:10 GMT",
+  "grade": "D",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
     "Content-language": "es",
-    "Date": "Fri, 28 Jun 2024 00:12:17 GMT",
+    "Date": "Sun, 30 Jun 2024 01:05:07 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Keep-Alive": "timeout=15",
     "Server": "Apache",
@@ -22,12 +22,12 @@
     "X-Generator": "Drupal 9 (https://www.drupal.org)",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 52784622,
-  "score": 50,
-  "start_time": "Fri, 28 Jun 2024 00:12:16 GMT",
+  "scan_id": 52858069,
+  "score": 30,
+  "start_time": "Sun, 30 Jun 2024 01:05:05 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 3,
-  "tests_passed": 8,
+  "tests_failed": 4,
+  "tests_passed": 7,
   "tests_quantity": 11
 }
