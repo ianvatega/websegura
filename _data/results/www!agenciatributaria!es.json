@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sat, 29 Jun 2024 00:58:29 GMT",
+  "end_time": "Mon, 01 Jul 2024 00:52:22 GMT",
   "grade": "B",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "content-length": "64249",
     "content-security-policy": "frame-ancestors 'self' *.agenciatributaria.gob.es",
     "content-type": "text/html",
-    "date": "Sat, 29 Jun 2024 00:58:28 GMT",
+    "date": "Mon, 01 Jul 2024 00:52:20 GMT",
     "last-modified": "Fri, 28 Jun 2024 22:04:11 GMT",
     "server": "Apache",
     "strict-transport-security": "max-age=31536000; includeSubDomains",
@@ -17,9 +17,9 @@
     "x-site": "Sede",
     "x-xss-protection": "1; mode=block"
   },
-  "scan_id": 52824140,
+  "scan_id": 52894298,
   "score": 75,
-  "start_time": "Sat, 29 Jun 2024 00:58:20 GMT",
+  "start_time": "Mon, 01 Jul 2024 00:52:12 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 2,

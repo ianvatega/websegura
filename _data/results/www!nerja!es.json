@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sat, 29 Jun 2024 00:12:42 GMT",
+  "end_time": "Mon, 01 Jul 2024 01:06:53 GMT",
   "grade": "B-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Content-Encoding": "gzip",
     "Content-Length": "19789",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Sat, 29 Jun 2024 00:12:39 GMT",
+    "Date": "Mon, 01 Jul 2024 01:06:49 GMT",
     "Keep-Alive": "timeout=5, max=100",
     "Link": "<https://www.nerja.es/wp-json/>; rel=\"https://api.w.org/\", <https://www.nerja.es/wp-json/wp/v2/pages/21>; rel=\"alternate\"; type=\"application/json\", <https://www.nerja.es/>; rel=shortlink",
     "Server": "Apache",
@@ -18,9 +18,9 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 52822874,
+  "scan_id": 52894903,
   "score": 65,
-  "start_time": "Sat, 29 Jun 2024 00:12:38 GMT",
+  "start_time": "Mon, 01 Jul 2024 01:06:48 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 3,

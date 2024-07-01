@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sat, 29 Jun 2024 00:12:24 GMT",
+  "end_time": "Mon, 01 Jul 2024 01:06:42 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,12 +8,12 @@
     "Connection": "keep-alive",
     "Content-Length": "118",
     "Content-Type": "text/html",
-    "Date": "Sat, 29 Jun 2024 00:12:23 GMT",
+    "Date": "Mon, 01 Jul 2024 01:06:41 GMT",
     "Server": "awselb/2.0"
   },
-  "scan_id": 52822844,
+  "scan_id": 52894880,
   "score": 10,
-  "start_time": "Sat, 29 Jun 2024 00:12:23 GMT",
+  "start_time": "Mon, 01 Jul 2024 01:06:40 GMT",
   "state": "FINISHED",
   "status_code": 403,
   "tests_failed": 5,
