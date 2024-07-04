@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Mon, 01 Jul 2024 01:07:33 GMT",
+  "end_time": "Thu, 04 Jul 2024 00:59:44 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,16 +9,16 @@
     "Connection": "Keep-Alive",
     "Content-Length": "148",
     "Content-Type": "text/html",
-    "Date": "Mon, 01 Jul 2024 01:07:32 GMT",
+    "Date": "Thu, 04 Jul 2024 00:59:43 GMT",
     "ETag": "\"94-5233d7d41e140\"",
     "HN": "z6",
     "Keep-Alive": "timeout=5, max=100",
     "Last-Modified": "Thu, 29 Oct 2015 12:31:25 GMT",
-    "Set-Cookie": "FGMDA38277e11=3850f80e0d290052e56453d636240367319500b24226b32b55f2b73b84ff711abcc8db33d6ce11327f8a21022c05f0285bb3977369; Path=/; Domain=.www.juntaelectoralcentral.es; Secure; HTTPOnly"
+    "Set-Cookie": "FGMDA38277e11=3850f80e0dae4ac0c315b79cbecf9a7b8cfde43340b7f48d402fbb2ebfa98817b23134747f947471481434cd586e623fe846c45fd3; Path=/; Domain=.www.juntaelectoralcentral.es; Secure; HTTPOnly"
   },
-  "scan_id": 52895014,
+  "scan_id": 53017099,
   "score": 10,
-  "start_time": "Mon, 01 Jul 2024 01:07:30 GMT",
+  "start_time": "Thu, 04 Jul 2024 00:59:42 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
