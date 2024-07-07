@@ -1,12 +1,11 @@
 {
   "domain": "eugo.es",
   "base_domain": "eugo.es",
-  "dnssec": false,
+  "dnssec": true,
   "ns": {
     "hostnames": [
-      "sun.rediris.es",
-      "chico.rediris.es",
-      "dns.serviciosmin.gob.es"
+      "ns1.age.gob.es",
+      "ns2.age.gob.es"
     ],
     "warnings": []
   },

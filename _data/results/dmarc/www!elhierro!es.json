@@ -17,24 +17,24 @@
         "preference": 1,
         "hostname": "elhierro-es.mail.protection.outlook.com",
         "addresses": [
-          "52.101.68.3",
-          "52.101.68.32",
-          "52.101.68.39",
-          "52.101.73.19"
+          "52.101.68.36",
+          "52.101.73.1",
+          "52.101.73.12",
+          "52.101.73.24"
         ]
       },
       {
         "preference": 10,
         "hostname": "mxa.mailgun.org",
         "addresses": [
-          "34.149.236.64"
+          "34.160.63.108"
         ]
       },
       {
         "preference": 60,
         "hostname": "mxb.mailgun.org",
         "addresses": [
-          "34.160.157.95"
+          "34.160.13.42"
         ]
       }
     ],

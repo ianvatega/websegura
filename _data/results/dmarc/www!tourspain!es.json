@@ -1,18 +1,17 @@
 {
   "domain": "tourspain.es",
   "base_domain": "tourspain.es",
-  "dnssec": false,
+  "dnssec": true,
   "ns": {
     "hostnames": [
-      "sun.rediris.es",
-      "dns.serviciosmin.gob.es",
-      "chico.rediris.es"
+      "ns1.age.gob.es",
+      "ns2.age.gob.es"
     ],
     "warnings": []
   },
   "mx": {
     "hosts": [],
-    "error": "All nameservers failed to answer the query 230.123.146.193.in-addr.arpa. IN PTR: Server Do53:1.0.0.1@53 answered SERVFAIL"
+    "error": "All nameservers failed to answer the query 234.123.146.193.in-addr.arpa. IN PTR: Server Do53:1.0.0.1@53 answered SERVFAIL"
   },
   "spf": {
     "record": "v=spf1 include:spf.serviciosmin.gob.es ip4:54.240.50.203 include:marketing.dynamics.com include:spf.protection.outlook.com ~all",

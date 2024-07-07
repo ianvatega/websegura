@@ -17,10 +17,10 @@
         "preference": 5,
         "hostname": "circuitricardotormo-com.mail.protection.outlook.com",
         "addresses": [
-          "52.101.68.0",
-          "52.101.68.39",
-          "52.101.73.1",
-          "52.101.73.30"
+          "52.101.68.10",
+          "52.101.68.29",
+          "52.101.68.8",
+          "52.101.73.8"
         ]
       },
       {
@@ -73,19 +73,19 @@
           "mechanism": "ip4"
         },
         {
-          "value": "3.162.163.32",
+          "value": "18.239.199.101",
           "mechanism": "a"
         },
         {
-          "value": "3.162.163.33",
+          "value": "18.239.199.107",
           "mechanism": "a"
         },
         {
-          "value": "3.162.163.60",
+          "value": "18.239.199.128",
           "mechanism": "a"
         },
         {
-          "value": "3.162.163.9",
+          "value": "18.239.199.83",
           "mechanism": "a"
         }
       ],

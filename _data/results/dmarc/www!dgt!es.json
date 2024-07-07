@@ -14,7 +14,10 @@
       {
         "preference": 10,
         "hostname": "mail1.correo.gob.es",
-        "addresses": []
+        "addresses": [
+          "185.73.172.122",
+          "185.73.172.123"
+        ]
       },
       {
         "preference": 10,
@@ -25,9 +28,7 @@
         ]
       }
     ],
-    "warnings": [
-      "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 mx ip4:212.128.100.149 ip4:212.128.100.150 a:spf.correo.gob.es -all",
