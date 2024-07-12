@@ -1,23 +1,26 @@
 {
   "algorithm_version": 3,
-  "end_time": "Wed, 10 Jul 2024 01:02:10 GMT",
-  "grade": "D",
+  "end_time": "Fri, 12 Jul 2024 00:13:19 GMT",
+  "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Accept-Encoding": "gzip",
-    "Content-Length": "1202",
-    "Content-Type": "text/html",
-    "Date": "Wed, 10 Jul 2024 01:02:00 GMT",
+    "Content-Encoding": "gzip",
+    "Content-Length": "21714",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Date": "Fri, 12 Jul 2024 00:13:03 GMT",
+    "Link": "<https://www.animsa.es/wp-json/>; rel=\"https://api.w.org/\"",
     "Server": "Microsoft-IIS/10.0",
-    "X-Powered-By": "ASP.NET"
+    "Vary": "Accept-Encoding",
+    "X-Powered-By": "PHP/8.1.29, ASP.NET"
   },
-  "scan_id": 53232109,
-  "score": 30,
-  "start_time": "Wed, 10 Jul 2024 01:01:12 GMT",
+  "scan_id": 53302147,
+  "score": 0,
+  "start_time": "Fri, 12 Jul 2024 00:12:54 GMT",
   "state": "FINISHED",
-  "status_code": 500,
-  "tests_failed": 4,
-  "tests_passed": 7,
+  "status_code": 200,
+  "tests_failed": 5,
+  "tests_passed": 6,
   "tests_quantity": 11
 }
