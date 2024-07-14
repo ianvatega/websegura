@@ -4,9 +4,9 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
+      "ns2.csuc.cat",
       "dns.uab.es",
       "ns1.csuc.cat",
-      "ns2.csuc.cat",
       "dns1.uab.es"
     ],
     "warnings": []
@@ -17,10 +17,10 @@
         "preference": 0,
         "hostname": "uab-cat.mail.protection.outlook.com",
         "addresses": [
+          "52.101.68.10",
           "52.101.68.18",
-          "52.101.68.39",
-          "52.101.73.2",
-          "52.101.73.30"
+          "52.101.68.8",
+          "52.101.73.12"
         ]
       }
     ],
@@ -97,7 +97,7 @@
     }
   },
   "dmarc": {
-    "record": "v=DMARC1; p=quarantine; sp=none; pct=100; adkim=r; aspf=r; rua=mailto:dmarc_agg@vali.email",
+    "record": "v=DMARC1; p=quarantine; sp=none; pct=100; adkim=r; aspf=r; rua=mailto:dmarc_agg@vali.email,mailto:dmarc@dmpost1.uab.cat",
     "valid": true,
     "location": "uab.cat",
     "warnings": [],
@@ -131,6 +131,11 @@
           {
             "scheme": "mailto",
             "address": "dmarc_agg@vali.email",
+            "size_limit": null
+          },
+          {
+            "scheme": "mailto",
+            "address": "dmarc@dmpost1.uab.cat",
             "size_limit": null
           }
         ],

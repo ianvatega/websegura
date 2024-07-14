@@ -13,20 +13,28 @@
     "hosts": [
       {
         "preference": 10,
-        "hostname": "mail.zaragoza.es",
+        "hostname": "smtp.google.com",
         "addresses": [
-          "194.224.70.81"
+          "142.251.16.26",
+          "142.251.16.27",
+          "142.251.179.27",
+          "2607:f8b0:4004:c06::1a",
+          "2607:f8b0:4004:c06::1b",
+          "2607:f8b0:4004:c09::1b",
+          "2607:f8b0:4004:c1d::1b",
+          "64.233.180.26",
+          "64.233.180.27"
         ]
       },
       {
         "preference": 20,
-        "hostname": "mail2.zaragoza.es",
-        "addresses": [
-          "194.224.70.72"
-        ]
+        "hostname": "smtp.google.com",
+        "addresses": []
       }
     ],
-    "warnings": []
+    "warnings": [
+      "Hostname smtp.google.com is listed in multiple MX records"
+    ]
   },
   "spf": {
     "record": "v=spf1 ip4:194.224.70.72 ip4:194.224.70.81 ip4:188.244.91.7 include:_spf.google.com -all",
