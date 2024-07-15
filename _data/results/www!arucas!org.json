@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Fri, 12 Jul 2024 00:12:51 GMT",
+  "end_time": "Mon, 15 Jul 2024 00:13:28 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,12 +8,12 @@
     "Connection": "keep-alive",
     "Content-Length": "98",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Fri, 12 Jul 2024 00:12:50 GMT",
+    "Date": "Mon, 15 Jul 2024 00:13:27 GMT",
     "Server": "Apache"
   },
-  "scan_id": 53302144,
+  "scan_id": 53401288,
   "score": 10,
-  "start_time": "Fri, 12 Jul 2024 00:12:50 GMT",
+  "start_time": "Mon, 15 Jul 2024 00:13:26 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
