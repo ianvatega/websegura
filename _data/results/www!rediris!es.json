@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sun, 14 Jul 2024 00:51:52 GMT",
+  "end_time": "Wed, 17 Jul 2024 01:01:13 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Language": "en",
     "Content-Location": "index.php.en",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Sun, 14 Jul 2024 00:51:49 GMT",
+    "Date": "Wed, 17 Jul 2024 01:01:11 GMT",
     "Server": "Apache/2.2.3 (Red Hat)",
     "Set-Cookie": "language=en; path=/; domain=rediris.es",
     "TCN": "choice",
@@ -18,9 +18,9 @@
     "Vary": "negotiate,accept-language",
     "X-Powered-By": "PHP/5.3.27"
   },
-  "scan_id": 53366378,
+  "scan_id": 53480029,
   "score": 5,
-  "start_time": "Sun, 14 Jul 2024 00:51:48 GMT",
+  "start_time": "Wed, 17 Jul 2024 01:01:09 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
