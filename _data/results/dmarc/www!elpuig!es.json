@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns3.dnsxperta.com",
       "ns1.dnsxperta.com",
+      "ns3.dnsxperta.com",
       "ns2.dnsxperta.com"
     ],
     "warnings": []
@@ -16,10 +16,10 @@
         "preference": 0,
         "hostname": "elpuig-es.mail.protection.outlook.com",
         "addresses": [
-          "52.101.68.29",
+          "52.101.68.12",
           "52.101.68.3",
-          "52.101.73.11",
-          "52.101.73.28"
+          "52.101.73.12",
+          "52.101.73.26"
         ]
       },
       {
