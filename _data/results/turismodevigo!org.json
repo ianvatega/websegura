@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Thu, 18 Jul 2024 01:00:13 GMT",
+  "end_time": "Sun, 21 Jul 2024 01:05:53 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Language": "es",
     "Content-Length": "80760",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Thu, 18 Jul 2024 01:00:06 GMT",
+    "Date": "Sun, 21 Jul 2024 01:05:49 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Link": "<https://turismodevigo.org/es>; rel=\"canonical\",<https://turismodevigo.org/es>; rel=\"shortlink\"",
     "Permissions-Policy": "interest-cohort=()",
@@ -20,9 +20,9 @@
     "X-Generator": "Drupal 7 (https://www.drupal.org)",
     "X-Powered-By": "PHP/7.3.33, PleskLin"
   },
-  "scan_id": 53514840,
+  "scan_id": 53614042,
   "score": 5,
-  "start_time": "Thu, 18 Jul 2024 01:00:04 GMT",
+  "start_time": "Sun, 21 Jul 2024 01:05:47 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 3,
