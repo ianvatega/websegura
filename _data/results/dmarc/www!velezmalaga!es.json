@@ -4,11 +4,11 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
+      "ns4.cdmondns-01.org",
       "ns5.cdmondns-01.com",
       "ns3.cdmon.net",
-      "ns4.cdmondns-01.org",
-      "ns1.cdmon.net",
-      "ns2.cdmon.net"
+      "ns2.cdmon.net",
+      "ns1.cdmon.net"
     ],
     "warnings": []
   },
@@ -18,7 +18,7 @@
         "preference": 10,
         "hostname": "mx.spamexperts.com",
         "addresses": [
-          "2001:550:2:78::ca:100",
+          "2001:550:2:9::280:100",
           "38.111.198.185"
         ]
       },
@@ -192,14 +192,6 @@
                 "mechanism": "a"
               },
               {
-                "value": "149.13.73.12",
-                "mechanism": "a"
-              },
-              {
-                "value": "149.13.73.13",
-                "mechanism": "a"
-              },
-              {
                 "value": "149.13.73.29",
                 "mechanism": "a"
               },
@@ -233,14 +225,6 @@
               },
               {
                 "value": "149.13.73.37",
-                "mechanism": "a"
-              },
-              {
-                "value": "149.13.73.4",
-                "mechanism": "a"
-              },
-              {
-                "value": "149.13.73.6",
                 "mechanism": "a"
               },
               {
@@ -325,38 +309,6 @@
               },
               {
                 "value": "154.59.194.252",
-                "mechanism": "a"
-              },
-              {
-                "value": "154.61.86.40",
-                "mechanism": "a"
-              },
-              {
-                "value": "154.61.86.47",
-                "mechanism": "a"
-              },
-              {
-                "value": "154.61.86.49",
-                "mechanism": "a"
-              },
-              {
-                "value": "154.61.86.52",
-                "mechanism": "a"
-              },
-              {
-                "value": "154.61.86.53",
-                "mechanism": "a"
-              },
-              {
-                "value": "154.61.86.54",
-                "mechanism": "a"
-              },
-              {
-                "value": "154.61.86.55",
-                "mechanism": "a"
-              },
-              {
-                "value": "154.61.86.57",
                 "mechanism": "a"
               },
               {
@@ -765,22 +717,6 @@
               },
               {
                 "value": "2001:978:2:7::e7:11",
-                "mechanism": "a"
-              },
-              {
-                "value": "2001:978:2:7::e7:3",
-                "mechanism": "a"
-              },
-              {
-                "value": "2001:978:2:7::e7:4",
-                "mechanism": "a"
-              },
-              {
-                "value": "2001:978:2:7::e7:5",
-                "mechanism": "a"
-              },
-              {
-                "value": "2001:978:2:7::e7:6",
                 "mechanism": "a"
               },
               {

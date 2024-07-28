@@ -4,8 +4,8 @@
   "dnssec": false,
   "ns": {
     "hostnames": [
-      "ns5.grupocesce.es",
-      "ns4.grupocesce.es"
+      "ns4.grupocesce.es",
+      "ns5.grupocesce.es"
     ],
     "warnings": []
   },
@@ -15,8 +15,8 @@
         "preference": 1,
         "hostname": "aspmx.l.google.com",
         "addresses": [
-          "142.250.123.26",
-          "2607:f8b0:4023:1404::1b"
+          "142.251.178.26",
+          "2607:f8b0:4023:140f::1b"
         ]
       },
       {
@@ -32,7 +32,7 @@
         "hostname": "alt2.aspmx.l.google.com",
         "addresses": [
           "172.253.62.27",
-          "2607:f8b0:4004:c07::1a"
+          "2607:f8b0:4004:c07::1b"
         ]
       },
       {
@@ -47,8 +47,8 @@
         "preference": 10,
         "hostname": "aspmx3.googlemail.com",
         "addresses": [
-          "172.253.62.26",
-          "2607:f8b0:4004:c07::1b"
+          "172.253.62.27",
+          "2607:f8b0:4004:c07::1a"
         ]
       }
     ],

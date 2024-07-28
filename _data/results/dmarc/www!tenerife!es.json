@@ -36,11 +36,13 @@
     "record": "v=spf1 a mx  ip4:212.170.134.61/32 ip4:212.170.134.62/32 ip4:212.170.134.63/32 ip4:212.170.134.64/32 include:spf.protection.outlook.com ~all",
     "valid": true,
     "dns_lookups": 3,
-    "warnings": [
-      "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
-    ],
+    "warnings": [],
     "parsed": {
       "pass": [
+        {
+          "value": "212.170.134.107",
+          "mechanism": "a"
+        },
         {
           "value": "d330208.a.ess.de.barracudanetworks.com",
           "mechanism": "mx"
