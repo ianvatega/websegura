@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Fri, 19 Jul 2024 01:12:10 GMT",
+  "end_time": "Tue, 30 Jul 2024 00:13:54 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,11 +9,11 @@
     "Connection": "keep-alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Fri, 19 Jul 2024 01:12:07 GMT",
-    "Expires": "Fri, 19 Jul 2024 01:14:07 GMT",
+    "Date": "Tue, 30 Jul 2024 00:13:42 GMT",
+    "Expires": "Tue, 30 Jul 2024 00:15:42 GMT",
     "Pragma": "no-cache",
     "Server": "nginx",
-    "Set-Cookie": "JSESSIONID=3325DAA4F7254F5C9BD13F349A46D6CD; Path=/; HttpOnly, COOKIE_SUPPORT=true; Max-Age=31536000; Expires=Sat, 19-Jul-2025 01:12:06 GMT; Path=/; HttpOnly",
+    "Set-Cookie": "JSESSIONID=D96DED8976E967F064ADDC769E6D6B15; Path=/; HttpOnly, COOKIE_SUPPORT=true; Max-Age=31536000; Expires=Wed, 30-Jul-2025 00:13:41 GMT; Path=/; HttpOnly",
     "Transfer-Encoding": "chunked",
     "Vary": "Accept-Encoding",
     "X-Cached": "EXPIRED",
@@ -21,12 +21,12 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-XSS-Protection": "1"
   },
-  "scan_id": 53550982,
+  "scan_id": 53891345,
   "score": 5,
-  "start_time": "Fri, 19 Jul 2024 01:12:04 GMT",
+  "start_time": "Tue, 30 Jul 2024 00:13:38 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
-  "tests_passed": 6,
-  "tests_quantity": 11
+  "tests_passed": 5,
+  "tests_quantity": 10
 }

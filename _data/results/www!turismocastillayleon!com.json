@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Fri, 19 Jul 2024 01:11:58 GMT",
+  "end_time": "Tue, 30 Jul 2024 00:13:07 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -11,22 +11,22 @@
     "Connection": "Keep-Alive",
     "Content-Security-Policy": "frame-ancestors 'self' ",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Fri, 19 Jul 2024 01:11:55 GMT",
-    "ETag": "\"E0815AC0772673B75EA3A1D16A1400531721324327000\"",
-    "Keep-Alive": "timeout=15, max=9974",
+    "Date": "Tue, 30 Jul 2024 00:13:03 GMT",
+    "ETag": "\"E0815AC0772673B75EA3A1D16A1400531722293493000\"",
+    "Keep-Alive": "timeout=15, max=9958",
     "ProxiaInstanceId": "1830509807:0:21",
     "Server": "Apache",
-    "Set-Cookie": "PROXIASESSIONID=ano1721351515621-22118; Path=/; Secure; HttpOnly",
+    "Set-Cookie": "PROXIASESSIONID=ano1722298383768-9160; Path=/; Secure; HttpOnly",
     "Transfer-Encoding": "chunked",
     "X-Content-Type-Options": "nosniff",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 53550951,
+  "scan_id": 53891269,
   "score": 10,
-  "start_time": "Fri, 19 Jul 2024 01:11:53 GMT",
+  "start_time": "Tue, 30 Jul 2024 00:13:01 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 3,
-  "tests_passed": 8,
-  "tests_quantity": 11
+  "tests_passed": 7,
+  "tests_quantity": 10
 }

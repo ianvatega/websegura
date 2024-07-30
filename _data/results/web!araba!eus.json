@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Fri, 19 Jul 2024 01:12:13 GMT",
+  "end_time": "Tue, 30 Jul 2024 00:13:55 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,24 +9,24 @@
     "Connection": "keep-alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Fri, 19 Jul 2024 01:12:10 GMT",
+    "Date": "Tue, 30 Jul 2024 00:13:48 GMT",
     "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
     "Liferay-Portal": "Liferay Digital Experience Platform 7.1.10 GA1 (Judson / Build 7110 / July 2, 2018)",
     "P3P": "CP=\"{}\"",
     "Pragma": "no-cache",
-    "Set-Cookie": "GUEST_LANGUAGE_ID=eu_ES; path=/; domain=.araba.eus; secure; HttpOnly; Max-Age=31536000; Expires=Sat, 19-Jul-2025 01:12:10 GMT, TS01c56de9=01fa6fbb88077968b56d078c55a40f457ccfe3481a87e93c7a709cc3adfb317667c0c424477097a44685e451be1a0a419a1373623c; Path=/; Domain=.araba.eus, TS7a90e158027=083ce3f1d5ab2000b820a66aff975194f3257072f5b290cabe07c8cde715ae3cdd164267b5c330d6082dbcd0c2113000deb4b2f3da5365175b88537941679b8f36c58601f636e49dfd7bf9342392d109658682cd40a0e3c73f448f09b966d829;Path=/",
+    "Set-Cookie": "GUEST_LANGUAGE_ID=eu_ES; path=/; domain=.araba.eus; secure; HttpOnly; Max-Age=31536000; Expires=Wed, 30-Jul-2025 00:13:48 GMT, TS01c56de9=01fa6fbb889ee87cac999941968b5ebc9bca5cacd6c03e0fb4e417d445260612436fc7ac376ae6513bc74d7761082906e27de87131; Path=/; Domain=.araba.eus, TS7a90e158027=083ce3f1d5ab2000df090f6af3d3c85b623a7dcafdc03db457728b27949fafb094c97ffd517223f8082a7f61a81130003e970027ede8635ef2be8e677b2104482a6f120e9e8c735f32f1d259ccdcf869c90d9987b31cecf840d595f7df7d4ea0;Path=/",
     "Transfer-Encoding": "chunked",
     "Vary": "Accept-Encoding",
     "X-Content-Type-Options": "nosniff",
     "X-Frame-Options": "SAMEORIGIN",
     "X-XSS-Protection": "1"
   },
-  "scan_id": 53550988,
+  "scan_id": 53891356,
   "score": 15,
-  "start_time": "Fri, 19 Jul 2024 01:12:07 GMT",
+  "start_time": "Tue, 30 Jul 2024 00:13:44 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 3,
-  "tests_passed": 8,
-  "tests_quantity": 11
+  "tests_passed": 7,
+  "tests_quantity": 10
 }

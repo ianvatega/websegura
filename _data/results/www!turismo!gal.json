@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Fri, 19 Jul 2024 01:12:10 GMT",
+  "end_time": "Tue, 30 Jul 2024 00:13:39 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,22 +8,22 @@
     "Accept-Ranges": "none",
     "Connection": "Keep-Alive",
     "Content-Encoding": "gzip",
-    "Content-Length": "84340",
+    "Content-Length": "84988",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Fri, 19 Jul 2024 01:12:03 GMT",
+    "Date": "Tue, 30 Jul 2024 00:13:35 GMT",
     "Keep-Alive": "timeout=15, max=99",
     "Server": "Apache",
-    "Set-Cookie": "TSSESSIONID=1i3Ii84_u_0C59vd3r_R0OTpZqNdkwQhUUXGVZR0TxMlwUtZWt5Z!-660421258; path=/; HttpOnly;HttpOnly;Secure, GUEST_LANGUAGE_ID=en_US; expires=Sat, 19-Jul-2025 01:12:05 GMT; path=/; secure;HttpOnly;Secure, COOKIE_SUPPORT=true; expires=Sat, 19-Jul-2025 01:12:05 GMT; path=/; secure;HttpOnly;Secure, COOKIE_SUPPORT=true; expires=Sat, 19-Jul-2025 01:12:05 GMT; path=/; secure;HttpOnly;Secure, COOKIE_SUPPORT=true; expires=Sat, 19-Jul-2025 01:12:05 GMT; path=/; secure;HttpOnly;Secure, TGWS_ID=prd-weblogic-c03-0012.xunta.local; path=/; secure;HttpOnly;Secure, JSESSIONID=_6_Ii9C1BWKc6GYNwC7x7ZLrTcSWDhvkcpuwEx_cy22Gg96dXKRd!-660421258; path=/;HttpOnly;Secure",
+    "Set-Cookie": "TSSESSIONID=j0gA_DrAEKXZseMH3WHiMtjQPKKZkvDUeP3V6VzZjP6G6q5REIwz!41438350; path=/; HttpOnly;HttpOnly;Secure, GUEST_LANGUAGE_ID=en_US; expires=Wed, 30-Jul-2025 00:13:36 GMT; path=/; secure;HttpOnly;Secure, COOKIE_SUPPORT=true; expires=Wed, 30-Jul-2025 00:13:36 GMT; path=/; secure;HttpOnly;Secure, COOKIE_SUPPORT=true; expires=Wed, 30-Jul-2025 00:13:36 GMT; path=/; secure;HttpOnly;Secure, COOKIE_SUPPORT=true; expires=Wed, 30-Jul-2025 00:13:36 GMT; path=/; secure;HttpOnly;Secure, TGWS_ID=prd-weblogic-c03-0011.xunta.local; path=/; secure;HttpOnly;Secure, JSESSIONID=b3sA_Dw_cxEVtTAnAYTiMZ6L8hDda7ab9mnmFdeS5ODzQ0Dp_v_u!41438350; path=/;HttpOnly;Secure",
     "Vary": "Accept-Encoding,Origin",
     "X-UA-Compatible": "IE=edge",
     "portal_bc": "898778-"
   },
-  "scan_id": 53550977,
+  "scan_id": 53891336,
   "score": 0,
-  "start_time": "Fri, 19 Jul 2024 01:12:01 GMT",
+  "start_time": "Tue, 30 Jul 2024 00:13:32 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
-  "tests_passed": 5,
-  "tests_quantity": 11
+  "tests_passed": 4,
+  "tests_quantity": 10
 }
