@@ -1,21 +1,21 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sat, 20 Jul 2024 00:59:47 GMT",
+  "end_time": "Wed, 31 Jul 2024 00:51:34 GMT",
   "grade": "C",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Cache-Control": "private, max-age=0",
     "Content-Encoding": "gzip",
-    "Content-Length": "31932",
+    "Content-Length": "32047",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Sat, 20 Jul 2024 00:59:44 GMT",
-    "Expires": "Fri, 05 Jul 2024 00:59:43 GMT",
-    "Last-Modified": "Sat, 20 Jul 2024 00:59:43 GMT",
+    "Date": "Wed, 31 Jul 2024 00:51:30 GMT",
+    "Expires": "Tue, 16 Jul 2024 00:51:29 GMT",
+    "Last-Modified": "Wed, 31 Jul 2024 00:51:29 GMT",
     "MicrosoftSharePointTeamServices": "16.0.0.10396",
     "SPIisLatency": "0",
-    "SPRequestDuration": "1113",
-    "SPRequestGuid": "3bfd3da1-5a54-a0dd-2825-95b97cc227ec",
+    "SPRequestDuration": "1001",
+    "SPRequestGuid": "228741a1-5a1e-a0dd-2825-95e6fec28dd0",
     "Server": "Microsoft-IIS/10.0",
     "Vary": "Accept-Encoding",
     "X-AspNet-Version": "4.0.30319",
@@ -24,14 +24,14 @@
     "X-MS-InvokeApp": "1; RequireReadOnly",
     "X-Powered-By": "ASP.NET",
     "X-SharePointHealthScore": "0",
-    "request-id": "3bfd3da1-5a54-a0dd-2825-95b97cc227ec"
+    "request-id": "228741a1-5a1e-a0dd-2825-95e6fec28dd0"
   },
-  "scan_id": 53584582,
+  "scan_id": 53933980,
   "score": 50,
-  "start_time": "Sat, 20 Jul 2024 00:59:40 GMT",
+  "start_time": "Wed, 31 Jul 2024 00:51:26 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 3,
-  "tests_passed": 8,
-  "tests_quantity": 11
+  "tests_passed": 7,
+  "tests_quantity": 10
 }

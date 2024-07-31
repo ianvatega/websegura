@@ -1,17 +1,17 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sun, 21 Jul 2024 00:14:29 GMT",
+  "end_time": "Wed, 31 Jul 2024 00:10:51 GMT",
   "grade": "B-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Cache-Control": "private",
     "Content-Encoding": "gzip",
-    "Content-Length": "38222",
+    "Content-Length": "37230",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Sun, 21 Jul 2024 00:14:27 GMT",
+    "Date": "Wed, 31 Jul 2024 00:10:50 GMT",
     "Server": "Microsoft-IIS/10.0",
-    "Set-Cookie": "ASP.NET_SessionId=gilab2vwqc3nuw1ctoqo21sf; path=/; HttpOnly; SameSite=Lax",
+    "Set-Cookie": "ASP.NET_SessionId=aathwea5wiycva10asa5jpsq; path=/; HttpOnly; SameSite=Lax",
     "Strict-Transport-Security": "max-age=31536000",
     "Vary": "Accept-Encoding",
     "X-Content-Type-Options": "NOSNIFF",
@@ -19,12 +19,12 @@
     "X-Permitted-Cross-Domain-Policies": "master-only",
     "X-XSS-Protection": "0"
   },
-  "scan_id": 53612778,
+  "scan_id": 53932939,
   "score": 65,
-  "start_time": "Sun, 21 Jul 2024 00:14:26 GMT",
+  "start_time": "Wed, 31 Jul 2024 00:10:48 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 2,
-  "tests_passed": 9,
-  "tests_quantity": 11
+  "tests_passed": 8,
+  "tests_quantity": 10
 }

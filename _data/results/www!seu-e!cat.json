@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sat, 20 Jul 2024 00:12:44 GMT",
+  "end_time": "Wed, 31 Jul 2024 00:51:22 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,17 +8,17 @@
     "Cache-Control": "private",
     "Content-Length": "11978",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Sat, 20 Jul 2024 00:12:43 GMT",
+    "Date": "Wed, 31 Jul 2024 00:51:21 GMT",
     "Server": "Microsoft-IIS/10.0",
     "X-AspNet-Version": "4.0.30319",
     "X-Powered-By": "ASP.NET"
   },
-  "scan_id": 53582313,
+  "scan_id": 53933968,
   "score": 0,
-  "start_time": "Sat, 20 Jul 2024 00:12:40 GMT",
+  "start_time": "Wed, 31 Jul 2024 00:51:17 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 5,
-  "tests_passed": 6,
-  "tests_quantity": 11
+  "tests_failed": 6,
+  "tests_passed": 4,
+  "tests_quantity": 10
 }

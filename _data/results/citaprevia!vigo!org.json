@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sat, 20 Jul 2024 00:59:47 GMT",
+  "end_time": "Wed, 31 Jul 2024 00:51:34 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,19 +9,19 @@
     "Content-Encoding": "gzip",
     "Content-Language": "gl",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Sat, 20 Jul 2024 00:59:43 GMT",
+    "Date": "Wed, 31 Jul 2024 00:51:30 GMT",
     "Server": "nginx",
-    "Set-Cookie": "JSESSIONID=1B0C6FB2B689C483A78AB48ECD93541A; Path=/citaprevia; HttpOnly",
+    "Set-Cookie": "JSESSIONID=9ED4D020040C903C48F176C75B2E3965; Path=/citaprevia; HttpOnly",
     "Transfer-Encoding": "chunked",
     "X-Frame-Options": "SAMEORIGIN",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 53584583,
+  "scan_id": 53933982,
   "score": 10,
-  "start_time": "Sat, 20 Jul 2024 00:59:40 GMT",
+  "start_time": "Wed, 31 Jul 2024 00:51:27 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
-  "tests_passed": 7,
-  "tests_quantity": 11
+  "tests_passed": 6,
+  "tests_quantity": 10
 }

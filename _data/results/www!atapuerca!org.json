@@ -1,28 +1,28 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sun, 21 Jul 2024 00:14:38 GMT",
+  "end_time": "Wed, 31 Jul 2024 00:10:58 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Cache-Control": "private",
     "Content-Encoding": "gzip",
-    "Content-Length": "57373",
+    "Content-Length": "57326",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Sun, 21 Jul 2024 00:14:35 GMT",
+    "Date": "Wed, 31 Jul 2024 00:10:55 GMT",
     "Escrol": "F6",
     "Server": "Microsoft-IIS/10.0",
-    "Set-Cookie": "ASP.NET_SessionId=oxcuiil54rpayd14lxsvpw5g; path=/; HttpOnly; SameSite=Lax, atapuerca=grant=fHx8fHx8fEU1MkJBMjUxLTYyODYtNDI1NC1BQTM0LTFEMzQ2MDJERDUzMXx8fA==; expires=Tue, 20-Aug-2024 00:14:35 GMT; path=/; secure; SameSite=Lax, atapuerca=grant=fHx8fHx8fEU1MkJBMjUxLTYyODYtNDI1NC1BQTM0LTFEMzQ2MDJERDUzMXx8fA==; expires=Tue, 20-Aug-2024 00:14:35 GMT; path=/; secure; SameSite=Lax",
+    "Set-Cookie": "ASP.NET_SessionId=wh3dm1nnnv2j4pmmikzhob0v; path=/; HttpOnly; SameSite=Lax, atapuerca=grant=fHx8fHx8fEM4M0QyMTI0LTQ1RTAtNDQ3OC04NkRELTdDQ0VFQzM5NDNBM3x8fA==; expires=Fri, 30-Aug-2024 00:10:55 GMT; path=/; secure; SameSite=Lax, atapuerca=grant=fHx8fHx8fEM4M0QyMTI0LTQ1RTAtNDQ3OC04NkRELTdDQ0VFQzM5NDNBM3x8fA==; expires=Fri, 30-Aug-2024 00:10:55 GMT; path=/; secure; SameSite=Lax",
     "Vary": "Accept-Encoding",
     "X-AspNet-Version": "4.0.30319",
     "X-Powered-By": "ASP.NET"
   },
-  "scan_id": 53612797,
+  "scan_id": 53932955,
   "score": 0,
-  "start_time": "Sun, 21 Jul 2024 00:14:33 GMT",
+  "start_time": "Wed, 31 Jul 2024 00:10:53 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
-  "tests_passed": 5,
-  "tests_quantity": 11
+  "tests_passed": 4,
+  "tests_quantity": 10
 }

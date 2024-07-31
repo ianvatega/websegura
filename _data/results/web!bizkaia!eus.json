@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sun, 21 Jul 2024 01:05:44 GMT",
+  "end_time": "Wed, 31 Jul 2024 00:40:15 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,24 +9,24 @@
     "Connection": "Keep-Alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Sun, 21 Jul 2024 01:05:39 GMT",
+    "Date": "Wed, 31 Jul 2024 00:40:06 GMT",
     "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
     "Keep-Alive": "timeout=5, max=98",
     "Liferay-Portal": "Liferay Digital Experience Platform 7.2.10 GA1 (Mueller / Build 7210 / May 13, 2019)",
     "Pragma": "no-cache",
-    "Set-Cookie": "GUEST_LANGUAGE_ID=eu_ES; path=/; domain=.bizkaia.eus; HttpOnly; Max-Age=31536000; Expires=Mon, 21-Jul-2025 01:05:39 GMT, TS018bb47b=0147f0636e832deb8d461c1f79151631bd0539f2cf52ded88c07aaf9d20c9c737fc930438855b4e700e46d1a69908c92012d7a1ff4e87a05b8ced98abe815b8e811baf6f1e7a6221eb0cf824adab70f8f75acf46ad; Path=/, TS013fa2ab=0147f0636edcb89f7bdd741bf05264848a8867991652ded88c07aaf9d20c9c737fc930438855b4e700e46d1a69908c92012d7a1ff47170ed6609cc316a7a3086299ca784e6ae8027a22f2eaffcf30cee8dd010d286; path=/; domain=.bizkaia.eus, TS0e15b77e027=0816fc993aab20007120d189a38d7153dba2640b7ad8c2109cc36de28d31ee6efef8ff8b27cfc9ed0838b4f369113000589a07405d0c5104eb54d668ea31b72d48b362e208cd1d02b61975fd6a65fdec2f0be58a0f8bc2e2d00fd937395a1adc; Path=/",
+    "Set-Cookie": "GUEST_LANGUAGE_ID=eu_ES; path=/; domain=.bizkaia.eus; HttpOnly; Max-Age=31536000; Expires=Thu, 31-Jul-2025 00:40:06 GMT, TS018bb47b=0147f0636e7073694d9d9fad519e127267e1bce09c85c1f290bad0056664301fc9cd171f9b8562e17a855eba585e42c2e039fc9026319305c4d25ef03e95925c520300fefe6d686fd13bde2380f9c2c9155d4b2d18; Path=/, TS013fa2ab=0147f0636eb2a17371a6a01965973919073eaa1f3d85c1f290bad0056664301fc9cd171f9b8562e17a855eba585e42c2e039fc902664636b897fd66686a5379a2f5740096acaaa00d4490b924a55a4df7d4c7c91b1; path=/; domain=.bizkaia.eus, TS0e15b77e027=0816fc993aab20003dd3ce48640bb381a7b79a0fc294abca15fc3cbc3ad9f8f54fb5544fc7de428708f6096a0e1130001a91d592650e2c0d25a28a81c396081442288c122f7f0267bcff8076801d44f606e075f3572273fe96ce48cc301d06ac; Path=/",
     "Transfer-Encoding": "chunked",
     "Vary": "Accept-Encoding",
     "X-Content-Type-Options": "nosniff",
     "X-Frame-Options": "SAMEORIGIN",
     "X-XSS-Protection": "1"
   },
-  "scan_id": 53614016,
+  "scan_id": 53933600,
   "score": 10,
-  "start_time": "Sun, 21 Jul 2024 01:05:36 GMT",
+  "start_time": "Wed, 31 Jul 2024 00:40:02 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
-  "tests_passed": 7,
-  "tests_quantity": 11
+  "tests_passed": 6,
+  "tests_quantity": 10
 }
