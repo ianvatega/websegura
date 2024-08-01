@@ -1,15 +1,15 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sun, 21 Jul 2024 01:06:15 GMT",
+  "end_time": "Thu, 01 Aug 2024 01:07:14 GMT",
   "grade": "D-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "Keep-Alive",
     "Content-Encoding": "gzip",
-    "Content-Length": "10930",
+    "Content-Length": "10920",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Sun, 21 Jul 2024 01:06:09 GMT",
+    "Date": "Thu, 01 Aug 2024 01:07:08 GMT",
     "Keep-Alive": "timeout=5, max=98",
     "Link": "<https://www.cabildofuer.es/cabildo/>; rel=shortlink",
     "Server": "Apache/2.4.7 (Ubuntu)",
@@ -17,12 +17,12 @@
     "X-Pingback": "https://www.cabildofuer.es/cabildo/xmlrpc.php",
     "X-Powered-By": "PHP/5.5.9-1ubuntu4.29"
   },
-  "scan_id": 53614111,
+  "scan_id": 53975253,
   "score": 25,
-  "start_time": "Sun, 21 Jul 2024 01:06:07 GMT",
+  "start_time": "Thu, 01 Aug 2024 01:07:06 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
-  "tests_passed": 6,
-  "tests_quantity": 11
+  "tests_passed": 5,
+  "tests_quantity": 10
 }

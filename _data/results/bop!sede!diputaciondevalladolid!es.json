@@ -1,29 +1,29 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sun, 21 Jul 2024 01:06:32 GMT",
+  "end_time": "Thu, 01 Aug 2024 01:07:29 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "Keep-Alive",
     "Content-Encoding": "gzip",
-    "Content-Length": "46732",
+    "Content-Length": "46690",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Sun, 21 Jul 2024 01:06:29 GMT",
+    "Date": "Thu, 01 Aug 2024 01:07:24 GMT",
     "Keep-Alive": "timeout=5, max=100",
     "Liferay-Portal": "Liferay Portal Community Edition 6.2 CE GA3 (Newton / Build 6202 / January 15, 2015)",
     "Server": "Apache-Coyote/1.1",
-    "Set-Cookie": "JSESSIONID=9649993A0E64377A54CAB5A796E7855E; Path=/; Secure; HttpOnly, COOKIE_SUPPORT=true; Expires=Thu, 05-Mar-2071 03:48:37 GMT; Path=/; Secure; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Thu, 05-Mar-2071 03:48:37 GMT; Path=/; Secure; HttpOnly, COOKIE_SUPPORT=true; Expires=Thu, 05-Mar-2071 03:48:37 GMT; Path=/; Secure; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Thu, 05-Mar-2071 03:48:37 GMT; Path=/; Secure; HttpOnly, cookiesession1=678A3E2625D27E43FDF8D5157A093449;Expires=Mon, 21 Jul 2025 01:06:29 GMT;Path=/;HttpOnly",
+    "Set-Cookie": "JSESSIONID=A2E7BCCDCBC164322801298787299332; Path=/; Secure; HttpOnly, COOKIE_SUPPORT=true; Expires=Mon, 16-Mar-2071 03:49:31 GMT; Path=/; Secure; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Mon, 16-Mar-2071 03:49:31 GMT; Path=/; Secure; HttpOnly, COOKIE_SUPPORT=true; Expires=Mon, 16-Mar-2071 03:49:32 GMT; Path=/; Secure; HttpOnly, GUEST_LANGUAGE_ID=es_ES; Expires=Mon, 16-Mar-2071 03:49:32 GMT; Path=/; Secure; HttpOnly, cookiesession1=678A3E2667E5F77095F52E348907B059;Expires=Fri, 01 Aug 2025 01:07:25 GMT;Path=/;HttpOnly",
     "X-Content-Type-Options": "nosniff",
     "X-Frame-Options": "SAMEORIGIN",
     "X-XSS-Protection": "1"
   },
-  "scan_id": 53614168,
+  "scan_id": 53975305,
   "score": 0,
-  "start_time": "Sun, 21 Jul 2024 01:06:28 GMT",
+  "start_time": "Thu, 01 Aug 2024 01:07:23 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
-  "tests_passed": 6,
-  "tests_quantity": 11
+  "tests_passed": 5,
+  "tests_quantity": 10
 }

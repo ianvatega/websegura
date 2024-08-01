@@ -1,27 +1,27 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sun, 21 Jul 2024 01:05:26 GMT",
+  "end_time": "Thu, 01 Aug 2024 01:06:37 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Cache-Control": "private",
-    "Content-Length": "64245",
+    "Content-Length": "64590",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Sun, 21 Jul 2024 01:05:23 GMT",
+    "Date": "Thu, 01 Aug 2024 01:06:33 GMT",
     "Server": "Microsoft-IIS/10.0",
-    "Set-Cookie": ".ASPXANONYMOUS=TgOTa91cyUIOiDOq4kSp8Fp3caPGQyOEHoudAYCaDWNuR59yyrh3IDBTRGrHTTPaH_NmzcbQpo_qcqa0wb0u-QoHCFIn_mVU6DCmKfOH4wjeW_OOn3QblIFur-nsxcxTQLoWlHEqo88-Tn0KYRqgJw2; expires=Sat, 28-Sep-2024 11:45:23 GMT; path=/; HttpOnly, ASP.NET_SessionId=dkycastno53znb0lze3ry30v; path=/; HttpOnly; SameSite=Lax, lang=ca; expires=Mon, 21-Jul-2025 01:05:23 GMT; path=/, .ASPXAUTH=EC6CD4CFE2B4001CF6A0DD4040FED6DB3603188695982C4B7E006CF69F23E86044D0ABFD2A6673D182B3003B29E5FFE5744020697DC5D63EA8083598E7246B0AD35D240469E060F1E9C635187EFEFC035D5D8075932E332409CF30B34DF1C5DD; path=/; HttpOnly; SameSite=Lax, carteroModal=cerrar; path=/, Cookies=true; expires=Mon, 22-Jul-2024 01:05:23 GMT; path=/",
+    "Set-Cookie": ".ASPXANONYMOUS=JrsVhGWKzHNa-Dru-OAtHSXuUPcgVFohz3qU0ih1AoZQMvtYJc2SVxigqnXeUnjgQ6SOOvN7YoMEq9T2uK3Ah-2xQHeAsCwgsOFGer5xVEevCcROqd2yFjUAq7t0G9CiiLTjR5MYy0YI8NX4UkIroQ2; expires=Wed, 09-Oct-2024 11:46:34 GMT; path=/; HttpOnly, ASP.NET_SessionId=vd44j0zgb1nhj4p31o2gbmkv; path=/; HttpOnly; SameSite=Lax, lang=ca; expires=Fri, 01-Aug-2025 01:06:34 GMT; path=/, .ASPXAUTH=90100D49C580F27006B41FFA35841D6607002804AF0178E32DC2586ED3D9BE5505A647CBD0C22DF06291B1AEBE2484D35497292EBA440EBC80AA05428206D2D76E8F0F91DAB61ED6CB2BE8F3A84CA0589CF5424B935E6FDFA71DC883B33D1368; path=/; HttpOnly; SameSite=Lax, carteroModal=cerrar; path=/, Cookies=true; expires=Fri, 02-Aug-2024 01:06:34 GMT; path=/",
     "Strict-Transport-Security": "max-age=31536000",
     "X-AspNet-Version": "4.0.30319",
     "X-Powered-By": "ASP.NET",
     "X-Xss-Protection": "1"
   },
-  "scan_id": 53613952,
+  "scan_id": 53975185,
   "score": 20,
-  "start_time": "Sun, 21 Jul 2024 01:05:21 GMT",
+  "start_time": "Thu, 01 Aug 2024 01:06:32 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
-  "tests_passed": 6,
-  "tests_quantity": 11
+  "tests_passed": 5,
+  "tests_quantity": 10
 }

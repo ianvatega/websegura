@@ -1,27 +1,27 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sun, 21 Jul 2024 01:06:23 GMT",
+  "end_time": "Thu, 01 Aug 2024 01:07:13 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Cache-Control": "public, max-age=0",
     "Connection": "Keep-Alive",
-    "Content-Length": "34718",
+    "Content-Length": "33796",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Sun, 21 Jul 2024 01:06:07 GMT",
+    "Date": "Thu, 01 Aug 2024 01:07:02 GMT",
     "Keep-Alive": "timeout=5, max=99",
-    "Last-Modified": "Sun, 21 Jul 2024 01:06:20 GMT",
+    "Last-Modified": "Thu, 01 Aug 2024 01:07:10 GMT",
     "Server": "OpenCms/9.5.1",
-    "Set-Cookie": "JSESSIONID=9Xlgg6n5FCwoU-1U1juYGvYz; Path=/opencms; Secure, sede.locale=es; Expires=Fri, 08-Aug-2092 04:20:27 GMT",
+    "Set-Cookie": "JSESSIONID=tvNBEPe9lLOPjB9F0WMzW3o1; Path=/opencms; Secure, sede.locale=es; Expires=Tue, 19-Aug-2092 04:21:17 GMT",
     "X-Powered-By": "JSP/2.2, JSP/2.2, JSP/2.2, JSP/2.2, JSP/2.2, JSP/2.2, JSP/2.2, JSP/2.2, JSP/2.2, JSP/2.2, JSP/2.2"
   },
-  "scan_id": 53614083,
+  "scan_id": 53975224,
   "score": 0,
-  "start_time": "Sun, 21 Jul 2024 01:05:55 GMT",
+  "start_time": "Thu, 01 Aug 2024 01:06:51 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
-  "tests_passed": 6,
-  "tests_quantity": 11
+  "tests_passed": 5,
+  "tests_quantity": 10
 }

@@ -1,27 +1,27 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sun, 21 Jul 2024 01:06:21 GMT",
+  "end_time": "Thu, 01 Aug 2024 01:07:18 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Cache-Control": "private, must-revalidate",
     "Connection": "keep-alive",
-    "Content-Length": "369983",
+    "Content-Length": "368593",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Sun, 21 Jul 2024 01:06:19 GMT",
+    "Date": "Thu, 01 Aug 2024 01:07:15 GMT",
     "Server": "nginx",
-    "Set-Cookie": "XSRF-TOKEN=eyJpdiI6ImpZb3NkMFZMekdFRHdKWFhmMjNCSXc9PSIsInZhbHVlIjoid3IyeUkxQjBud2JPRitSTWN0b3NoUzJmMVwvOFV2XC9tK2szdHJ4ZDd1K29vcFwvaGVtdmt4YlVCRXFodGxwY1FhWiIsIm1hYyI6IjQzMmE5NzUwMjE5MjcxYzVjNzgxODhlMWEyOGM1MGM0NjM5ZTZmYTM5OWFjODQ2ZGE1MGExOGI3YTQyODM1NWUifQ%3D%3D; expires=Sun, 21-Jul-2024 03:06:19 GMT; Max-Age=7200; path=/, xornal_vigo_session=eyJpdiI6IkhtOE0yWFUrMHV4RDRTSndSNWFHa2c9PSIsInZhbHVlIjoiYk1qWVwvN0xNSDdKT1wvTWxsVXl2RFBqRTB4MmVZeFREcVVPSGlsODRTQno4M3JJYXlLRVJsclA0WkdINTdsTDZIIiwibWFjIjoiMzNhNDRmMWQ0ZmI4N2Q5M2U5ZTU3MTVkZDUxMDJiMGM1ZTg2M2JlYjAxODc3NDczMzcyOTUzNzkxMTU5OTZkYyJ9; expires=Sun, 21-Jul-2024 03:06:19 GMT; Max-Age=7200; path=/; httponly",
+    "Set-Cookie": "XSRF-TOKEN=eyJpdiI6IkZOQzZ3NzVjQlJwRGF4cjZVVmd5Wmc9PSIsInZhbHVlIjoiNGU4TStITEI5a3EzamdJV1gzc0YwVkNudWliUW04U0ExbHd5QTdVcHIzc1NLSGZ4TjJIeHR6WXBTaXlseVo1dSIsIm1hYyI6IjczNmU3NTc1NjRlNWZiNGYwYzRmNTBkZThkNzQ2NjJmNzkzNDk2MjAxNmU0ZjkxZjRmMjM3YTMwZWMwNjkzMWYifQ%3D%3D; expires=Thu, 01-Aug-2024 03:07:15 GMT; Max-Age=7200; path=/, xornal_vigo_session=eyJpdiI6IkJGbTZiSjlPamt5SUZLRUFUbk8ya3c9PSIsInZhbHVlIjoiN1FRWGJQQ3VtQ0FObUp5RXRFazF6ZzVkaXVTZnE1UFl5emlwOVhIeGpuU2RLMjV3Z21LdG1TdVVONVE1Q1FocyIsIm1hYyI6ImE0NThhZDI2YTllMzhhODQ2MDc3YmU3ZTEwYjQwNjUzNzZkZDViMzBhZjg1OTkzMTkyNDRjZGY5YTI2YzczMDcifQ%3D%3D; expires=Thu, 01-Aug-2024 03:07:15 GMT; Max-Age=7200; path=/; httponly",
     "X-Powered-By": "PHP/7.3.33, PleskLin",
     "expires": "-1",
     "pragma": "no-cache"
   },
-  "scan_id": 53614139,
+  "scan_id": 53975276,
   "score": 0,
-  "start_time": "Sun, 21 Jul 2024 01:06:16 GMT",
+  "start_time": "Thu, 01 Aug 2024 01:07:13 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
-  "tests_passed": 5,
-  "tests_quantity": 11
+  "tests_passed": 4,
+  "tests_quantity": 10
 }

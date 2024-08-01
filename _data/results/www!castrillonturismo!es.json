@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sun, 21 Jul 2024 01:05:31 GMT",
+  "end_time": "Thu, 01 Aug 2024 00:14:52 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,19 +8,19 @@
     "Connection": "keep-alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Sun, 21 Jul 2024 01:05:24 GMT",
+    "Date": "Thu, 01 Aug 2024 00:14:46 GMT",
     "Link": "<https://www.castrillonturismo.es/castrillon/wp-json/>; rel=\"https://api.w.org/\", <https://www.castrillonturismo.es/castrillon/wp-json/wp/v2/pages/9>; rel=\"alternate\"; type=\"application/json\", <https://www.castrillonturismo.es/castrillon/>; rel=shortlink",
     "Referrer-Policy": "no-referrer-when-downgrade",
     "Server": "nginx/1.18.0 (Ubuntu)",
     "Transfer-Encoding": "chunked",
     "Vary": "Accept-Encoding"
   },
-  "scan_id": 53613947,
+  "scan_id": 53974066,
   "score": 0,
-  "start_time": "Sun, 21 Jul 2024 01:05:21 GMT",
+  "start_time": "Thu, 01 Aug 2024 00:14:41 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
-  "tests_passed": 6,
-  "tests_quantity": 11
+  "tests_passed": 5,
+  "tests_quantity": 10
 }

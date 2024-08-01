@@ -1,25 +1,25 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sun, 21 Jul 2024 01:06:07 GMT",
+  "end_time": "Thu, 01 Aug 2024 00:14:44 GMT",
   "grade": "D-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "Keep-Alive",
     "Content-Encoding": "gzip",
-    "Content-Length": "2908",
+    "Content-Length": "2861",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Sun, 21 Jul 2024 01:06:06 GMT",
+    "Date": "Thu, 01 Aug 2024 00:14:43 GMT",
     "Keep-Alive": "timeout=5, max=99",
     "Server": "Apache/2.4.18",
     "Vary": "Accept-Encoding"
   },
-  "scan_id": 53614100,
+  "scan_id": 53974062,
   "score": 25,
-  "start_time": "Sun, 21 Jul 2024 01:06:03 GMT",
+  "start_time": "Thu, 01 Aug 2024 00:14:41 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
-  "tests_passed": 6,
-  "tests_quantity": 11
+  "tests_passed": 5,
+  "tests_quantity": 10
 }

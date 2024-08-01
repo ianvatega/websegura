@@ -1,28 +1,28 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sun, 21 Jul 2024 01:06:01 GMT",
+  "end_time": "Thu, 01 Aug 2024 01:06:58 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Cache-control": "no-cache, no-store, must-revalidate, max-age=0",
     "Content-encoding": "gzip",
-    "Content-length": "16052",
+    "Content-length": "16155",
     "Content-type": "text/html;charset=UTF-8",
-    "Date": "Sun, 21 Jul 2024 01:05:56 GMT",
+    "Date": "Thu, 01 Aug 2024 01:06:53 GMT",
     "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
-    "Last-modified": "Sun, 21 Jul 2024 00:59:17 GMT",
+    "Last-modified": "Thu, 01 Aug 2024 01:06:51 GMT",
     "Pragma": "no-cache",
-    "Set-cookie": "JSESSIONID=E4D678F1184E269C44B75BFA94BE27D6.prointerb; Path=/; Secure; HttpOnly, TS0181b561=01b9fcf5f808414f5fafc8077f7fcec96dd5a38f733603d7bc994df0af5d37c583e1c8ecf10db3217fa1ae93d387f3edf70970a88c6e5c3f7f651463abf4c617f8c4e139e6; Path=/; Domain=.www.sepe.es",
+    "Set-cookie": "JSESSIONID=00EC9C1853CC572754E57943C7F5751B.prointerb; Path=/; Secure; HttpOnly, TS0181b561=01b9fcf5f8a8ff1909e4a4b697cb61a03a6b3ffd6d1f0f6e7481ae64c2142327b6cfc68cbaad5403a659461b622a533686f355d65b15b9add26299c5b5f4131f4134309285; Path=/; Domain=.www.sepe.es",
     "Vary": "Accept-Encoding",
     "X-magnolia-registration": "Registered"
   },
-  "scan_id": 53614077,
+  "scan_id": 53975222,
   "score": 5,
-  "start_time": "Sun, 21 Jul 2024 01:05:54 GMT",
+  "start_time": "Thu, 01 Aug 2024 01:06:50 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
-  "tests_passed": 5,
-  "tests_quantity": 11
+  "tests_passed": 4,
+  "tests_quantity": 10
 }

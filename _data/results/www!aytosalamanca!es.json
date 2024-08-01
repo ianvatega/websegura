@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sun, 21 Jul 2024 01:05:57 GMT",
+  "end_time": "Thu, 01 Aug 2024 01:06:54 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,20 +8,20 @@
     "Accept-Ranges": "bytes",
     "Cache-Control": "max-age=600, must-revalidate",
     "Connection": "Keep-Alive",
-    "Content-Length": "257612",
+    "Content-Length": "257622",
     "Content-Type": "text/html",
-    "Date": "Sun, 21 Jul 2024 01:05:53 GMT",
-    "ETag": "\"3ee4c-61850b3028100\"",
+    "Date": "Thu, 01 Aug 2024 01:06:50 GMT",
+    "ETag": "\"3ee56-61e851bd9b4c0\"",
     "Keep-Alive": "timeout=5, max=100",
-    "Last-Modified": "Mon, 13 May 2024 07:19:00 GMT",
+    "Last-Modified": "Wed, 31 Jul 2024 06:21:47 GMT",
     "Server": "Apache/2.4.43 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.46"
   },
-  "scan_id": 53614054,
+  "scan_id": 53975217,
   "score": 5,
-  "start_time": "Sun, 21 Jul 2024 01:05:52 GMT",
+  "start_time": "Thu, 01 Aug 2024 01:06:49 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
-  "tests_passed": 5,
-  "tests_quantity": 11
+  "tests_passed": 4,
+  "tests_quantity": 10
 }

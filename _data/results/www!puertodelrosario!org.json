@@ -1,29 +1,29 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sun, 21 Jul 2024 01:06:15 GMT",
+  "end_time": "Thu, 01 Aug 2024 01:07:16 GMT",
   "grade": "D",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Accept-Ranges": "bytes",
-    "Age": "2622",
+    "Age": "8110",
     "Connection": "keep-alive",
     "Content-Encoding": "gzip",
-    "Content-Length": "38141",
+    "Content-Length": "38640",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Sun, 21 Jul 2024 01:06:09 GMT",
+    "Date": "Thu, 01 Aug 2024 01:07:09 GMT",
     "Server": "HTTPd",
     "Vary": "Accept-Encoding",
     "X-TEC-API-ORIGIN": "https://www.puertodelrosario.org",
     "X-TEC-API-ROOT": "https://www.puertodelrosario.org/wp-json/tribe/events/v1/",
     "X-TEC-API-VERSION": "v1"
   },
-  "scan_id": 53614112,
+  "scan_id": 53975256,
   "score": 30,
-  "start_time": "Sun, 21 Jul 2024 01:06:07 GMT",
+  "start_time": "Thu, 01 Aug 2024 01:07:07 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
-  "tests_passed": 7,
-  "tests_quantity": 11
+  "tests_passed": 6,
+  "tests_quantity": 10
 }

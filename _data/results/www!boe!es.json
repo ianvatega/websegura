@@ -1,26 +1,26 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sun, 21 Jul 2024 01:06:19 GMT",
+  "end_time": "Thu, 01 Aug 2024 01:07:15 GMT",
   "grade": "D",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Accept-Ranges": "bytes",
-    "Age": "71",
+    "Age": "100",
     "Content-Length": "22845",
     "Content-Security-Policy": "default-src afirma://* ; script-src 'unsafe-inline' 'unsafe-eval' 'self' https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/ ; frame-src 'self' https://www.google.com/recaptcha/ https://recaptcha.google.com/recaptcha/  afirma://* ; connect-src 'self' ; img-src 'self' eur-lex.europa.eu data: ; style-src 'unsafe-inline' 'self' *.boe.es ; font-src 'self' ; child-src 'self'  www.youtube.com afirma://* ; object-src 'self' ; media-src 'self'",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Sun, 21 Jul 2024 01:05:07 GMT",
+    "Date": "Thu, 01 Aug 2024 01:05:34 GMT",
     "Server": "Apache",
     "Via": "1.1 cachem1 (Varnish/7.2)",
-    "X-Varnish": "160701115 157846767"
+    "X-Varnish": "1006934351 995444885"
   },
-  "scan_id": 53614140,
+  "scan_id": 53975277,
   "score": 35,
-  "start_time": "Sun, 21 Jul 2024 01:06:16 GMT",
+  "start_time": "Thu, 01 Aug 2024 01:07:13 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
-  "tests_passed": 7,
-  "tests_quantity": 11
+  "tests_passed": 6,
+  "tests_quantity": 10
 }

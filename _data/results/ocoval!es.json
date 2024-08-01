@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sun, 21 Jul 2024 01:06:25 GMT",
+  "end_time": "Thu, 01 Aug 2024 01:07:19 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,20 +10,20 @@
     "Content-Encoding": "gzip",
     "Content-Length": "8229",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Sun, 21 Jul 2024 01:06:24 GMT",
+    "Date": "Thu, 01 Aug 2024 01:07:18 GMT",
     "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
     "Pragma": "no-cache",
     "Server": "nginx",
-    "Set-Cookie": "PHPSESSID=gtm76hhv339vbne93bm72ume1l; path=/",
+    "Set-Cookie": "PHPSESSID=7uen34jvltoqjmplh2sqttka7n; path=/",
     "Vary": "Accept-Encoding",
     "X-Powered-By": "PHP/7.2.34, PleskLin"
   },
-  "scan_id": 53614155,
+  "scan_id": 53975291,
   "score": 0,
-  "start_time": "Sun, 21 Jul 2024 01:06:22 GMT",
+  "start_time": "Thu, 01 Aug 2024 01:07:17 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
-  "tests_passed": 6,
-  "tests_quantity": 11
+  "tests_passed": 5,
+  "tests_quantity": 10
 }
