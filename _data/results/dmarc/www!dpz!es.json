@@ -15,10 +15,10 @@
         "preference": 10,
         "hostname": "dpz-es.mail.protection.outlook.com",
         "addresses": [
-          "52.101.68.0",
-          "52.101.68.18",
-          "52.101.68.27",
-          "52.101.73.28"
+          "52.101.68.10",
+          "52.101.68.25",
+          "52.101.68.36",
+          "52.101.73.6"
         ]
       }
     ],
@@ -48,19 +48,19 @@
           "mechanism": "ip4"
         },
         {
-          "value": "52.84.18.110",
+          "value": "18.67.76.119",
           "mechanism": "a"
         },
         {
-          "value": "52.84.18.124",
+          "value": "18.67.76.34",
           "mechanism": "a"
         },
         {
-          "value": "52.84.18.29",
+          "value": "18.67.76.45",
           "mechanism": "a"
         },
         {
-          "value": "52.84.18.55",
+          "value": "18.67.76.60",
           "mechanism": "a"
         }
       ],
@@ -131,9 +131,7 @@
     "record": "v=DMARC1; p=quarantine; rua=mailto:admin@dpz.es; ruf=mailto:admin@dpz.es; sp=quarantine",
     "valid": true,
     "location": "dpz.es",
-    "warnings": [
-      "Failed to retrieve MX records for the domain of ruf email address admin@dpz.es - The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
-    ],
+    "warnings": [],
     "tags": {
       "v": {
         "value": "DMARC1",
@@ -154,7 +152,13 @@
         "explicit": true
       },
       "ruf": {
-        "value": "mailto:admin@dpz.es",
+        "value": [
+          {
+            "scheme": "mailto",
+            "address": "admin@dpz.es",
+            "size_limit": null
+          }
+        ],
         "explicit": true
       },
       "sp": {

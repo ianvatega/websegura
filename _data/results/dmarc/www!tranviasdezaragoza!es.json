@@ -3,8 +3,13 @@
   "base_domain": "tranviasdezaragoza.es",
   "dnssec": false,
   "ns": {
-    "hostnames": [],
-    "error": "The resolution lifetime expired after 3.100 seconds: Server Do53:1.0.0.1@53 answered The DNS operation timed out."
+    "hostnames": [
+      "trole.lostranviasdezaragoza.es",
+      "pl2.solunet.es",
+      "via1.tranviasdezaragoza.es",
+      "pl3.solunet.es"
+    ],
+    "warnings": []
   },
   "mx": {
     "hosts": [
@@ -16,10 +21,7 @@
         ]
       }
     ],
-    "warnings": [
-      "The resolution lifetime expired after 2.100 seconds: Server Do53:127.0.0.53@53 answered The DNS operation timed out.",
-      "The reverse DNS of 5.56.164.38 is via1.tranviasdezaragoza.es, but the A/AAAA DNS records for via1.tranviasdezaragoza.es do not resolve to 5.56.164.38"
-    ]
+    "warnings": []
   },
   "spf": {
     "record": "v=spf1 +a +mx +a:via1.tranviasdezaragoza.es -all",
