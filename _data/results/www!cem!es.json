@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Thu, 01 Aug 2024 01:08:26 GMT",
+  "end_time": "Sun, 04 Aug 2024 01:07:30 GMT",
   "grade": "C-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -24,9 +24,9 @@
     "X-Powered-By": "PHP/8.1.29",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 53975415,
+  "scan_id": 54080157,
   "score": 45,
-  "start_time": "Thu, 01 Aug 2024 01:08:14 GMT",
+  "start_time": "Sun, 04 Aug 2024 01:07:05 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 4,
