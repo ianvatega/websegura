@@ -1,6 +1,6 @@
 {
   "algorithm_version": 3,
-  "end_time": "Sat, 03 Aug 2024 00:13:03 GMT",
+  "end_time": "Mon, 05 Aug 2024 01:04:24 GMT",
   "grade": "D-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -11,7 +11,7 @@
     "Content-Encoding": "gzip",
     "Content-Length": "34223",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Sat, 03 Aug 2024 00:12:57 GMT",
+    "Date": "Mon, 05 Aug 2024 01:04:16 GMT",
     "ETag": "\"85af-61e2187e0e375\"",
     "Keep-Alive": "timeout=4, max=350",
     "Last-Modified": "Fri, 26 Jul 2024 07:33:42 GMT",
@@ -21,9 +21,9 @@
     "Upgrade": "h2",
     "Vary": "Accept-Encoding"
   },
-  "scan_id": 54047790,
+  "scan_id": 54111401,
   "score": 25,
-  "start_time": "Sat, 03 Aug 2024 00:12:55 GMT",
+  "start_time": "Mon, 05 Aug 2024 01:04:12 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
