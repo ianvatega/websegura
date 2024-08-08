@@ -1,19 +1,19 @@
 {
   "algorithm_version": 3,
-  "end_time": "Mon, 05 Aug 2024 01:04:18 GMT",
+  "end_time": "Thu, 08 Aug 2024 01:02:27 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "close",
     "Content-Type": "text/html; charset=ISO-8859-1",
-    "Date": "Mon, 05 Aug 2024 01:04:17 GMT",
+    "Date": "Thu, 08 Aug 2024 01:02:24 GMT",
     "Server": "Apache",
     "Transfer-Encoding": "chunked"
   },
-  "scan_id": 54111409,
+  "scan_id": 54227487,
   "score": 0,
-  "start_time": "Mon, 05 Aug 2024 01:04:17 GMT",
+  "start_time": "Thu, 08 Aug 2024 01:02:24 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
